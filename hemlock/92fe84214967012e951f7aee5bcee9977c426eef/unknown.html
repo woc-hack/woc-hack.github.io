@@ -1,4046 +1,4046 @@
 <h1>blob = d1f1d81253f45f8e02e314f654a3abd888d1506e</h1>
 <h1>blob = 2ea89b1d63aaac8943db9223f11f454110766125</h1>
 commit = 007208323578e1169c0cf9a82a4c30a30f0444f8<br />
-head_commit = fd58232d41e1e3ab13ade5feb2ab802af3ba0852 <br />
+head_commit = fd58232d41e1e3ab13ade5feb2ab802af3ba0852 (2017-04-21:22:05:00)<br />
 path = sys/net/network_layer/ipv6/addr/ipv6_addr_from_str.c<br />
-project = laparmakerli_riot-upstream<br />
+project = <a href="https://github.com/laparmakerli/riot-upstream">github.com/laparmakerli/riot-upstream</a><br />
 <br />
 commit = 0ae860d06603abb6af34032a7139e82ec7bd0dbb<br />
-head_commit = cf9893001c75284b09c152af9c70d7dddeff7461 <br />
+head_commit = cf9893001c75284b09c152af9c70d7dddeff7461 (2016-02-26:11:35:10)<br />
 path = sys/net/network_layer/ipv6/addr/ipv6_addr_from_str.c<br />
-project = 1974vyacheslav_RIOT<br />
-project = 296791897_RIOT<br />
-project = 314942468GitHub_RIOT<br />
-project = 5G-I3_RIOT-1<br />
-project = 5G-I3_RIOT-public<br />
-project = 6lowpaniold_RIOT<br />
-project = A-Paul_RIOT<br />
-project = ANRGUSC_RIOT<br />
-project = ANRGUSC_RIOT-EE250<br />
-project = ANRGUSC_iris-riot<br />
-project = AVykhovanets_RIOT<br />
-project = AaltoNEPPI_RIOT<br />
-project = Aang-3_RIOT<br />
-project = Aang23_RIOT<br />
-project = Aber-Lijingshu_RIOT<br />
-project = AcmeSystemsProjects_RIOT<br />
-project = AdamRLukaitis_RIOT<br />
-project = AdrianGuo_RIOT<br />
-project = Agile-IoT_RIOT<br />
-project = AlexShiLucky_RIOT<br />
-project = AlexandrSalin_RIOT<br />
-project = Alexmingzhi_RIOT<br />
-project = Allanceng_RIOT<br />
-project = AltairResearch_RIOT<br />
-project = Ameya22_RIOT<br />
-project = Amr221B_RIOT<br />
-project = An-Andrew-Pham_RIOT-EE250<br />
-project = AnaK89_RIOT<br />
-project = Angela-W_RIOT<br />
-project = Ankita-Jaiswal_RIOT<br />
-project = AnonMall_RIOT<br />
-project = AppleInside_RIOT<br />
-project = ArulPrasathK_RIOT<br />
-project = AshishkrMishra_RIOT<br />
-project = AskhatBaymukhamedov_RIOT<br />
-project = Avinash95_RIOT<br />
-project = Axellant_RIOT<br />
-project = BOBRAPHTONE_RIOT<br />
-project = BTSGuyaderBenjamin_RIOT<br />
-project = Bagginsa_RIOT<br />
-project = BamStap_RIOT<br />
-project = Barrymuch_RIOT<br />
-project = BenG2121_RIOT<br />
-project = BigGarik_RIOT<br />
-project = Bila24_RIOT<br />
-project = Bizordec_RIOT<br />
-project = Bob-the-Kuhn_RIOT<br />
-project = Bogatik_RIOT<br />
-project = Burdaa_RIOT<br />
-project = BurtonQin_RIOT<br />
-project = BytesGalore_RIOT<br />
-project = CLPopescu-1999-02_RIOT<br />
-project = Cakhavan_RIOT-EE250<br />
-project = CaptSkull_RIOT<br />
-project = Carton32_RIOT<br />
-project = Circuit-killer_RIOT<br />
-project = Citrullin_RIOT<br />
-project = ClarePhang_RIOT<br />
-project = CommoDor64_RIOT<br />
-project = Conservify_RIOT<br />
-project = Cr0s_RIOT<br />
-project = CreatorKit_RIOT-Mips<br />
-project = Cross4000_RIOT<br />
-project = CrutzPan_RIOT<br />
-project = DZeyfert_RIOT<br />
-project = DamboDD_RIOT<br />
-project = DapengLan_RIOT<br />
-project = Darredevil_RIOT<br />
-project = Deniz66_RIOT<br />
-project = Derwaan_RIOT<br />
-project = DipSwitch_RIOT<br />
-project = DmitryDostovalov_RIOT<br />
-project = Dreyfriz_RIOT<br />
-project = DuyTrandeLion_RIOT<br />
-project = Ell-i_RIOT<br />
-project = Elter71_RIOT<br />
-project = Eltonno_RIOT<br />
-project = EmuxEvans_RIOT<br />
-project = FeverChen_RIOT<br />
-project = Flyingstone99_RIOT<br />
-project = Former_RIOT<br />
-project = FrancescoErmini_RIOT<br />
-project = FuzeSoft_RIOT<br />
-project = GHackAnonymous_RIOT<br />
-project = GabrielDai_RIOT<br />
-project = GeekRobert_RIOT<br />
-project = Geloi_RIOT<br />
-project = GenRockeR_RIOT<br />
-project = Gmedhin_RIOT<br />
-project = Goga3000_RIOT<br />
-project = GoodDada_RIOT<br />
-project = Gr3yh0und_RIOT<br />
-project = HANJINKIM_RIOT<br />
-project = HSeemann_RIOT<br />
-project = HTWDD-RN_RIOT<br />
-project = HaitaoLeo_RIOT<br />
-project = HamidiMassinissa_RIOT<br />
-project = Happy-Ferret_RIOT-1<br />
-project = HarborDong_RIOT<br />
-project = Hendrias_RIOT-EE250<br />
-project = HendrikVE_RIOT<br />
-project = HubertXie_RIOT<br />
-project = HuguLee_RIOT<br />
-project = Huyfly_RIOT<br />
-project = Hyungsin_RIOT-OS<br />
-project = Icaltary_RIOT<br />
-project = IgorBayk_RIOT<br />
-project = IgorShilov_RIOT<br />
-project = IldarValiev_RIOT<br />
-project = In0ut_RIOT<br />
-project = Inria-Chile_RIOT<br />
-project = IoT6_RIOT<br />
-project = IoTSotA_RIOT<br />
-project = JMR-b_RIOT<br />
-project = JamesLinus_RIOT<br />
-project = Janfred_RIOT<br />
-project = JelmerT_RIOT<br />
-project = JensErdmann_RIOT<br />
-project = JensenSung_RIOT<br />
-project = JerryMain_RIOT<br />
-project = Jinyo-Chiu_RIOT<br />
-project = JiongFu_RIOT<br />
-project = JohannesRol_RIOT<br />
-project = John-Ng_RIOT<br />
-project = JonaRaemdonck_RIOT<br />
-project = JonasRadtke_RIOT<br />
-project = Josar_RIOT<br />
-project = Josar_RIOT_XMEGA<br />
-project = JulianHolzwarth_RIOT<br />
-project = JulianoCristian_RIOT<br />
-project = KamalDSOberoi_RIOT<br />
-project = KarlNap_RIOT<br />
-project = Karmvir5_RIOT-EE250<br />
-project = Katritz_RIOT<br />
-project = Kavanraj_RIOT<br />
-project = KengaRU_RIOT<br />
-project = KetchupVentil_RIOT<br />
-project = KevinYu84_RIOT<br />
-project = KhodorELKOUJOK_RIOT<br />
-project = Kijewski_RIOT<br />
-project = KillerLink_RIOT<br />
-project = Koenma413_RIOT<br />
-project = KomochekShersti_RIOT<br />
-project = KuguHome_RIOT<br />
-project = Kulipator_RIOT<br />
-project = KumarAmitMehta_RIOT<br />
-project = KyshinLiu_RIOT<br />
-project = LGTMCU_RIOT<br />
-project = LaszloLango_RIOT<br />
-project = LenarIO_RIOT<br />
-project = Lexandro92_RIOT-CoAP<br />
-project = Lotterleben_RIOT<br />
-project = Lstallone_RIOT<br />
-project = LucaZulberti_RIOT<br />
-project = LudwigKnuepfer_RIOT<br />
-project = LudwigOrtmann_RIOT<br />
-project = Lydrin_RIOT<br />
-project = MKot13_RIOT<br />
-project = MOSAIC-LoPoW_RIOT<br />
-project = MaLa-HAW_RIOT<br />
-project = MailiLoh_RIOT<br />
-project = Manchenkoos_RIOT<br />
-project = Manoharsai_RIOT<br />
-project = Manu2312_RIOT<br />
-project = Marc-Aurele_RIOT<br />
-project = MarkXYang_RIOT<br />
-project = Marrakchino_RIOT<br />
-project = MartinaFHCW_RIOT<br />
-project = MatKub_RIOT<br />
-project = Mecabot_RIOT<br />
-project = MichelRottleuthner_RIOT<br />
-project = Misaka0x2730_RIOT<br />
-project = Mizyukanova_RIOT<br />
-project = MohamedSeliem_RIOT<br />
-project = MohmadAyman_RIOT<br />
-project = MonsterCode8000_RIOT<br />
-project = Mr-Jason-Sam_RIOT<br />
-project = MrFresh1_RIOT<br />
-project = MrKevinWeiss_RIOT<br />
-project = Mucka_RIOT<br />
-project = MuhammadTanweer_RIOT<br />
-project = MxMalk_RIOT<br />
-project = MyCodeMyMoney_RIOT<br />
-project = N5FPP_RIOT<br />
-project = NERD-Repo_RIOT<br />
-project = NEXTLEO_RIOT<br />
-project = NLardenois_RIOT<br />
-project = Na55im_RIOT<br />
-project = Nenaco_RIOT<br />
-project = NickMinnellaCS96_RIOT<br />
-project = NilayPachauri_RIOT-EE250<br />
-project = Nilshut_RIOT<br />
-project = Nishchay-sopho_RIOT-Bundle-Protocol<br />
-project = Nmeum_RIOT<br />
-project = OTAkeys_RIOT<br />
-project = OYTIS_RIOT<br />
-project = OYTIS_RIOT-kea<br />
-project = OlegHahm_RIOT<br />
-project = OnsetComputerCorp_RIOT<br />
-project = Osarua_RIOT<br />
-project = Osblouf_RIOT<br />
-project = Otmane123_RIOT<br />
-project = Ouss4_RIOT<br />
-project = OverDriveGain_RIOT<br />
-project = PONFmodular_RIOT<br />
-project = ParksProjets_RIOT<br />
-project = PavelVorobyev97_RIOT<br />
-project = PeterKietzmann_RIOT<br />
-project = PeterKietzmann_RIOT-EWSN16-Demo<br />
-project = PiWare_RIOT<br />
-project = PisalPrasad123_RIOT<br />
-project = PowerProfiler_RIOT<br />
-project = Probelp_RIOT<br />
-project = RBartz_RIOT<br />
-project = RF-Networks_RIOT<br />
-project = RIOT-OS_RIOT<br />
-project = RWTH-OS_RIOT<br />
-project = RaphaelBidaud_RIOT<br />
-project = RasmusAntons_RIOT<br />
-project = ReneHerthel_RIOT<br />
-project = RichardH92_RIOT<br />
-project = Ritishk12_RIOT<br />
-project = Rotzbua_RIOT<br />
-project = RoySCU_RIOT<br />
-project = RubikonAlpha_RIOT<br />
-project = Rufwame_RIOT<br />
-project = RumBlalGalaxy_RIOT<br />
-project = SCiMOS_RIOT<br />
-project = SSV-embedded_RIOT<br />
-project = SWIE-IO_RIOT<br />
-project = SaiNavyaNelavelli_RIOT<br />
-project = Salomonic_RIOT<br />
-project = Sarajova_RIOT<br />
-project = SebastianSzymczak_RIOT<br />
-project = SebastianWilkes_RIOT<br />
-project = SemjonKerner_RIOT<br />
-project = Slider043_RIOT<br />
-project = SmallSharky_riot-edu<br />
-project = Subor-gfraf_RIOT<br />
-project = TaquyeddineZegaoui_RIOT<br />
-project = ThanhVic_RIOT<br />
-project = TheSkape_RIOT<br />
-project = TheSwagMan_riot_test<br />
-project = TizenTeam_RIOT<br />
-project = TobiasFredersdorf_RIOT<br />
-project = VALaptev_RIOT<br />
-project = ViktorVaczi90_RIOT<br />
-project = VilleHiltunen_RIOT<br />
-project = Waldgeist84_RIOT<br />
-project = aabadie_RIOT<br />
-project = abkam07_RIOT<br />
-project = abp719_RIOT<br />
-project = adityaseven_RIOT<br />
-project = alex1818_RIOT<br />
-project = alexiss03_riot-os-cs250<br />
-project = altairpearl_RIOT<br />
-project = andrlee_RIOT<br />
-project = anurudh27_RIOT<br />
-project = arvindpdmn_RIOT<br />
-project = asdjah_RIOT<br />
-project = aspyver_RIOT<br />
-project = asquini_RIOT<br />
-project = attdona_RIOT<br />
-project = authmillenon_RIOT<br />
-project = automote_RIOT<br />
-project = avmelnikoff_RIOT<br />
-project = ayush7gupta_IPv4_Riot<br />
-project = basilfx_RIOT<br />
-project = beduino-project_RIOT<br />
-project = beduino-project_RIOT-POLICE<br />
-project = benemorius_RIOT<br />
-project = benpicco_RIOT<br />
-project = berbecche_RIOT<br />
-project = bergzand_RIOT<br />
-project = beurdouche_RIOT<br />
-project = bhargav2408_RIOT<br />
-project = biboc_RIOT<br />
-project = billyzhaoj_RIOT-OS<br />
-project = binarylemon_RIOT<br />
-project = bitbucket.org_jcarrano_riot-os<br />
-project = bitbucket.org_nbmaiti_riot<br />
-project = blaisehorvath_RIOT<br />
-project = bmd00bmd_KubOS<br />
-project = bradzieminski_RIOT-EE250<br />
-project = brettswann_RIOT<br />
-project = brummer-simon_RIOT<br />
-project = bumpy-b_RIOT<br />
-project = bygit_RIOT<br />
-project = cha63506_RIOT<br />
-project = checorone_motoguard-enddevice<br />
-project = clem-bluefruit_RIOT<br />
-project = codeForSaif_RIOT<br />
-project = crest42_RIOT<br />
-project = czarsir_RIOT<br />
-project = czoksu_RIOT<br />
-project = d00616_RIOT<br />
-project = d12y12_RIOT<br />
-project = daemory_RIOT<br />
-project = dailab_RIOT<br />
-project = danebennett_RIOT<br />
-project = daniel-k_RIOT<br />
-project = daniel-kelley_RIOT<br />
-project = danielamkaer_RIOT<br />
-project = danielinux_RIOT<br />
-project = danpetry_RIOT<br />
-project = datachi7d_RIOT<br />
-project = davidmr001_RIOT<br />
-project = davidvalarezo_RIOT<br />
-project = davidvalarezo_RIOT-1<br />
-project = dbohn_RIOT<br />
-project = dboschm_RIOT-Xtensa-ESP<br />
-project = ddiddlepants_RIOT-EE250<br />
-project = ddreyer_RIOT-OS<br />
-project = ddreyer_RIOT-OS-1<br />
-project = ddreyer_RIOT-OS-class<br />
-project = ddreyer_openthread<br />
-project = decolnz_RIOT<br />
-project = deepfryed_RIOT<br />
-project = deniskropp_RIOT<br />
-project = denizs_RIOT<br />
-project = denizs_riot<br />
-project = denykk_RIOT<br />
-project = derf_RIOT<br />
-project = devantormey_RIOT-EE250<br />
-project = deviance_RIOT<br />
-project = dhruvvyas90_RIOT<br />
-project = diddyhsv_RIOT<br />
-project = dkazantzas_RIOT<br />
-project = dkm_RIOT<br />
-project = dmdsouza_RIOT<br />
-project = dmoldova_RIOT-EE250<br />
-project = docdor_RIOT<br />
-project = dongdongbh_RIOT<br />
-project = dongkc_RIOT<br />
-project = doniexun_RIOT<br />
-project = dorukarda_RIOT<br />
-project = doudoudq_RIOT<br />
-project = drasko_RIOT<br />
-project = drcef_RIOT<br />
-project = drmrboy_RIOT<br />
-project = duanlv_RIOT<br />
-project = dut3062796s_RIOT-1<br />
-project = duv16_RIOT<br />
-project = dylad_RIOT<br />
-project = eacioffi_RIOT-EE250<br />
-project = ecioffi_RIOT-EE250<br />
-project = edgarmar2_RIOT-EE250<br />
-project = eeinz_RIOT<br />
-project = eerokhakala_RIOT<br />
-project = eggfly_RIOT<br />
-project = ehsanamin1990_RIOT<br />
-project = einars_RIOT<br />
-project = eistec_RIOT<br />
-project = elecfist_RIOT<br />
-project = elix22_RIOT<br />
-project = elvaigh_RIOT<br />
-project = emmanuelsearch_RIOT<br />
-project = emuhedo_RIOT<br />
-project = enzingerm_RIOT<br />
-project = ericyao2013_RIOT<br />
-project = erlerobot_RIOT<br />
-project = euboss_RIOT<br />
-project = eugenscobich_RIOT<br />
-project = fajb_RIOT<br />
-project = fanghuaqi_RIOT<br />
-project = fanxiaohui_RIOT<br />
-project = fbsder_RIOT<br />
-project = fcgdam_RIOT<br />
-project = fedepell_RIOT<br />
-project = fesselk_RIOT<br />
-project = fetmos_RIOT<br />
-project = fhessel_RIOT<br />
-project = fjmolinas_RIOT<br />
-project = flavius-aetios_RIOT<br />
-project = flipreverse_RIOT<br />
-project = florian-jean_RIOT<br />
-project = flyhigh46_RIOT<br />
-project = fokin91_RIOT<br />
-project = fozc_RIOT<br />
-project = fragomr_RIOT<br />
-project = francois-berder-imgtec_RIOT<br />
-project = francois-berder_RIOT<br />
-project = frankamente_RIOT<br />
-project = freemanZYQ_RIOT<br />
-project = fsolanod_RIOT<br />
-project = fu-ilab-swp18_RIOT<br />
-project = fu-ilab-swp18_RIOT_pflanzen1<br />
-project = fu-inet-swp17_RIOT<br />
-project = future-proof-iot_RIOT<br />
-project = fvacek_RIOT<br />
-project = fzi-forschungszentrum-informatik_RIOT64<br />
-project = fzy-Line_RIOT<br />
-project = gandy555_RIOT<br />
-project = gautric_RIOT<br />
-project = gbarnett_RIOT<br />
-project = gdoffe_RIOT<br />
-project = george-hopkins_RIOT<br />
-project = geromueller_RIOT<br />
-project = gh18_RIOT<br />
-project = ghavag_RIOT<br />
-project = ghice_RIOT<br />
-project = ginetrix_RIOT<br />
-project = girisugu2_RIOT<br />
-project = girtsf_RIOT<br />
-project = gitcreater_RIOT<br />
-project = gitlab.com_Gvanroon_RIOT<br />
-project = gitlab.com_Spence_RIOT<br />
-project = gitlab.com_anilkumarsoma_RIOT<br />
-project = gitlab.com_cellu_cc_riot<br />
-project = gitlab.com_frankamente_RIOT<br />
-project = gitlab.com_gspu_RIOT<br />
-project = gitlab.com_nicholas_jackson_RIOT<br />
-project = gitlab.com_openrov_trident/trident-fw-samd<br />
-project = gitlab.com_openrov_trident_trident-fw-samd<br />
-project = gitlab.com_rhr407_RIOT<br />
-project = gitlab.com_scanf_RIOT<br />
-project = gitlab.com_theja0473_RIOT<br />
-project = gitlab.com_wsymons_riot<br />
-project = glloydNAT_RIOT<br />
-project = gmsotavio_RIOT<br />
-project = gon1332_RIOT<br />
-project = gongfna_RIOT<br />
-project = gorbondiga_RIOT<br />
-project = gosticks_RIOT<br />
-project = graznik_RIOT<br />
-project = groessler_RIOT<br />
-project = gschorcht_RIOT<br />
-project = gschorcht_RIOT-Xtensa-ESP<br />
-project = gschorcht_RIOT-Xtensa-ESP8266<br />
-project = gtrpucp_RIOT<br />
-project = gustavovelascoh_RIOT<br />
-project = gutorevoredo_RIOT<br />
-project = guzenkovalexey_RIOT<br />
-project = gvz_RIOT<br />
-project = h4nt_RIOT<br />
-project = habibzadeh_RIOT<br />
-project = hackerspacesv_RIOT<br />
-project = hahchenchen_RIOT<br />
-project = haithemsekri_RIOT<br />
-project = hallo-alex_RIOT<br />
-project = hamilton-mote_RIOT-OS<br />
-project = hamilton-mote_RiSyn<br />
-project = haoyangyu_RIOT<br />
-project = harrisonforch_RIOT-EE250<br />
-project = harunoni_RIOT<br />
-project = haukepetersen_RIOT<br />
-project = heavybro_RIOT<br />
-project = herrfz_RIOT<br />
-project = hhhhhhlc_RIOT<br />
-project = hhy5277_RIOT-1<br />
-project = hongkiaong_RIOT<br />
-project = houmway_RIOT<br />
-project = hpu07_RIOT<br />
-project = huanquan_RIOT<br />
-project = huide9_RIOT<br />
-project = huleg_RIOT<br />
-project = huypq6_RIOT<br />
-project = i-spark_RIOT<br />
-project = i53-infrastructure_RIOT<br />
-project = iam-thanwa-io_RIOT<br />
-project = iambijusnair_RIOT<br />
-project = ibr-cm_RIOT<br />
-project = ibriano_RIOT<br />
-project = icube-inetlab_RIOT-OS<br />
-project = igrik82_RIOT<br />
-project = iia_RIOT<br />
-project = ijip_RIOT<br />
-project = ikshin416_RIOT<br />
-project = ikvm_RIOT-1<br />
-project = iliessens_RIOT<br />
-project = ilya-dubinsky_RIOT<br />
-project = ilya-epifanov_RIOT<br />
-project = immesys_RIOT<br />
-project = immesys_RiSyn<br />
-project = inetrg_RIOT<br />
-project = injxgj_RIOT<br />
-project = internet-of-plants_RIOT<br />
-project = iocainst_RIOT<br />
-project = iot-alex_RIOT<br />
-project = iot-lab_riot-upstream<br />
-project = iota-community_BLE-environment-sensor<br />
-project = iota-community_thingy52-env-sensor<br />
-project = iothon_RIOT<br />
-project = iotlibrary_RIOT<br />
-project = iotvietmember_RIOT<br />
-project = iplon_RIOT<br />
-project = ironeagle-ir_RIOT<br />
-project = is00hcw_RIOT-1<br />
-project = iseitani_RIOT<br />
-project = iseitani_RIOT_BR<br />
-project = it-gladkiy_RIOT<br />
-project = ivanka6342_RIOT<br />
-project = ivantesker_RIOT<br />
-project = jaeseokan94_RIOT<br />
-project = jafffy_RIOT<br />
-project = jan-mo_RIOT<br />
-project = janmoehl_RIOT<br />
-project = jarrcan-cl_RIOT<br />
-project = jasonatran_RIOT<br />
-project = jasonatran_iris-riot<br />
-project = javierfileiv_RIOT<br />
-project = jbeyerstedt_RIOT<br />
-project = jbeyerstedt_RIOT-OTA-update<br />
-project = jcarrano_RIOT<br />
-project = jdhuanghub_RIOT<br />
-project = jelledevleeschouwer_RIOT<br />
-project = jessezwd_RIOT<br />
-project = jfbortolotti_RIOT<br />
-project = jhollister_RIOT<br />
-project = jia200x_RIOT<br />
-project = jiababybaby_RIOT<br />
-project = jiangjie87481_RIOT<br />
-project = jigla_RIOT-OS<br />
-project = jinfenw_RIOT<br />
-project = jingjing54007_RIOT<br />
-project = jinhongdu_RIOT<br />
-project = jjelonek_RIOT<br />
-project = jliang1010_RIOT<br />
-project = jmcdon0128_RIOT<br />
-project = jmd99_RIOT<br />
-project = jongbot_RIOT<br />
-project = jongsun5_RIOT<br />
-project = jonkster_RIOT<br />
-project = jonkster_RIOT2<br />
-project = joshuabierton_RIOT<br />
-project = jowlo_RIOT<br />
-project = joyshmitz_RIOT<br />
-project = jpbonn_RIOT<br />
-project = jpbonn_old-riot<br />
-project = jpbonn_riot<br />
-project = jpnorair_OT-RIOT<br />
-project = jpnorair_RIOT<br />
-project = jremmert-phytec-iot_RIOT<br />
-project = jthacker_RIOT<br />
-project = jue89_RIOT<br />
-project = julien-ioic_RIOT<br />
-project = justin1571_RIOT-EE250<br />
-project = justinjoy_RIOT<br />
-project = jvsg_RIOT<br />
-project = jxnuzhangwen_RIOT<br />
-project = k6dsp_RIOT<br />
-project = kYc0o_RIOT<br />
-project = kaibeckmann_RIOT<br />
-project = kaidokert_RIOT<br />
-project = kaifeichen_RIOT-OS<br />
-project = kaleb-himes_RIOT<br />
-project = kamar4k_RIOT<br />
-project = kamejoko80_RIOT<br />
-project = kangdazhi_RIOT<br />
-project = kartben_RIOT<br />
-project = kaspar030_RIOT<br />
-project = katezilla_RIOT<br />
-project = kb2ma_RIOT<br />
-project = kbonset_RIOT<br />
-project = kbumsik_RIOT<br />
-project = keestux_RIOT<br />
-project = kenkuang_RIOT<br />
-project = kennethjiang_RIOT<br />
-project = kenrabold_RIOT<br />
-project = kerneltask_RIOT<br />
-project = kery-chen_RIOT<br />
-project = kerychen_RIOT<br />
-project = kex2017_RIOT<br />
-project = khhhh_RIOT<br />
-project = khurananish_RIOT<br />
-project = kineev_RIOT<br />
-project = kingfs_RIOT<br />
-project = kjh1007_RIOT<br />
-project = konstantinngvk1_RIOT<br />
-project = kontais_RIOT<br />
-project = kotteeswarane_CanGateway<br />
-project = krishnak9_RIOT<br />
-project = kroesche_RIOT<br />
-project = ks156_RIOT<br />
-project = kubostech_RIOT<br />
-project = kugel2_RIOT<br />
-project = kumar-jiri6_RIOT<br />
-project = kushalsingh007_RIOT<br />
-project = kutama_RIOT<br />
-project = kvbryukhanov_RIOT<br />
-project = kwahome_RIOT<br />
-project = kyrofa_RIOT<br />
-project = l3nko_RIOT<br />
-project = lafka_RIOT<br />
-project = lalrae_RIOT<br />
-project = laparmakerli_riot-upstream<br />
-project = latsku_RIOT<br />
-project = lazytech-org_RIOT<br />
-project = ldesiqueira_RIOT<br />
-project = le7amdon_RIOT<br />
-project = leandrolanzieri_RIOT<br />
-project = lebrush_RIOT<br />
-project = leeminghao_RIOT<br />
-project = legendary-bro_RIOT<br />
-project = lidong1266_RIOT<br />
-project = liguojiang_RIOT<br />
-project = lincvv_RIOT<br />
-project = lineCode_RIOT-1<br />
-project = linearregression_RIOT<br />
-project = linpingchuan_RIOT<br />
-project = linux-wpan_RIOT<br />
-project = liujiandu_RIOT<br />
-project = liwangqian_RIOT<br />
-project = ljs9643_RIOT<br />
-project = llueder_RIOT<br />
-project = lluminita_RIOT<br />
-project = lmhtz_RIOT<br />
-project = locosoft1986_RIOT<br />
-project = logself1988_RIOT<br />
-project = lorenz9314_RIOT<br />
-project = louisyoo_RIOT<br />
-project = lovelesh_RIOT<br />
-project = lpaulic_RIOT<br />
-project = lsaos_RIOT<br />
-project = luciotorre_RIOT<br />
-project = luisseo01_RIOT<br />
-project = lupamedeiros_RIOT<br />
-project = lvjh_RIOT<br />
-project = lxsang_RIOT<br />
-project = lyashley_RIOT-EE250<br />
-project = lzbgt_RIOT<br />
-project = lzj85_RIOT<br />
-project = m21400_RIOT<br />
-project = m2mbr_RIOT<br />
-project = madokapeng_RIOT<br />
-project = maghis_RIOT<br />
-project = mahermastouri_RIOT<br />
-project = maitysubhasis_RIOT_OS<br />
-project = makyo-dev_RIOT-1<br />
-project = mali_RIOT<br />
-project = malosek_RIOT<br />
-project = manamhr_RIOT-EE250<br />
-project = maribu_RIOT<br />
-project = marshall_RIOT<br />
-project = martinheusmann_RIOT<br />
-project = massad77_RIOT<br />
-project = mathirkub_RIOT<br />
-project = mattiantonini_RIOT<br />
-project = maxvankessel_RIOT<br />
-project = mbrukman_RIOT<br />
-project = mbutkereit_RIOT<br />
-project = mdodkins_RIOT<br />
-project = mehrdaad_RIOT<br />
-project = mehulrijawani_RIOT<br />
-project = mejm_RIOT<br />
-project = melfork_RIOT<br />
-project = melshuber_RIOT<br />
-project = mfkiwl_RIOT<br />
-project = mfrey_RIOT<br />
-project = michaelgianpowski_RIOT<br />
-project = michz_RIOT<br />
-project = mike168m_RIOT<br />
-project = ming-hai_RIOT<br />
-project = minkione_RIOT<br />
-project = miri64_RIOT<br />
-project = mishlasfeng_RIOT<br />
-project = mkcourse_RIOT<br />
-project = mmkonrad_RIOT<br />
-project = moenoel_RIOT<br />
-project = mojiuyu_RIOT-1<br />
-project = moneytech_RIOT<br />
-project = monoclecat_RIOT<br />
-project = moyansen_RIOT<br />
-project = mrazek-deakin_RIOT<br />
-project = mredekopp_RIOT-EE250<br />
-project = mrnguyen211190_RIOT<br />
-project = msakil_RIOT<br />
-project = msliusarev_RIOT<br />
-project = msolters_RIOT<br />
-project = mstn-09_RIOT<br />
-project = mtausig_RIOT<br />
-project = mufeedpatel_RIOT<br />
-project = muharam1991_RIOT<br />
-project = mullerhx_RIOT<br />
-project = mullife_RIOT<br />
-project = murdock-ci_RIOT<br />
-project = mxbrt_RIOT<br />
-project = mziegert_RIOT<br />
-project = n16h7br33z3_RIOT<br />
-project = naaonethree_RIOT-EE250<br />
-project = nailanawshaba_RIOT<br />
-project = named-data-iot_RIOT<br />
-project = namezis_RIOT<br />
-project = nanodrone_RIOT<br />
-project = nashokkumar_RIOT<br />
-project = navneetnivu07_RIOT<br />
-project = nawL1dg3_RIOT<br />
-project = nealjack_RIOT-OS<br />
-project = neiljay_RIOT<br />
-project = neo-existenz_RIOT<br />
-project = netdebug_RIOT<br />
-project = netroby_RIOT<br />
-project = netscream_RIOT<br />
-project = ngatilio_RIOT<br />
-project = nghiaducnt_LearningRIOT<br />
-project = nguyenduclam_RIOT<br />
-project = ngwong_RIOT-EE250<br />
-project = nicholas-c-jackson_RIOT<br />
-project = niziak_RIOT<br />
-project = njprogramming_RIOT<br />
-project = nkristek_RIOT<br />
-project = nlebang_RIOT<br />
-project = nlinktech_RIOT<br />
-project = nmehlman_RIOT-EE250<br />
-project = nmeum_RIOT<br />
-project = nolitimere_KubOS<br />
-project = nqd_RIOT<br />
-project = nsaspook_RIOT<br />
-project = ntrtrung_RIOT<br />
-project = nvv13_RIOT<br />
-project = nyrahul_RIOT<br />
-project = o0osorentoo0o_RIOT<br />
-project = obgm_RIOT<br />
-project = ochristi_RIOT<br />
-project = ofauchon_RIOT<br />
-project = offchooffcho_RIOT<br />
-project = oh3eqn_RIOT<br />
-project = olegart_RIOT<br />
-project = onesmash_RIOT<br />
-project = openkosmosorg_RIOT<br />
-project = openwarelab_RIOT<br />
-project = orchisan_RIOT<br />
-project = orf53975_RIOT<br />
-project = ott-kiwi_RIOT<br />
-project = pacheco017_RIOT<br />
-project = palaniyappanBala_RIOT<br />
-project = panail_RIOT<br />
-project = panshengpeng_RIOT<br />
-project = patgrosse_RIOT<br />
-project = paula75_RIOT<br />
-project = pavelgr_RIOT<br />
-project = pavlyhabashy_RIOT-EE250<br />
-project = pdNor_RIOT<br />
-project = pekkanikander_RIOT<br />
-project = pengshulin_RIOT<br />
-project = peterson79_RIOT<br />
-project = pevasquez_RIOT<br />
-project = phectori_RIOT<br />
-project = phiros_RIOT<br />
-project = photonthunder_RIOT<br />
-project = phphy_RIOT<br />
-project = phuonglab_RIOT<br />
-project = phuongtg_RIOT<br />
-project = pi-kxw_RIOT<br />
-project = pigeorge_RIOT<br />
-project = pipex_RIOT<br />
-project = piyushpandey013_RIOT<br />
-project = pjhernandez18_RIOT-EE250<br />
-project = pmlk_RIOT<br />
-project = pnunes30_RIOT<br />
-project = pokgak_RIOT<br />
-project = pombredanne_RIOT<br />
-project = poppe34_RIOT<br />
-project = popwolf_RIOT<br />
-project = ppannuto_RIOT<br />
-project = prashanthhn_RIOT<br />
-project = praveenmunagapati_RIOT-2<br />
-project = praveenpenumaka_RIOT<br />
-project = psiemek_RIOT<br />
-project = pst12_RIOT<br />
-project = psymonj_RIOT<br />
-project = ptz1986_RIOT<br />
-project = punchcard60_KubOS<br />
-project = pvikberg_RIOT<br />
-project = pvikberg_RIOT_oma1<br />
-project = pvsarath_RIOT<br />
-project = pvyleta_RIOT<br />
-project = pwillem_RIOT<br />
-project = pyjhhh_RIOT<br />
-project = qgyhd1234_RIOT<br />
-project = qiaoqidui_RIOT<br />
-project = rabinsahoo_RIOT<br />
-project = radhios_RIOT<br />
-project = ragulhackz125_RIOT<br />
-project = rajma996_RIOT<br />
-project = rakendrathapa_RIOT<br />
-project = rammohan2b_RIOT<br />
-project = ranbe1_RIOT<br />
-project = ranjit27_RIOT<br />
-project = redrabbit5_RIOT<br />
-project = redwinner_RIOT<br />
-project = refaqtor_RIOT<br />
-project = renzoe_RIOT<br />
-project = rfuentess_RIOT<br />
-project = rhabu01_RIOT<br />
-project = rhr407_RIOT<br />
-project = richartk_RIOT<br />
-project = rienafairefr_RIOT<br />
-project = riot-appstore_RIOT<br />
-project = riot-appstore_RIOT-IoThon<br />
-project = riot-ci_RIOT<br />
-project = riot-study_RIOT<br />
-project = rivasiv_RIOT<br />
-project = rjmcguire_RIOT<br />
-project = rl1987_RIOT<br />
-project = robbie-cao_RIOT<br />
-project = robbie-cao_riot-stm32<br />
-project = robby14_RIOT<br />
-project = roberthartung_RIOT<br />
-project = robertsipka_RIOT<br />
-project = robixnai_RIOT<br />
-project = rolandi71_RIOT<br />
-project = roubra_RIOT<br />
-project = rousselk_RIOT<br />
-project = rowhit_RIOT<br />
-project = rrzatkie_RIOT<br />
-project = rrzatkie_RIOT_COPY<br />
-project = rst256_RIOT<br />
-project = ruhex_RIOT<br />
-project = rxwb_RIOT<br />
-project = ryankurte_riot-os<br />
-project = ryanlelek_KubOS<br />
-project = salmovs_RIOT<br />
-project = sam-kumar_RIOT-OS<br />
-project = samiralavi_RIOT<br />
-project = samkumar99_RIOT-OS<br />
-project = samkumar_RIOT-OS<br />
-project = samr90_RIOT<br />
-project = sanmingshen_RIOT<br />
-project = sarathsanthoss_RIOT<br />
-project = sasalaza_RIOT-EE250<br />
-project = sashaindrish_RIOT<br />
-project = schoradt_RIOT<br />
-project = sdsxpln_RIOT<br />
-project = sdttmyw_RIOT<br />
-project = seank-img_RIOT<br />
-project = sebastiankliem_RIOT<br />
-project = serabiasin_RIOT<br />
-project = seryi2035_RIOT<br />
-project = setevod_RIOT<br />
-project = seysn_RIOT<br />
-project = sgso_RIOT<br />
-project = shein318_RIOT<br />
-project = shenfahsu_RIOT<br />
-project = shpuravasiliy_RIOT<br />
-project = siddh-test-4_RIOT<br />
-project = siddharthgpta_RIOT<br />
-project = simonsta_RIOT<br />
-project = sklli_RIOT<br />
-project = sknsean_RIOT<br />
-project = skullbox305_RIOT<br />
-project = skyformat99_RIOT<br />
-project = skyformat99_RIOT-2<br />
-project = slhsxcmy_RIOT<br />
-project = smartuni_RIOT<br />
-project = smcd253_RIOT-EE250<br />
-project = smcd253_RIOT-EE250-1<br />
-project = smehner1_RIOT<br />
-project = smlng_RIOT<br />
-project = smou_RIOT<br />
-project = snej_RIOT<br />
-project = sp-axio_RIOT<br />
-project = spiridon1_RIOT<br />
-project = spirit745_RIOT<br />
-project = starblue_RIOT<br />
-project = stepos01_RIOT<br />
-project = stevenj_RIOT<br />
-project = sugangli_RIOT<br />
-project = sumanpanchal_RIOT<br />
-project = sunghopark1_RIOT<br />
-project = superjudge_RIOT<br />
-project = suruz_RIOT<br />
-project = syin2_riot-iotivity<br />
-project = tabc123_RIOT<br />
-project = tadryanom_RIOT<br />
-project = taherrera_riot<br />
-project = tamasseller_RIOT<br />
-project = tammyrobinson03_RIOT<br />
-project = tanupoo_RIOT<br />
-project = tatyanavolkova_RIOT<br />
-project = tgo-s_RIOT<br />
-project = theafricanengineer_RIOT<br />
-project = theja0473_RIOT<br />
-project = therapier_RIOT<br />
-project = therealmonE_RIOT<br />
-project = thiagohd_RIOT<br />
-project = thomaseichinger_RIOT<br />
-project = to1st9chok_RIOT<br />
-project = tobbad_RIOT<br />
-project = tobhe_RIOT<br />
-project = tomyqg_RIOT<br />
-project = tongpi_RIOT<br />
-project = toonst_RIOT<br />
-project = tovanhieu_RIOT<br />
-project = tovax_RIOT<br />
-project = tprrt_RIOT<br />
-project = tralivali1234_RIOT<br />
-project = travisgriggs_RIOT<br />
-project = tromex_RIOT<br />
-project = trungkstn_RIOT<br />
-project = tsutar_RIOT-EE250<br />
-project = turahul_RIOT<br />
-project = txemis_RIOT<br />
-project = typc95_RIOT<br />
-project = tzuchiangshen_RIOT<br />
-project = unforgiven512_RIOT<br />
-project = unwireddevices_RIOT<br />
-project = urbangregorc_RIOT<br />
-project = usc-ee250-fall2018_RIOT-EE250<br />
-project = vac_RIOT<br />
-project = varunpandeyengg_RIOT<br />
-project = vehar_RIOT<br />
-project = vhkrishna_RIOT<br />
-project = vijaiks_RIOT<br />
-project = vikingxie_RIOT<br />
-project = vincent-d_RIOT<br />
-project = vincentjzimmer_RIOT<br />
-project = vincentlao_RIOT<br />
-project = vpdao_RIOT<br />
-project = vrosnet_RIOT<br />
-project = w03_RIOT<br />
-project = waehlisch_RIOT<br />
-project = wallhisg_RIOT<br />
-project = wang1314well_RIOT<br />
-project = watr-li_RIOT<br />
-project = wentaoshang_RIOT<br />
-project = wenyigao6_RIOT-EE250<br />
-project = whitefield-framework_RIOT<br />
-project = wilhelmmatilainen_RIOT<br />
-project = witnessivan_RIOT<br />
-project = wtsllc_RIOT<br />
-project = wupoli_RIOT<br />
-project = wuzeen_RIOT<br />
-project = wwhuang_RIOT-OS<br />
-project = wxh0000mm_RIOT<br />
-project = xjump_RIOT<br />
-project = xsider_RIOT<br />
-project = xzm7358_RIOT<br />
-project = ycs0405_RIOT<br />
-project = yeekzhang_RIOT<br />
-project = yeffrimic_RIOT<br />
-project = yegorich_RIOT<br />
-project = yibit_RIOT<br />
-project = ynezz_RIOT<br />
-project = yogo1212_RIOT<br />
-project = yunbei_RIOT<br />
-project = yupin75_RIOT<br />
-project = yusi222_RIOT<br />
-project = zafriyusoff_RIOT<br />
-project = zaza89_RIOT<br />
-project = zenglongGH_RIOT<br />
-project = zhenhaochu_RIOT<br />
-project = zhuoshuguo_RIOT<br />
-project = zhuwentao0612_RIOT<br />
-project = zjl037600_RIOT<br />
-project = zmguahy_RIOT<br />
+project = <a href="https://github.com/1974vyacheslav/RIOT">github.com/1974vyacheslav/RIOT</a><br />
+project = <a href="https://github.com/296791897/RIOT">github.com/296791897/RIOT</a><br />
+project = <a href="https://github.com/314942468GitHub/RIOT">github.com/314942468GitHub/RIOT</a><br />
+project = <a href="https://github.com/5G-I3/RIOT-1">github.com/5G-I3/RIOT-1</a><br />
+project = <a href="https://github.com/5G-I3/RIOT-public">github.com/5G-I3/RIOT-public</a><br />
+project = <a href="https://github.com/6lowpaniold/RIOT">github.com/6lowpaniold/RIOT</a><br />
+project = <a href="https://github.com/A-Paul/RIOT">github.com/A-Paul/RIOT</a><br />
+project = <a href="https://github.com/ANRGUSC/RIOT">github.com/ANRGUSC/RIOT</a><br />
+project = <a href="https://github.com/ANRGUSC/RIOT-EE250">github.com/ANRGUSC/RIOT-EE250</a><br />
+project = <a href="https://github.com/ANRGUSC/iris-riot">github.com/ANRGUSC/iris-riot</a><br />
+project = <a href="https://github.com/AVykhovanets/RIOT">github.com/AVykhovanets/RIOT</a><br />
+project = <a href="https://github.com/AaltoNEPPI/RIOT">github.com/AaltoNEPPI/RIOT</a><br />
+project = <a href="https://github.com/Aang-3/RIOT">github.com/Aang-3/RIOT</a><br />
+project = <a href="https://github.com/Aang23/RIOT">github.com/Aang23/RIOT</a><br />
+project = <a href="https://github.com/Aber-Lijingshu/RIOT">github.com/Aber-Lijingshu/RIOT</a><br />
+project = <a href="https://github.com/AcmeSystemsProjects/RIOT">github.com/AcmeSystemsProjects/RIOT</a><br />
+project = <a href="https://github.com/AdamRLukaitis/RIOT">github.com/AdamRLukaitis/RIOT</a><br />
+project = <a href="https://github.com/AdrianGuo/RIOT">github.com/AdrianGuo/RIOT</a><br />
+project = <a href="https://github.com/Agile-IoT/RIOT">github.com/Agile-IoT/RIOT</a><br />
+project = <a href="https://github.com/AlexShiLucky/RIOT">github.com/AlexShiLucky/RIOT</a><br />
+project = <a href="https://github.com/AlexandrSalin/RIOT">github.com/AlexandrSalin/RIOT</a><br />
+project = <a href="https://github.com/Alexmingzhi/RIOT">github.com/Alexmingzhi/RIOT</a><br />
+project = <a href="https://github.com/Allanceng/RIOT">github.com/Allanceng/RIOT</a><br />
+project = <a href="https://github.com/AltairResearch/RIOT">github.com/AltairResearch/RIOT</a><br />
+project = <a href="https://github.com/Ameya22/RIOT">github.com/Ameya22/RIOT</a><br />
+project = <a href="https://github.com/Amr221B/RIOT">github.com/Amr221B/RIOT</a><br />
+project = <a href="https://github.com/An-Andrew-Pham/RIOT-EE250">github.com/An-Andrew-Pham/RIOT-EE250</a><br />
+project = <a href="https://github.com/AnaK89/RIOT">github.com/AnaK89/RIOT</a><br />
+project = <a href="https://github.com/Angela-W/RIOT">github.com/Angela-W/RIOT</a><br />
+project = <a href="https://github.com/Ankita-Jaiswal/RIOT">github.com/Ankita-Jaiswal/RIOT</a><br />
+project = <a href="https://github.com/AnonMall/RIOT">github.com/AnonMall/RIOT</a><br />
+project = <a href="https://github.com/AppleInside/RIOT">github.com/AppleInside/RIOT</a><br />
+project = <a href="https://github.com/ArulPrasathK/RIOT">github.com/ArulPrasathK/RIOT</a><br />
+project = <a href="https://github.com/AshishkrMishra/RIOT">github.com/AshishkrMishra/RIOT</a><br />
+project = <a href="https://github.com/AskhatBaymukhamedov/RIOT">github.com/AskhatBaymukhamedov/RIOT</a><br />
+project = <a href="https://github.com/Avinash95/RIOT">github.com/Avinash95/RIOT</a><br />
+project = <a href="https://github.com/Axellant/RIOT">github.com/Axellant/RIOT</a><br />
+project = <a href="https://github.com/BOBRAPHTONE/RIOT">github.com/BOBRAPHTONE/RIOT</a><br />
+project = <a href="https://github.com/BTSGuyaderBenjamin/RIOT">github.com/BTSGuyaderBenjamin/RIOT</a><br />
+project = <a href="https://github.com/Bagginsa/RIOT">github.com/Bagginsa/RIOT</a><br />
+project = <a href="https://github.com/BamStap/RIOT">github.com/BamStap/RIOT</a><br />
+project = <a href="https://github.com/Barrymuch/RIOT">github.com/Barrymuch/RIOT</a><br />
+project = <a href="https://github.com/BenG2121/RIOT">github.com/BenG2121/RIOT</a><br />
+project = <a href="https://github.com/BigGarik/RIOT">github.com/BigGarik/RIOT</a><br />
+project = <a href="https://github.com/Bila24/RIOT">github.com/Bila24/RIOT</a><br />
+project = <a href="https://github.com/Bizordec/RIOT">github.com/Bizordec/RIOT</a><br />
+project = <a href="https://github.com/Bob-the-Kuhn/RIOT">github.com/Bob-the-Kuhn/RIOT</a><br />
+project = <a href="https://github.com/Bogatik/RIOT">github.com/Bogatik/RIOT</a><br />
+project = <a href="https://github.com/Burdaa/RIOT">github.com/Burdaa/RIOT</a><br />
+project = <a href="https://github.com/BurtonQin/RIOT">github.com/BurtonQin/RIOT</a><br />
+project = <a href="https://github.com/BytesGalore/RIOT">github.com/BytesGalore/RIOT</a><br />
+project = <a href="https://github.com/CLPopescu-1999-02/RIOT">github.com/CLPopescu-1999-02/RIOT</a><br />
+project = <a href="https://github.com/Cakhavan/RIOT-EE250">github.com/Cakhavan/RIOT-EE250</a><br />
+project = <a href="https://github.com/CaptSkull/RIOT">github.com/CaptSkull/RIOT</a><br />
+project = <a href="https://github.com/Carton32/RIOT">github.com/Carton32/RIOT</a><br />
+project = <a href="https://github.com/Circuit-killer/RIOT">github.com/Circuit-killer/RIOT</a><br />
+project = <a href="https://github.com/Citrullin/RIOT">github.com/Citrullin/RIOT</a><br />
+project = <a href="https://github.com/ClarePhang/RIOT">github.com/ClarePhang/RIOT</a><br />
+project = <a href="https://github.com/CommoDor64/RIOT">github.com/CommoDor64/RIOT</a><br />
+project = <a href="https://github.com/Conservify/RIOT">github.com/Conservify/RIOT</a><br />
+project = <a href="https://github.com/Cr0s/RIOT">github.com/Cr0s/RIOT</a><br />
+project = <a href="https://github.com/CreatorKit/RIOT-Mips">github.com/CreatorKit/RIOT-Mips</a><br />
+project = <a href="https://github.com/Cross4000/RIOT">github.com/Cross4000/RIOT</a><br />
+project = <a href="https://github.com/CrutzPan/RIOT">github.com/CrutzPan/RIOT</a><br />
+project = <a href="https://github.com/DZeyfert/RIOT">github.com/DZeyfert/RIOT</a><br />
+project = <a href="https://github.com/DamboDD/RIOT">github.com/DamboDD/RIOT</a><br />
+project = <a href="https://github.com/DapengLan/RIOT">github.com/DapengLan/RIOT</a><br />
+project = <a href="https://github.com/Darredevil/RIOT">github.com/Darredevil/RIOT</a><br />
+project = <a href="https://github.com/Deniz66/RIOT">github.com/Deniz66/RIOT</a><br />
+project = <a href="https://github.com/Derwaan/RIOT">github.com/Derwaan/RIOT</a><br />
+project = <a href="https://github.com/DipSwitch/RIOT">github.com/DipSwitch/RIOT</a><br />
+project = <a href="https://github.com/DmitryDostovalov/RIOT">github.com/DmitryDostovalov/RIOT</a><br />
+project = <a href="https://github.com/Dreyfriz/RIOT">github.com/Dreyfriz/RIOT</a><br />
+project = <a href="https://github.com/DuyTrandeLion/RIOT">github.com/DuyTrandeLion/RIOT</a><br />
+project = <a href="https://github.com/Ell-i/RIOT">github.com/Ell-i/RIOT</a><br />
+project = <a href="https://github.com/Elter71/RIOT">github.com/Elter71/RIOT</a><br />
+project = <a href="https://github.com/Eltonno/RIOT">github.com/Eltonno/RIOT</a><br />
+project = <a href="https://github.com/EmuxEvans/RIOT">github.com/EmuxEvans/RIOT</a><br />
+project = <a href="https://github.com/FeverChen/RIOT">github.com/FeverChen/RIOT</a><br />
+project = <a href="https://github.com/Flyingstone99/RIOT">github.com/Flyingstone99/RIOT</a><br />
+project = <a href="https://github.com/Former/RIOT">github.com/Former/RIOT</a><br />
+project = <a href="https://github.com/FrancescoErmini/RIOT">github.com/FrancescoErmini/RIOT</a><br />
+project = <a href="https://github.com/FuzeSoft/RIOT">github.com/FuzeSoft/RIOT</a><br />
+project = <a href="https://github.com/GHackAnonymous/RIOT">github.com/GHackAnonymous/RIOT</a><br />
+project = <a href="https://github.com/GabrielDai/RIOT">github.com/GabrielDai/RIOT</a><br />
+project = <a href="https://github.com/GeekRobert/RIOT">github.com/GeekRobert/RIOT</a><br />
+project = <a href="https://github.com/Geloi/RIOT">github.com/Geloi/RIOT</a><br />
+project = <a href="https://github.com/GenRockeR/RIOT">github.com/GenRockeR/RIOT</a><br />
+project = <a href="https://github.com/Gmedhin/RIOT">github.com/Gmedhin/RIOT</a><br />
+project = <a href="https://github.com/Goga3000/RIOT">github.com/Goga3000/RIOT</a><br />
+project = <a href="https://github.com/GoodDada/RIOT">github.com/GoodDada/RIOT</a><br />
+project = <a href="https://github.com/Gr3yh0und/RIOT">github.com/Gr3yh0und/RIOT</a><br />
+project = <a href="https://github.com/HANJINKIM/RIOT">github.com/HANJINKIM/RIOT</a><br />
+project = <a href="https://github.com/HSeemann/RIOT">github.com/HSeemann/RIOT</a><br />
+project = <a href="https://github.com/HTWDD-RN/RIOT">github.com/HTWDD-RN/RIOT</a><br />
+project = <a href="https://github.com/HaitaoLeo/RIOT">github.com/HaitaoLeo/RIOT</a><br />
+project = <a href="https://github.com/HamidiMassinissa/RIOT">github.com/HamidiMassinissa/RIOT</a><br />
+project = <a href="https://github.com/Happy-Ferret/RIOT-1">github.com/Happy-Ferret/RIOT-1</a><br />
+project = <a href="https://github.com/HarborDong/RIOT">github.com/HarborDong/RIOT</a><br />
+project = <a href="https://github.com/Hendrias/RIOT-EE250">github.com/Hendrias/RIOT-EE250</a><br />
+project = <a href="https://github.com/HendrikVE/RIOT">github.com/HendrikVE/RIOT</a><br />
+project = <a href="https://github.com/HubertXie/RIOT">github.com/HubertXie/RIOT</a><br />
+project = <a href="https://github.com/HuguLee/RIOT">github.com/HuguLee/RIOT</a><br />
+project = <a href="https://github.com/Huyfly/RIOT">github.com/Huyfly/RIOT</a><br />
+project = <a href="https://github.com/Hyungsin/RIOT-OS">github.com/Hyungsin/RIOT-OS</a><br />
+project = <a href="https://github.com/Icaltary/RIOT">github.com/Icaltary/RIOT</a><br />
+project = <a href="https://github.com/IgorBayk/RIOT">github.com/IgorBayk/RIOT</a><br />
+project = <a href="https://github.com/IgorShilov/RIOT">github.com/IgorShilov/RIOT</a><br />
+project = <a href="https://github.com/IldarValiev/RIOT">github.com/IldarValiev/RIOT</a><br />
+project = <a href="https://github.com/In0ut/RIOT">github.com/In0ut/RIOT</a><br />
+project = <a href="https://github.com/Inria-Chile/RIOT">github.com/Inria-Chile/RIOT</a><br />
+project = <a href="https://github.com/IoT6/RIOT">github.com/IoT6/RIOT</a><br />
+project = <a href="https://github.com/IoTSotA/RIOT">github.com/IoTSotA/RIOT</a><br />
+project = <a href="https://github.com/JMR-b/RIOT">github.com/JMR-b/RIOT</a><br />
+project = <a href="https://github.com/JamesLinus/RIOT">github.com/JamesLinus/RIOT</a><br />
+project = <a href="https://github.com/Janfred/RIOT">github.com/Janfred/RIOT</a><br />
+project = <a href="https://github.com/JelmerT/RIOT">github.com/JelmerT/RIOT</a><br />
+project = <a href="https://github.com/JensErdmann/RIOT">github.com/JensErdmann/RIOT</a><br />
+project = <a href="https://github.com/JensenSung/RIOT">github.com/JensenSung/RIOT</a><br />
+project = <a href="https://github.com/JerryMain/RIOT">github.com/JerryMain/RIOT</a><br />
+project = <a href="https://github.com/Jinyo-Chiu/RIOT">github.com/Jinyo-Chiu/RIOT</a><br />
+project = <a href="https://github.com/JiongFu/RIOT">github.com/JiongFu/RIOT</a><br />
+project = <a href="https://github.com/JohannesRol/RIOT">github.com/JohannesRol/RIOT</a><br />
+project = <a href="https://github.com/John-Ng/RIOT">github.com/John-Ng/RIOT</a><br />
+project = <a href="https://github.com/JonaRaemdonck/RIOT">github.com/JonaRaemdonck/RIOT</a><br />
+project = <a href="https://github.com/JonasRadtke/RIOT">github.com/JonasRadtke/RIOT</a><br />
+project = <a href="https://github.com/Josar/RIOT">github.com/Josar/RIOT</a><br />
+project = <a href="https://github.com/Josar/RIOT_XMEGA">github.com/Josar/RIOT_XMEGA</a><br />
+project = <a href="https://github.com/JulianHolzwarth/RIOT">github.com/JulianHolzwarth/RIOT</a><br />
+project = <a href="https://github.com/JulianoCristian/RIOT">github.com/JulianoCristian/RIOT</a><br />
+project = <a href="https://github.com/KamalDSOberoi/RIOT">github.com/KamalDSOberoi/RIOT</a><br />
+project = <a href="https://github.com/KarlNap/RIOT">github.com/KarlNap/RIOT</a><br />
+project = <a href="https://github.com/Karmvir5/RIOT-EE250">github.com/Karmvir5/RIOT-EE250</a><br />
+project = <a href="https://github.com/Katritz/RIOT">github.com/Katritz/RIOT</a><br />
+project = <a href="https://github.com/Kavanraj/RIOT">github.com/Kavanraj/RIOT</a><br />
+project = <a href="https://github.com/KengaRU/RIOT">github.com/KengaRU/RIOT</a><br />
+project = <a href="https://github.com/KetchupVentil/RIOT">github.com/KetchupVentil/RIOT</a><br />
+project = <a href="https://github.com/KevinYu84/RIOT">github.com/KevinYu84/RIOT</a><br />
+project = <a href="https://github.com/KhodorELKOUJOK/RIOT">github.com/KhodorELKOUJOK/RIOT</a><br />
+project = <a href="https://github.com/Kijewski/RIOT">github.com/Kijewski/RIOT</a><br />
+project = <a href="https://github.com/KillerLink/RIOT">github.com/KillerLink/RIOT</a><br />
+project = <a href="https://github.com/Koenma413/RIOT">github.com/Koenma413/RIOT</a><br />
+project = <a href="https://github.com/KomochekShersti/RIOT">github.com/KomochekShersti/RIOT</a><br />
+project = <a href="https://github.com/KuguHome/RIOT">github.com/KuguHome/RIOT</a><br />
+project = <a href="https://github.com/Kulipator/RIOT">github.com/Kulipator/RIOT</a><br />
+project = <a href="https://github.com/KumarAmitMehta/RIOT">github.com/KumarAmitMehta/RIOT</a><br />
+project = <a href="https://github.com/KyshinLiu/RIOT">github.com/KyshinLiu/RIOT</a><br />
+project = <a href="https://github.com/LGTMCU/RIOT">github.com/LGTMCU/RIOT</a><br />
+project = <a href="https://github.com/LaszloLango/RIOT">github.com/LaszloLango/RIOT</a><br />
+project = <a href="https://github.com/LenarIO/RIOT">github.com/LenarIO/RIOT</a><br />
+project = <a href="https://github.com/Lexandro92/RIOT-CoAP">github.com/Lexandro92/RIOT-CoAP</a><br />
+project = <a href="https://github.com/Lotterleben/RIOT">github.com/Lotterleben/RIOT</a><br />
+project = <a href="https://github.com/Lstallone/RIOT">github.com/Lstallone/RIOT</a><br />
+project = <a href="https://github.com/LucaZulberti/RIOT">github.com/LucaZulberti/RIOT</a><br />
+project = <a href="https://github.com/LudwigKnuepfer/RIOT">github.com/LudwigKnuepfer/RIOT</a><br />
+project = <a href="https://github.com/LudwigOrtmann/RIOT">github.com/LudwigOrtmann/RIOT</a><br />
+project = <a href="https://github.com/Lydrin/RIOT">github.com/Lydrin/RIOT</a><br />
+project = <a href="https://github.com/MKot13/RIOT">github.com/MKot13/RIOT</a><br />
+project = <a href="https://github.com/MOSAIC-LoPoW/RIOT">github.com/MOSAIC-LoPoW/RIOT</a><br />
+project = <a href="https://github.com/MaLa-HAW/RIOT">github.com/MaLa-HAW/RIOT</a><br />
+project = <a href="https://github.com/MailiLoh/RIOT">github.com/MailiLoh/RIOT</a><br />
+project = <a href="https://github.com/Manchenkoos/RIOT">github.com/Manchenkoos/RIOT</a><br />
+project = <a href="https://github.com/Manoharsai/RIOT">github.com/Manoharsai/RIOT</a><br />
+project = <a href="https://github.com/Manu2312/RIOT">github.com/Manu2312/RIOT</a><br />
+project = <a href="https://github.com/Marc-Aurele/RIOT">github.com/Marc-Aurele/RIOT</a><br />
+project = <a href="https://github.com/MarkXYang/RIOT">github.com/MarkXYang/RIOT</a><br />
+project = <a href="https://github.com/Marrakchino/RIOT">github.com/Marrakchino/RIOT</a><br />
+project = <a href="https://github.com/MartinaFHCW/RIOT">github.com/MartinaFHCW/RIOT</a><br />
+project = <a href="https://github.com/MatKub/RIOT">github.com/MatKub/RIOT</a><br />
+project = <a href="https://github.com/Mecabot/RIOT">github.com/Mecabot/RIOT</a><br />
+project = <a href="https://github.com/MichelRottleuthner/RIOT">github.com/MichelRottleuthner/RIOT</a><br />
+project = <a href="https://github.com/Misaka0x2730/RIOT">github.com/Misaka0x2730/RIOT</a><br />
+project = <a href="https://github.com/Mizyukanova/RIOT">github.com/Mizyukanova/RIOT</a><br />
+project = <a href="https://github.com/MohamedSeliem/RIOT">github.com/MohamedSeliem/RIOT</a><br />
+project = <a href="https://github.com/MohmadAyman/RIOT">github.com/MohmadAyman/RIOT</a><br />
+project = <a href="https://github.com/MonsterCode8000/RIOT">github.com/MonsterCode8000/RIOT</a><br />
+project = <a href="https://github.com/Mr-Jason-Sam/RIOT">github.com/Mr-Jason-Sam/RIOT</a><br />
+project = <a href="https://github.com/MrFresh1/RIOT">github.com/MrFresh1/RIOT</a><br />
+project = <a href="https://github.com/MrKevinWeiss/RIOT">github.com/MrKevinWeiss/RIOT</a><br />
+project = <a href="https://github.com/Mucka/RIOT">github.com/Mucka/RIOT</a><br />
+project = <a href="https://github.com/MuhammadTanweer/RIOT">github.com/MuhammadTanweer/RIOT</a><br />
+project = <a href="https://github.com/MxMalk/RIOT">github.com/MxMalk/RIOT</a><br />
+project = <a href="https://github.com/MyCodeMyMoney/RIOT">github.com/MyCodeMyMoney/RIOT</a><br />
+project = <a href="https://github.com/N5FPP/RIOT">github.com/N5FPP/RIOT</a><br />
+project = <a href="https://github.com/NERD-Repo/RIOT">github.com/NERD-Repo/RIOT</a><br />
+project = <a href="https://github.com/NEXTLEO/RIOT">github.com/NEXTLEO/RIOT</a><br />
+project = <a href="https://github.com/NLardenois/RIOT">github.com/NLardenois/RIOT</a><br />
+project = <a href="https://github.com/Na55im/RIOT">github.com/Na55im/RIOT</a><br />
+project = <a href="https://github.com/Nenaco/RIOT">github.com/Nenaco/RIOT</a><br />
+project = <a href="https://github.com/NickMinnellaCS96/RIOT">github.com/NickMinnellaCS96/RIOT</a><br />
+project = <a href="https://github.com/NilayPachauri/RIOT-EE250">github.com/NilayPachauri/RIOT-EE250</a><br />
+project = <a href="https://github.com/Nilshut/RIOT">github.com/Nilshut/RIOT</a><br />
+project = <a href="https://github.com/Nishchay-sopho/RIOT-Bundle-Protocol">github.com/Nishchay-sopho/RIOT-Bundle-Protocol</a><br />
+project = <a href="https://github.com/Nmeum/RIOT">github.com/Nmeum/RIOT</a><br />
+project = <a href="https://github.com/OTAkeys/RIOT">github.com/OTAkeys/RIOT</a><br />
+project = <a href="https://github.com/OYTIS/RIOT">github.com/OYTIS/RIOT</a><br />
+project = <a href="https://github.com/OYTIS/RIOT-kea">github.com/OYTIS/RIOT-kea</a><br />
+project = <a href="https://github.com/OlegHahm/RIOT">github.com/OlegHahm/RIOT</a><br />
+project = <a href="https://github.com/OnsetComputerCorp/RIOT">github.com/OnsetComputerCorp/RIOT</a><br />
+project = <a href="https://github.com/Osarua/RIOT">github.com/Osarua/RIOT</a><br />
+project = <a href="https://github.com/Osblouf/RIOT">github.com/Osblouf/RIOT</a><br />
+project = <a href="https://github.com/Otmane123/RIOT">github.com/Otmane123/RIOT</a><br />
+project = <a href="https://github.com/Ouss4/RIOT">github.com/Ouss4/RIOT</a><br />
+project = <a href="https://github.com/OverDriveGain/RIOT">github.com/OverDriveGain/RIOT</a><br />
+project = <a href="https://github.com/PONFmodular/RIOT">github.com/PONFmodular/RIOT</a><br />
+project = <a href="https://github.com/ParksProjets/RIOT">github.com/ParksProjets/RIOT</a><br />
+project = <a href="https://github.com/PavelVorobyev97/RIOT">github.com/PavelVorobyev97/RIOT</a><br />
+project = <a href="https://github.com/PeterKietzmann/RIOT">github.com/PeterKietzmann/RIOT</a><br />
+project = <a href="https://github.com/PeterKietzmann/RIOT-EWSN16-Demo">github.com/PeterKietzmann/RIOT-EWSN16-Demo</a><br />
+project = <a href="https://github.com/PiWare/RIOT">github.com/PiWare/RIOT</a><br />
+project = <a href="https://github.com/PisalPrasad123/RIOT">github.com/PisalPrasad123/RIOT</a><br />
+project = <a href="https://github.com/PowerProfiler/RIOT">github.com/PowerProfiler/RIOT</a><br />
+project = <a href="https://github.com/Probelp/RIOT">github.com/Probelp/RIOT</a><br />
+project = <a href="https://github.com/RBartz/RIOT">github.com/RBartz/RIOT</a><br />
+project = <a href="https://github.com/RF-Networks/RIOT">github.com/RF-Networks/RIOT</a><br />
+project = <a href="https://github.com/RIOT-OS/RIOT">github.com/RIOT-OS/RIOT</a><br />
+project = <a href="https://github.com/RWTH-OS/RIOT">github.com/RWTH-OS/RIOT</a><br />
+project = <a href="https://github.com/RaphaelBidaud/RIOT">github.com/RaphaelBidaud/RIOT</a><br />
+project = <a href="https://github.com/RasmusAntons/RIOT">github.com/RasmusAntons/RIOT</a><br />
+project = <a href="https://github.com/ReneHerthel/RIOT">github.com/ReneHerthel/RIOT</a><br />
+project = <a href="https://github.com/RichardH92/RIOT">github.com/RichardH92/RIOT</a><br />
+project = <a href="https://github.com/Ritishk12/RIOT">github.com/Ritishk12/RIOT</a><br />
+project = <a href="https://github.com/Rotzbua/RIOT">github.com/Rotzbua/RIOT</a><br />
+project = <a href="https://github.com/RoySCU/RIOT">github.com/RoySCU/RIOT</a><br />
+project = <a href="https://github.com/RubikonAlpha/RIOT">github.com/RubikonAlpha/RIOT</a><br />
+project = <a href="https://github.com/Rufwame/RIOT">github.com/Rufwame/RIOT</a><br />
+project = <a href="https://github.com/RumBlalGalaxy/RIOT">github.com/RumBlalGalaxy/RIOT</a><br />
+project = <a href="https://github.com/SCiMOS/RIOT">github.com/SCiMOS/RIOT</a><br />
+project = <a href="https://github.com/SSV-embedded/RIOT">github.com/SSV-embedded/RIOT</a><br />
+project = <a href="https://github.com/SWIE-IO/RIOT">github.com/SWIE-IO/RIOT</a><br />
+project = <a href="https://github.com/SaiNavyaNelavelli/RIOT">github.com/SaiNavyaNelavelli/RIOT</a><br />
+project = <a href="https://github.com/Salomonic/RIOT">github.com/Salomonic/RIOT</a><br />
+project = <a href="https://github.com/Sarajova/RIOT">github.com/Sarajova/RIOT</a><br />
+project = <a href="https://github.com/SebastianSzymczak/RIOT">github.com/SebastianSzymczak/RIOT</a><br />
+project = <a href="https://github.com/SebastianWilkes/RIOT">github.com/SebastianWilkes/RIOT</a><br />
+project = <a href="https://github.com/SemjonKerner/RIOT">github.com/SemjonKerner/RIOT</a><br />
+project = <a href="https://github.com/Slider043/RIOT">github.com/Slider043/RIOT</a><br />
+project = <a href="https://github.com/SmallSharky/riot-edu">github.com/SmallSharky/riot-edu</a><br />
+project = <a href="https://github.com/Subor-gfraf/RIOT">github.com/Subor-gfraf/RIOT</a><br />
+project = <a href="https://github.com/TaquyeddineZegaoui/RIOT">github.com/TaquyeddineZegaoui/RIOT</a><br />
+project = <a href="https://github.com/ThanhVic/RIOT">github.com/ThanhVic/RIOT</a><br />
+project = <a href="https://github.com/TheSkape/RIOT">github.com/TheSkape/RIOT</a><br />
+project = <a href="https://github.com/TheSwagMan/riot_test">github.com/TheSwagMan/riot_test</a><br />
+project = <a href="https://github.com/TizenTeam/RIOT">github.com/TizenTeam/RIOT</a><br />
+project = <a href="https://github.com/TobiasFredersdorf/RIOT">github.com/TobiasFredersdorf/RIOT</a><br />
+project = <a href="https://github.com/VALaptev/RIOT">github.com/VALaptev/RIOT</a><br />
+project = <a href="https://github.com/ViktorVaczi90/RIOT">github.com/ViktorVaczi90/RIOT</a><br />
+project = <a href="https://github.com/VilleHiltunen/RIOT">github.com/VilleHiltunen/RIOT</a><br />
+project = <a href="https://github.com/Waldgeist84/RIOT">github.com/Waldgeist84/RIOT</a><br />
+project = <a href="https://github.com/aabadie/RIOT">github.com/aabadie/RIOT</a><br />
+project = <a href="https://github.com/abkam07/RIOT">github.com/abkam07/RIOT</a><br />
+project = <a href="https://github.com/abp719/RIOT">github.com/abp719/RIOT</a><br />
+project = <a href="https://github.com/adityaseven/RIOT">github.com/adityaseven/RIOT</a><br />
+project = <a href="https://github.com/alex1818/RIOT">github.com/alex1818/RIOT</a><br />
+project = <a href="https://github.com/alexiss03/riot-os-cs250">github.com/alexiss03/riot-os-cs250</a><br />
+project = <a href="https://github.com/altairpearl/RIOT">github.com/altairpearl/RIOT</a><br />
+project = <a href="https://github.com/andrlee/RIOT">github.com/andrlee/RIOT</a><br />
+project = <a href="https://github.com/anurudh27/RIOT">github.com/anurudh27/RIOT</a><br />
+project = <a href="https://github.com/arvindpdmn/RIOT">github.com/arvindpdmn/RIOT</a><br />
+project = <a href="https://github.com/asdjah/RIOT">github.com/asdjah/RIOT</a><br />
+project = <a href="https://github.com/aspyver/RIOT">github.com/aspyver/RIOT</a><br />
+project = <a href="https://github.com/asquini/RIOT">github.com/asquini/RIOT</a><br />
+project = <a href="https://github.com/attdona/RIOT">github.com/attdona/RIOT</a><br />
+project = <a href="https://github.com/authmillenon/RIOT">github.com/authmillenon/RIOT</a><br />
+project = <a href="https://github.com/automote/RIOT">github.com/automote/RIOT</a><br />
+project = <a href="https://github.com/avmelnikoff/RIOT">github.com/avmelnikoff/RIOT</a><br />
+project = <a href="https://github.com/ayush7gupta/IPv4_Riot">github.com/ayush7gupta/IPv4_Riot</a><br />
+project = <a href="https://github.com/basilfx/RIOT">github.com/basilfx/RIOT</a><br />
+project = <a href="https://github.com/beduino-project/RIOT">github.com/beduino-project/RIOT</a><br />
+project = <a href="https://github.com/beduino-project/RIOT-POLICE">github.com/beduino-project/RIOT-POLICE</a><br />
+project = <a href="https://github.com/benemorius/RIOT">github.com/benemorius/RIOT</a><br />
+project = <a href="https://github.com/benpicco/RIOT">github.com/benpicco/RIOT</a><br />
+project = <a href="https://github.com/berbecche/RIOT">github.com/berbecche/RIOT</a><br />
+project = <a href="https://github.com/bergzand/RIOT">github.com/bergzand/RIOT</a><br />
+project = <a href="https://github.com/beurdouche/RIOT">github.com/beurdouche/RIOT</a><br />
+project = <a href="https://github.com/bhargav2408/RIOT">github.com/bhargav2408/RIOT</a><br />
+project = <a href="https://github.com/biboc/RIOT">github.com/biboc/RIOT</a><br />
+project = <a href="https://github.com/billyzhaoj/RIOT-OS">github.com/billyzhaoj/RIOT-OS</a><br />
+project = <a href="https://github.com/binarylemon/RIOT">github.com/binarylemon/RIOT</a><br />
+project = <a href="https://github.com/bitbucket.org/jcarrano_riot-os">github.com/bitbucket.org/jcarrano_riot-os</a><br />
+project = <a href="https://github.com/bitbucket.org/nbmaiti_riot">github.com/bitbucket.org/nbmaiti_riot</a><br />
+project = <a href="https://github.com/blaisehorvath/RIOT">github.com/blaisehorvath/RIOT</a><br />
+project = <a href="https://github.com/bmd00bmd/KubOS">github.com/bmd00bmd/KubOS</a><br />
+project = <a href="https://github.com/bradzieminski/RIOT-EE250">github.com/bradzieminski/RIOT-EE250</a><br />
+project = <a href="https://github.com/brettswann/RIOT">github.com/brettswann/RIOT</a><br />
+project = <a href="https://github.com/brummer-simon/RIOT">github.com/brummer-simon/RIOT</a><br />
+project = <a href="https://github.com/bumpy-b/RIOT">github.com/bumpy-b/RIOT</a><br />
+project = <a href="https://github.com/bygit/RIOT">github.com/bygit/RIOT</a><br />
+project = <a href="https://github.com/cha63506/RIOT">github.com/cha63506/RIOT</a><br />
+project = <a href="https://github.com/checorone/motoguard-enddevice">github.com/checorone/motoguard-enddevice</a><br />
+project = <a href="https://github.com/clem-bluefruit/RIOT">github.com/clem-bluefruit/RIOT</a><br />
+project = <a href="https://github.com/codeForSaif/RIOT">github.com/codeForSaif/RIOT</a><br />
+project = <a href="https://github.com/crest42/RIOT">github.com/crest42/RIOT</a><br />
+project = <a href="https://github.com/czarsir/RIOT">github.com/czarsir/RIOT</a><br />
+project = <a href="https://github.com/czoksu/RIOT">github.com/czoksu/RIOT</a><br />
+project = <a href="https://github.com/d00616/RIOT">github.com/d00616/RIOT</a><br />
+project = <a href="https://github.com/d12y12/RIOT">github.com/d12y12/RIOT</a><br />
+project = <a href="https://github.com/daemory/RIOT">github.com/daemory/RIOT</a><br />
+project = <a href="https://github.com/dailab/RIOT">github.com/dailab/RIOT</a><br />
+project = <a href="https://github.com/danebennett/RIOT">github.com/danebennett/RIOT</a><br />
+project = <a href="https://github.com/daniel-k/RIOT">github.com/daniel-k/RIOT</a><br />
+project = <a href="https://github.com/daniel-kelley/RIOT">github.com/daniel-kelley/RIOT</a><br />
+project = <a href="https://github.com/danielamkaer/RIOT">github.com/danielamkaer/RIOT</a><br />
+project = <a href="https://github.com/danielinux/RIOT">github.com/danielinux/RIOT</a><br />
+project = <a href="https://github.com/danpetry/RIOT">github.com/danpetry/RIOT</a><br />
+project = <a href="https://github.com/datachi7d/RIOT">github.com/datachi7d/RIOT</a><br />
+project = <a href="https://github.com/davidmr001/RIOT">github.com/davidmr001/RIOT</a><br />
+project = <a href="https://github.com/davidvalarezo/RIOT">github.com/davidvalarezo/RIOT</a><br />
+project = <a href="https://github.com/davidvalarezo/RIOT-1">github.com/davidvalarezo/RIOT-1</a><br />
+project = <a href="https://github.com/dbohn/RIOT">github.com/dbohn/RIOT</a><br />
+project = <a href="https://github.com/dboschm/RIOT-Xtensa-ESP">github.com/dboschm/RIOT-Xtensa-ESP</a><br />
+project = <a href="https://github.com/ddiddlepants/RIOT-EE250">github.com/ddiddlepants/RIOT-EE250</a><br />
+project = <a href="https://github.com/ddreyer/RIOT-OS">github.com/ddreyer/RIOT-OS</a><br />
+project = <a href="https://github.com/ddreyer/RIOT-OS-1">github.com/ddreyer/RIOT-OS-1</a><br />
+project = <a href="https://github.com/ddreyer/RIOT-OS-class">github.com/ddreyer/RIOT-OS-class</a><br />
+project = <a href="https://github.com/ddreyer/openthread">github.com/ddreyer/openthread</a><br />
+project = <a href="https://github.com/decolnz/RIOT">github.com/decolnz/RIOT</a><br />
+project = <a href="https://github.com/deepfryed/RIOT">github.com/deepfryed/RIOT</a><br />
+project = <a href="https://github.com/deniskropp/RIOT">github.com/deniskropp/RIOT</a><br />
+project = <a href="https://github.com/denizs/RIOT">github.com/denizs/RIOT</a><br />
+project = <a href="https://github.com/denizs/riot">github.com/denizs/riot</a><br />
+project = <a href="https://github.com/denykk/RIOT">github.com/denykk/RIOT</a><br />
+project = <a href="https://github.com/derf/RIOT">github.com/derf/RIOT</a><br />
+project = <a href="https://github.com/devantormey/RIOT-EE250">github.com/devantormey/RIOT-EE250</a><br />
+project = <a href="https://github.com/deviance/RIOT">github.com/deviance/RIOT</a><br />
+project = <a href="https://github.com/dhruvvyas90/RIOT">github.com/dhruvvyas90/RIOT</a><br />
+project = <a href="https://github.com/diddyhsv/RIOT">github.com/diddyhsv/RIOT</a><br />
+project = <a href="https://github.com/dkazantzas/RIOT">github.com/dkazantzas/RIOT</a><br />
+project = <a href="https://github.com/dkm/RIOT">github.com/dkm/RIOT</a><br />
+project = <a href="https://github.com/dmdsouza/RIOT">github.com/dmdsouza/RIOT</a><br />
+project = <a href="https://github.com/dmoldova/RIOT-EE250">github.com/dmoldova/RIOT-EE250</a><br />
+project = <a href="https://github.com/docdor/RIOT">github.com/docdor/RIOT</a><br />
+project = <a href="https://github.com/dongdongbh/RIOT">github.com/dongdongbh/RIOT</a><br />
+project = <a href="https://github.com/dongkc/RIOT">github.com/dongkc/RIOT</a><br />
+project = <a href="https://github.com/doniexun/RIOT">github.com/doniexun/RIOT</a><br />
+project = <a href="https://github.com/dorukarda/RIOT">github.com/dorukarda/RIOT</a><br />
+project = <a href="https://github.com/doudoudq/RIOT">github.com/doudoudq/RIOT</a><br />
+project = <a href="https://github.com/drasko/RIOT">github.com/drasko/RIOT</a><br />
+project = <a href="https://github.com/drcef/RIOT">github.com/drcef/RIOT</a><br />
+project = <a href="https://github.com/drmrboy/RIOT">github.com/drmrboy/RIOT</a><br />
+project = <a href="https://github.com/duanlv/RIOT">github.com/duanlv/RIOT</a><br />
+project = <a href="https://github.com/dut3062796s/RIOT-1">github.com/dut3062796s/RIOT-1</a><br />
+project = <a href="https://github.com/duv16/RIOT">github.com/duv16/RIOT</a><br />
+project = <a href="https://github.com/dylad/RIOT">github.com/dylad/RIOT</a><br />
+project = <a href="https://github.com/eacioffi/RIOT-EE250">github.com/eacioffi/RIOT-EE250</a><br />
+project = <a href="https://github.com/ecioffi/RIOT-EE250">github.com/ecioffi/RIOT-EE250</a><br />
+project = <a href="https://github.com/edgarmar2/RIOT-EE250">github.com/edgarmar2/RIOT-EE250</a><br />
+project = <a href="https://github.com/eeinz/RIOT">github.com/eeinz/RIOT</a><br />
+project = <a href="https://github.com/eerokhakala/RIOT">github.com/eerokhakala/RIOT</a><br />
+project = <a href="https://github.com/eggfly/RIOT">github.com/eggfly/RIOT</a><br />
+project = <a href="https://github.com/ehsanamin1990/RIOT">github.com/ehsanamin1990/RIOT</a><br />
+project = <a href="https://github.com/einars/RIOT">github.com/einars/RIOT</a><br />
+project = <a href="https://github.com/eistec/RIOT">github.com/eistec/RIOT</a><br />
+project = <a href="https://github.com/elecfist/RIOT">github.com/elecfist/RIOT</a><br />
+project = <a href="https://github.com/elix22/RIOT">github.com/elix22/RIOT</a><br />
+project = <a href="https://github.com/elvaigh/RIOT">github.com/elvaigh/RIOT</a><br />
+project = <a href="https://github.com/emmanuelsearch/RIOT">github.com/emmanuelsearch/RIOT</a><br />
+project = <a href="https://github.com/emuhedo/RIOT">github.com/emuhedo/RIOT</a><br />
+project = <a href="https://github.com/enzingerm/RIOT">github.com/enzingerm/RIOT</a><br />
+project = <a href="https://github.com/ericyao2013/RIOT">github.com/ericyao2013/RIOT</a><br />
+project = <a href="https://github.com/erlerobot/RIOT">github.com/erlerobot/RIOT</a><br />
+project = <a href="https://github.com/euboss/RIOT">github.com/euboss/RIOT</a><br />
+project = <a href="https://github.com/eugenscobich/RIOT">github.com/eugenscobich/RIOT</a><br />
+project = <a href="https://github.com/fajb/RIOT">github.com/fajb/RIOT</a><br />
+project = <a href="https://github.com/fanghuaqi/RIOT">github.com/fanghuaqi/RIOT</a><br />
+project = <a href="https://github.com/fanxiaohui/RIOT">github.com/fanxiaohui/RIOT</a><br />
+project = <a href="https://github.com/fbsder/RIOT">github.com/fbsder/RIOT</a><br />
+project = <a href="https://github.com/fcgdam/RIOT">github.com/fcgdam/RIOT</a><br />
+project = <a href="https://github.com/fedepell/RIOT">github.com/fedepell/RIOT</a><br />
+project = <a href="https://github.com/fesselk/RIOT">github.com/fesselk/RIOT</a><br />
+project = <a href="https://github.com/fetmos/RIOT">github.com/fetmos/RIOT</a><br />
+project = <a href="https://github.com/fhessel/RIOT">github.com/fhessel/RIOT</a><br />
+project = <a href="https://github.com/fjmolinas/RIOT">github.com/fjmolinas/RIOT</a><br />
+project = <a href="https://github.com/flavius-aetios/RIOT">github.com/flavius-aetios/RIOT</a><br />
+project = <a href="https://github.com/flipreverse/RIOT">github.com/flipreverse/RIOT</a><br />
+project = <a href="https://github.com/florian-jean/RIOT">github.com/florian-jean/RIOT</a><br />
+project = <a href="https://github.com/flyhigh46/RIOT">github.com/flyhigh46/RIOT</a><br />
+project = <a href="https://github.com/fokin91/RIOT">github.com/fokin91/RIOT</a><br />
+project = <a href="https://github.com/fozc/RIOT">github.com/fozc/RIOT</a><br />
+project = <a href="https://github.com/fragomr/RIOT">github.com/fragomr/RIOT</a><br />
+project = <a href="https://github.com/francois-berder-imgtec/RIOT">github.com/francois-berder-imgtec/RIOT</a><br />
+project = <a href="https://github.com/francois-berder/RIOT">github.com/francois-berder/RIOT</a><br />
+project = <a href="https://github.com/frankamente/RIOT">github.com/frankamente/RIOT</a><br />
+project = <a href="https://github.com/freemanZYQ/RIOT">github.com/freemanZYQ/RIOT</a><br />
+project = <a href="https://github.com/fsolanod/RIOT">github.com/fsolanod/RIOT</a><br />
+project = <a href="https://github.com/fu-ilab-swp18/RIOT">github.com/fu-ilab-swp18/RIOT</a><br />
+project = <a href="https://github.com/fu-ilab-swp18/RIOT_pflanzen1">github.com/fu-ilab-swp18/RIOT_pflanzen1</a><br />
+project = <a href="https://github.com/fu-inet-swp17/RIOT">github.com/fu-inet-swp17/RIOT</a><br />
+project = <a href="https://github.com/future-proof-iot/RIOT">github.com/future-proof-iot/RIOT</a><br />
+project = <a href="https://github.com/fvacek/RIOT">github.com/fvacek/RIOT</a><br />
+project = <a href="https://github.com/fzi-forschungszentrum-informatik/RIOT64">github.com/fzi-forschungszentrum-informatik/RIOT64</a><br />
+project = <a href="https://github.com/fzy-Line/RIOT">github.com/fzy-Line/RIOT</a><br />
+project = <a href="https://github.com/gandy555/RIOT">github.com/gandy555/RIOT</a><br />
+project = <a href="https://github.com/gautric/RIOT">github.com/gautric/RIOT</a><br />
+project = <a href="https://github.com/gbarnett/RIOT">github.com/gbarnett/RIOT</a><br />
+project = <a href="https://github.com/gdoffe/RIOT">github.com/gdoffe/RIOT</a><br />
+project = <a href="https://github.com/george-hopkins/RIOT">github.com/george-hopkins/RIOT</a><br />
+project = <a href="https://github.com/geromueller/RIOT">github.com/geromueller/RIOT</a><br />
+project = <a href="https://github.com/gh18/RIOT">github.com/gh18/RIOT</a><br />
+project = <a href="https://github.com/ghavag/RIOT">github.com/ghavag/RIOT</a><br />
+project = <a href="https://github.com/ghice/RIOT">github.com/ghice/RIOT</a><br />
+project = <a href="https://github.com/ginetrix/RIOT">github.com/ginetrix/RIOT</a><br />
+project = <a href="https://github.com/girisugu2/RIOT">github.com/girisugu2/RIOT</a><br />
+project = <a href="https://github.com/girtsf/RIOT">github.com/girtsf/RIOT</a><br />
+project = <a href="https://github.com/gitcreater/RIOT">github.com/gitcreater/RIOT</a><br />
+project = <a href="https://github.com/gitlab.com/Gvanroon_RIOT">github.com/gitlab.com/Gvanroon_RIOT</a><br />
+project = <a href="https://github.com/gitlab.com/Spence_RIOT">github.com/gitlab.com/Spence_RIOT</a><br />
+project = <a href="https://github.com/gitlab.com/anilkumarsoma_RIOT">github.com/gitlab.com/anilkumarsoma_RIOT</a><br />
+project = <a href="https://github.com/gitlab.com/cellu_cc_riot">github.com/gitlab.com/cellu_cc_riot</a><br />
+project = <a href="https://github.com/gitlab.com/frankamente_RIOT">github.com/gitlab.com/frankamente_RIOT</a><br />
+project = <a href="https://github.com/gitlab.com/gspu_RIOT">github.com/gitlab.com/gspu_RIOT</a><br />
+project = <a href="https://github.com/gitlab.com/nicholas_jackson_RIOT">github.com/gitlab.com/nicholas_jackson_RIOT</a><br />
+project = <a href="https://github.com/gitlab.com/openrov_trident/trident-fw-samd">github.com/gitlab.com/openrov_trident/trident-fw-samd</a><br />
+project = <a href="https://github.com/gitlab.com/openrov_trident_trident-fw-samd">github.com/gitlab.com/openrov_trident_trident-fw-samd</a><br />
+project = <a href="https://github.com/gitlab.com/rhr407_RIOT">github.com/gitlab.com/rhr407_RIOT</a><br />
+project = <a href="https://github.com/gitlab.com/scanf_RIOT">github.com/gitlab.com/scanf_RIOT</a><br />
+project = <a href="https://github.com/gitlab.com/theja0473_RIOT">github.com/gitlab.com/theja0473_RIOT</a><br />
+project = <a href="https://github.com/gitlab.com/wsymons_riot">github.com/gitlab.com/wsymons_riot</a><br />
+project = <a href="https://github.com/glloydNAT/RIOT">github.com/glloydNAT/RIOT</a><br />
+project = <a href="https://github.com/gmsotavio/RIOT">github.com/gmsotavio/RIOT</a><br />
+project = <a href="https://github.com/gon1332/RIOT">github.com/gon1332/RIOT</a><br />
+project = <a href="https://github.com/gongfna/RIOT">github.com/gongfna/RIOT</a><br />
+project = <a href="https://github.com/gorbondiga/RIOT">github.com/gorbondiga/RIOT</a><br />
+project = <a href="https://github.com/gosticks/RIOT">github.com/gosticks/RIOT</a><br />
+project = <a href="https://github.com/graznik/RIOT">github.com/graznik/RIOT</a><br />
+project = <a href="https://github.com/groessler/RIOT">github.com/groessler/RIOT</a><br />
+project = <a href="https://github.com/gschorcht/RIOT">github.com/gschorcht/RIOT</a><br />
+project = <a href="https://github.com/gschorcht/RIOT-Xtensa-ESP">github.com/gschorcht/RIOT-Xtensa-ESP</a><br />
+project = <a href="https://github.com/gschorcht/RIOT-Xtensa-ESP8266">github.com/gschorcht/RIOT-Xtensa-ESP8266</a><br />
+project = <a href="https://github.com/gtrpucp/RIOT">github.com/gtrpucp/RIOT</a><br />
+project = <a href="https://github.com/gustavovelascoh/RIOT">github.com/gustavovelascoh/RIOT</a><br />
+project = <a href="https://github.com/gutorevoredo/RIOT">github.com/gutorevoredo/RIOT</a><br />
+project = <a href="https://github.com/guzenkovalexey/RIOT">github.com/guzenkovalexey/RIOT</a><br />
+project = <a href="https://github.com/gvz/RIOT">github.com/gvz/RIOT</a><br />
+project = <a href="https://github.com/h4nt/RIOT">github.com/h4nt/RIOT</a><br />
+project = <a href="https://github.com/habibzadeh/RIOT">github.com/habibzadeh/RIOT</a><br />
+project = <a href="https://github.com/hackerspacesv/RIOT">github.com/hackerspacesv/RIOT</a><br />
+project = <a href="https://github.com/hahchenchen/RIOT">github.com/hahchenchen/RIOT</a><br />
+project = <a href="https://github.com/haithemsekri/RIOT">github.com/haithemsekri/RIOT</a><br />
+project = <a href="https://github.com/hallo-alex/RIOT">github.com/hallo-alex/RIOT</a><br />
+project = <a href="https://github.com/hamilton-mote/RIOT-OS">github.com/hamilton-mote/RIOT-OS</a><br />
+project = <a href="https://github.com/hamilton-mote/RiSyn">github.com/hamilton-mote/RiSyn</a><br />
+project = <a href="https://github.com/haoyangyu/RIOT">github.com/haoyangyu/RIOT</a><br />
+project = <a href="https://github.com/harrisonforch/RIOT-EE250">github.com/harrisonforch/RIOT-EE250</a><br />
+project = <a href="https://github.com/harunoni/RIOT">github.com/harunoni/RIOT</a><br />
+project = <a href="https://github.com/haukepetersen/RIOT">github.com/haukepetersen/RIOT</a><br />
+project = <a href="https://github.com/heavybro/RIOT">github.com/heavybro/RIOT</a><br />
+project = <a href="https://github.com/herrfz/RIOT">github.com/herrfz/RIOT</a><br />
+project = <a href="https://github.com/hhhhhhlc/RIOT">github.com/hhhhhhlc/RIOT</a><br />
+project = <a href="https://github.com/hhy5277/RIOT-1">github.com/hhy5277/RIOT-1</a><br />
+project = <a href="https://github.com/hongkiaong/RIOT">github.com/hongkiaong/RIOT</a><br />
+project = <a href="https://github.com/houmway/RIOT">github.com/houmway/RIOT</a><br />
+project = <a href="https://github.com/hpu07/RIOT">github.com/hpu07/RIOT</a><br />
+project = <a href="https://github.com/huanquan/RIOT">github.com/huanquan/RIOT</a><br />
+project = <a href="https://github.com/huide9/RIOT">github.com/huide9/RIOT</a><br />
+project = <a href="https://github.com/huleg/RIOT">github.com/huleg/RIOT</a><br />
+project = <a href="https://github.com/huypq6/RIOT">github.com/huypq6/RIOT</a><br />
+project = <a href="https://github.com/i-spark/RIOT">github.com/i-spark/RIOT</a><br />
+project = <a href="https://github.com/i53-infrastructure/RIOT">github.com/i53-infrastructure/RIOT</a><br />
+project = <a href="https://github.com/iam-thanwa-io/RIOT">github.com/iam-thanwa-io/RIOT</a><br />
+project = <a href="https://github.com/iambijusnair/RIOT">github.com/iambijusnair/RIOT</a><br />
+project = <a href="https://github.com/ibr-cm/RIOT">github.com/ibr-cm/RIOT</a><br />
+project = <a href="https://github.com/ibriano/RIOT">github.com/ibriano/RIOT</a><br />
+project = <a href="https://github.com/icube-inetlab/RIOT-OS">github.com/icube-inetlab/RIOT-OS</a><br />
+project = <a href="https://github.com/igrik82/RIOT">github.com/igrik82/RIOT</a><br />
+project = <a href="https://github.com/iia/RIOT">github.com/iia/RIOT</a><br />
+project = <a href="https://github.com/ijip/RIOT">github.com/ijip/RIOT</a><br />
+project = <a href="https://github.com/ikshin416/RIOT">github.com/ikshin416/RIOT</a><br />
+project = <a href="https://github.com/ikvm/RIOT-1">github.com/ikvm/RIOT-1</a><br />
+project = <a href="https://github.com/iliessens/RIOT">github.com/iliessens/RIOT</a><br />
+project = <a href="https://github.com/ilya-dubinsky/RIOT">github.com/ilya-dubinsky/RIOT</a><br />
+project = <a href="https://github.com/ilya-epifanov/RIOT">github.com/ilya-epifanov/RIOT</a><br />
+project = <a href="https://github.com/immesys/RIOT">github.com/immesys/RIOT</a><br />
+project = <a href="https://github.com/immesys/RiSyn">github.com/immesys/RiSyn</a><br />
+project = <a href="https://github.com/inetrg/RIOT">github.com/inetrg/RIOT</a><br />
+project = <a href="https://github.com/injxgj/RIOT">github.com/injxgj/RIOT</a><br />
+project = <a href="https://github.com/internet-of-plants/RIOT">github.com/internet-of-plants/RIOT</a><br />
+project = <a href="https://github.com/iocainst/RIOT">github.com/iocainst/RIOT</a><br />
+project = <a href="https://github.com/iot-alex/RIOT">github.com/iot-alex/RIOT</a><br />
+project = <a href="https://github.com/iot-lab/riot-upstream">github.com/iot-lab/riot-upstream</a><br />
+project = <a href="https://github.com/iota-community/BLE-environment-sensor">github.com/iota-community/BLE-environment-sensor</a><br />
+project = <a href="https://github.com/iota-community/thingy52-env-sensor">github.com/iota-community/thingy52-env-sensor</a><br />
+project = <a href="https://github.com/iothon/RIOT">github.com/iothon/RIOT</a><br />
+project = <a href="https://github.com/iotlibrary/RIOT">github.com/iotlibrary/RIOT</a><br />
+project = <a href="https://github.com/iotvietmember/RIOT">github.com/iotvietmember/RIOT</a><br />
+project = <a href="https://github.com/iplon/RIOT">github.com/iplon/RIOT</a><br />
+project = <a href="https://github.com/ironeagle-ir/RIOT">github.com/ironeagle-ir/RIOT</a><br />
+project = <a href="https://github.com/is00hcw/RIOT-1">github.com/is00hcw/RIOT-1</a><br />
+project = <a href="https://github.com/iseitani/RIOT">github.com/iseitani/RIOT</a><br />
+project = <a href="https://github.com/iseitani/RIOT_BR">github.com/iseitani/RIOT_BR</a><br />
+project = <a href="https://github.com/it-gladkiy/RIOT">github.com/it-gladkiy/RIOT</a><br />
+project = <a href="https://github.com/ivanka6342/RIOT">github.com/ivanka6342/RIOT</a><br />
+project = <a href="https://github.com/ivantesker/RIOT">github.com/ivantesker/RIOT</a><br />
+project = <a href="https://github.com/jaeseokan94/RIOT">github.com/jaeseokan94/RIOT</a><br />
+project = <a href="https://github.com/jafffy/RIOT">github.com/jafffy/RIOT</a><br />
+project = <a href="https://github.com/jan-mo/RIOT">github.com/jan-mo/RIOT</a><br />
+project = <a href="https://github.com/janmoehl/RIOT">github.com/janmoehl/RIOT</a><br />
+project = <a href="https://github.com/jarrcan-cl/RIOT">github.com/jarrcan-cl/RIOT</a><br />
+project = <a href="https://github.com/jasonatran/RIOT">github.com/jasonatran/RIOT</a><br />
+project = <a href="https://github.com/jasonatran/iris-riot">github.com/jasonatran/iris-riot</a><br />
+project = <a href="https://github.com/javierfileiv/RIOT">github.com/javierfileiv/RIOT</a><br />
+project = <a href="https://github.com/jbeyerstedt/RIOT">github.com/jbeyerstedt/RIOT</a><br />
+project = <a href="https://github.com/jbeyerstedt/RIOT-OTA-update">github.com/jbeyerstedt/RIOT-OTA-update</a><br />
+project = <a href="https://github.com/jcarrano/RIOT">github.com/jcarrano/RIOT</a><br />
+project = <a href="https://github.com/jdhuanghub/RIOT">github.com/jdhuanghub/RIOT</a><br />
+project = <a href="https://github.com/jelledevleeschouwer/RIOT">github.com/jelledevleeschouwer/RIOT</a><br />
+project = <a href="https://github.com/jessezwd/RIOT">github.com/jessezwd/RIOT</a><br />
+project = <a href="https://github.com/jfbortolotti/RIOT">github.com/jfbortolotti/RIOT</a><br />
+project = <a href="https://github.com/jhollister/RIOT">github.com/jhollister/RIOT</a><br />
+project = <a href="https://github.com/jia200x/RIOT">github.com/jia200x/RIOT</a><br />
+project = <a href="https://github.com/jiababybaby/RIOT">github.com/jiababybaby/RIOT</a><br />
+project = <a href="https://github.com/jiangjie87481/RIOT">github.com/jiangjie87481/RIOT</a><br />
+project = <a href="https://github.com/jigla/RIOT-OS">github.com/jigla/RIOT-OS</a><br />
+project = <a href="https://github.com/jinfenw/RIOT">github.com/jinfenw/RIOT</a><br />
+project = <a href="https://github.com/jingjing54007/RIOT">github.com/jingjing54007/RIOT</a><br />
+project = <a href="https://github.com/jinhongdu/RIOT">github.com/jinhongdu/RIOT</a><br />
+project = <a href="https://github.com/jjelonek/RIOT">github.com/jjelonek/RIOT</a><br />
+project = <a href="https://github.com/jliang1010/RIOT">github.com/jliang1010/RIOT</a><br />
+project = <a href="https://github.com/jmcdon0128/RIOT">github.com/jmcdon0128/RIOT</a><br />
+project = <a href="https://github.com/jmd99/RIOT">github.com/jmd99/RIOT</a><br />
+project = <a href="https://github.com/jongbot/RIOT">github.com/jongbot/RIOT</a><br />
+project = <a href="https://github.com/jongsun5/RIOT">github.com/jongsun5/RIOT</a><br />
+project = <a href="https://github.com/jonkster/RIOT">github.com/jonkster/RIOT</a><br />
+project = <a href="https://github.com/jonkster/RIOT2">github.com/jonkster/RIOT2</a><br />
+project = <a href="https://github.com/joshuabierton/RIOT">github.com/joshuabierton/RIOT</a><br />
+project = <a href="https://github.com/jowlo/RIOT">github.com/jowlo/RIOT</a><br />
+project = <a href="https://github.com/joyshmitz/RIOT">github.com/joyshmitz/RIOT</a><br />
+project = <a href="https://github.com/jpbonn/RIOT">github.com/jpbonn/RIOT</a><br />
+project = <a href="https://github.com/jpbonn/old-riot">github.com/jpbonn/old-riot</a><br />
+project = <a href="https://github.com/jpbonn/riot">github.com/jpbonn/riot</a><br />
+project = <a href="https://github.com/jpnorair/OT-RIOT">github.com/jpnorair/OT-RIOT</a><br />
+project = <a href="https://github.com/jpnorair/RIOT">github.com/jpnorair/RIOT</a><br />
+project = <a href="https://github.com/jremmert-phytec-iot/RIOT">github.com/jremmert-phytec-iot/RIOT</a><br />
+project = <a href="https://github.com/jthacker/RIOT">github.com/jthacker/RIOT</a><br />
+project = <a href="https://github.com/jue89/RIOT">github.com/jue89/RIOT</a><br />
+project = <a href="https://github.com/julien-ioic/RIOT">github.com/julien-ioic/RIOT</a><br />
+project = <a href="https://github.com/justin1571/RIOT-EE250">github.com/justin1571/RIOT-EE250</a><br />
+project = <a href="https://github.com/justinjoy/RIOT">github.com/justinjoy/RIOT</a><br />
+project = <a href="https://github.com/jvsg/RIOT">github.com/jvsg/RIOT</a><br />
+project = <a href="https://github.com/jxnuzhangwen/RIOT">github.com/jxnuzhangwen/RIOT</a><br />
+project = <a href="https://github.com/k6dsp/RIOT">github.com/k6dsp/RIOT</a><br />
+project = <a href="https://github.com/kYc0o/RIOT">github.com/kYc0o/RIOT</a><br />
+project = <a href="https://github.com/kaibeckmann/RIOT">github.com/kaibeckmann/RIOT</a><br />
+project = <a href="https://github.com/kaidokert/RIOT">github.com/kaidokert/RIOT</a><br />
+project = <a href="https://github.com/kaifeichen/RIOT-OS">github.com/kaifeichen/RIOT-OS</a><br />
+project = <a href="https://github.com/kaleb-himes/RIOT">github.com/kaleb-himes/RIOT</a><br />
+project = <a href="https://github.com/kamar4k/RIOT">github.com/kamar4k/RIOT</a><br />
+project = <a href="https://github.com/kamejoko80/RIOT">github.com/kamejoko80/RIOT</a><br />
+project = <a href="https://github.com/kangdazhi/RIOT">github.com/kangdazhi/RIOT</a><br />
+project = <a href="https://github.com/kartben/RIOT">github.com/kartben/RIOT</a><br />
+project = <a href="https://github.com/kaspar030/RIOT">github.com/kaspar030/RIOT</a><br />
+project = <a href="https://github.com/katezilla/RIOT">github.com/katezilla/RIOT</a><br />
+project = <a href="https://github.com/kb2ma/RIOT">github.com/kb2ma/RIOT</a><br />
+project = <a href="https://github.com/kbonset/RIOT">github.com/kbonset/RIOT</a><br />
+project = <a href="https://github.com/kbumsik/RIOT">github.com/kbumsik/RIOT</a><br />
+project = <a href="https://github.com/keestux/RIOT">github.com/keestux/RIOT</a><br />
+project = <a href="https://github.com/kenkuang/RIOT">github.com/kenkuang/RIOT</a><br />
+project = <a href="https://github.com/kennethjiang/RIOT">github.com/kennethjiang/RIOT</a><br />
+project = <a href="https://github.com/kenrabold/RIOT">github.com/kenrabold/RIOT</a><br />
+project = <a href="https://github.com/kerneltask/RIOT">github.com/kerneltask/RIOT</a><br />
+project = <a href="https://github.com/kery-chen/RIOT">github.com/kery-chen/RIOT</a><br />
+project = <a href="https://github.com/kerychen/RIOT">github.com/kerychen/RIOT</a><br />
+project = <a href="https://github.com/kex2017/RIOT">github.com/kex2017/RIOT</a><br />
+project = <a href="https://github.com/khhhh/RIOT">github.com/khhhh/RIOT</a><br />
+project = <a href="https://github.com/khurananish/RIOT">github.com/khurananish/RIOT</a><br />
+project = <a href="https://github.com/kineev/RIOT">github.com/kineev/RIOT</a><br />
+project = <a href="https://github.com/kingfs/RIOT">github.com/kingfs/RIOT</a><br />
+project = <a href="https://github.com/kjh1007/RIOT">github.com/kjh1007/RIOT</a><br />
+project = <a href="https://github.com/konstantinngvk1/RIOT">github.com/konstantinngvk1/RIOT</a><br />
+project = <a href="https://github.com/kontais/RIOT">github.com/kontais/RIOT</a><br />
+project = <a href="https://github.com/kotteeswarane/CanGateway">github.com/kotteeswarane/CanGateway</a><br />
+project = <a href="https://github.com/krishnak9/RIOT">github.com/krishnak9/RIOT</a><br />
+project = <a href="https://github.com/kroesche/RIOT">github.com/kroesche/RIOT</a><br />
+project = <a href="https://github.com/ks156/RIOT">github.com/ks156/RIOT</a><br />
+project = <a href="https://github.com/kubostech/RIOT">github.com/kubostech/RIOT</a><br />
+project = <a href="https://github.com/kugel2/RIOT">github.com/kugel2/RIOT</a><br />
+project = <a href="https://github.com/kumar-jiri6/RIOT">github.com/kumar-jiri6/RIOT</a><br />
+project = <a href="https://github.com/kushalsingh007/RIOT">github.com/kushalsingh007/RIOT</a><br />
+project = <a href="https://github.com/kutama/RIOT">github.com/kutama/RIOT</a><br />
+project = <a href="https://github.com/kvbryukhanov/RIOT">github.com/kvbryukhanov/RIOT</a><br />
+project = <a href="https://github.com/kwahome/RIOT">github.com/kwahome/RIOT</a><br />
+project = <a href="https://github.com/kyrofa/RIOT">github.com/kyrofa/RIOT</a><br />
+project = <a href="https://github.com/l3nko/RIOT">github.com/l3nko/RIOT</a><br />
+project = <a href="https://github.com/lafka/RIOT">github.com/lafka/RIOT</a><br />
+project = <a href="https://github.com/lalrae/RIOT">github.com/lalrae/RIOT</a><br />
+project = <a href="https://github.com/laparmakerli/riot-upstream">github.com/laparmakerli/riot-upstream</a><br />
+project = <a href="https://github.com/latsku/RIOT">github.com/latsku/RIOT</a><br />
+project = <a href="https://github.com/lazytech-org/RIOT">github.com/lazytech-org/RIOT</a><br />
+project = <a href="https://github.com/ldesiqueira/RIOT">github.com/ldesiqueira/RIOT</a><br />
+project = <a href="https://github.com/le7amdon/RIOT">github.com/le7amdon/RIOT</a><br />
+project = <a href="https://github.com/leandrolanzieri/RIOT">github.com/leandrolanzieri/RIOT</a><br />
+project = <a href="https://github.com/lebrush/RIOT">github.com/lebrush/RIOT</a><br />
+project = <a href="https://github.com/leeminghao/RIOT">github.com/leeminghao/RIOT</a><br />
+project = <a href="https://github.com/legendary-bro/RIOT">github.com/legendary-bro/RIOT</a><br />
+project = <a href="https://github.com/lidong1266/RIOT">github.com/lidong1266/RIOT</a><br />
+project = <a href="https://github.com/liguojiang/RIOT">github.com/liguojiang/RIOT</a><br />
+project = <a href="https://github.com/lincvv/RIOT">github.com/lincvv/RIOT</a><br />
+project = <a href="https://github.com/lineCode/RIOT-1">github.com/lineCode/RIOT-1</a><br />
+project = <a href="https://github.com/linearregression/RIOT">github.com/linearregression/RIOT</a><br />
+project = <a href="https://github.com/linpingchuan/RIOT">github.com/linpingchuan/RIOT</a><br />
+project = <a href="https://github.com/linux-wpan/RIOT">github.com/linux-wpan/RIOT</a><br />
+project = <a href="https://github.com/liujiandu/RIOT">github.com/liujiandu/RIOT</a><br />
+project = <a href="https://github.com/liwangqian/RIOT">github.com/liwangqian/RIOT</a><br />
+project = <a href="https://github.com/ljs9643/RIOT">github.com/ljs9643/RIOT</a><br />
+project = <a href="https://github.com/llueder/RIOT">github.com/llueder/RIOT</a><br />
+project = <a href="https://github.com/lluminita/RIOT">github.com/lluminita/RIOT</a><br />
+project = <a href="https://github.com/lmhtz/RIOT">github.com/lmhtz/RIOT</a><br />
+project = <a href="https://github.com/locosoft1986/RIOT">github.com/locosoft1986/RIOT</a><br />
+project = <a href="https://github.com/logself1988/RIOT">github.com/logself1988/RIOT</a><br />
+project = <a href="https://github.com/lorenz9314/RIOT">github.com/lorenz9314/RIOT</a><br />
+project = <a href="https://github.com/louisyoo/RIOT">github.com/louisyoo/RIOT</a><br />
+project = <a href="https://github.com/lovelesh/RIOT">github.com/lovelesh/RIOT</a><br />
+project = <a href="https://github.com/lpaulic/RIOT">github.com/lpaulic/RIOT</a><br />
+project = <a href="https://github.com/lsaos/RIOT">github.com/lsaos/RIOT</a><br />
+project = <a href="https://github.com/luciotorre/RIOT">github.com/luciotorre/RIOT</a><br />
+project = <a href="https://github.com/luisseo01/RIOT">github.com/luisseo01/RIOT</a><br />
+project = <a href="https://github.com/lupamedeiros/RIOT">github.com/lupamedeiros/RIOT</a><br />
+project = <a href="https://github.com/lvjh/RIOT">github.com/lvjh/RIOT</a><br />
+project = <a href="https://github.com/lxsang/RIOT">github.com/lxsang/RIOT</a><br />
+project = <a href="https://github.com/lyashley/RIOT-EE250">github.com/lyashley/RIOT-EE250</a><br />
+project = <a href="https://github.com/lzbgt/RIOT">github.com/lzbgt/RIOT</a><br />
+project = <a href="https://github.com/lzj85/RIOT">github.com/lzj85/RIOT</a><br />
+project = <a href="https://github.com/m21400/RIOT">github.com/m21400/RIOT</a><br />
+project = <a href="https://github.com/m2mbr/RIOT">github.com/m2mbr/RIOT</a><br />
+project = <a href="https://github.com/madokapeng/RIOT">github.com/madokapeng/RIOT</a><br />
+project = <a href="https://github.com/maghis/RIOT">github.com/maghis/RIOT</a><br />
+project = <a href="https://github.com/mahermastouri/RIOT">github.com/mahermastouri/RIOT</a><br />
+project = <a href="https://github.com/maitysubhasis/RIOT_OS">github.com/maitysubhasis/RIOT_OS</a><br />
+project = <a href="https://github.com/makyo-dev/RIOT-1">github.com/makyo-dev/RIOT-1</a><br />
+project = <a href="https://github.com/mali/RIOT">github.com/mali/RIOT</a><br />
+project = <a href="https://github.com/malosek/RIOT">github.com/malosek/RIOT</a><br />
+project = <a href="https://github.com/manamhr/RIOT-EE250">github.com/manamhr/RIOT-EE250</a><br />
+project = <a href="https://github.com/maribu/RIOT">github.com/maribu/RIOT</a><br />
+project = <a href="https://github.com/marshall/RIOT">github.com/marshall/RIOT</a><br />
+project = <a href="https://github.com/martinheusmann/RIOT">github.com/martinheusmann/RIOT</a><br />
+project = <a href="https://github.com/massad77/RIOT">github.com/massad77/RIOT</a><br />
+project = <a href="https://github.com/mathirkub/RIOT">github.com/mathirkub/RIOT</a><br />
+project = <a href="https://github.com/mattiantonini/RIOT">github.com/mattiantonini/RIOT</a><br />
+project = <a href="https://github.com/maxvankessel/RIOT">github.com/maxvankessel/RIOT</a><br />
+project = <a href="https://github.com/mbrukman/RIOT">github.com/mbrukman/RIOT</a><br />
+project = <a href="https://github.com/mbutkereit/RIOT">github.com/mbutkereit/RIOT</a><br />
+project = <a href="https://github.com/mdodkins/RIOT">github.com/mdodkins/RIOT</a><br />
+project = <a href="https://github.com/mehrdaad/RIOT">github.com/mehrdaad/RIOT</a><br />
+project = <a href="https://github.com/mehulrijawani/RIOT">github.com/mehulrijawani/RIOT</a><br />
+project = <a href="https://github.com/mejm/RIOT">github.com/mejm/RIOT</a><br />
+project = <a href="https://github.com/melfork/RIOT">github.com/melfork/RIOT</a><br />
+project = <a href="https://github.com/melshuber/RIOT">github.com/melshuber/RIOT</a><br />
+project = <a href="https://github.com/mfkiwl/RIOT">github.com/mfkiwl/RIOT</a><br />
+project = <a href="https://github.com/mfrey/RIOT">github.com/mfrey/RIOT</a><br />
+project = <a href="https://github.com/michaelgianpowski/RIOT">github.com/michaelgianpowski/RIOT</a><br />
+project = <a href="https://github.com/michz/RIOT">github.com/michz/RIOT</a><br />
+project = <a href="https://github.com/mike168m/RIOT">github.com/mike168m/RIOT</a><br />
+project = <a href="https://github.com/ming-hai/RIOT">github.com/ming-hai/RIOT</a><br />
+project = <a href="https://github.com/minkione/RIOT">github.com/minkione/RIOT</a><br />
+project = <a href="https://github.com/miri64/RIOT">github.com/miri64/RIOT</a><br />
+project = <a href="https://github.com/mishlasfeng/RIOT">github.com/mishlasfeng/RIOT</a><br />
+project = <a href="https://github.com/mkcourse/RIOT">github.com/mkcourse/RIOT</a><br />
+project = <a href="https://github.com/mmkonrad/RIOT">github.com/mmkonrad/RIOT</a><br />
+project = <a href="https://github.com/moenoel/RIOT">github.com/moenoel/RIOT</a><br />
+project = <a href="https://github.com/mojiuyu/RIOT-1">github.com/mojiuyu/RIOT-1</a><br />
+project = <a href="https://github.com/moneytech/RIOT">github.com/moneytech/RIOT</a><br />
+project = <a href="https://github.com/monoclecat/RIOT">github.com/monoclecat/RIOT</a><br />
+project = <a href="https://github.com/moyansen/RIOT">github.com/moyansen/RIOT</a><br />
+project = <a href="https://github.com/mrazek-deakin/RIOT">github.com/mrazek-deakin/RIOT</a><br />
+project = <a href="https://github.com/mredekopp/RIOT-EE250">github.com/mredekopp/RIOT-EE250</a><br />
+project = <a href="https://github.com/mrnguyen211190/RIOT">github.com/mrnguyen211190/RIOT</a><br />
+project = <a href="https://github.com/msakil/RIOT">github.com/msakil/RIOT</a><br />
+project = <a href="https://github.com/msliusarev/RIOT">github.com/msliusarev/RIOT</a><br />
+project = <a href="https://github.com/msolters/RIOT">github.com/msolters/RIOT</a><br />
+project = <a href="https://github.com/mstn-09/RIOT">github.com/mstn-09/RIOT</a><br />
+project = <a href="https://github.com/mtausig/RIOT">github.com/mtausig/RIOT</a><br />
+project = <a href="https://github.com/mufeedpatel/RIOT">github.com/mufeedpatel/RIOT</a><br />
+project = <a href="https://github.com/muharam1991/RIOT">github.com/muharam1991/RIOT</a><br />
+project = <a href="https://github.com/mullerhx/RIOT">github.com/mullerhx/RIOT</a><br />
+project = <a href="https://github.com/mullife/RIOT">github.com/mullife/RIOT</a><br />
+project = <a href="https://github.com/murdock-ci/RIOT">github.com/murdock-ci/RIOT</a><br />
+project = <a href="https://github.com/mxbrt/RIOT">github.com/mxbrt/RIOT</a><br />
+project = <a href="https://github.com/mziegert/RIOT">github.com/mziegert/RIOT</a><br />
+project = <a href="https://github.com/n16h7br33z3/RIOT">github.com/n16h7br33z3/RIOT</a><br />
+project = <a href="https://github.com/naaonethree/RIOT-EE250">github.com/naaonethree/RIOT-EE250</a><br />
+project = <a href="https://github.com/nailanawshaba/RIOT">github.com/nailanawshaba/RIOT</a><br />
+project = <a href="https://github.com/named-data-iot/RIOT">github.com/named-data-iot/RIOT</a><br />
+project = <a href="https://github.com/namezis/RIOT">github.com/namezis/RIOT</a><br />
+project = <a href="https://github.com/nanodrone/RIOT">github.com/nanodrone/RIOT</a><br />
+project = <a href="https://github.com/nashokkumar/RIOT">github.com/nashokkumar/RIOT</a><br />
+project = <a href="https://github.com/navneetnivu07/RIOT">github.com/navneetnivu07/RIOT</a><br />
+project = <a href="https://github.com/nawL1dg3/RIOT">github.com/nawL1dg3/RIOT</a><br />
+project = <a href="https://github.com/nealjack/RIOT-OS">github.com/nealjack/RIOT-OS</a><br />
+project = <a href="https://github.com/neiljay/RIOT">github.com/neiljay/RIOT</a><br />
+project = <a href="https://github.com/neo-existenz/RIOT">github.com/neo-existenz/RIOT</a><br />
+project = <a href="https://github.com/netdebug/RIOT">github.com/netdebug/RIOT</a><br />
+project = <a href="https://github.com/netroby/RIOT">github.com/netroby/RIOT</a><br />
+project = <a href="https://github.com/netscream/RIOT">github.com/netscream/RIOT</a><br />
+project = <a href="https://github.com/ngatilio/RIOT">github.com/ngatilio/RIOT</a><br />
+project = <a href="https://github.com/nghiaducnt/LearningRIOT">github.com/nghiaducnt/LearningRIOT</a><br />
+project = <a href="https://github.com/nguyenduclam/RIOT">github.com/nguyenduclam/RIOT</a><br />
+project = <a href="https://github.com/ngwong/RIOT-EE250">github.com/ngwong/RIOT-EE250</a><br />
+project = <a href="https://github.com/nicholas-c-jackson/RIOT">github.com/nicholas-c-jackson/RIOT</a><br />
+project = <a href="https://github.com/niziak/RIOT">github.com/niziak/RIOT</a><br />
+project = <a href="https://github.com/njprogramming/RIOT">github.com/njprogramming/RIOT</a><br />
+project = <a href="https://github.com/nkristek/RIOT">github.com/nkristek/RIOT</a><br />
+project = <a href="https://github.com/nlebang/RIOT">github.com/nlebang/RIOT</a><br />
+project = <a href="https://github.com/nlinktech/RIOT">github.com/nlinktech/RIOT</a><br />
+project = <a href="https://github.com/nmehlman/RIOT-EE250">github.com/nmehlman/RIOT-EE250</a><br />
+project = <a href="https://github.com/nmeum/RIOT">github.com/nmeum/RIOT</a><br />
+project = <a href="https://github.com/nolitimere/KubOS">github.com/nolitimere/KubOS</a><br />
+project = <a href="https://github.com/nqd/RIOT">github.com/nqd/RIOT</a><br />
+project = <a href="https://github.com/nsaspook/RIOT">github.com/nsaspook/RIOT</a><br />
+project = <a href="https://github.com/ntrtrung/RIOT">github.com/ntrtrung/RIOT</a><br />
+project = <a href="https://github.com/nvv13/RIOT">github.com/nvv13/RIOT</a><br />
+project = <a href="https://github.com/nyrahul/RIOT">github.com/nyrahul/RIOT</a><br />
+project = <a href="https://github.com/o0osorentoo0o/RIOT">github.com/o0osorentoo0o/RIOT</a><br />
+project = <a href="https://github.com/obgm/RIOT">github.com/obgm/RIOT</a><br />
+project = <a href="https://github.com/ochristi/RIOT">github.com/ochristi/RIOT</a><br />
+project = <a href="https://github.com/ofauchon/RIOT">github.com/ofauchon/RIOT</a><br />
+project = <a href="https://github.com/offchooffcho/RIOT">github.com/offchooffcho/RIOT</a><br />
+project = <a href="https://github.com/oh3eqn/RIOT">github.com/oh3eqn/RIOT</a><br />
+project = <a href="https://github.com/olegart/RIOT">github.com/olegart/RIOT</a><br />
+project = <a href="https://github.com/onesmash/RIOT">github.com/onesmash/RIOT</a><br />
+project = <a href="https://github.com/openkosmosorg/RIOT">github.com/openkosmosorg/RIOT</a><br />
+project = <a href="https://github.com/openwarelab/RIOT">github.com/openwarelab/RIOT</a><br />
+project = <a href="https://github.com/orchisan/RIOT">github.com/orchisan/RIOT</a><br />
+project = <a href="https://github.com/orf53975/RIOT">github.com/orf53975/RIOT</a><br />
+project = <a href="https://github.com/ott-kiwi/RIOT">github.com/ott-kiwi/RIOT</a><br />
+project = <a href="https://github.com/pacheco017/RIOT">github.com/pacheco017/RIOT</a><br />
+project = <a href="https://github.com/palaniyappanBala/RIOT">github.com/palaniyappanBala/RIOT</a><br />
+project = <a href="https://github.com/panail/RIOT">github.com/panail/RIOT</a><br />
+project = <a href="https://github.com/panshengpeng/RIOT">github.com/panshengpeng/RIOT</a><br />
+project = <a href="https://github.com/patgrosse/RIOT">github.com/patgrosse/RIOT</a><br />
+project = <a href="https://github.com/paula75/RIOT">github.com/paula75/RIOT</a><br />
+project = <a href="https://github.com/pavelgr/RIOT">github.com/pavelgr/RIOT</a><br />
+project = <a href="https://github.com/pavlyhabashy/RIOT-EE250">github.com/pavlyhabashy/RIOT-EE250</a><br />
+project = <a href="https://github.com/pdNor/RIOT">github.com/pdNor/RIOT</a><br />
+project = <a href="https://github.com/pekkanikander/RIOT">github.com/pekkanikander/RIOT</a><br />
+project = <a href="https://github.com/pengshulin/RIOT">github.com/pengshulin/RIOT</a><br />
+project = <a href="https://github.com/peterson79/RIOT">github.com/peterson79/RIOT</a><br />
+project = <a href="https://github.com/pevasquez/RIOT">github.com/pevasquez/RIOT</a><br />
+project = <a href="https://github.com/phectori/RIOT">github.com/phectori/RIOT</a><br />
+project = <a href="https://github.com/phiros/RIOT">github.com/phiros/RIOT</a><br />
+project = <a href="https://github.com/photonthunder/RIOT">github.com/photonthunder/RIOT</a><br />
+project = <a href="https://github.com/phphy/RIOT">github.com/phphy/RIOT</a><br />
+project = <a href="https://github.com/phuonglab/RIOT">github.com/phuonglab/RIOT</a><br />
+project = <a href="https://github.com/phuongtg/RIOT">github.com/phuongtg/RIOT</a><br />
+project = <a href="https://github.com/pi-kxw/RIOT">github.com/pi-kxw/RIOT</a><br />
+project = <a href="https://github.com/pigeorge/RIOT">github.com/pigeorge/RIOT</a><br />
+project = <a href="https://github.com/pipex/RIOT">github.com/pipex/RIOT</a><br />
+project = <a href="https://github.com/piyushpandey013/RIOT">github.com/piyushpandey013/RIOT</a><br />
+project = <a href="https://github.com/pjhernandez18/RIOT-EE250">github.com/pjhernandez18/RIOT-EE250</a><br />
+project = <a href="https://github.com/pmlk/RIOT">github.com/pmlk/RIOT</a><br />
+project = <a href="https://github.com/pnunes30/RIOT">github.com/pnunes30/RIOT</a><br />
+project = <a href="https://github.com/pokgak/RIOT">github.com/pokgak/RIOT</a><br />
+project = <a href="https://github.com/pombredanne/RIOT">github.com/pombredanne/RIOT</a><br />
+project = <a href="https://github.com/poppe34/RIOT">github.com/poppe34/RIOT</a><br />
+project = <a href="https://github.com/popwolf/RIOT">github.com/popwolf/RIOT</a><br />
+project = <a href="https://github.com/ppannuto/RIOT">github.com/ppannuto/RIOT</a><br />
+project = <a href="https://github.com/prashanthhn/RIOT">github.com/prashanthhn/RIOT</a><br />
+project = <a href="https://github.com/praveenmunagapati/RIOT-2">github.com/praveenmunagapati/RIOT-2</a><br />
+project = <a href="https://github.com/praveenpenumaka/RIOT">github.com/praveenpenumaka/RIOT</a><br />
+project = <a href="https://github.com/psiemek/RIOT">github.com/psiemek/RIOT</a><br />
+project = <a href="https://github.com/pst12/RIOT">github.com/pst12/RIOT</a><br />
+project = <a href="https://github.com/psymonj/RIOT">github.com/psymonj/RIOT</a><br />
+project = <a href="https://github.com/ptz1986/RIOT">github.com/ptz1986/RIOT</a><br />
+project = <a href="https://github.com/punchcard60/KubOS">github.com/punchcard60/KubOS</a><br />
+project = <a href="https://github.com/pvikberg/RIOT">github.com/pvikberg/RIOT</a><br />
+project = <a href="https://github.com/pvikberg/RIOT_oma1">github.com/pvikberg/RIOT_oma1</a><br />
+project = <a href="https://github.com/pvsarath/RIOT">github.com/pvsarath/RIOT</a><br />
+project = <a href="https://github.com/pvyleta/RIOT">github.com/pvyleta/RIOT</a><br />
+project = <a href="https://github.com/pwillem/RIOT">github.com/pwillem/RIOT</a><br />
+project = <a href="https://github.com/pyjhhh/RIOT">github.com/pyjhhh/RIOT</a><br />
+project = <a href="https://github.com/qgyhd1234/RIOT">github.com/qgyhd1234/RIOT</a><br />
+project = <a href="https://github.com/qiaoqidui/RIOT">github.com/qiaoqidui/RIOT</a><br />
+project = <a href="https://github.com/rabinsahoo/RIOT">github.com/rabinsahoo/RIOT</a><br />
+project = <a href="https://github.com/radhios/RIOT">github.com/radhios/RIOT</a><br />
+project = <a href="https://github.com/ragulhackz125/RIOT">github.com/ragulhackz125/RIOT</a><br />
+project = <a href="https://github.com/rajma996/RIOT">github.com/rajma996/RIOT</a><br />
+project = <a href="https://github.com/rakendrathapa/RIOT">github.com/rakendrathapa/RIOT</a><br />
+project = <a href="https://github.com/rammohan2b/RIOT">github.com/rammohan2b/RIOT</a><br />
+project = <a href="https://github.com/ranbe1/RIOT">github.com/ranbe1/RIOT</a><br />
+project = <a href="https://github.com/ranjit27/RIOT">github.com/ranjit27/RIOT</a><br />
+project = <a href="https://github.com/redrabbit5/RIOT">github.com/redrabbit5/RIOT</a><br />
+project = <a href="https://github.com/redwinner/RIOT">github.com/redwinner/RIOT</a><br />
+project = <a href="https://github.com/refaqtor/RIOT">github.com/refaqtor/RIOT</a><br />
+project = <a href="https://github.com/renzoe/RIOT">github.com/renzoe/RIOT</a><br />
+project = <a href="https://github.com/rfuentess/RIOT">github.com/rfuentess/RIOT</a><br />
+project = <a href="https://github.com/rhabu01/RIOT">github.com/rhabu01/RIOT</a><br />
+project = <a href="https://github.com/rhr407/RIOT">github.com/rhr407/RIOT</a><br />
+project = <a href="https://github.com/richartk/RIOT">github.com/richartk/RIOT</a><br />
+project = <a href="https://github.com/rienafairefr/RIOT">github.com/rienafairefr/RIOT</a><br />
+project = <a href="https://github.com/riot-appstore/RIOT">github.com/riot-appstore/RIOT</a><br />
+project = <a href="https://github.com/riot-appstore/RIOT-IoThon">github.com/riot-appstore/RIOT-IoThon</a><br />
+project = <a href="https://github.com/riot-ci/RIOT">github.com/riot-ci/RIOT</a><br />
+project = <a href="https://github.com/riot-study/RIOT">github.com/riot-study/RIOT</a><br />
+project = <a href="https://github.com/rivasiv/RIOT">github.com/rivasiv/RIOT</a><br />
+project = <a href="https://github.com/rjmcguire/RIOT">github.com/rjmcguire/RIOT</a><br />
+project = <a href="https://github.com/rl1987/RIOT">github.com/rl1987/RIOT</a><br />
+project = <a href="https://github.com/robbie-cao/RIOT">github.com/robbie-cao/RIOT</a><br />
+project = <a href="https://github.com/robbie-cao/riot-stm32">github.com/robbie-cao/riot-stm32</a><br />
+project = <a href="https://github.com/robby14/RIOT">github.com/robby14/RIOT</a><br />
+project = <a href="https://github.com/roberthartung/RIOT">github.com/roberthartung/RIOT</a><br />
+project = <a href="https://github.com/robertsipka/RIOT">github.com/robertsipka/RIOT</a><br />
+project = <a href="https://github.com/robixnai/RIOT">github.com/robixnai/RIOT</a><br />
+project = <a href="https://github.com/rolandi71/RIOT">github.com/rolandi71/RIOT</a><br />
+project = <a href="https://github.com/roubra/RIOT">github.com/roubra/RIOT</a><br />
+project = <a href="https://github.com/rousselk/RIOT">github.com/rousselk/RIOT</a><br />
+project = <a href="https://github.com/rowhit/RIOT">github.com/rowhit/RIOT</a><br />
+project = <a href="https://github.com/rrzatkie/RIOT">github.com/rrzatkie/RIOT</a><br />
+project = <a href="https://github.com/rrzatkie/RIOT_COPY">github.com/rrzatkie/RIOT_COPY</a><br />
+project = <a href="https://github.com/rst256/RIOT">github.com/rst256/RIOT</a><br />
+project = <a href="https://github.com/ruhex/RIOT">github.com/ruhex/RIOT</a><br />
+project = <a href="https://github.com/rxwb/RIOT">github.com/rxwb/RIOT</a><br />
+project = <a href="https://github.com/ryankurte/riot-os">github.com/ryankurte/riot-os</a><br />
+project = <a href="https://github.com/ryanlelek/KubOS">github.com/ryanlelek/KubOS</a><br />
+project = <a href="https://github.com/salmovs/RIOT">github.com/salmovs/RIOT</a><br />
+project = <a href="https://github.com/sam-kumar/RIOT-OS">github.com/sam-kumar/RIOT-OS</a><br />
+project = <a href="https://github.com/samiralavi/RIOT">github.com/samiralavi/RIOT</a><br />
+project = <a href="https://github.com/samkumar99/RIOT-OS">github.com/samkumar99/RIOT-OS</a><br />
+project = <a href="https://github.com/samkumar/RIOT-OS">github.com/samkumar/RIOT-OS</a><br />
+project = <a href="https://github.com/samr90/RIOT">github.com/samr90/RIOT</a><br />
+project = <a href="https://github.com/sanmingshen/RIOT">github.com/sanmingshen/RIOT</a><br />
+project = <a href="https://github.com/sarathsanthoss/RIOT">github.com/sarathsanthoss/RIOT</a><br />
+project = <a href="https://github.com/sasalaza/RIOT-EE250">github.com/sasalaza/RIOT-EE250</a><br />
+project = <a href="https://github.com/sashaindrish/RIOT">github.com/sashaindrish/RIOT</a><br />
+project = <a href="https://github.com/schoradt/RIOT">github.com/schoradt/RIOT</a><br />
+project = <a href="https://github.com/sdsxpln/RIOT">github.com/sdsxpln/RIOT</a><br />
+project = <a href="https://github.com/sdttmyw/RIOT">github.com/sdttmyw/RIOT</a><br />
+project = <a href="https://github.com/seank-img/RIOT">github.com/seank-img/RIOT</a><br />
+project = <a href="https://github.com/sebastiankliem/RIOT">github.com/sebastiankliem/RIOT</a><br />
+project = <a href="https://github.com/serabiasin/RIOT">github.com/serabiasin/RIOT</a><br />
+project = <a href="https://github.com/seryi2035/RIOT">github.com/seryi2035/RIOT</a><br />
+project = <a href="https://github.com/setevod/RIOT">github.com/setevod/RIOT</a><br />
+project = <a href="https://github.com/seysn/RIOT">github.com/seysn/RIOT</a><br />
+project = <a href="https://github.com/sgso/RIOT">github.com/sgso/RIOT</a><br />
+project = <a href="https://github.com/shein318/RIOT">github.com/shein318/RIOT</a><br />
+project = <a href="https://github.com/shenfahsu/RIOT">github.com/shenfahsu/RIOT</a><br />
+project = <a href="https://github.com/shpuravasiliy/RIOT">github.com/shpuravasiliy/RIOT</a><br />
+project = <a href="https://github.com/siddh-test-4/RIOT">github.com/siddh-test-4/RIOT</a><br />
+project = <a href="https://github.com/siddharthgpta/RIOT">github.com/siddharthgpta/RIOT</a><br />
+project = <a href="https://github.com/simonsta/RIOT">github.com/simonsta/RIOT</a><br />
+project = <a href="https://github.com/sklli/RIOT">github.com/sklli/RIOT</a><br />
+project = <a href="https://github.com/sknsean/RIOT">github.com/sknsean/RIOT</a><br />
+project = <a href="https://github.com/skullbox305/RIOT">github.com/skullbox305/RIOT</a><br />
+project = <a href="https://github.com/skyformat99/RIOT">github.com/skyformat99/RIOT</a><br />
+project = <a href="https://github.com/skyformat99/RIOT-2">github.com/skyformat99/RIOT-2</a><br />
+project = <a href="https://github.com/slhsxcmy/RIOT">github.com/slhsxcmy/RIOT</a><br />
+project = <a href="https://github.com/smartuni/RIOT">github.com/smartuni/RIOT</a><br />
+project = <a href="https://github.com/smcd253/RIOT-EE250">github.com/smcd253/RIOT-EE250</a><br />
+project = <a href="https://github.com/smcd253/RIOT-EE250-1">github.com/smcd253/RIOT-EE250-1</a><br />
+project = <a href="https://github.com/smehner1/RIOT">github.com/smehner1/RIOT</a><br />
+project = <a href="https://github.com/smlng/RIOT">github.com/smlng/RIOT</a><br />
+project = <a href="https://github.com/smou/RIOT">github.com/smou/RIOT</a><br />
+project = <a href="https://github.com/snej/RIOT">github.com/snej/RIOT</a><br />
+project = <a href="https://github.com/sp-axio/RIOT">github.com/sp-axio/RIOT</a><br />
+project = <a href="https://github.com/spiridon1/RIOT">github.com/spiridon1/RIOT</a><br />
+project = <a href="https://github.com/spirit745/RIOT">github.com/spirit745/RIOT</a><br />
+project = <a href="https://github.com/starblue/RIOT">github.com/starblue/RIOT</a><br />
+project = <a href="https://github.com/stepos01/RIOT">github.com/stepos01/RIOT</a><br />
+project = <a href="https://github.com/stevenj/RIOT">github.com/stevenj/RIOT</a><br />
+project = <a href="https://github.com/sugangli/RIOT">github.com/sugangli/RIOT</a><br />
+project = <a href="https://github.com/sumanpanchal/RIOT">github.com/sumanpanchal/RIOT</a><br />
+project = <a href="https://github.com/sunghopark1/RIOT">github.com/sunghopark1/RIOT</a><br />
+project = <a href="https://github.com/superjudge/RIOT">github.com/superjudge/RIOT</a><br />
+project = <a href="https://github.com/suruz/RIOT">github.com/suruz/RIOT</a><br />
+project = <a href="https://github.com/syin2/riot-iotivity">github.com/syin2/riot-iotivity</a><br />
+project = <a href="https://github.com/tabc123/RIOT">github.com/tabc123/RIOT</a><br />
+project = <a href="https://github.com/tadryanom/RIOT">github.com/tadryanom/RIOT</a><br />
+project = <a href="https://github.com/taherrera/riot">github.com/taherrera/riot</a><br />
+project = <a href="https://github.com/tamasseller/RIOT">github.com/tamasseller/RIOT</a><br />
+project = <a href="https://github.com/tammyrobinson03/RIOT">github.com/tammyrobinson03/RIOT</a><br />
+project = <a href="https://github.com/tanupoo/RIOT">github.com/tanupoo/RIOT</a><br />
+project = <a href="https://github.com/tatyanavolkova/RIOT">github.com/tatyanavolkova/RIOT</a><br />
+project = <a href="https://github.com/tgo-s/RIOT">github.com/tgo-s/RIOT</a><br />
+project = <a href="https://github.com/theafricanengineer/RIOT">github.com/theafricanengineer/RIOT</a><br />
+project = <a href="https://github.com/theja0473/RIOT">github.com/theja0473/RIOT</a><br />
+project = <a href="https://github.com/therapier/RIOT">github.com/therapier/RIOT</a><br />
+project = <a href="https://github.com/therealmonE/RIOT">github.com/therealmonE/RIOT</a><br />
+project = <a href="https://github.com/thiagohd/RIOT">github.com/thiagohd/RIOT</a><br />
+project = <a href="https://github.com/thomaseichinger/RIOT">github.com/thomaseichinger/RIOT</a><br />
+project = <a href="https://github.com/to1st9chok/RIOT">github.com/to1st9chok/RIOT</a><br />
+project = <a href="https://github.com/tobbad/RIOT">github.com/tobbad/RIOT</a><br />
+project = <a href="https://github.com/tobhe/RIOT">github.com/tobhe/RIOT</a><br />
+project = <a href="https://github.com/tomyqg/RIOT">github.com/tomyqg/RIOT</a><br />
+project = <a href="https://github.com/tongpi/RIOT">github.com/tongpi/RIOT</a><br />
+project = <a href="https://github.com/toonst/RIOT">github.com/toonst/RIOT</a><br />
+project = <a href="https://github.com/tovanhieu/RIOT">github.com/tovanhieu/RIOT</a><br />
+project = <a href="https://github.com/tovax/RIOT">github.com/tovax/RIOT</a><br />
+project = <a href="https://github.com/tprrt/RIOT">github.com/tprrt/RIOT</a><br />
+project = <a href="https://github.com/tralivali1234/RIOT">github.com/tralivali1234/RIOT</a><br />
+project = <a href="https://github.com/travisgriggs/RIOT">github.com/travisgriggs/RIOT</a><br />
+project = <a href="https://github.com/tromex/RIOT">github.com/tromex/RIOT</a><br />
+project = <a href="https://github.com/trungkstn/RIOT">github.com/trungkstn/RIOT</a><br />
+project = <a href="https://github.com/tsutar/RIOT-EE250">github.com/tsutar/RIOT-EE250</a><br />
+project = <a href="https://github.com/turahul/RIOT">github.com/turahul/RIOT</a><br />
+project = <a href="https://github.com/txemis/RIOT">github.com/txemis/RIOT</a><br />
+project = <a href="https://github.com/typc95/RIOT">github.com/typc95/RIOT</a><br />
+project = <a href="https://github.com/tzuchiangshen/RIOT">github.com/tzuchiangshen/RIOT</a><br />
+project = <a href="https://github.com/unforgiven512/RIOT">github.com/unforgiven512/RIOT</a><br />
+project = <a href="https://github.com/unwireddevices/RIOT">github.com/unwireddevices/RIOT</a><br />
+project = <a href="https://github.com/urbangregorc/RIOT">github.com/urbangregorc/RIOT</a><br />
+project = <a href="https://github.com/usc-ee250-fall2018/RIOT-EE250">github.com/usc-ee250-fall2018/RIOT-EE250</a><br />
+project = <a href="https://github.com/vac/RIOT">github.com/vac/RIOT</a><br />
+project = <a href="https://github.com/varunpandeyengg/RIOT">github.com/varunpandeyengg/RIOT</a><br />
+project = <a href="https://github.com/vehar/RIOT">github.com/vehar/RIOT</a><br />
+project = <a href="https://github.com/vhkrishna/RIOT">github.com/vhkrishna/RIOT</a><br />
+project = <a href="https://github.com/vijaiks/RIOT">github.com/vijaiks/RIOT</a><br />
+project = <a href="https://github.com/vikingxie/RIOT">github.com/vikingxie/RIOT</a><br />
+project = <a href="https://github.com/vincent-d/RIOT">github.com/vincent-d/RIOT</a><br />
+project = <a href="https://github.com/vincentjzimmer/RIOT">github.com/vincentjzimmer/RIOT</a><br />
+project = <a href="https://github.com/vincentlao/RIOT">github.com/vincentlao/RIOT</a><br />
+project = <a href="https://github.com/vpdao/RIOT">github.com/vpdao/RIOT</a><br />
+project = <a href="https://github.com/vrosnet/RIOT">github.com/vrosnet/RIOT</a><br />
+project = <a href="https://github.com/w03/RIOT">github.com/w03/RIOT</a><br />
+project = <a href="https://github.com/waehlisch/RIOT">github.com/waehlisch/RIOT</a><br />
+project = <a href="https://github.com/wallhisg/RIOT">github.com/wallhisg/RIOT</a><br />
+project = <a href="https://github.com/wang1314well/RIOT">github.com/wang1314well/RIOT</a><br />
+project = <a href="https://github.com/watr-li/RIOT">github.com/watr-li/RIOT</a><br />
+project = <a href="https://github.com/wentaoshang/RIOT">github.com/wentaoshang/RIOT</a><br />
+project = <a href="https://github.com/wenyigao6/RIOT-EE250">github.com/wenyigao6/RIOT-EE250</a><br />
+project = <a href="https://github.com/whitefield-framework/RIOT">github.com/whitefield-framework/RIOT</a><br />
+project = <a href="https://github.com/wilhelmmatilainen/RIOT">github.com/wilhelmmatilainen/RIOT</a><br />
+project = <a href="https://github.com/witnessivan/RIOT">github.com/witnessivan/RIOT</a><br />
+project = <a href="https://github.com/wtsllc/RIOT">github.com/wtsllc/RIOT</a><br />
+project = <a href="https://github.com/wupoli/RIOT">github.com/wupoli/RIOT</a><br />
+project = <a href="https://github.com/wuzeen/RIOT">github.com/wuzeen/RIOT</a><br />
+project = <a href="https://github.com/wwhuang/RIOT-OS">github.com/wwhuang/RIOT-OS</a><br />
+project = <a href="https://github.com/wxh0000mm/RIOT">github.com/wxh0000mm/RIOT</a><br />
+project = <a href="https://github.com/xjump/RIOT">github.com/xjump/RIOT</a><br />
+project = <a href="https://github.com/xsider/RIOT">github.com/xsider/RIOT</a><br />
+project = <a href="https://github.com/xzm7358/RIOT">github.com/xzm7358/RIOT</a><br />
+project = <a href="https://github.com/ycs0405/RIOT">github.com/ycs0405/RIOT</a><br />
+project = <a href="https://github.com/yeekzhang/RIOT">github.com/yeekzhang/RIOT</a><br />
+project = <a href="https://github.com/yeffrimic/RIOT">github.com/yeffrimic/RIOT</a><br />
+project = <a href="https://github.com/yegorich/RIOT">github.com/yegorich/RIOT</a><br />
+project = <a href="https://github.com/yibit/RIOT">github.com/yibit/RIOT</a><br />
+project = <a href="https://github.com/ynezz/RIOT">github.com/ynezz/RIOT</a><br />
+project = <a href="https://github.com/yogo1212/RIOT">github.com/yogo1212/RIOT</a><br />
+project = <a href="https://github.com/yunbei/RIOT">github.com/yunbei/RIOT</a><br />
+project = <a href="https://github.com/yupin75/RIOT">github.com/yupin75/RIOT</a><br />
+project = <a href="https://github.com/yusi222/RIOT">github.com/yusi222/RIOT</a><br />
+project = <a href="https://github.com/zafriyusoff/RIOT">github.com/zafriyusoff/RIOT</a><br />
+project = <a href="https://github.com/zaza89/RIOT">github.com/zaza89/RIOT</a><br />
+project = <a href="https://github.com/zenglongGH/RIOT">github.com/zenglongGH/RIOT</a><br />
+project = <a href="https://github.com/zhenhaochu/RIOT">github.com/zhenhaochu/RIOT</a><br />
+project = <a href="https://github.com/zhuoshuguo/RIOT">github.com/zhuoshuguo/RIOT</a><br />
+project = <a href="https://github.com/zhuwentao0612/RIOT">github.com/zhuwentao0612/RIOT</a><br />
+project = <a href="https://github.com/zjl037600/RIOT">github.com/zjl037600/RIOT</a><br />
+project = <a href="https://github.com/zmguahy/RIOT">github.com/zmguahy/RIOT</a><br />
 <br />
 commit = 203561e741daf6db0dda44087a372b9feb33fbca<br />
-head_commit = cf9893001c75284b09c152af9c70d7dddeff7461 <br />
+head_commit = cf9893001c75284b09c152af9c70d7dddeff7461 (2016-02-26:11:35:10)<br />
 path = sys/net/network_layer/ipv6/addr/ipv6_addr_from_str.c<br />
-project = 1974vyacheslav_RIOT<br />
-project = 296791897_RIOT<br />
-project = 314942468GitHub_RIOT<br />
-project = 5G-I3_RIOT-1<br />
-project = 5G-I3_RIOT-public<br />
-project = 6lowpaniold_RIOT<br />
-project = A-Paul_RIOT<br />
-project = ANRGUSC_RIOT<br />
-project = ANRGUSC_RIOT-EE250<br />
-project = ANRGUSC_iris-riot<br />
-project = AVykhovanets_RIOT<br />
-project = AaltoNEPPI_RIOT<br />
-project = Aang-3_RIOT<br />
-project = Aang23_RIOT<br />
-project = Aber-Lijingshu_RIOT<br />
-project = AcmeSystemsProjects_RIOT<br />
-project = AdamRLukaitis_RIOT<br />
-project = AdrianGuo_RIOT<br />
-project = Agile-IoT_RIOT<br />
-project = AlexShiLucky_RIOT<br />
-project = AlexandrSalin_RIOT<br />
-project = Alexmingzhi_RIOT<br />
-project = Allanceng_RIOT<br />
-project = AltairResearch_RIOT<br />
-project = Ameya22_RIOT<br />
-project = Amr221B_RIOT<br />
-project = An-Andrew-Pham_RIOT-EE250<br />
-project = AnaK89_RIOT<br />
-project = Angela-W_RIOT<br />
-project = Ankita-Jaiswal_RIOT<br />
-project = AnonMall_RIOT<br />
-project = AppleInside_RIOT<br />
-project = ArulPrasathK_RIOT<br />
-project = AshishkrMishra_RIOT<br />
-project = AskhatBaymukhamedov_RIOT<br />
-project = Avinash95_RIOT<br />
-project = Axellant_RIOT<br />
-project = BOBRAPHTONE_RIOT<br />
-project = BTSGuyaderBenjamin_RIOT<br />
-project = Bagginsa_RIOT<br />
-project = BamStap_RIOT<br />
-project = Barrymuch_RIOT<br />
-project = BenG2121_RIOT<br />
-project = BigGarik_RIOT<br />
-project = Bila24_RIOT<br />
-project = Bizordec_RIOT<br />
-project = Bob-the-Kuhn_RIOT<br />
-project = Bogatik_RIOT<br />
-project = Burdaa_RIOT<br />
-project = BurtonQin_RIOT<br />
-project = BytesGalore_RIOT<br />
-project = CLPopescu-1999-02_RIOT<br />
-project = Cakhavan_RIOT-EE250<br />
-project = CaptSkull_RIOT<br />
-project = Carton32_RIOT<br />
-project = Circuit-killer_RIOT<br />
-project = Citrullin_RIOT<br />
-project = ClarePhang_RIOT<br />
-project = CommoDor64_RIOT<br />
-project = Conservify_RIOT<br />
-project = Cr0s_RIOT<br />
-project = CreatorKit_RIOT-Mips<br />
-project = Cross4000_RIOT<br />
-project = CrutzPan_RIOT<br />
-project = DZeyfert_RIOT<br />
-project = DamboDD_RIOT<br />
-project = DapengLan_RIOT<br />
-project = Darredevil_RIOT<br />
-project = Deniz66_RIOT<br />
-project = Derwaan_RIOT<br />
-project = DipSwitch_RIOT<br />
-project = DmitryDostovalov_RIOT<br />
-project = Dreyfriz_RIOT<br />
-project = DuyTrandeLion_RIOT<br />
-project = Ell-i_RIOT<br />
-project = Elter71_RIOT<br />
-project = Eltonno_RIOT<br />
-project = EmuxEvans_RIOT<br />
-project = FeverChen_RIOT<br />
-project = Flyingstone99_RIOT<br />
-project = Former_RIOT<br />
-project = FrancescoErmini_RIOT<br />
-project = FuzeSoft_RIOT<br />
-project = GHackAnonymous_RIOT<br />
-project = GabrielDai_RIOT<br />
-project = GeekRobert_RIOT<br />
-project = Geloi_RIOT<br />
-project = GenRockeR_RIOT<br />
-project = Gmedhin_RIOT<br />
-project = Goga3000_RIOT<br />
-project = GoodDada_RIOT<br />
-project = Gr3yh0und_RIOT<br />
-project = HANJINKIM_RIOT<br />
-project = HSeemann_RIOT<br />
-project = HTWDD-RN_RIOT<br />
-project = HaitaoLeo_RIOT<br />
-project = HamidiMassinissa_RIOT<br />
-project = Happy-Ferret_RIOT-1<br />
-project = HarborDong_RIOT<br />
-project = Hendrias_RIOT-EE250<br />
-project = HendrikVE_RIOT<br />
-project = HubertXie_RIOT<br />
-project = HuguLee_RIOT<br />
-project = Huyfly_RIOT<br />
-project = Hyungsin_RIOT-OS<br />
-project = Icaltary_RIOT<br />
-project = IgorBayk_RIOT<br />
-project = IgorShilov_RIOT<br />
-project = IldarValiev_RIOT<br />
-project = In0ut_RIOT<br />
-project = Inria-Chile_RIOT<br />
-project = IoT6_RIOT<br />
-project = IoTSotA_RIOT<br />
-project = JMR-b_RIOT<br />
-project = JamesLinus_RIOT<br />
-project = Janfred_RIOT<br />
-project = JelmerT_RIOT<br />
-project = JensErdmann_RIOT<br />
-project = JensenSung_RIOT<br />
-project = JerryMain_RIOT<br />
-project = Jinyo-Chiu_RIOT<br />
-project = JiongFu_RIOT<br />
-project = JohannesRol_RIOT<br />
-project = John-Ng_RIOT<br />
-project = JonaRaemdonck_RIOT<br />
-project = JonasRadtke_RIOT<br />
-project = Josar_RIOT<br />
-project = Josar_RIOT_XMEGA<br />
-project = JulianHolzwarth_RIOT<br />
-project = JulianoCristian_RIOT<br />
-project = KamalDSOberoi_RIOT<br />
-project = KarlNap_RIOT<br />
-project = Karmvir5_RIOT-EE250<br />
-project = Katritz_RIOT<br />
-project = Kavanraj_RIOT<br />
-project = KengaRU_RIOT<br />
-project = KetchupVentil_RIOT<br />
-project = KevinYu84_RIOT<br />
-project = KhodorELKOUJOK_RIOT<br />
-project = Kijewski_RIOT<br />
-project = KillerLink_RIOT<br />
-project = Koenma413_RIOT<br />
-project = KomochekShersti_RIOT<br />
-project = KuguHome_RIOT<br />
-project = Kulipator_RIOT<br />
-project = KumarAmitMehta_RIOT<br />
-project = KyshinLiu_RIOT<br />
-project = LGTMCU_RIOT<br />
-project = LaszloLango_RIOT<br />
-project = LenarIO_RIOT<br />
-project = Lexandro92_RIOT-CoAP<br />
-project = Lotterleben_RIOT<br />
-project = Lstallone_RIOT<br />
-project = LucaZulberti_RIOT<br />
-project = LudwigKnuepfer_RIOT<br />
-project = LudwigOrtmann_RIOT<br />
-project = Lydrin_RIOT<br />
-project = MKot13_RIOT<br />
-project = MOSAIC-LoPoW_RIOT<br />
-project = MaLa-HAW_RIOT<br />
-project = MailiLoh_RIOT<br />
-project = Manchenkoos_RIOT<br />
-project = Manoharsai_RIOT<br />
-project = Manu2312_RIOT<br />
-project = Marc-Aurele_RIOT<br />
-project = MarkXYang_RIOT<br />
-project = Marrakchino_RIOT<br />
-project = MartinaFHCW_RIOT<br />
-project = MatKub_RIOT<br />
-project = Mecabot_RIOT<br />
-project = MichelRottleuthner_RIOT<br />
-project = Misaka0x2730_RIOT<br />
-project = Mizyukanova_RIOT<br />
-project = MohamedSeliem_RIOT<br />
-project = MohmadAyman_RIOT<br />
-project = MonsterCode8000_RIOT<br />
-project = Mr-Jason-Sam_RIOT<br />
-project = MrFresh1_RIOT<br />
-project = MrKevinWeiss_RIOT<br />
-project = Mucka_RIOT<br />
-project = MuhammadTanweer_RIOT<br />
-project = MxMalk_RIOT<br />
-project = MyCodeMyMoney_RIOT<br />
-project = N5FPP_RIOT<br />
-project = NERD-Repo_RIOT<br />
-project = NEXTLEO_RIOT<br />
-project = NLardenois_RIOT<br />
-project = Na55im_RIOT<br />
-project = Nenaco_RIOT<br />
-project = NickMinnellaCS96_RIOT<br />
-project = NilayPachauri_RIOT-EE250<br />
-project = Nilshut_RIOT<br />
-project = Nishchay-sopho_RIOT-Bundle-Protocol<br />
-project = Nmeum_RIOT<br />
-project = OTAkeys_RIOT<br />
-project = OYTIS_RIOT<br />
-project = OYTIS_RIOT-kea<br />
-project = OlegHahm_RIOT<br />
-project = OnsetComputerCorp_RIOT<br />
-project = Osarua_RIOT<br />
-project = Osblouf_RIOT<br />
-project = Otmane123_RIOT<br />
-project = Ouss4_RIOT<br />
-project = OverDriveGain_RIOT<br />
-project = PONFmodular_RIOT<br />
-project = ParksProjets_RIOT<br />
-project = PavelVorobyev97_RIOT<br />
-project = PeterKietzmann_RIOT<br />
-project = PeterKietzmann_RIOT-EWSN16-Demo<br />
-project = PiWare_RIOT<br />
-project = PisalPrasad123_RIOT<br />
-project = PowerProfiler_RIOT<br />
-project = Probelp_RIOT<br />
-project = RBartz_RIOT<br />
-project = RF-Networks_RIOT<br />
-project = RIOT-OS_RIOT<br />
-project = RWTH-OS_RIOT<br />
-project = RaphaelBidaud_RIOT<br />
-project = RasmusAntons_RIOT<br />
-project = ReneHerthel_RIOT<br />
-project = RichardH92_RIOT<br />
-project = Ritishk12_RIOT<br />
-project = Rotzbua_RIOT<br />
-project = RoySCU_RIOT<br />
-project = RubikonAlpha_RIOT<br />
-project = Rufwame_RIOT<br />
-project = RumBlalGalaxy_RIOT<br />
-project = SCiMOS_RIOT<br />
-project = SSV-embedded_RIOT<br />
-project = SWIE-IO_RIOT<br />
-project = SaiNavyaNelavelli_RIOT<br />
-project = Salomonic_RIOT<br />
-project = Sarajova_RIOT<br />
-project = SebastianSzymczak_RIOT<br />
-project = SebastianWilkes_RIOT<br />
-project = SemjonKerner_RIOT<br />
-project = Slider043_RIOT<br />
-project = SmallSharky_riot-edu<br />
-project = Subor-gfraf_RIOT<br />
-project = TaquyeddineZegaoui_RIOT<br />
-project = ThanhVic_RIOT<br />
-project = TheSkape_RIOT<br />
-project = TheSwagMan_riot_test<br />
-project = TizenTeam_RIOT<br />
-project = TobiasFredersdorf_RIOT<br />
-project = VALaptev_RIOT<br />
-project = ViktorVaczi90_RIOT<br />
-project = VilleHiltunen_RIOT<br />
-project = Waldgeist84_RIOT<br />
-project = aabadie_RIOT<br />
-project = abkam07_RIOT<br />
-project = abp719_RIOT<br />
-project = adityaseven_RIOT<br />
-project = alex1818_RIOT<br />
-project = alexiss03_riot-os-cs250<br />
-project = altairpearl_RIOT<br />
-project = andrlee_RIOT<br />
-project = anurudh27_RIOT<br />
-project = arvindpdmn_RIOT<br />
-project = asdjah_RIOT<br />
-project = aspyver_RIOT<br />
-project = asquini_RIOT<br />
-project = attdona_RIOT<br />
-project = authmillenon_RIOT<br />
-project = automote_RIOT<br />
-project = avmelnikoff_RIOT<br />
-project = ayush7gupta_IPv4_Riot<br />
-project = basilfx_RIOT<br />
-project = beduino-project_RIOT<br />
-project = beduino-project_RIOT-POLICE<br />
-project = benemorius_RIOT<br />
-project = benpicco_RIOT<br />
-project = berbecche_RIOT<br />
-project = bergzand_RIOT<br />
-project = beurdouche_RIOT<br />
-project = bhargav2408_RIOT<br />
-project = biboc_RIOT<br />
-project = billyzhaoj_RIOT-OS<br />
-project = binarylemon_RIOT<br />
-project = bitbucket.org_jcarrano_riot-os<br />
-project = bitbucket.org_nbmaiti_riot<br />
-project = blaisehorvath_RIOT<br />
-project = bmd00bmd_KubOS<br />
-project = bradzieminski_RIOT-EE250<br />
-project = brettswann_RIOT<br />
-project = brummer-simon_RIOT<br />
-project = bumpy-b_RIOT<br />
-project = bygit_RIOT<br />
-project = cha63506_RIOT<br />
-project = checorone_motoguard-enddevice<br />
-project = clem-bluefruit_RIOT<br />
-project = codeForSaif_RIOT<br />
-project = crest42_RIOT<br />
-project = czarsir_RIOT<br />
-project = czoksu_RIOT<br />
-project = d00616_RIOT<br />
-project = d12y12_RIOT<br />
-project = daemory_RIOT<br />
-project = dailab_RIOT<br />
-project = danebennett_RIOT<br />
-project = daniel-k_RIOT<br />
-project = daniel-kelley_RIOT<br />
-project = danielamkaer_RIOT<br />
-project = danielinux_RIOT<br />
-project = danpetry_RIOT<br />
-project = datachi7d_RIOT<br />
-project = davidmr001_RIOT<br />
-project = davidvalarezo_RIOT<br />
-project = davidvalarezo_RIOT-1<br />
-project = dbohn_RIOT<br />
-project = dboschm_RIOT-Xtensa-ESP<br />
-project = ddiddlepants_RIOT-EE250<br />
-project = ddreyer_RIOT-OS<br />
-project = ddreyer_RIOT-OS-1<br />
-project = ddreyer_RIOT-OS-class<br />
-project = ddreyer_openthread<br />
-project = decolnz_RIOT<br />
-project = deepfryed_RIOT<br />
-project = deniskropp_RIOT<br />
-project = denizs_RIOT<br />
-project = denizs_riot<br />
-project = denykk_RIOT<br />
-project = derf_RIOT<br />
-project = devantormey_RIOT-EE250<br />
-project = deviance_RIOT<br />
-project = dhruvvyas90_RIOT<br />
-project = diddyhsv_RIOT<br />
-project = dkazantzas_RIOT<br />
-project = dkm_RIOT<br />
-project = dmdsouza_RIOT<br />
-project = dmoldova_RIOT-EE250<br />
-project = docdor_RIOT<br />
-project = dongdongbh_RIOT<br />
-project = dongkc_RIOT<br />
-project = doniexun_RIOT<br />
-project = dorukarda_RIOT<br />
-project = doudoudq_RIOT<br />
-project = drasko_RIOT<br />
-project = drcef_RIOT<br />
-project = drmrboy_RIOT<br />
-project = duanlv_RIOT<br />
-project = dut3062796s_RIOT-1<br />
-project = duv16_RIOT<br />
-project = dylad_RIOT<br />
-project = eacioffi_RIOT-EE250<br />
-project = ecioffi_RIOT-EE250<br />
-project = edgarmar2_RIOT-EE250<br />
-project = eeinz_RIOT<br />
-project = eerokhakala_RIOT<br />
-project = eggfly_RIOT<br />
-project = ehsanamin1990_RIOT<br />
-project = einars_RIOT<br />
-project = eistec_RIOT<br />
-project = elecfist_RIOT<br />
-project = elix22_RIOT<br />
-project = elvaigh_RIOT<br />
-project = emmanuelsearch_RIOT<br />
-project = emuhedo_RIOT<br />
-project = enzingerm_RIOT<br />
-project = ericyao2013_RIOT<br />
-project = erlerobot_RIOT<br />
-project = euboss_RIOT<br />
-project = eugenscobich_RIOT<br />
-project = fajb_RIOT<br />
-project = fanghuaqi_RIOT<br />
-project = fanxiaohui_RIOT<br />
-project = fbsder_RIOT<br />
-project = fcgdam_RIOT<br />
-project = fedepell_RIOT<br />
-project = fesselk_RIOT<br />
-project = fetmos_RIOT<br />
-project = fhessel_RIOT<br />
-project = fjmolinas_RIOT<br />
-project = flavius-aetios_RIOT<br />
-project = flipreverse_RIOT<br />
-project = florian-jean_RIOT<br />
-project = flyhigh46_RIOT<br />
-project = fokin91_RIOT<br />
-project = fozc_RIOT<br />
-project = fragomr_RIOT<br />
-project = francois-berder-imgtec_RIOT<br />
-project = francois-berder_RIOT<br />
-project = frankamente_RIOT<br />
-project = freemanZYQ_RIOT<br />
-project = fsolanod_RIOT<br />
-project = fu-ilab-swp18_RIOT<br />
-project = fu-ilab-swp18_RIOT_pflanzen1<br />
-project = fu-inet-swp17_RIOT<br />
-project = future-proof-iot_RIOT<br />
-project = fvacek_RIOT<br />
-project = fzi-forschungszentrum-informatik_RIOT64<br />
-project = fzy-Line_RIOT<br />
-project = gandy555_RIOT<br />
-project = gautric_RIOT<br />
-project = gbarnett_RIOT<br />
-project = gdoffe_RIOT<br />
-project = george-hopkins_RIOT<br />
-project = geromueller_RIOT<br />
-project = gh18_RIOT<br />
-project = ghavag_RIOT<br />
-project = ghice_RIOT<br />
-project = ginetrix_RIOT<br />
-project = girisugu2_RIOT<br />
-project = girtsf_RIOT<br />
-project = gitcreater_RIOT<br />
-project = gitlab.com_Gvanroon_RIOT<br />
-project = gitlab.com_Spence_RIOT<br />
-project = gitlab.com_anilkumarsoma_RIOT<br />
-project = gitlab.com_cellu_cc_riot<br />
-project = gitlab.com_frankamente_RIOT<br />
-project = gitlab.com_gspu_RIOT<br />
-project = gitlab.com_nicholas_jackson_RIOT<br />
-project = gitlab.com_openrov_trident/trident-fw-samd<br />
-project = gitlab.com_openrov_trident_trident-fw-samd<br />
-project = gitlab.com_rhr407_RIOT<br />
-project = gitlab.com_scanf_RIOT<br />
-project = gitlab.com_theja0473_RIOT<br />
-project = gitlab.com_wsymons_riot<br />
-project = glloydNAT_RIOT<br />
-project = gmsotavio_RIOT<br />
-project = gon1332_RIOT<br />
-project = gongfna_RIOT<br />
-project = gorbondiga_RIOT<br />
-project = gosticks_RIOT<br />
-project = graznik_RIOT<br />
-project = groessler_RIOT<br />
-project = gschorcht_RIOT<br />
-project = gschorcht_RIOT-Xtensa-ESP<br />
-project = gschorcht_RIOT-Xtensa-ESP8266<br />
-project = gtrpucp_RIOT<br />
-project = gustavovelascoh_RIOT<br />
-project = gutorevoredo_RIOT<br />
-project = guzenkovalexey_RIOT<br />
-project = gvz_RIOT<br />
-project = h4nt_RIOT<br />
-project = habibzadeh_RIOT<br />
-project = hackerspacesv_RIOT<br />
-project = hahchenchen_RIOT<br />
-project = haithemsekri_RIOT<br />
-project = hallo-alex_RIOT<br />
-project = hamilton-mote_RIOT-OS<br />
-project = hamilton-mote_RiSyn<br />
-project = haoyangyu_RIOT<br />
-project = harrisonforch_RIOT-EE250<br />
-project = harunoni_RIOT<br />
-project = haukepetersen_RIOT<br />
-project = heavybro_RIOT<br />
-project = herrfz_RIOT<br />
-project = hhhhhhlc_RIOT<br />
-project = hhy5277_RIOT-1<br />
-project = hongkiaong_RIOT<br />
-project = houmway_RIOT<br />
-project = hpu07_RIOT<br />
-project = huanquan_RIOT<br />
-project = huide9_RIOT<br />
-project = huleg_RIOT<br />
-project = huypq6_RIOT<br />
-project = i-spark_RIOT<br />
-project = i53-infrastructure_RIOT<br />
-project = iam-thanwa-io_RIOT<br />
-project = iambijusnair_RIOT<br />
-project = ibr-cm_RIOT<br />
-project = ibriano_RIOT<br />
-project = icube-inetlab_RIOT-OS<br />
-project = igrik82_RIOT<br />
-project = iia_RIOT<br />
-project = ijip_RIOT<br />
-project = ikshin416_RIOT<br />
-project = ikvm_RIOT-1<br />
-project = iliessens_RIOT<br />
-project = ilya-dubinsky_RIOT<br />
-project = ilya-epifanov_RIOT<br />
-project = immesys_RIOT<br />
-project = immesys_RiSyn<br />
-project = inetrg_RIOT<br />
-project = injxgj_RIOT<br />
-project = internet-of-plants_RIOT<br />
-project = iocainst_RIOT<br />
-project = iot-alex_RIOT<br />
-project = iot-lab_riot-upstream<br />
-project = iota-community_BLE-environment-sensor<br />
-project = iota-community_thingy52-env-sensor<br />
-project = iothon_RIOT<br />
-project = iotlibrary_RIOT<br />
-project = iotvietmember_RIOT<br />
-project = iplon_RIOT<br />
-project = ironeagle-ir_RIOT<br />
-project = is00hcw_RIOT-1<br />
-project = iseitani_RIOT<br />
-project = iseitani_RIOT_BR<br />
-project = it-gladkiy_RIOT<br />
-project = ivanka6342_RIOT<br />
-project = ivantesker_RIOT<br />
-project = jaeseokan94_RIOT<br />
-project = jafffy_RIOT<br />
-project = jan-mo_RIOT<br />
-project = janmoehl_RIOT<br />
-project = jarrcan-cl_RIOT<br />
-project = jasonatran_RIOT<br />
-project = jasonatran_iris-riot<br />
-project = javierfileiv_RIOT<br />
-project = jbeyerstedt_RIOT<br />
-project = jbeyerstedt_RIOT-OTA-update<br />
-project = jcarrano_RIOT<br />
-project = jdhuanghub_RIOT<br />
-project = jelledevleeschouwer_RIOT<br />
-project = jessezwd_RIOT<br />
-project = jfbortolotti_RIOT<br />
-project = jhollister_RIOT<br />
-project = jia200x_RIOT<br />
-project = jiababybaby_RIOT<br />
-project = jiangjie87481_RIOT<br />
-project = jigla_RIOT-OS<br />
-project = jinfenw_RIOT<br />
-project = jingjing54007_RIOT<br />
-project = jinhongdu_RIOT<br />
-project = jjelonek_RIOT<br />
-project = jliang1010_RIOT<br />
-project = jmcdon0128_RIOT<br />
-project = jmd99_RIOT<br />
-project = jongbot_RIOT<br />
-project = jongsun5_RIOT<br />
-project = jonkster_RIOT<br />
-project = jonkster_RIOT2<br />
-project = joshuabierton_RIOT<br />
-project = jowlo_RIOT<br />
-project = joyshmitz_RIOT<br />
-project = jpbonn_RIOT<br />
-project = jpbonn_old-riot<br />
-project = jpbonn_riot<br />
-project = jpnorair_OT-RIOT<br />
-project = jpnorair_RIOT<br />
-project = jremmert-phytec-iot_RIOT<br />
-project = jthacker_RIOT<br />
-project = jue89_RIOT<br />
-project = julien-ioic_RIOT<br />
-project = justin1571_RIOT-EE250<br />
-project = justinjoy_RIOT<br />
-project = jvsg_RIOT<br />
-project = jxnuzhangwen_RIOT<br />
-project = k6dsp_RIOT<br />
-project = kYc0o_RIOT<br />
-project = kaibeckmann_RIOT<br />
-project = kaidokert_RIOT<br />
-project = kaifeichen_RIOT-OS<br />
-project = kaleb-himes_RIOT<br />
-project = kamar4k_RIOT<br />
-project = kamejoko80_RIOT<br />
-project = kangdazhi_RIOT<br />
-project = kartben_RIOT<br />
-project = kaspar030_RIOT<br />
-project = katezilla_RIOT<br />
-project = kb2ma_RIOT<br />
-project = kbonset_RIOT<br />
-project = kbumsik_RIOT<br />
-project = keestux_RIOT<br />
-project = kenkuang_RIOT<br />
-project = kennethjiang_RIOT<br />
-project = kenrabold_RIOT<br />
-project = kerneltask_RIOT<br />
-project = kery-chen_RIOT<br />
-project = kerychen_RIOT<br />
-project = kex2017_RIOT<br />
-project = khhhh_RIOT<br />
-project = khurananish_RIOT<br />
-project = kineev_RIOT<br />
-project = kingfs_RIOT<br />
-project = kjh1007_RIOT<br />
-project = konstantinngvk1_RIOT<br />
-project = kontais_RIOT<br />
-project = kotteeswarane_CanGateway<br />
-project = krishnak9_RIOT<br />
-project = kroesche_RIOT<br />
-project = ks156_RIOT<br />
-project = kubostech_RIOT<br />
-project = kugel2_RIOT<br />
-project = kumar-jiri6_RIOT<br />
-project = kushalsingh007_RIOT<br />
-project = kutama_RIOT<br />
-project = kvbryukhanov_RIOT<br />
-project = kwahome_RIOT<br />
-project = kyrofa_RIOT<br />
-project = l3nko_RIOT<br />
-project = lafka_RIOT<br />
-project = lalrae_RIOT<br />
-project = laparmakerli_riot-upstream<br />
-project = latsku_RIOT<br />
-project = lazytech-org_RIOT<br />
-project = ldesiqueira_RIOT<br />
-project = le7amdon_RIOT<br />
-project = leandrolanzieri_RIOT<br />
-project = lebrush_RIOT<br />
-project = leeminghao_RIOT<br />
-project = legendary-bro_RIOT<br />
-project = lidong1266_RIOT<br />
-project = liguojiang_RIOT<br />
-project = lincvv_RIOT<br />
-project = lineCode_RIOT-1<br />
-project = linearregression_RIOT<br />
-project = linpingchuan_RIOT<br />
-project = linux-wpan_RIOT<br />
-project = liujiandu_RIOT<br />
-project = liwangqian_RIOT<br />
-project = ljs9643_RIOT<br />
-project = llueder_RIOT<br />
-project = lluminita_RIOT<br />
-project = lmhtz_RIOT<br />
-project = locosoft1986_RIOT<br />
-project = logself1988_RIOT<br />
-project = lorenz9314_RIOT<br />
-project = louisyoo_RIOT<br />
-project = lovelesh_RIOT<br />
-project = lpaulic_RIOT<br />
-project = lsaos_RIOT<br />
-project = luciotorre_RIOT<br />
-project = luisseo01_RIOT<br />
-project = lupamedeiros_RIOT<br />
-project = lvjh_RIOT<br />
-project = lxsang_RIOT<br />
-project = lyashley_RIOT-EE250<br />
-project = lzbgt_RIOT<br />
-project = lzj85_RIOT<br />
-project = m21400_RIOT<br />
-project = m2mbr_RIOT<br />
-project = madokapeng_RIOT<br />
-project = maghis_RIOT<br />
-project = mahermastouri_RIOT<br />
-project = maitysubhasis_RIOT_OS<br />
-project = makyo-dev_RIOT-1<br />
-project = mali_RIOT<br />
-project = malosek_RIOT<br />
-project = manamhr_RIOT-EE250<br />
-project = maribu_RIOT<br />
-project = marshall_RIOT<br />
-project = martinheusmann_RIOT<br />
-project = massad77_RIOT<br />
-project = mathirkub_RIOT<br />
-project = mattiantonini_RIOT<br />
-project = maxvankessel_RIOT<br />
-project = mbrukman_RIOT<br />
-project = mbutkereit_RIOT<br />
-project = mdodkins_RIOT<br />
-project = mehrdaad_RIOT<br />
-project = mehulrijawani_RIOT<br />
-project = mejm_RIOT<br />
-project = melfork_RIOT<br />
-project = melshuber_RIOT<br />
-project = mfkiwl_RIOT<br />
-project = mfrey_RIOT<br />
-project = michaelgianpowski_RIOT<br />
-project = michz_RIOT<br />
-project = mike168m_RIOT<br />
-project = ming-hai_RIOT<br />
-project = minkione_RIOT<br />
-project = miri64_RIOT<br />
-project = mishlasfeng_RIOT<br />
-project = mkcourse_RIOT<br />
-project = mmkonrad_RIOT<br />
-project = moenoel_RIOT<br />
-project = mojiuyu_RIOT-1<br />
-project = moneytech_RIOT<br />
-project = monoclecat_RIOT<br />
-project = moyansen_RIOT<br />
-project = mrazek-deakin_RIOT<br />
-project = mredekopp_RIOT-EE250<br />
-project = mrnguyen211190_RIOT<br />
-project = msakil_RIOT<br />
-project = msliusarev_RIOT<br />
-project = msolters_RIOT<br />
-project = mstn-09_RIOT<br />
-project = mtausig_RIOT<br />
-project = mufeedpatel_RIOT<br />
-project = muharam1991_RIOT<br />
-project = mullerhx_RIOT<br />
-project = mullife_RIOT<br />
-project = murdock-ci_RIOT<br />
-project = mxbrt_RIOT<br />
-project = mziegert_RIOT<br />
-project = n16h7br33z3_RIOT<br />
-project = naaonethree_RIOT-EE250<br />
-project = nailanawshaba_RIOT<br />
-project = named-data-iot_RIOT<br />
-project = namezis_RIOT<br />
-project = nanodrone_RIOT<br />
-project = nashokkumar_RIOT<br />
-project = navneetnivu07_RIOT<br />
-project = nawL1dg3_RIOT<br />
-project = nealjack_RIOT-OS<br />
-project = neiljay_RIOT<br />
-project = neo-existenz_RIOT<br />
-project = netdebug_RIOT<br />
-project = netroby_RIOT<br />
-project = netscream_RIOT<br />
-project = ngatilio_RIOT<br />
-project = nghiaducnt_LearningRIOT<br />
-project = nguyenduclam_RIOT<br />
-project = ngwong_RIOT-EE250<br />
-project = nicholas-c-jackson_RIOT<br />
-project = niziak_RIOT<br />
-project = njprogramming_RIOT<br />
-project = nkristek_RIOT<br />
-project = nlebang_RIOT<br />
-project = nlinktech_RIOT<br />
-project = nmehlman_RIOT-EE250<br />
-project = nmeum_RIOT<br />
-project = nolitimere_KubOS<br />
-project = nqd_RIOT<br />
-project = nsaspook_RIOT<br />
-project = ntrtrung_RIOT<br />
-project = nvv13_RIOT<br />
-project = nyrahul_RIOT<br />
-project = o0osorentoo0o_RIOT<br />
-project = obgm_RIOT<br />
-project = ochristi_RIOT<br />
-project = ofauchon_RIOT<br />
-project = offchooffcho_RIOT<br />
-project = oh3eqn_RIOT<br />
-project = olegart_RIOT<br />
-project = onesmash_RIOT<br />
-project = openkosmosorg_RIOT<br />
-project = openwarelab_RIOT<br />
-project = orchisan_RIOT<br />
-project = orf53975_RIOT<br />
-project = ott-kiwi_RIOT<br />
-project = pacheco017_RIOT<br />
-project = palaniyappanBala_RIOT<br />
-project = panail_RIOT<br />
-project = panshengpeng_RIOT<br />
-project = patgrosse_RIOT<br />
-project = paula75_RIOT<br />
-project = pavelgr_RIOT<br />
-project = pavlyhabashy_RIOT-EE250<br />
-project = pdNor_RIOT<br />
-project = pekkanikander_RIOT<br />
-project = pengshulin_RIOT<br />
-project = peterson79_RIOT<br />
-project = pevasquez_RIOT<br />
-project = phectori_RIOT<br />
-project = phiros_RIOT<br />
-project = photonthunder_RIOT<br />
-project = phphy_RIOT<br />
-project = phuonglab_RIOT<br />
-project = phuongtg_RIOT<br />
-project = pi-kxw_RIOT<br />
-project = pigeorge_RIOT<br />
-project = pipex_RIOT<br />
-project = piyushpandey013_RIOT<br />
-project = pjhernandez18_RIOT-EE250<br />
-project = pmlk_RIOT<br />
-project = pnunes30_RIOT<br />
-project = pokgak_RIOT<br />
-project = pombredanne_RIOT<br />
-project = poppe34_RIOT<br />
-project = popwolf_RIOT<br />
-project = ppannuto_RIOT<br />
-project = prashanthhn_RIOT<br />
-project = praveenmunagapati_RIOT-2<br />
-project = praveenpenumaka_RIOT<br />
-project = psiemek_RIOT<br />
-project = pst12_RIOT<br />
-project = psymonj_RIOT<br />
-project = ptz1986_RIOT<br />
-project = punchcard60_KubOS<br />
-project = pvikberg_RIOT<br />
-project = pvikberg_RIOT_oma1<br />
-project = pvsarath_RIOT<br />
-project = pvyleta_RIOT<br />
-project = pwillem_RIOT<br />
-project = pyjhhh_RIOT<br />
-project = qgyhd1234_RIOT<br />
-project = qiaoqidui_RIOT<br />
-project = rabinsahoo_RIOT<br />
-project = radhios_RIOT<br />
-project = ragulhackz125_RIOT<br />
-project = rajma996_RIOT<br />
-project = rakendrathapa_RIOT<br />
-project = rammohan2b_RIOT<br />
-project = ranbe1_RIOT<br />
-project = ranjit27_RIOT<br />
-project = redrabbit5_RIOT<br />
-project = redwinner_RIOT<br />
-project = refaqtor_RIOT<br />
-project = renzoe_RIOT<br />
-project = rfuentess_RIOT<br />
-project = rhabu01_RIOT<br />
-project = rhr407_RIOT<br />
-project = richartk_RIOT<br />
-project = rienafairefr_RIOT<br />
-project = riot-appstore_RIOT<br />
-project = riot-appstore_RIOT-IoThon<br />
-project = riot-ci_RIOT<br />
-project = riot-study_RIOT<br />
-project = rivasiv_RIOT<br />
-project = rjmcguire_RIOT<br />
-project = rl1987_RIOT<br />
-project = robbie-cao_RIOT<br />
-project = robbie-cao_riot-stm32<br />
-project = robby14_RIOT<br />
-project = roberthartung_RIOT<br />
-project = robertsipka_RIOT<br />
-project = robixnai_RIOT<br />
-project = rolandi71_RIOT<br />
-project = roubra_RIOT<br />
-project = rousselk_RIOT<br />
-project = rowhit_RIOT<br />
-project = rrzatkie_RIOT<br />
-project = rrzatkie_RIOT_COPY<br />
-project = rst256_RIOT<br />
-project = ruhex_RIOT<br />
-project = rxwb_RIOT<br />
-project = ryankurte_riot-os<br />
-project = ryanlelek_KubOS<br />
-project = salmovs_RIOT<br />
-project = sam-kumar_RIOT-OS<br />
-project = samiralavi_RIOT<br />
-project = samkumar99_RIOT-OS<br />
-project = samkumar_RIOT-OS<br />
-project = samr90_RIOT<br />
-project = sanmingshen_RIOT<br />
-project = sarathsanthoss_RIOT<br />
-project = sasalaza_RIOT-EE250<br />
-project = sashaindrish_RIOT<br />
-project = schoradt_RIOT<br />
-project = sdsxpln_RIOT<br />
-project = sdttmyw_RIOT<br />
-project = seank-img_RIOT<br />
-project = sebastiankliem_RIOT<br />
-project = serabiasin_RIOT<br />
-project = seryi2035_RIOT<br />
-project = setevod_RIOT<br />
-project = seysn_RIOT<br />
-project = sgso_RIOT<br />
-project = shein318_RIOT<br />
-project = shenfahsu_RIOT<br />
-project = shpuravasiliy_RIOT<br />
-project = siddh-test-4_RIOT<br />
-project = siddharthgpta_RIOT<br />
-project = simonsta_RIOT<br />
-project = sklli_RIOT<br />
-project = sknsean_RIOT<br />
-project = skullbox305_RIOT<br />
-project = skyformat99_RIOT<br />
-project = skyformat99_RIOT-2<br />
-project = slhsxcmy_RIOT<br />
-project = smartuni_RIOT<br />
-project = smcd253_RIOT-EE250<br />
-project = smcd253_RIOT-EE250-1<br />
-project = smehner1_RIOT<br />
-project = smlng_RIOT<br />
-project = smou_RIOT<br />
-project = snej_RIOT<br />
-project = sp-axio_RIOT<br />
-project = spiridon1_RIOT<br />
-project = spirit745_RIOT<br />
-project = starblue_RIOT<br />
-project = stepos01_RIOT<br />
-project = stevenj_RIOT<br />
-project = sugangli_RIOT<br />
-project = sumanpanchal_RIOT<br />
-project = sunghopark1_RIOT<br />
-project = superjudge_RIOT<br />
-project = suruz_RIOT<br />
-project = syin2_riot-iotivity<br />
-project = tabc123_RIOT<br />
-project = tadryanom_RIOT<br />
-project = taherrera_riot<br />
-project = tamasseller_RIOT<br />
-project = tammyrobinson03_RIOT<br />
-project = tanupoo_RIOT<br />
-project = tatyanavolkova_RIOT<br />
-project = tgo-s_RIOT<br />
-project = theafricanengineer_RIOT<br />
-project = theja0473_RIOT<br />
-project = therapier_RIOT<br />
-project = therealmonE_RIOT<br />
-project = thiagohd_RIOT<br />
-project = thomaseichinger_RIOT<br />
-project = to1st9chok_RIOT<br />
-project = tobbad_RIOT<br />
-project = tobhe_RIOT<br />
-project = tomyqg_RIOT<br />
-project = tongpi_RIOT<br />
-project = toonst_RIOT<br />
-project = tovanhieu_RIOT<br />
-project = tovax_RIOT<br />
-project = tprrt_RIOT<br />
-project = tralivali1234_RIOT<br />
-project = travisgriggs_RIOT<br />
-project = tromex_RIOT<br />
-project = trungkstn_RIOT<br />
-project = tsutar_RIOT-EE250<br />
-project = turahul_RIOT<br />
-project = txemis_RIOT<br />
-project = typc95_RIOT<br />
-project = tzuchiangshen_RIOT<br />
-project = unforgiven512_RIOT<br />
-project = unwireddevices_RIOT<br />
-project = urbangregorc_RIOT<br />
-project = usc-ee250-fall2018_RIOT-EE250<br />
-project = vac_RIOT<br />
-project = varunpandeyengg_RIOT<br />
-project = vehar_RIOT<br />
-project = vhkrishna_RIOT<br />
-project = vijaiks_RIOT<br />
-project = vikingxie_RIOT<br />
-project = vincent-d_RIOT<br />
-project = vincentjzimmer_RIOT<br />
-project = vincentlao_RIOT<br />
-project = vpdao_RIOT<br />
-project = vrosnet_RIOT<br />
-project = w03_RIOT<br />
-project = waehlisch_RIOT<br />
-project = wallhisg_RIOT<br />
-project = wang1314well_RIOT<br />
-project = watr-li_RIOT<br />
-project = wentaoshang_RIOT<br />
-project = wenyigao6_RIOT-EE250<br />
-project = whitefield-framework_RIOT<br />
-project = wilhelmmatilainen_RIOT<br />
-project = witnessivan_RIOT<br />
-project = wtsllc_RIOT<br />
-project = wupoli_RIOT<br />
-project = wuzeen_RIOT<br />
-project = wwhuang_RIOT-OS<br />
-project = wxh0000mm_RIOT<br />
-project = xjump_RIOT<br />
-project = xsider_RIOT<br />
-project = xzm7358_RIOT<br />
-project = ycs0405_RIOT<br />
-project = yeekzhang_RIOT<br />
-project = yeffrimic_RIOT<br />
-project = yegorich_RIOT<br />
-project = yibit_RIOT<br />
-project = ynezz_RIOT<br />
-project = yogo1212_RIOT<br />
-project = yunbei_RIOT<br />
-project = yupin75_RIOT<br />
-project = yusi222_RIOT<br />
-project = zafriyusoff_RIOT<br />
-project = zaza89_RIOT<br />
-project = zenglongGH_RIOT<br />
-project = zhenhaochu_RIOT<br />
-project = zhuoshuguo_RIOT<br />
-project = zhuwentao0612_RIOT<br />
-project = zjl037600_RIOT<br />
-project = zmguahy_RIOT<br />
+project = <a href="https://github.com/1974vyacheslav/RIOT">github.com/1974vyacheslav/RIOT</a><br />
+project = <a href="https://github.com/296791897/RIOT">github.com/296791897/RIOT</a><br />
+project = <a href="https://github.com/314942468GitHub/RIOT">github.com/314942468GitHub/RIOT</a><br />
+project = <a href="https://github.com/5G-I3/RIOT-1">github.com/5G-I3/RIOT-1</a><br />
+project = <a href="https://github.com/5G-I3/RIOT-public">github.com/5G-I3/RIOT-public</a><br />
+project = <a href="https://github.com/6lowpaniold/RIOT">github.com/6lowpaniold/RIOT</a><br />
+project = <a href="https://github.com/A-Paul/RIOT">github.com/A-Paul/RIOT</a><br />
+project = <a href="https://github.com/ANRGUSC/RIOT">github.com/ANRGUSC/RIOT</a><br />
+project = <a href="https://github.com/ANRGUSC/RIOT-EE250">github.com/ANRGUSC/RIOT-EE250</a><br />
+project = <a href="https://github.com/ANRGUSC/iris-riot">github.com/ANRGUSC/iris-riot</a><br />
+project = <a href="https://github.com/AVykhovanets/RIOT">github.com/AVykhovanets/RIOT</a><br />
+project = <a href="https://github.com/AaltoNEPPI/RIOT">github.com/AaltoNEPPI/RIOT</a><br />
+project = <a href="https://github.com/Aang-3/RIOT">github.com/Aang-3/RIOT</a><br />
+project = <a href="https://github.com/Aang23/RIOT">github.com/Aang23/RIOT</a><br />
+project = <a href="https://github.com/Aber-Lijingshu/RIOT">github.com/Aber-Lijingshu/RIOT</a><br />
+project = <a href="https://github.com/AcmeSystemsProjects/RIOT">github.com/AcmeSystemsProjects/RIOT</a><br />
+project = <a href="https://github.com/AdamRLukaitis/RIOT">github.com/AdamRLukaitis/RIOT</a><br />
+project = <a href="https://github.com/AdrianGuo/RIOT">github.com/AdrianGuo/RIOT</a><br />
+project = <a href="https://github.com/Agile-IoT/RIOT">github.com/Agile-IoT/RIOT</a><br />
+project = <a href="https://github.com/AlexShiLucky/RIOT">github.com/AlexShiLucky/RIOT</a><br />
+project = <a href="https://github.com/AlexandrSalin/RIOT">github.com/AlexandrSalin/RIOT</a><br />
+project = <a href="https://github.com/Alexmingzhi/RIOT">github.com/Alexmingzhi/RIOT</a><br />
+project = <a href="https://github.com/Allanceng/RIOT">github.com/Allanceng/RIOT</a><br />
+project = <a href="https://github.com/AltairResearch/RIOT">github.com/AltairResearch/RIOT</a><br />
+project = <a href="https://github.com/Ameya22/RIOT">github.com/Ameya22/RIOT</a><br />
+project = <a href="https://github.com/Amr221B/RIOT">github.com/Amr221B/RIOT</a><br />
+project = <a href="https://github.com/An-Andrew-Pham/RIOT-EE250">github.com/An-Andrew-Pham/RIOT-EE250</a><br />
+project = <a href="https://github.com/AnaK89/RIOT">github.com/AnaK89/RIOT</a><br />
+project = <a href="https://github.com/Angela-W/RIOT">github.com/Angela-W/RIOT</a><br />
+project = <a href="https://github.com/Ankita-Jaiswal/RIOT">github.com/Ankita-Jaiswal/RIOT</a><br />
+project = <a href="https://github.com/AnonMall/RIOT">github.com/AnonMall/RIOT</a><br />
+project = <a href="https://github.com/AppleInside/RIOT">github.com/AppleInside/RIOT</a><br />
+project = <a href="https://github.com/ArulPrasathK/RIOT">github.com/ArulPrasathK/RIOT</a><br />
+project = <a href="https://github.com/AshishkrMishra/RIOT">github.com/AshishkrMishra/RIOT</a><br />
+project = <a href="https://github.com/AskhatBaymukhamedov/RIOT">github.com/AskhatBaymukhamedov/RIOT</a><br />
+project = <a href="https://github.com/Avinash95/RIOT">github.com/Avinash95/RIOT</a><br />
+project = <a href="https://github.com/Axellant/RIOT">github.com/Axellant/RIOT</a><br />
+project = <a href="https://github.com/BOBRAPHTONE/RIOT">github.com/BOBRAPHTONE/RIOT</a><br />
+project = <a href="https://github.com/BTSGuyaderBenjamin/RIOT">github.com/BTSGuyaderBenjamin/RIOT</a><br />
+project = <a href="https://github.com/Bagginsa/RIOT">github.com/Bagginsa/RIOT</a><br />
+project = <a href="https://github.com/BamStap/RIOT">github.com/BamStap/RIOT</a><br />
+project = <a href="https://github.com/Barrymuch/RIOT">github.com/Barrymuch/RIOT</a><br />
+project = <a href="https://github.com/BenG2121/RIOT">github.com/BenG2121/RIOT</a><br />
+project = <a href="https://github.com/BigGarik/RIOT">github.com/BigGarik/RIOT</a><br />
+project = <a href="https://github.com/Bila24/RIOT">github.com/Bila24/RIOT</a><br />
+project = <a href="https://github.com/Bizordec/RIOT">github.com/Bizordec/RIOT</a><br />
+project = <a href="https://github.com/Bob-the-Kuhn/RIOT">github.com/Bob-the-Kuhn/RIOT</a><br />
+project = <a href="https://github.com/Bogatik/RIOT">github.com/Bogatik/RIOT</a><br />
+project = <a href="https://github.com/Burdaa/RIOT">github.com/Burdaa/RIOT</a><br />
+project = <a href="https://github.com/BurtonQin/RIOT">github.com/BurtonQin/RIOT</a><br />
+project = <a href="https://github.com/BytesGalore/RIOT">github.com/BytesGalore/RIOT</a><br />
+project = <a href="https://github.com/CLPopescu-1999-02/RIOT">github.com/CLPopescu-1999-02/RIOT</a><br />
+project = <a href="https://github.com/Cakhavan/RIOT-EE250">github.com/Cakhavan/RIOT-EE250</a><br />
+project = <a href="https://github.com/CaptSkull/RIOT">github.com/CaptSkull/RIOT</a><br />
+project = <a href="https://github.com/Carton32/RIOT">github.com/Carton32/RIOT</a><br />
+project = <a href="https://github.com/Circuit-killer/RIOT">github.com/Circuit-killer/RIOT</a><br />
+project = <a href="https://github.com/Citrullin/RIOT">github.com/Citrullin/RIOT</a><br />
+project = <a href="https://github.com/ClarePhang/RIOT">github.com/ClarePhang/RIOT</a><br />
+project = <a href="https://github.com/CommoDor64/RIOT">github.com/CommoDor64/RIOT</a><br />
+project = <a href="https://github.com/Conservify/RIOT">github.com/Conservify/RIOT</a><br />
+project = <a href="https://github.com/Cr0s/RIOT">github.com/Cr0s/RIOT</a><br />
+project = <a href="https://github.com/CreatorKit/RIOT-Mips">github.com/CreatorKit/RIOT-Mips</a><br />
+project = <a href="https://github.com/Cross4000/RIOT">github.com/Cross4000/RIOT</a><br />
+project = <a href="https://github.com/CrutzPan/RIOT">github.com/CrutzPan/RIOT</a><br />
+project = <a href="https://github.com/DZeyfert/RIOT">github.com/DZeyfert/RIOT</a><br />
+project = <a href="https://github.com/DamboDD/RIOT">github.com/DamboDD/RIOT</a><br />
+project = <a href="https://github.com/DapengLan/RIOT">github.com/DapengLan/RIOT</a><br />
+project = <a href="https://github.com/Darredevil/RIOT">github.com/Darredevil/RIOT</a><br />
+project = <a href="https://github.com/Deniz66/RIOT">github.com/Deniz66/RIOT</a><br />
+project = <a href="https://github.com/Derwaan/RIOT">github.com/Derwaan/RIOT</a><br />
+project = <a href="https://github.com/DipSwitch/RIOT">github.com/DipSwitch/RIOT</a><br />
+project = <a href="https://github.com/DmitryDostovalov/RIOT">github.com/DmitryDostovalov/RIOT</a><br />
+project = <a href="https://github.com/Dreyfriz/RIOT">github.com/Dreyfriz/RIOT</a><br />
+project = <a href="https://github.com/DuyTrandeLion/RIOT">github.com/DuyTrandeLion/RIOT</a><br />
+project = <a href="https://github.com/Ell-i/RIOT">github.com/Ell-i/RIOT</a><br />
+project = <a href="https://github.com/Elter71/RIOT">github.com/Elter71/RIOT</a><br />
+project = <a href="https://github.com/Eltonno/RIOT">github.com/Eltonno/RIOT</a><br />
+project = <a href="https://github.com/EmuxEvans/RIOT">github.com/EmuxEvans/RIOT</a><br />
+project = <a href="https://github.com/FeverChen/RIOT">github.com/FeverChen/RIOT</a><br />
+project = <a href="https://github.com/Flyingstone99/RIOT">github.com/Flyingstone99/RIOT</a><br />
+project = <a href="https://github.com/Former/RIOT">github.com/Former/RIOT</a><br />
+project = <a href="https://github.com/FrancescoErmini/RIOT">github.com/FrancescoErmini/RIOT</a><br />
+project = <a href="https://github.com/FuzeSoft/RIOT">github.com/FuzeSoft/RIOT</a><br />
+project = <a href="https://github.com/GHackAnonymous/RIOT">github.com/GHackAnonymous/RIOT</a><br />
+project = <a href="https://github.com/GabrielDai/RIOT">github.com/GabrielDai/RIOT</a><br />
+project = <a href="https://github.com/GeekRobert/RIOT">github.com/GeekRobert/RIOT</a><br />
+project = <a href="https://github.com/Geloi/RIOT">github.com/Geloi/RIOT</a><br />
+project = <a href="https://github.com/GenRockeR/RIOT">github.com/GenRockeR/RIOT</a><br />
+project = <a href="https://github.com/Gmedhin/RIOT">github.com/Gmedhin/RIOT</a><br />
+project = <a href="https://github.com/Goga3000/RIOT">github.com/Goga3000/RIOT</a><br />
+project = <a href="https://github.com/GoodDada/RIOT">github.com/GoodDada/RIOT</a><br />
+project = <a href="https://github.com/Gr3yh0und/RIOT">github.com/Gr3yh0und/RIOT</a><br />
+project = <a href="https://github.com/HANJINKIM/RIOT">github.com/HANJINKIM/RIOT</a><br />
+project = <a href="https://github.com/HSeemann/RIOT">github.com/HSeemann/RIOT</a><br />
+project = <a href="https://github.com/HTWDD-RN/RIOT">github.com/HTWDD-RN/RIOT</a><br />
+project = <a href="https://github.com/HaitaoLeo/RIOT">github.com/HaitaoLeo/RIOT</a><br />
+project = <a href="https://github.com/HamidiMassinissa/RIOT">github.com/HamidiMassinissa/RIOT</a><br />
+project = <a href="https://github.com/Happy-Ferret/RIOT-1">github.com/Happy-Ferret/RIOT-1</a><br />
+project = <a href="https://github.com/HarborDong/RIOT">github.com/HarborDong/RIOT</a><br />
+project = <a href="https://github.com/Hendrias/RIOT-EE250">github.com/Hendrias/RIOT-EE250</a><br />
+project = <a href="https://github.com/HendrikVE/RIOT">github.com/HendrikVE/RIOT</a><br />
+project = <a href="https://github.com/HubertXie/RIOT">github.com/HubertXie/RIOT</a><br />
+project = <a href="https://github.com/HuguLee/RIOT">github.com/HuguLee/RIOT</a><br />
+project = <a href="https://github.com/Huyfly/RIOT">github.com/Huyfly/RIOT</a><br />
+project = <a href="https://github.com/Hyungsin/RIOT-OS">github.com/Hyungsin/RIOT-OS</a><br />
+project = <a href="https://github.com/Icaltary/RIOT">github.com/Icaltary/RIOT</a><br />
+project = <a href="https://github.com/IgorBayk/RIOT">github.com/IgorBayk/RIOT</a><br />
+project = <a href="https://github.com/IgorShilov/RIOT">github.com/IgorShilov/RIOT</a><br />
+project = <a href="https://github.com/IldarValiev/RIOT">github.com/IldarValiev/RIOT</a><br />
+project = <a href="https://github.com/In0ut/RIOT">github.com/In0ut/RIOT</a><br />
+project = <a href="https://github.com/Inria-Chile/RIOT">github.com/Inria-Chile/RIOT</a><br />
+project = <a href="https://github.com/IoT6/RIOT">github.com/IoT6/RIOT</a><br />
+project = <a href="https://github.com/IoTSotA/RIOT">github.com/IoTSotA/RIOT</a><br />
+project = <a href="https://github.com/JMR-b/RIOT">github.com/JMR-b/RIOT</a><br />
+project = <a href="https://github.com/JamesLinus/RIOT">github.com/JamesLinus/RIOT</a><br />
+project = <a href="https://github.com/Janfred/RIOT">github.com/Janfred/RIOT</a><br />
+project = <a href="https://github.com/JelmerT/RIOT">github.com/JelmerT/RIOT</a><br />
+project = <a href="https://github.com/JensErdmann/RIOT">github.com/JensErdmann/RIOT</a><br />
+project = <a href="https://github.com/JensenSung/RIOT">github.com/JensenSung/RIOT</a><br />
+project = <a href="https://github.com/JerryMain/RIOT">github.com/JerryMain/RIOT</a><br />
+project = <a href="https://github.com/Jinyo-Chiu/RIOT">github.com/Jinyo-Chiu/RIOT</a><br />
+project = <a href="https://github.com/JiongFu/RIOT">github.com/JiongFu/RIOT</a><br />
+project = <a href="https://github.com/JohannesRol/RIOT">github.com/JohannesRol/RIOT</a><br />
+project = <a href="https://github.com/John-Ng/RIOT">github.com/John-Ng/RIOT</a><br />
+project = <a href="https://github.com/JonaRaemdonck/RIOT">github.com/JonaRaemdonck/RIOT</a><br />
+project = <a href="https://github.com/JonasRadtke/RIOT">github.com/JonasRadtke/RIOT</a><br />
+project = <a href="https://github.com/Josar/RIOT">github.com/Josar/RIOT</a><br />
+project = <a href="https://github.com/Josar/RIOT_XMEGA">github.com/Josar/RIOT_XMEGA</a><br />
+project = <a href="https://github.com/JulianHolzwarth/RIOT">github.com/JulianHolzwarth/RIOT</a><br />
+project = <a href="https://github.com/JulianoCristian/RIOT">github.com/JulianoCristian/RIOT</a><br />
+project = <a href="https://github.com/KamalDSOberoi/RIOT">github.com/KamalDSOberoi/RIOT</a><br />
+project = <a href="https://github.com/KarlNap/RIOT">github.com/KarlNap/RIOT</a><br />
+project = <a href="https://github.com/Karmvir5/RIOT-EE250">github.com/Karmvir5/RIOT-EE250</a><br />
+project = <a href="https://github.com/Katritz/RIOT">github.com/Katritz/RIOT</a><br />
+project = <a href="https://github.com/Kavanraj/RIOT">github.com/Kavanraj/RIOT</a><br />
+project = <a href="https://github.com/KengaRU/RIOT">github.com/KengaRU/RIOT</a><br />
+project = <a href="https://github.com/KetchupVentil/RIOT">github.com/KetchupVentil/RIOT</a><br />
+project = <a href="https://github.com/KevinYu84/RIOT">github.com/KevinYu84/RIOT</a><br />
+project = <a href="https://github.com/KhodorELKOUJOK/RIOT">github.com/KhodorELKOUJOK/RIOT</a><br />
+project = <a href="https://github.com/Kijewski/RIOT">github.com/Kijewski/RIOT</a><br />
+project = <a href="https://github.com/KillerLink/RIOT">github.com/KillerLink/RIOT</a><br />
+project = <a href="https://github.com/Koenma413/RIOT">github.com/Koenma413/RIOT</a><br />
+project = <a href="https://github.com/KomochekShersti/RIOT">github.com/KomochekShersti/RIOT</a><br />
+project = <a href="https://github.com/KuguHome/RIOT">github.com/KuguHome/RIOT</a><br />
+project = <a href="https://github.com/Kulipator/RIOT">github.com/Kulipator/RIOT</a><br />
+project = <a href="https://github.com/KumarAmitMehta/RIOT">github.com/KumarAmitMehta/RIOT</a><br />
+project = <a href="https://github.com/KyshinLiu/RIOT">github.com/KyshinLiu/RIOT</a><br />
+project = <a href="https://github.com/LGTMCU/RIOT">github.com/LGTMCU/RIOT</a><br />
+project = <a href="https://github.com/LaszloLango/RIOT">github.com/LaszloLango/RIOT</a><br />
+project = <a href="https://github.com/LenarIO/RIOT">github.com/LenarIO/RIOT</a><br />
+project = <a href="https://github.com/Lexandro92/RIOT-CoAP">github.com/Lexandro92/RIOT-CoAP</a><br />
+project = <a href="https://github.com/Lotterleben/RIOT">github.com/Lotterleben/RIOT</a><br />
+project = <a href="https://github.com/Lstallone/RIOT">github.com/Lstallone/RIOT</a><br />
+project = <a href="https://github.com/LucaZulberti/RIOT">github.com/LucaZulberti/RIOT</a><br />
+project = <a href="https://github.com/LudwigKnuepfer/RIOT">github.com/LudwigKnuepfer/RIOT</a><br />
+project = <a href="https://github.com/LudwigOrtmann/RIOT">github.com/LudwigOrtmann/RIOT</a><br />
+project = <a href="https://github.com/Lydrin/RIOT">github.com/Lydrin/RIOT</a><br />
+project = <a href="https://github.com/MKot13/RIOT">github.com/MKot13/RIOT</a><br />
+project = <a href="https://github.com/MOSAIC-LoPoW/RIOT">github.com/MOSAIC-LoPoW/RIOT</a><br />
+project = <a href="https://github.com/MaLa-HAW/RIOT">github.com/MaLa-HAW/RIOT</a><br />
+project = <a href="https://github.com/MailiLoh/RIOT">github.com/MailiLoh/RIOT</a><br />
+project = <a href="https://github.com/Manchenkoos/RIOT">github.com/Manchenkoos/RIOT</a><br />
+project = <a href="https://github.com/Manoharsai/RIOT">github.com/Manoharsai/RIOT</a><br />
+project = <a href="https://github.com/Manu2312/RIOT">github.com/Manu2312/RIOT</a><br />
+project = <a href="https://github.com/Marc-Aurele/RIOT">github.com/Marc-Aurele/RIOT</a><br />
+project = <a href="https://github.com/MarkXYang/RIOT">github.com/MarkXYang/RIOT</a><br />
+project = <a href="https://github.com/Marrakchino/RIOT">github.com/Marrakchino/RIOT</a><br />
+project = <a href="https://github.com/MartinaFHCW/RIOT">github.com/MartinaFHCW/RIOT</a><br />
+project = <a href="https://github.com/MatKub/RIOT">github.com/MatKub/RIOT</a><br />
+project = <a href="https://github.com/Mecabot/RIOT">github.com/Mecabot/RIOT</a><br />
+project = <a href="https://github.com/MichelRottleuthner/RIOT">github.com/MichelRottleuthner/RIOT</a><br />
+project = <a href="https://github.com/Misaka0x2730/RIOT">github.com/Misaka0x2730/RIOT</a><br />
+project = <a href="https://github.com/Mizyukanova/RIOT">github.com/Mizyukanova/RIOT</a><br />
+project = <a href="https://github.com/MohamedSeliem/RIOT">github.com/MohamedSeliem/RIOT</a><br />
+project = <a href="https://github.com/MohmadAyman/RIOT">github.com/MohmadAyman/RIOT</a><br />
+project = <a href="https://github.com/MonsterCode8000/RIOT">github.com/MonsterCode8000/RIOT</a><br />
+project = <a href="https://github.com/Mr-Jason-Sam/RIOT">github.com/Mr-Jason-Sam/RIOT</a><br />
+project = <a href="https://github.com/MrFresh1/RIOT">github.com/MrFresh1/RIOT</a><br />
+project = <a href="https://github.com/MrKevinWeiss/RIOT">github.com/MrKevinWeiss/RIOT</a><br />
+project = <a href="https://github.com/Mucka/RIOT">github.com/Mucka/RIOT</a><br />
+project = <a href="https://github.com/MuhammadTanweer/RIOT">github.com/MuhammadTanweer/RIOT</a><br />
+project = <a href="https://github.com/MxMalk/RIOT">github.com/MxMalk/RIOT</a><br />
+project = <a href="https://github.com/MyCodeMyMoney/RIOT">github.com/MyCodeMyMoney/RIOT</a><br />
+project = <a href="https://github.com/N5FPP/RIOT">github.com/N5FPP/RIOT</a><br />
+project = <a href="https://github.com/NERD-Repo/RIOT">github.com/NERD-Repo/RIOT</a><br />
+project = <a href="https://github.com/NEXTLEO/RIOT">github.com/NEXTLEO/RIOT</a><br />
+project = <a href="https://github.com/NLardenois/RIOT">github.com/NLardenois/RIOT</a><br />
+project = <a href="https://github.com/Na55im/RIOT">github.com/Na55im/RIOT</a><br />
+project = <a href="https://github.com/Nenaco/RIOT">github.com/Nenaco/RIOT</a><br />
+project = <a href="https://github.com/NickMinnellaCS96/RIOT">github.com/NickMinnellaCS96/RIOT</a><br />
+project = <a href="https://github.com/NilayPachauri/RIOT-EE250">github.com/NilayPachauri/RIOT-EE250</a><br />
+project = <a href="https://github.com/Nilshut/RIOT">github.com/Nilshut/RIOT</a><br />
+project = <a href="https://github.com/Nishchay-sopho/RIOT-Bundle-Protocol">github.com/Nishchay-sopho/RIOT-Bundle-Protocol</a><br />
+project = <a href="https://github.com/Nmeum/RIOT">github.com/Nmeum/RIOT</a><br />
+project = <a href="https://github.com/OTAkeys/RIOT">github.com/OTAkeys/RIOT</a><br />
+project = <a href="https://github.com/OYTIS/RIOT">github.com/OYTIS/RIOT</a><br />
+project = <a href="https://github.com/OYTIS/RIOT-kea">github.com/OYTIS/RIOT-kea</a><br />
+project = <a href="https://github.com/OlegHahm/RIOT">github.com/OlegHahm/RIOT</a><br />
+project = <a href="https://github.com/OnsetComputerCorp/RIOT">github.com/OnsetComputerCorp/RIOT</a><br />
+project = <a href="https://github.com/Osarua/RIOT">github.com/Osarua/RIOT</a><br />
+project = <a href="https://github.com/Osblouf/RIOT">github.com/Osblouf/RIOT</a><br />
+project = <a href="https://github.com/Otmane123/RIOT">github.com/Otmane123/RIOT</a><br />
+project = <a href="https://github.com/Ouss4/RIOT">github.com/Ouss4/RIOT</a><br />
+project = <a href="https://github.com/OverDriveGain/RIOT">github.com/OverDriveGain/RIOT</a><br />
+project = <a href="https://github.com/PONFmodular/RIOT">github.com/PONFmodular/RIOT</a><br />
+project = <a href="https://github.com/ParksProjets/RIOT">github.com/ParksProjets/RIOT</a><br />
+project = <a href="https://github.com/PavelVorobyev97/RIOT">github.com/PavelVorobyev97/RIOT</a><br />
+project = <a href="https://github.com/PeterKietzmann/RIOT">github.com/PeterKietzmann/RIOT</a><br />
+project = <a href="https://github.com/PeterKietzmann/RIOT-EWSN16-Demo">github.com/PeterKietzmann/RIOT-EWSN16-Demo</a><br />
+project = <a href="https://github.com/PiWare/RIOT">github.com/PiWare/RIOT</a><br />
+project = <a href="https://github.com/PisalPrasad123/RIOT">github.com/PisalPrasad123/RIOT</a><br />
+project = <a href="https://github.com/PowerProfiler/RIOT">github.com/PowerProfiler/RIOT</a><br />
+project = <a href="https://github.com/Probelp/RIOT">github.com/Probelp/RIOT</a><br />
+project = <a href="https://github.com/RBartz/RIOT">github.com/RBartz/RIOT</a><br />
+project = <a href="https://github.com/RF-Networks/RIOT">github.com/RF-Networks/RIOT</a><br />
+project = <a href="https://github.com/RIOT-OS/RIOT">github.com/RIOT-OS/RIOT</a><br />
+project = <a href="https://github.com/RWTH-OS/RIOT">github.com/RWTH-OS/RIOT</a><br />
+project = <a href="https://github.com/RaphaelBidaud/RIOT">github.com/RaphaelBidaud/RIOT</a><br />
+project = <a href="https://github.com/RasmusAntons/RIOT">github.com/RasmusAntons/RIOT</a><br />
+project = <a href="https://github.com/ReneHerthel/RIOT">github.com/ReneHerthel/RIOT</a><br />
+project = <a href="https://github.com/RichardH92/RIOT">github.com/RichardH92/RIOT</a><br />
+project = <a href="https://github.com/Ritishk12/RIOT">github.com/Ritishk12/RIOT</a><br />
+project = <a href="https://github.com/Rotzbua/RIOT">github.com/Rotzbua/RIOT</a><br />
+project = <a href="https://github.com/RoySCU/RIOT">github.com/RoySCU/RIOT</a><br />
+project = <a href="https://github.com/RubikonAlpha/RIOT">github.com/RubikonAlpha/RIOT</a><br />
+project = <a href="https://github.com/Rufwame/RIOT">github.com/Rufwame/RIOT</a><br />
+project = <a href="https://github.com/RumBlalGalaxy/RIOT">github.com/RumBlalGalaxy/RIOT</a><br />
+project = <a href="https://github.com/SCiMOS/RIOT">github.com/SCiMOS/RIOT</a><br />
+project = <a href="https://github.com/SSV-embedded/RIOT">github.com/SSV-embedded/RIOT</a><br />
+project = <a href="https://github.com/SWIE-IO/RIOT">github.com/SWIE-IO/RIOT</a><br />
+project = <a href="https://github.com/SaiNavyaNelavelli/RIOT">github.com/SaiNavyaNelavelli/RIOT</a><br />
+project = <a href="https://github.com/Salomonic/RIOT">github.com/Salomonic/RIOT</a><br />
+project = <a href="https://github.com/Sarajova/RIOT">github.com/Sarajova/RIOT</a><br />
+project = <a href="https://github.com/SebastianSzymczak/RIOT">github.com/SebastianSzymczak/RIOT</a><br />
+project = <a href="https://github.com/SebastianWilkes/RIOT">github.com/SebastianWilkes/RIOT</a><br />
+project = <a href="https://github.com/SemjonKerner/RIOT">github.com/SemjonKerner/RIOT</a><br />
+project = <a href="https://github.com/Slider043/RIOT">github.com/Slider043/RIOT</a><br />
+project = <a href="https://github.com/SmallSharky/riot-edu">github.com/SmallSharky/riot-edu</a><br />
+project = <a href="https://github.com/Subor-gfraf/RIOT">github.com/Subor-gfraf/RIOT</a><br />
+project = <a href="https://github.com/TaquyeddineZegaoui/RIOT">github.com/TaquyeddineZegaoui/RIOT</a><br />
+project = <a href="https://github.com/ThanhVic/RIOT">github.com/ThanhVic/RIOT</a><br />
+project = <a href="https://github.com/TheSkape/RIOT">github.com/TheSkape/RIOT</a><br />
+project = <a href="https://github.com/TheSwagMan/riot_test">github.com/TheSwagMan/riot_test</a><br />
+project = <a href="https://github.com/TizenTeam/RIOT">github.com/TizenTeam/RIOT</a><br />
+project = <a href="https://github.com/TobiasFredersdorf/RIOT">github.com/TobiasFredersdorf/RIOT</a><br />
+project = <a href="https://github.com/VALaptev/RIOT">github.com/VALaptev/RIOT</a><br />
+project = <a href="https://github.com/ViktorVaczi90/RIOT">github.com/ViktorVaczi90/RIOT</a><br />
+project = <a href="https://github.com/VilleHiltunen/RIOT">github.com/VilleHiltunen/RIOT</a><br />
+project = <a href="https://github.com/Waldgeist84/RIOT">github.com/Waldgeist84/RIOT</a><br />
+project = <a href="https://github.com/aabadie/RIOT">github.com/aabadie/RIOT</a><br />
+project = <a href="https://github.com/abkam07/RIOT">github.com/abkam07/RIOT</a><br />
+project = <a href="https://github.com/abp719/RIOT">github.com/abp719/RIOT</a><br />
+project = <a href="https://github.com/adityaseven/RIOT">github.com/adityaseven/RIOT</a><br />
+project = <a href="https://github.com/alex1818/RIOT">github.com/alex1818/RIOT</a><br />
+project = <a href="https://github.com/alexiss03/riot-os-cs250">github.com/alexiss03/riot-os-cs250</a><br />
+project = <a href="https://github.com/altairpearl/RIOT">github.com/altairpearl/RIOT</a><br />
+project = <a href="https://github.com/andrlee/RIOT">github.com/andrlee/RIOT</a><br />
+project = <a href="https://github.com/anurudh27/RIOT">github.com/anurudh27/RIOT</a><br />
+project = <a href="https://github.com/arvindpdmn/RIOT">github.com/arvindpdmn/RIOT</a><br />
+project = <a href="https://github.com/asdjah/RIOT">github.com/asdjah/RIOT</a><br />
+project = <a href="https://github.com/aspyver/RIOT">github.com/aspyver/RIOT</a><br />
+project = <a href="https://github.com/asquini/RIOT">github.com/asquini/RIOT</a><br />
+project = <a href="https://github.com/attdona/RIOT">github.com/attdona/RIOT</a><br />
+project = <a href="https://github.com/authmillenon/RIOT">github.com/authmillenon/RIOT</a><br />
+project = <a href="https://github.com/automote/RIOT">github.com/automote/RIOT</a><br />
+project = <a href="https://github.com/avmelnikoff/RIOT">github.com/avmelnikoff/RIOT</a><br />
+project = <a href="https://github.com/ayush7gupta/IPv4_Riot">github.com/ayush7gupta/IPv4_Riot</a><br />
+project = <a href="https://github.com/basilfx/RIOT">github.com/basilfx/RIOT</a><br />
+project = <a href="https://github.com/beduino-project/RIOT">github.com/beduino-project/RIOT</a><br />
+project = <a href="https://github.com/beduino-project/RIOT-POLICE">github.com/beduino-project/RIOT-POLICE</a><br />
+project = <a href="https://github.com/benemorius/RIOT">github.com/benemorius/RIOT</a><br />
+project = <a href="https://github.com/benpicco/RIOT">github.com/benpicco/RIOT</a><br />
+project = <a href="https://github.com/berbecche/RIOT">github.com/berbecche/RIOT</a><br />
+project = <a href="https://github.com/bergzand/RIOT">github.com/bergzand/RIOT</a><br />
+project = <a href="https://github.com/beurdouche/RIOT">github.com/beurdouche/RIOT</a><br />
+project = <a href="https://github.com/bhargav2408/RIOT">github.com/bhargav2408/RIOT</a><br />
+project = <a href="https://github.com/biboc/RIOT">github.com/biboc/RIOT</a><br />
+project = <a href="https://github.com/billyzhaoj/RIOT-OS">github.com/billyzhaoj/RIOT-OS</a><br />
+project = <a href="https://github.com/binarylemon/RIOT">github.com/binarylemon/RIOT</a><br />
+project = <a href="https://github.com/bitbucket.org/jcarrano_riot-os">github.com/bitbucket.org/jcarrano_riot-os</a><br />
+project = <a href="https://github.com/bitbucket.org/nbmaiti_riot">github.com/bitbucket.org/nbmaiti_riot</a><br />
+project = <a href="https://github.com/blaisehorvath/RIOT">github.com/blaisehorvath/RIOT</a><br />
+project = <a href="https://github.com/bmd00bmd/KubOS">github.com/bmd00bmd/KubOS</a><br />
+project = <a href="https://github.com/bradzieminski/RIOT-EE250">github.com/bradzieminski/RIOT-EE250</a><br />
+project = <a href="https://github.com/brettswann/RIOT">github.com/brettswann/RIOT</a><br />
+project = <a href="https://github.com/brummer-simon/RIOT">github.com/brummer-simon/RIOT</a><br />
+project = <a href="https://github.com/bumpy-b/RIOT">github.com/bumpy-b/RIOT</a><br />
+project = <a href="https://github.com/bygit/RIOT">github.com/bygit/RIOT</a><br />
+project = <a href="https://github.com/cha63506/RIOT">github.com/cha63506/RIOT</a><br />
+project = <a href="https://github.com/checorone/motoguard-enddevice">github.com/checorone/motoguard-enddevice</a><br />
+project = <a href="https://github.com/clem-bluefruit/RIOT">github.com/clem-bluefruit/RIOT</a><br />
+project = <a href="https://github.com/codeForSaif/RIOT">github.com/codeForSaif/RIOT</a><br />
+project = <a href="https://github.com/crest42/RIOT">github.com/crest42/RIOT</a><br />
+project = <a href="https://github.com/czarsir/RIOT">github.com/czarsir/RIOT</a><br />
+project = <a href="https://github.com/czoksu/RIOT">github.com/czoksu/RIOT</a><br />
+project = <a href="https://github.com/d00616/RIOT">github.com/d00616/RIOT</a><br />
+project = <a href="https://github.com/d12y12/RIOT">github.com/d12y12/RIOT</a><br />
+project = <a href="https://github.com/daemory/RIOT">github.com/daemory/RIOT</a><br />
+project = <a href="https://github.com/dailab/RIOT">github.com/dailab/RIOT</a><br />
+project = <a href="https://github.com/danebennett/RIOT">github.com/danebennett/RIOT</a><br />
+project = <a href="https://github.com/daniel-k/RIOT">github.com/daniel-k/RIOT</a><br />
+project = <a href="https://github.com/daniel-kelley/RIOT">github.com/daniel-kelley/RIOT</a><br />
+project = <a href="https://github.com/danielamkaer/RIOT">github.com/danielamkaer/RIOT</a><br />
+project = <a href="https://github.com/danielinux/RIOT">github.com/danielinux/RIOT</a><br />
+project = <a href="https://github.com/danpetry/RIOT">github.com/danpetry/RIOT</a><br />
+project = <a href="https://github.com/datachi7d/RIOT">github.com/datachi7d/RIOT</a><br />
+project = <a href="https://github.com/davidmr001/RIOT">github.com/davidmr001/RIOT</a><br />
+project = <a href="https://github.com/davidvalarezo/RIOT">github.com/davidvalarezo/RIOT</a><br />
+project = <a href="https://github.com/davidvalarezo/RIOT-1">github.com/davidvalarezo/RIOT-1</a><br />
+project = <a href="https://github.com/dbohn/RIOT">github.com/dbohn/RIOT</a><br />
+project = <a href="https://github.com/dboschm/RIOT-Xtensa-ESP">github.com/dboschm/RIOT-Xtensa-ESP</a><br />
+project = <a href="https://github.com/ddiddlepants/RIOT-EE250">github.com/ddiddlepants/RIOT-EE250</a><br />
+project = <a href="https://github.com/ddreyer/RIOT-OS">github.com/ddreyer/RIOT-OS</a><br />
+project = <a href="https://github.com/ddreyer/RIOT-OS-1">github.com/ddreyer/RIOT-OS-1</a><br />
+project = <a href="https://github.com/ddreyer/RIOT-OS-class">github.com/ddreyer/RIOT-OS-class</a><br />
+project = <a href="https://github.com/ddreyer/openthread">github.com/ddreyer/openthread</a><br />
+project = <a href="https://github.com/decolnz/RIOT">github.com/decolnz/RIOT</a><br />
+project = <a href="https://github.com/deepfryed/RIOT">github.com/deepfryed/RIOT</a><br />
+project = <a href="https://github.com/deniskropp/RIOT">github.com/deniskropp/RIOT</a><br />
+project = <a href="https://github.com/denizs/RIOT">github.com/denizs/RIOT</a><br />
+project = <a href="https://github.com/denizs/riot">github.com/denizs/riot</a><br />
+project = <a href="https://github.com/denykk/RIOT">github.com/denykk/RIOT</a><br />
+project = <a href="https://github.com/derf/RIOT">github.com/derf/RIOT</a><br />
+project = <a href="https://github.com/devantormey/RIOT-EE250">github.com/devantormey/RIOT-EE250</a><br />
+project = <a href="https://github.com/deviance/RIOT">github.com/deviance/RIOT</a><br />
+project = <a href="https://github.com/dhruvvyas90/RIOT">github.com/dhruvvyas90/RIOT</a><br />
+project = <a href="https://github.com/diddyhsv/RIOT">github.com/diddyhsv/RIOT</a><br />
+project = <a href="https://github.com/dkazantzas/RIOT">github.com/dkazantzas/RIOT</a><br />
+project = <a href="https://github.com/dkm/RIOT">github.com/dkm/RIOT</a><br />
+project = <a href="https://github.com/dmdsouza/RIOT">github.com/dmdsouza/RIOT</a><br />
+project = <a href="https://github.com/dmoldova/RIOT-EE250">github.com/dmoldova/RIOT-EE250</a><br />
+project = <a href="https://github.com/docdor/RIOT">github.com/docdor/RIOT</a><br />
+project = <a href="https://github.com/dongdongbh/RIOT">github.com/dongdongbh/RIOT</a><br />
+project = <a href="https://github.com/dongkc/RIOT">github.com/dongkc/RIOT</a><br />
+project = <a href="https://github.com/doniexun/RIOT">github.com/doniexun/RIOT</a><br />
+project = <a href="https://github.com/dorukarda/RIOT">github.com/dorukarda/RIOT</a><br />
+project = <a href="https://github.com/doudoudq/RIOT">github.com/doudoudq/RIOT</a><br />
+project = <a href="https://github.com/drasko/RIOT">github.com/drasko/RIOT</a><br />
+project = <a href="https://github.com/drcef/RIOT">github.com/drcef/RIOT</a><br />
+project = <a href="https://github.com/drmrboy/RIOT">github.com/drmrboy/RIOT</a><br />
+project = <a href="https://github.com/duanlv/RIOT">github.com/duanlv/RIOT</a><br />
+project = <a href="https://github.com/dut3062796s/RIOT-1">github.com/dut3062796s/RIOT-1</a><br />
+project = <a href="https://github.com/duv16/RIOT">github.com/duv16/RIOT</a><br />
+project = <a href="https://github.com/dylad/RIOT">github.com/dylad/RIOT</a><br />
+project = <a href="https://github.com/eacioffi/RIOT-EE250">github.com/eacioffi/RIOT-EE250</a><br />
+project = <a href="https://github.com/ecioffi/RIOT-EE250">github.com/ecioffi/RIOT-EE250</a><br />
+project = <a href="https://github.com/edgarmar2/RIOT-EE250">github.com/edgarmar2/RIOT-EE250</a><br />
+project = <a href="https://github.com/eeinz/RIOT">github.com/eeinz/RIOT</a><br />
+project = <a href="https://github.com/eerokhakala/RIOT">github.com/eerokhakala/RIOT</a><br />
+project = <a href="https://github.com/eggfly/RIOT">github.com/eggfly/RIOT</a><br />
+project = <a href="https://github.com/ehsanamin1990/RIOT">github.com/ehsanamin1990/RIOT</a><br />
+project = <a href="https://github.com/einars/RIOT">github.com/einars/RIOT</a><br />
+project = <a href="https://github.com/eistec/RIOT">github.com/eistec/RIOT</a><br />
+project = <a href="https://github.com/elecfist/RIOT">github.com/elecfist/RIOT</a><br />
+project = <a href="https://github.com/elix22/RIOT">github.com/elix22/RIOT</a><br />
+project = <a href="https://github.com/elvaigh/RIOT">github.com/elvaigh/RIOT</a><br />
+project = <a href="https://github.com/emmanuelsearch/RIOT">github.com/emmanuelsearch/RIOT</a><br />
+project = <a href="https://github.com/emuhedo/RIOT">github.com/emuhedo/RIOT</a><br />
+project = <a href="https://github.com/enzingerm/RIOT">github.com/enzingerm/RIOT</a><br />
+project = <a href="https://github.com/ericyao2013/RIOT">github.com/ericyao2013/RIOT</a><br />
+project = <a href="https://github.com/erlerobot/RIOT">github.com/erlerobot/RIOT</a><br />
+project = <a href="https://github.com/euboss/RIOT">github.com/euboss/RIOT</a><br />
+project = <a href="https://github.com/eugenscobich/RIOT">github.com/eugenscobich/RIOT</a><br />
+project = <a href="https://github.com/fajb/RIOT">github.com/fajb/RIOT</a><br />
+project = <a href="https://github.com/fanghuaqi/RIOT">github.com/fanghuaqi/RIOT</a><br />
+project = <a href="https://github.com/fanxiaohui/RIOT">github.com/fanxiaohui/RIOT</a><br />
+project = <a href="https://github.com/fbsder/RIOT">github.com/fbsder/RIOT</a><br />
+project = <a href="https://github.com/fcgdam/RIOT">github.com/fcgdam/RIOT</a><br />
+project = <a href="https://github.com/fedepell/RIOT">github.com/fedepell/RIOT</a><br />
+project = <a href="https://github.com/fesselk/RIOT">github.com/fesselk/RIOT</a><br />
+project = <a href="https://github.com/fetmos/RIOT">github.com/fetmos/RIOT</a><br />
+project = <a href="https://github.com/fhessel/RIOT">github.com/fhessel/RIOT</a><br />
+project = <a href="https://github.com/fjmolinas/RIOT">github.com/fjmolinas/RIOT</a><br />
+project = <a href="https://github.com/flavius-aetios/RIOT">github.com/flavius-aetios/RIOT</a><br />
+project = <a href="https://github.com/flipreverse/RIOT">github.com/flipreverse/RIOT</a><br />
+project = <a href="https://github.com/florian-jean/RIOT">github.com/florian-jean/RIOT</a><br />
+project = <a href="https://github.com/flyhigh46/RIOT">github.com/flyhigh46/RIOT</a><br />
+project = <a href="https://github.com/fokin91/RIOT">github.com/fokin91/RIOT</a><br />
+project = <a href="https://github.com/fozc/RIOT">github.com/fozc/RIOT</a><br />
+project = <a href="https://github.com/fragomr/RIOT">github.com/fragomr/RIOT</a><br />
+project = <a href="https://github.com/francois-berder-imgtec/RIOT">github.com/francois-berder-imgtec/RIOT</a><br />
+project = <a href="https://github.com/francois-berder/RIOT">github.com/francois-berder/RIOT</a><br />
+project = <a href="https://github.com/frankamente/RIOT">github.com/frankamente/RIOT</a><br />
+project = <a href="https://github.com/freemanZYQ/RIOT">github.com/freemanZYQ/RIOT</a><br />
+project = <a href="https://github.com/fsolanod/RIOT">github.com/fsolanod/RIOT</a><br />
+project = <a href="https://github.com/fu-ilab-swp18/RIOT">github.com/fu-ilab-swp18/RIOT</a><br />
+project = <a href="https://github.com/fu-ilab-swp18/RIOT_pflanzen1">github.com/fu-ilab-swp18/RIOT_pflanzen1</a><br />
+project = <a href="https://github.com/fu-inet-swp17/RIOT">github.com/fu-inet-swp17/RIOT</a><br />
+project = <a href="https://github.com/future-proof-iot/RIOT">github.com/future-proof-iot/RIOT</a><br />
+project = <a href="https://github.com/fvacek/RIOT">github.com/fvacek/RIOT</a><br />
+project = <a href="https://github.com/fzi-forschungszentrum-informatik/RIOT64">github.com/fzi-forschungszentrum-informatik/RIOT64</a><br />
+project = <a href="https://github.com/fzy-Line/RIOT">github.com/fzy-Line/RIOT</a><br />
+project = <a href="https://github.com/gandy555/RIOT">github.com/gandy555/RIOT</a><br />
+project = <a href="https://github.com/gautric/RIOT">github.com/gautric/RIOT</a><br />
+project = <a href="https://github.com/gbarnett/RIOT">github.com/gbarnett/RIOT</a><br />
+project = <a href="https://github.com/gdoffe/RIOT">github.com/gdoffe/RIOT</a><br />
+project = <a href="https://github.com/george-hopkins/RIOT">github.com/george-hopkins/RIOT</a><br />
+project = <a href="https://github.com/geromueller/RIOT">github.com/geromueller/RIOT</a><br />
+project = <a href="https://github.com/gh18/RIOT">github.com/gh18/RIOT</a><br />
+project = <a href="https://github.com/ghavag/RIOT">github.com/ghavag/RIOT</a><br />
+project = <a href="https://github.com/ghice/RIOT">github.com/ghice/RIOT</a><br />
+project = <a href="https://github.com/ginetrix/RIOT">github.com/ginetrix/RIOT</a><br />
+project = <a href="https://github.com/girisugu2/RIOT">github.com/girisugu2/RIOT</a><br />
+project = <a href="https://github.com/girtsf/RIOT">github.com/girtsf/RIOT</a><br />
+project = <a href="https://github.com/gitcreater/RIOT">github.com/gitcreater/RIOT</a><br />
+project = <a href="https://github.com/gitlab.com/Gvanroon_RIOT">github.com/gitlab.com/Gvanroon_RIOT</a><br />
+project = <a href="https://github.com/gitlab.com/Spence_RIOT">github.com/gitlab.com/Spence_RIOT</a><br />
+project = <a href="https://github.com/gitlab.com/anilkumarsoma_RIOT">github.com/gitlab.com/anilkumarsoma_RIOT</a><br />
+project = <a href="https://github.com/gitlab.com/cellu_cc_riot">github.com/gitlab.com/cellu_cc_riot</a><br />
+project = <a href="https://github.com/gitlab.com/frankamente_RIOT">github.com/gitlab.com/frankamente_RIOT</a><br />
+project = <a href="https://github.com/gitlab.com/gspu_RIOT">github.com/gitlab.com/gspu_RIOT</a><br />
+project = <a href="https://github.com/gitlab.com/nicholas_jackson_RIOT">github.com/gitlab.com/nicholas_jackson_RIOT</a><br />
+project = <a href="https://github.com/gitlab.com/openrov_trident/trident-fw-samd">github.com/gitlab.com/openrov_trident/trident-fw-samd</a><br />
+project = <a href="https://github.com/gitlab.com/openrov_trident_trident-fw-samd">github.com/gitlab.com/openrov_trident_trident-fw-samd</a><br />
+project = <a href="https://github.com/gitlab.com/rhr407_RIOT">github.com/gitlab.com/rhr407_RIOT</a><br />
+project = <a href="https://github.com/gitlab.com/scanf_RIOT">github.com/gitlab.com/scanf_RIOT</a><br />
+project = <a href="https://github.com/gitlab.com/theja0473_RIOT">github.com/gitlab.com/theja0473_RIOT</a><br />
+project = <a href="https://github.com/gitlab.com/wsymons_riot">github.com/gitlab.com/wsymons_riot</a><br />
+project = <a href="https://github.com/glloydNAT/RIOT">github.com/glloydNAT/RIOT</a><br />
+project = <a href="https://github.com/gmsotavio/RIOT">github.com/gmsotavio/RIOT</a><br />
+project = <a href="https://github.com/gon1332/RIOT">github.com/gon1332/RIOT</a><br />
+project = <a href="https://github.com/gongfna/RIOT">github.com/gongfna/RIOT</a><br />
+project = <a href="https://github.com/gorbondiga/RIOT">github.com/gorbondiga/RIOT</a><br />
+project = <a href="https://github.com/gosticks/RIOT">github.com/gosticks/RIOT</a><br />
+project = <a href="https://github.com/graznik/RIOT">github.com/graznik/RIOT</a><br />
+project = <a href="https://github.com/groessler/RIOT">github.com/groessler/RIOT</a><br />
+project = <a href="https://github.com/gschorcht/RIOT">github.com/gschorcht/RIOT</a><br />
+project = <a href="https://github.com/gschorcht/RIOT-Xtensa-ESP">github.com/gschorcht/RIOT-Xtensa-ESP</a><br />
+project = <a href="https://github.com/gschorcht/RIOT-Xtensa-ESP8266">github.com/gschorcht/RIOT-Xtensa-ESP8266</a><br />
+project = <a href="https://github.com/gtrpucp/RIOT">github.com/gtrpucp/RIOT</a><br />
+project = <a href="https://github.com/gustavovelascoh/RIOT">github.com/gustavovelascoh/RIOT</a><br />
+project = <a href="https://github.com/gutorevoredo/RIOT">github.com/gutorevoredo/RIOT</a><br />
+project = <a href="https://github.com/guzenkovalexey/RIOT">github.com/guzenkovalexey/RIOT</a><br />
+project = <a href="https://github.com/gvz/RIOT">github.com/gvz/RIOT</a><br />
+project = <a href="https://github.com/h4nt/RIOT">github.com/h4nt/RIOT</a><br />
+project = <a href="https://github.com/habibzadeh/RIOT">github.com/habibzadeh/RIOT</a><br />
+project = <a href="https://github.com/hackerspacesv/RIOT">github.com/hackerspacesv/RIOT</a><br />
+project = <a href="https://github.com/hahchenchen/RIOT">github.com/hahchenchen/RIOT</a><br />
+project = <a href="https://github.com/haithemsekri/RIOT">github.com/haithemsekri/RIOT</a><br />
+project = <a href="https://github.com/hallo-alex/RIOT">github.com/hallo-alex/RIOT</a><br />
+project = <a href="https://github.com/hamilton-mote/RIOT-OS">github.com/hamilton-mote/RIOT-OS</a><br />
+project = <a href="https://github.com/hamilton-mote/RiSyn">github.com/hamilton-mote/RiSyn</a><br />
+project = <a href="https://github.com/haoyangyu/RIOT">github.com/haoyangyu/RIOT</a><br />
+project = <a href="https://github.com/harrisonforch/RIOT-EE250">github.com/harrisonforch/RIOT-EE250</a><br />
+project = <a href="https://github.com/harunoni/RIOT">github.com/harunoni/RIOT</a><br />
+project = <a href="https://github.com/haukepetersen/RIOT">github.com/haukepetersen/RIOT</a><br />
+project = <a href="https://github.com/heavybro/RIOT">github.com/heavybro/RIOT</a><br />
+project = <a href="https://github.com/herrfz/RIOT">github.com/herrfz/RIOT</a><br />
+project = <a href="https://github.com/hhhhhhlc/RIOT">github.com/hhhhhhlc/RIOT</a><br />
+project = <a href="https://github.com/hhy5277/RIOT-1">github.com/hhy5277/RIOT-1</a><br />
+project = <a href="https://github.com/hongkiaong/RIOT">github.com/hongkiaong/RIOT</a><br />
+project = <a href="https://github.com/houmway/RIOT">github.com/houmway/RIOT</a><br />
+project = <a href="https://github.com/hpu07/RIOT">github.com/hpu07/RIOT</a><br />
+project = <a href="https://github.com/huanquan/RIOT">github.com/huanquan/RIOT</a><br />
+project = <a href="https://github.com/huide9/RIOT">github.com/huide9/RIOT</a><br />
+project = <a href="https://github.com/huleg/RIOT">github.com/huleg/RIOT</a><br />
+project = <a href="https://github.com/huypq6/RIOT">github.com/huypq6/RIOT</a><br />
+project = <a href="https://github.com/i-spark/RIOT">github.com/i-spark/RIOT</a><br />
+project = <a href="https://github.com/i53-infrastructure/RIOT">github.com/i53-infrastructure/RIOT</a><br />
+project = <a href="https://github.com/iam-thanwa-io/RIOT">github.com/iam-thanwa-io/RIOT</a><br />
+project = <a href="https://github.com/iambijusnair/RIOT">github.com/iambijusnair/RIOT</a><br />
+project = <a href="https://github.com/ibr-cm/RIOT">github.com/ibr-cm/RIOT</a><br />
+project = <a href="https://github.com/ibriano/RIOT">github.com/ibriano/RIOT</a><br />
+project = <a href="https://github.com/icube-inetlab/RIOT-OS">github.com/icube-inetlab/RIOT-OS</a><br />
+project = <a href="https://github.com/igrik82/RIOT">github.com/igrik82/RIOT</a><br />
+project = <a href="https://github.com/iia/RIOT">github.com/iia/RIOT</a><br />
+project = <a href="https://github.com/ijip/RIOT">github.com/ijip/RIOT</a><br />
+project = <a href="https://github.com/ikshin416/RIOT">github.com/ikshin416/RIOT</a><br />
+project = <a href="https://github.com/ikvm/RIOT-1">github.com/ikvm/RIOT-1</a><br />
+project = <a href="https://github.com/iliessens/RIOT">github.com/iliessens/RIOT</a><br />
+project = <a href="https://github.com/ilya-dubinsky/RIOT">github.com/ilya-dubinsky/RIOT</a><br />
+project = <a href="https://github.com/ilya-epifanov/RIOT">github.com/ilya-epifanov/RIOT</a><br />
+project = <a href="https://github.com/immesys/RIOT">github.com/immesys/RIOT</a><br />
+project = <a href="https://github.com/immesys/RiSyn">github.com/immesys/RiSyn</a><br />
+project = <a href="https://github.com/inetrg/RIOT">github.com/inetrg/RIOT</a><br />
+project = <a href="https://github.com/injxgj/RIOT">github.com/injxgj/RIOT</a><br />
+project = <a href="https://github.com/internet-of-plants/RIOT">github.com/internet-of-plants/RIOT</a><br />
+project = <a href="https://github.com/iocainst/RIOT">github.com/iocainst/RIOT</a><br />
+project = <a href="https://github.com/iot-alex/RIOT">github.com/iot-alex/RIOT</a><br />
+project = <a href="https://github.com/iot-lab/riot-upstream">github.com/iot-lab/riot-upstream</a><br />
+project = <a href="https://github.com/iota-community/BLE-environment-sensor">github.com/iota-community/BLE-environment-sensor</a><br />
+project = <a href="https://github.com/iota-community/thingy52-env-sensor">github.com/iota-community/thingy52-env-sensor</a><br />
+project = <a href="https://github.com/iothon/RIOT">github.com/iothon/RIOT</a><br />
+project = <a href="https://github.com/iotlibrary/RIOT">github.com/iotlibrary/RIOT</a><br />
+project = <a href="https://github.com/iotvietmember/RIOT">github.com/iotvietmember/RIOT</a><br />
+project = <a href="https://github.com/iplon/RIOT">github.com/iplon/RIOT</a><br />
+project = <a href="https://github.com/ironeagle-ir/RIOT">github.com/ironeagle-ir/RIOT</a><br />
+project = <a href="https://github.com/is00hcw/RIOT-1">github.com/is00hcw/RIOT-1</a><br />
+project = <a href="https://github.com/iseitani/RIOT">github.com/iseitani/RIOT</a><br />
+project = <a href="https://github.com/iseitani/RIOT_BR">github.com/iseitani/RIOT_BR</a><br />
+project = <a href="https://github.com/it-gladkiy/RIOT">github.com/it-gladkiy/RIOT</a><br />
+project = <a href="https://github.com/ivanka6342/RIOT">github.com/ivanka6342/RIOT</a><br />
+project = <a href="https://github.com/ivantesker/RIOT">github.com/ivantesker/RIOT</a><br />
+project = <a href="https://github.com/jaeseokan94/RIOT">github.com/jaeseokan94/RIOT</a><br />
+project = <a href="https://github.com/jafffy/RIOT">github.com/jafffy/RIOT</a><br />
+project = <a href="https://github.com/jan-mo/RIOT">github.com/jan-mo/RIOT</a><br />
+project = <a href="https://github.com/janmoehl/RIOT">github.com/janmoehl/RIOT</a><br />
+project = <a href="https://github.com/jarrcan-cl/RIOT">github.com/jarrcan-cl/RIOT</a><br />
+project = <a href="https://github.com/jasonatran/RIOT">github.com/jasonatran/RIOT</a><br />
+project = <a href="https://github.com/jasonatran/iris-riot">github.com/jasonatran/iris-riot</a><br />
+project = <a href="https://github.com/javierfileiv/RIOT">github.com/javierfileiv/RIOT</a><br />
+project = <a href="https://github.com/jbeyerstedt/RIOT">github.com/jbeyerstedt/RIOT</a><br />
+project = <a href="https://github.com/jbeyerstedt/RIOT-OTA-update">github.com/jbeyerstedt/RIOT-OTA-update</a><br />
+project = <a href="https://github.com/jcarrano/RIOT">github.com/jcarrano/RIOT</a><br />
+project = <a href="https://github.com/jdhuanghub/RIOT">github.com/jdhuanghub/RIOT</a><br />
+project = <a href="https://github.com/jelledevleeschouwer/RIOT">github.com/jelledevleeschouwer/RIOT</a><br />
+project = <a href="https://github.com/jessezwd/RIOT">github.com/jessezwd/RIOT</a><br />
+project = <a href="https://github.com/jfbortolotti/RIOT">github.com/jfbortolotti/RIOT</a><br />
+project = <a href="https://github.com/jhollister/RIOT">github.com/jhollister/RIOT</a><br />
+project = <a href="https://github.com/jia200x/RIOT">github.com/jia200x/RIOT</a><br />
+project = <a href="https://github.com/jiababybaby/RIOT">github.com/jiababybaby/RIOT</a><br />
+project = <a href="https://github.com/jiangjie87481/RIOT">github.com/jiangjie87481/RIOT</a><br />
+project = <a href="https://github.com/jigla/RIOT-OS">github.com/jigla/RIOT-OS</a><br />
+project = <a href="https://github.com/jinfenw/RIOT">github.com/jinfenw/RIOT</a><br />
+project = <a href="https://github.com/jingjing54007/RIOT">github.com/jingjing54007/RIOT</a><br />
+project = <a href="https://github.com/jinhongdu/RIOT">github.com/jinhongdu/RIOT</a><br />
+project = <a href="https://github.com/jjelonek/RIOT">github.com/jjelonek/RIOT</a><br />
+project = <a href="https://github.com/jliang1010/RIOT">github.com/jliang1010/RIOT</a><br />
+project = <a href="https://github.com/jmcdon0128/RIOT">github.com/jmcdon0128/RIOT</a><br />
+project = <a href="https://github.com/jmd99/RIOT">github.com/jmd99/RIOT</a><br />
+project = <a href="https://github.com/jongbot/RIOT">github.com/jongbot/RIOT</a><br />
+project = <a href="https://github.com/jongsun5/RIOT">github.com/jongsun5/RIOT</a><br />
+project = <a href="https://github.com/jonkster/RIOT">github.com/jonkster/RIOT</a><br />
+project = <a href="https://github.com/jonkster/RIOT2">github.com/jonkster/RIOT2</a><br />
+project = <a href="https://github.com/joshuabierton/RIOT">github.com/joshuabierton/RIOT</a><br />
+project = <a href="https://github.com/jowlo/RIOT">github.com/jowlo/RIOT</a><br />
+project = <a href="https://github.com/joyshmitz/RIOT">github.com/joyshmitz/RIOT</a><br />
+project = <a href="https://github.com/jpbonn/RIOT">github.com/jpbonn/RIOT</a><br />
+project = <a href="https://github.com/jpbonn/old-riot">github.com/jpbonn/old-riot</a><br />
+project = <a href="https://github.com/jpbonn/riot">github.com/jpbonn/riot</a><br />
+project = <a href="https://github.com/jpnorair/OT-RIOT">github.com/jpnorair/OT-RIOT</a><br />
+project = <a href="https://github.com/jpnorair/RIOT">github.com/jpnorair/RIOT</a><br />
+project = <a href="https://github.com/jremmert-phytec-iot/RIOT">github.com/jremmert-phytec-iot/RIOT</a><br />
+project = <a href="https://github.com/jthacker/RIOT">github.com/jthacker/RIOT</a><br />
+project = <a href="https://github.com/jue89/RIOT">github.com/jue89/RIOT</a><br />
+project = <a href="https://github.com/julien-ioic/RIOT">github.com/julien-ioic/RIOT</a><br />
+project = <a href="https://github.com/justin1571/RIOT-EE250">github.com/justin1571/RIOT-EE250</a><br />
+project = <a href="https://github.com/justinjoy/RIOT">github.com/justinjoy/RIOT</a><br />
+project = <a href="https://github.com/jvsg/RIOT">github.com/jvsg/RIOT</a><br />
+project = <a href="https://github.com/jxnuzhangwen/RIOT">github.com/jxnuzhangwen/RIOT</a><br />
+project = <a href="https://github.com/k6dsp/RIOT">github.com/k6dsp/RIOT</a><br />
+project = <a href="https://github.com/kYc0o/RIOT">github.com/kYc0o/RIOT</a><br />
+project = <a href="https://github.com/kaibeckmann/RIOT">github.com/kaibeckmann/RIOT</a><br />
+project = <a href="https://github.com/kaidokert/RIOT">github.com/kaidokert/RIOT</a><br />
+project = <a href="https://github.com/kaifeichen/RIOT-OS">github.com/kaifeichen/RIOT-OS</a><br />
+project = <a href="https://github.com/kaleb-himes/RIOT">github.com/kaleb-himes/RIOT</a><br />
+project = <a href="https://github.com/kamar4k/RIOT">github.com/kamar4k/RIOT</a><br />
+project = <a href="https://github.com/kamejoko80/RIOT">github.com/kamejoko80/RIOT</a><br />
+project = <a href="https://github.com/kangdazhi/RIOT">github.com/kangdazhi/RIOT</a><br />
+project = <a href="https://github.com/kartben/RIOT">github.com/kartben/RIOT</a><br />
+project = <a href="https://github.com/kaspar030/RIOT">github.com/kaspar030/RIOT</a><br />
+project = <a href="https://github.com/katezilla/RIOT">github.com/katezilla/RIOT</a><br />
+project = <a href="https://github.com/kb2ma/RIOT">github.com/kb2ma/RIOT</a><br />
+project = <a href="https://github.com/kbonset/RIOT">github.com/kbonset/RIOT</a><br />
+project = <a href="https://github.com/kbumsik/RIOT">github.com/kbumsik/RIOT</a><br />
+project = <a href="https://github.com/keestux/RIOT">github.com/keestux/RIOT</a><br />
+project = <a href="https://github.com/kenkuang/RIOT">github.com/kenkuang/RIOT</a><br />
+project = <a href="https://github.com/kennethjiang/RIOT">github.com/kennethjiang/RIOT</a><br />
+project = <a href="https://github.com/kenrabold/RIOT">github.com/kenrabold/RIOT</a><br />
+project = <a href="https://github.com/kerneltask/RIOT">github.com/kerneltask/RIOT</a><br />
+project = <a href="https://github.com/kery-chen/RIOT">github.com/kery-chen/RIOT</a><br />
+project = <a href="https://github.com/kerychen/RIOT">github.com/kerychen/RIOT</a><br />
+project = <a href="https://github.com/kex2017/RIOT">github.com/kex2017/RIOT</a><br />
+project = <a href="https://github.com/khhhh/RIOT">github.com/khhhh/RIOT</a><br />
+project = <a href="https://github.com/khurananish/RIOT">github.com/khurananish/RIOT</a><br />
+project = <a href="https://github.com/kineev/RIOT">github.com/kineev/RIOT</a><br />
+project = <a href="https://github.com/kingfs/RIOT">github.com/kingfs/RIOT</a><br />
+project = <a href="https://github.com/kjh1007/RIOT">github.com/kjh1007/RIOT</a><br />
+project = <a href="https://github.com/konstantinngvk1/RIOT">github.com/konstantinngvk1/RIOT</a><br />
+project = <a href="https://github.com/kontais/RIOT">github.com/kontais/RIOT</a><br />
+project = <a href="https://github.com/kotteeswarane/CanGateway">github.com/kotteeswarane/CanGateway</a><br />
+project = <a href="https://github.com/krishnak9/RIOT">github.com/krishnak9/RIOT</a><br />
+project = <a href="https://github.com/kroesche/RIOT">github.com/kroesche/RIOT</a><br />
+project = <a href="https://github.com/ks156/RIOT">github.com/ks156/RIOT</a><br />
+project = <a href="https://github.com/kubostech/RIOT">github.com/kubostech/RIOT</a><br />
+project = <a href="https://github.com/kugel2/RIOT">github.com/kugel2/RIOT</a><br />
+project = <a href="https://github.com/kumar-jiri6/RIOT">github.com/kumar-jiri6/RIOT</a><br />
+project = <a href="https://github.com/kushalsingh007/RIOT">github.com/kushalsingh007/RIOT</a><br />
+project = <a href="https://github.com/kutama/RIOT">github.com/kutama/RIOT</a><br />
+project = <a href="https://github.com/kvbryukhanov/RIOT">github.com/kvbryukhanov/RIOT</a><br />
+project = <a href="https://github.com/kwahome/RIOT">github.com/kwahome/RIOT</a><br />
+project = <a href="https://github.com/kyrofa/RIOT">github.com/kyrofa/RIOT</a><br />
+project = <a href="https://github.com/l3nko/RIOT">github.com/l3nko/RIOT</a><br />
+project = <a href="https://github.com/lafka/RIOT">github.com/lafka/RIOT</a><br />
+project = <a href="https://github.com/lalrae/RIOT">github.com/lalrae/RIOT</a><br />
+project = <a href="https://github.com/laparmakerli/riot-upstream">github.com/laparmakerli/riot-upstream</a><br />
+project = <a href="https://github.com/latsku/RIOT">github.com/latsku/RIOT</a><br />
+project = <a href="https://github.com/lazytech-org/RIOT">github.com/lazytech-org/RIOT</a><br />
+project = <a href="https://github.com/ldesiqueira/RIOT">github.com/ldesiqueira/RIOT</a><br />
+project = <a href="https://github.com/le7amdon/RIOT">github.com/le7amdon/RIOT</a><br />
+project = <a href="https://github.com/leandrolanzieri/RIOT">github.com/leandrolanzieri/RIOT</a><br />
+project = <a href="https://github.com/lebrush/RIOT">github.com/lebrush/RIOT</a><br />
+project = <a href="https://github.com/leeminghao/RIOT">github.com/leeminghao/RIOT</a><br />
+project = <a href="https://github.com/legendary-bro/RIOT">github.com/legendary-bro/RIOT</a><br />
+project = <a href="https://github.com/lidong1266/RIOT">github.com/lidong1266/RIOT</a><br />
+project = <a href="https://github.com/liguojiang/RIOT">github.com/liguojiang/RIOT</a><br />
+project = <a href="https://github.com/lincvv/RIOT">github.com/lincvv/RIOT</a><br />
+project = <a href="https://github.com/lineCode/RIOT-1">github.com/lineCode/RIOT-1</a><br />
+project = <a href="https://github.com/linearregression/RIOT">github.com/linearregression/RIOT</a><br />
+project = <a href="https://github.com/linpingchuan/RIOT">github.com/linpingchuan/RIOT</a><br />
+project = <a href="https://github.com/linux-wpan/RIOT">github.com/linux-wpan/RIOT</a><br />
+project = <a href="https://github.com/liujiandu/RIOT">github.com/liujiandu/RIOT</a><br />
+project = <a href="https://github.com/liwangqian/RIOT">github.com/liwangqian/RIOT</a><br />
+project = <a href="https://github.com/ljs9643/RIOT">github.com/ljs9643/RIOT</a><br />
+project = <a href="https://github.com/llueder/RIOT">github.com/llueder/RIOT</a><br />
+project = <a href="https://github.com/lluminita/RIOT">github.com/lluminita/RIOT</a><br />
+project = <a href="https://github.com/lmhtz/RIOT">github.com/lmhtz/RIOT</a><br />
+project = <a href="https://github.com/locosoft1986/RIOT">github.com/locosoft1986/RIOT</a><br />
+project = <a href="https://github.com/logself1988/RIOT">github.com/logself1988/RIOT</a><br />
+project = <a href="https://github.com/lorenz9314/RIOT">github.com/lorenz9314/RIOT</a><br />
+project = <a href="https://github.com/louisyoo/RIOT">github.com/louisyoo/RIOT</a><br />
+project = <a href="https://github.com/lovelesh/RIOT">github.com/lovelesh/RIOT</a><br />
+project = <a href="https://github.com/lpaulic/RIOT">github.com/lpaulic/RIOT</a><br />
+project = <a href="https://github.com/lsaos/RIOT">github.com/lsaos/RIOT</a><br />
+project = <a href="https://github.com/luciotorre/RIOT">github.com/luciotorre/RIOT</a><br />
+project = <a href="https://github.com/luisseo01/RIOT">github.com/luisseo01/RIOT</a><br />
+project = <a href="https://github.com/lupamedeiros/RIOT">github.com/lupamedeiros/RIOT</a><br />
+project = <a href="https://github.com/lvjh/RIOT">github.com/lvjh/RIOT</a><br />
+project = <a href="https://github.com/lxsang/RIOT">github.com/lxsang/RIOT</a><br />
+project = <a href="https://github.com/lyashley/RIOT-EE250">github.com/lyashley/RIOT-EE250</a><br />
+project = <a href="https://github.com/lzbgt/RIOT">github.com/lzbgt/RIOT</a><br />
+project = <a href="https://github.com/lzj85/RIOT">github.com/lzj85/RIOT</a><br />
+project = <a href="https://github.com/m21400/RIOT">github.com/m21400/RIOT</a><br />
+project = <a href="https://github.com/m2mbr/RIOT">github.com/m2mbr/RIOT</a><br />
+project = <a href="https://github.com/madokapeng/RIOT">github.com/madokapeng/RIOT</a><br />
+project = <a href="https://github.com/maghis/RIOT">github.com/maghis/RIOT</a><br />
+project = <a href="https://github.com/mahermastouri/RIOT">github.com/mahermastouri/RIOT</a><br />
+project = <a href="https://github.com/maitysubhasis/RIOT_OS">github.com/maitysubhasis/RIOT_OS</a><br />
+project = <a href="https://github.com/makyo-dev/RIOT-1">github.com/makyo-dev/RIOT-1</a><br />
+project = <a href="https://github.com/mali/RIOT">github.com/mali/RIOT</a><br />
+project = <a href="https://github.com/malosek/RIOT">github.com/malosek/RIOT</a><br />
+project = <a href="https://github.com/manamhr/RIOT-EE250">github.com/manamhr/RIOT-EE250</a><br />
+project = <a href="https://github.com/maribu/RIOT">github.com/maribu/RIOT</a><br />
+project = <a href="https://github.com/marshall/RIOT">github.com/marshall/RIOT</a><br />
+project = <a href="https://github.com/martinheusmann/RIOT">github.com/martinheusmann/RIOT</a><br />
+project = <a href="https://github.com/massad77/RIOT">github.com/massad77/RIOT</a><br />
+project = <a href="https://github.com/mathirkub/RIOT">github.com/mathirkub/RIOT</a><br />
+project = <a href="https://github.com/mattiantonini/RIOT">github.com/mattiantonini/RIOT</a><br />
+project = <a href="https://github.com/maxvankessel/RIOT">github.com/maxvankessel/RIOT</a><br />
+project = <a href="https://github.com/mbrukman/RIOT">github.com/mbrukman/RIOT</a><br />
+project = <a href="https://github.com/mbutkereit/RIOT">github.com/mbutkereit/RIOT</a><br />
+project = <a href="https://github.com/mdodkins/RIOT">github.com/mdodkins/RIOT</a><br />
+project = <a href="https://github.com/mehrdaad/RIOT">github.com/mehrdaad/RIOT</a><br />
+project = <a href="https://github.com/mehulrijawani/RIOT">github.com/mehulrijawani/RIOT</a><br />
+project = <a href="https://github.com/mejm/RIOT">github.com/mejm/RIOT</a><br />
+project = <a href="https://github.com/melfork/RIOT">github.com/melfork/RIOT</a><br />
+project = <a href="https://github.com/melshuber/RIOT">github.com/melshuber/RIOT</a><br />
+project = <a href="https://github.com/mfkiwl/RIOT">github.com/mfkiwl/RIOT</a><br />
+project = <a href="https://github.com/mfrey/RIOT">github.com/mfrey/RIOT</a><br />
+project = <a href="https://github.com/michaelgianpowski/RIOT">github.com/michaelgianpowski/RIOT</a><br />
+project = <a href="https://github.com/michz/RIOT">github.com/michz/RIOT</a><br />
+project = <a href="https://github.com/mike168m/RIOT">github.com/mike168m/RIOT</a><br />
+project = <a href="https://github.com/ming-hai/RIOT">github.com/ming-hai/RIOT</a><br />
+project = <a href="https://github.com/minkione/RIOT">github.com/minkione/RIOT</a><br />
+project = <a href="https://github.com/miri64/RIOT">github.com/miri64/RIOT</a><br />
+project = <a href="https://github.com/mishlasfeng/RIOT">github.com/mishlasfeng/RIOT</a><br />
+project = <a href="https://github.com/mkcourse/RIOT">github.com/mkcourse/RIOT</a><br />
+project = <a href="https://github.com/mmkonrad/RIOT">github.com/mmkonrad/RIOT</a><br />
+project = <a href="https://github.com/moenoel/RIOT">github.com/moenoel/RIOT</a><br />
+project = <a href="https://github.com/mojiuyu/RIOT-1">github.com/mojiuyu/RIOT-1</a><br />
+project = <a href="https://github.com/moneytech/RIOT">github.com/moneytech/RIOT</a><br />
+project = <a href="https://github.com/monoclecat/RIOT">github.com/monoclecat/RIOT</a><br />
+project = <a href="https://github.com/moyansen/RIOT">github.com/moyansen/RIOT</a><br />
+project = <a href="https://github.com/mrazek-deakin/RIOT">github.com/mrazek-deakin/RIOT</a><br />
+project = <a href="https://github.com/mredekopp/RIOT-EE250">github.com/mredekopp/RIOT-EE250</a><br />
+project = <a href="https://github.com/mrnguyen211190/RIOT">github.com/mrnguyen211190/RIOT</a><br />
+project = <a href="https://github.com/msakil/RIOT">github.com/msakil/RIOT</a><br />
+project = <a href="https://github.com/msliusarev/RIOT">github.com/msliusarev/RIOT</a><br />
+project = <a href="https://github.com/msolters/RIOT">github.com/msolters/RIOT</a><br />
+project = <a href="https://github.com/mstn-09/RIOT">github.com/mstn-09/RIOT</a><br />
+project = <a href="https://github.com/mtausig/RIOT">github.com/mtausig/RIOT</a><br />
+project = <a href="https://github.com/mufeedpatel/RIOT">github.com/mufeedpatel/RIOT</a><br />
+project = <a href="https://github.com/muharam1991/RIOT">github.com/muharam1991/RIOT</a><br />
+project = <a href="https://github.com/mullerhx/RIOT">github.com/mullerhx/RIOT</a><br />
+project = <a href="https://github.com/mullife/RIOT">github.com/mullife/RIOT</a><br />
+project = <a href="https://github.com/murdock-ci/RIOT">github.com/murdock-ci/RIOT</a><br />
+project = <a href="https://github.com/mxbrt/RIOT">github.com/mxbrt/RIOT</a><br />
+project = <a href="https://github.com/mziegert/RIOT">github.com/mziegert/RIOT</a><br />
+project = <a href="https://github.com/n16h7br33z3/RIOT">github.com/n16h7br33z3/RIOT</a><br />
+project = <a href="https://github.com/naaonethree/RIOT-EE250">github.com/naaonethree/RIOT-EE250</a><br />
+project = <a href="https://github.com/nailanawshaba/RIOT">github.com/nailanawshaba/RIOT</a><br />
+project = <a href="https://github.com/named-data-iot/RIOT">github.com/named-data-iot/RIOT</a><br />
+project = <a href="https://github.com/namezis/RIOT">github.com/namezis/RIOT</a><br />
+project = <a href="https://github.com/nanodrone/RIOT">github.com/nanodrone/RIOT</a><br />
+project = <a href="https://github.com/nashokkumar/RIOT">github.com/nashokkumar/RIOT</a><br />
+project = <a href="https://github.com/navneetnivu07/RIOT">github.com/navneetnivu07/RIOT</a><br />
+project = <a href="https://github.com/nawL1dg3/RIOT">github.com/nawL1dg3/RIOT</a><br />
+project = <a href="https://github.com/nealjack/RIOT-OS">github.com/nealjack/RIOT-OS</a><br />
+project = <a href="https://github.com/neiljay/RIOT">github.com/neiljay/RIOT</a><br />
+project = <a href="https://github.com/neo-existenz/RIOT">github.com/neo-existenz/RIOT</a><br />
+project = <a href="https://github.com/netdebug/RIOT">github.com/netdebug/RIOT</a><br />
+project = <a href="https://github.com/netroby/RIOT">github.com/netroby/RIOT</a><br />
+project = <a href="https://github.com/netscream/RIOT">github.com/netscream/RIOT</a><br />
+project = <a href="https://github.com/ngatilio/RIOT">github.com/ngatilio/RIOT</a><br />
+project = <a href="https://github.com/nghiaducnt/LearningRIOT">github.com/nghiaducnt/LearningRIOT</a><br />
+project = <a href="https://github.com/nguyenduclam/RIOT">github.com/nguyenduclam/RIOT</a><br />
+project = <a href="https://github.com/ngwong/RIOT-EE250">github.com/ngwong/RIOT-EE250</a><br />
+project = <a href="https://github.com/nicholas-c-jackson/RIOT">github.com/nicholas-c-jackson/RIOT</a><br />
+project = <a href="https://github.com/niziak/RIOT">github.com/niziak/RIOT</a><br />
+project = <a href="https://github.com/njprogramming/RIOT">github.com/njprogramming/RIOT</a><br />
+project = <a href="https://github.com/nkristek/RIOT">github.com/nkristek/RIOT</a><br />
+project = <a href="https://github.com/nlebang/RIOT">github.com/nlebang/RIOT</a><br />
+project = <a href="https://github.com/nlinktech/RIOT">github.com/nlinktech/RIOT</a><br />
+project = <a href="https://github.com/nmehlman/RIOT-EE250">github.com/nmehlman/RIOT-EE250</a><br />
+project = <a href="https://github.com/nmeum/RIOT">github.com/nmeum/RIOT</a><br />
+project = <a href="https://github.com/nolitimere/KubOS">github.com/nolitimere/KubOS</a><br />
+project = <a href="https://github.com/nqd/RIOT">github.com/nqd/RIOT</a><br />
+project = <a href="https://github.com/nsaspook/RIOT">github.com/nsaspook/RIOT</a><br />
+project = <a href="https://github.com/ntrtrung/RIOT">github.com/ntrtrung/RIOT</a><br />
+project = <a href="https://github.com/nvv13/RIOT">github.com/nvv13/RIOT</a><br />
+project = <a href="https://github.com/nyrahul/RIOT">github.com/nyrahul/RIOT</a><br />
+project = <a href="https://github.com/o0osorentoo0o/RIOT">github.com/o0osorentoo0o/RIOT</a><br />
+project = <a href="https://github.com/obgm/RIOT">github.com/obgm/RIOT</a><br />
+project = <a href="https://github.com/ochristi/RIOT">github.com/ochristi/RIOT</a><br />
+project = <a href="https://github.com/ofauchon/RIOT">github.com/ofauchon/RIOT</a><br />
+project = <a href="https://github.com/offchooffcho/RIOT">github.com/offchooffcho/RIOT</a><br />
+project = <a href="https://github.com/oh3eqn/RIOT">github.com/oh3eqn/RIOT</a><br />
+project = <a href="https://github.com/olegart/RIOT">github.com/olegart/RIOT</a><br />
+project = <a href="https://github.com/onesmash/RIOT">github.com/onesmash/RIOT</a><br />
+project = <a href="https://github.com/openkosmosorg/RIOT">github.com/openkosmosorg/RIOT</a><br />
+project = <a href="https://github.com/openwarelab/RIOT">github.com/openwarelab/RIOT</a><br />
+project = <a href="https://github.com/orchisan/RIOT">github.com/orchisan/RIOT</a><br />
+project = <a href="https://github.com/orf53975/RIOT">github.com/orf53975/RIOT</a><br />
+project = <a href="https://github.com/ott-kiwi/RIOT">github.com/ott-kiwi/RIOT</a><br />
+project = <a href="https://github.com/pacheco017/RIOT">github.com/pacheco017/RIOT</a><br />
+project = <a href="https://github.com/palaniyappanBala/RIOT">github.com/palaniyappanBala/RIOT</a><br />
+project = <a href="https://github.com/panail/RIOT">github.com/panail/RIOT</a><br />
+project = <a href="https://github.com/panshengpeng/RIOT">github.com/panshengpeng/RIOT</a><br />
+project = <a href="https://github.com/patgrosse/RIOT">github.com/patgrosse/RIOT</a><br />
+project = <a href="https://github.com/paula75/RIOT">github.com/paula75/RIOT</a><br />
+project = <a href="https://github.com/pavelgr/RIOT">github.com/pavelgr/RIOT</a><br />
+project = <a href="https://github.com/pavlyhabashy/RIOT-EE250">github.com/pavlyhabashy/RIOT-EE250</a><br />
+project = <a href="https://github.com/pdNor/RIOT">github.com/pdNor/RIOT</a><br />
+project = <a href="https://github.com/pekkanikander/RIOT">github.com/pekkanikander/RIOT</a><br />
+project = <a href="https://github.com/pengshulin/RIOT">github.com/pengshulin/RIOT</a><br />
+project = <a href="https://github.com/peterson79/RIOT">github.com/peterson79/RIOT</a><br />
+project = <a href="https://github.com/pevasquez/RIOT">github.com/pevasquez/RIOT</a><br />
+project = <a href="https://github.com/phectori/RIOT">github.com/phectori/RIOT</a><br />
+project = <a href="https://github.com/phiros/RIOT">github.com/phiros/RIOT</a><br />
+project = <a href="https://github.com/photonthunder/RIOT">github.com/photonthunder/RIOT</a><br />
+project = <a href="https://github.com/phphy/RIOT">github.com/phphy/RIOT</a><br />
+project = <a href="https://github.com/phuonglab/RIOT">github.com/phuonglab/RIOT</a><br />
+project = <a href="https://github.com/phuongtg/RIOT">github.com/phuongtg/RIOT</a><br />
+project = <a href="https://github.com/pi-kxw/RIOT">github.com/pi-kxw/RIOT</a><br />
+project = <a href="https://github.com/pigeorge/RIOT">github.com/pigeorge/RIOT</a><br />
+project = <a href="https://github.com/pipex/RIOT">github.com/pipex/RIOT</a><br />
+project = <a href="https://github.com/piyushpandey013/RIOT">github.com/piyushpandey013/RIOT</a><br />
+project = <a href="https://github.com/pjhernandez18/RIOT-EE250">github.com/pjhernandez18/RIOT-EE250</a><br />
+project = <a href="https://github.com/pmlk/RIOT">github.com/pmlk/RIOT</a><br />
+project = <a href="https://github.com/pnunes30/RIOT">github.com/pnunes30/RIOT</a><br />
+project = <a href="https://github.com/pokgak/RIOT">github.com/pokgak/RIOT</a><br />
+project = <a href="https://github.com/pombredanne/RIOT">github.com/pombredanne/RIOT</a><br />
+project = <a href="https://github.com/poppe34/RIOT">github.com/poppe34/RIOT</a><br />
+project = <a href="https://github.com/popwolf/RIOT">github.com/popwolf/RIOT</a><br />
+project = <a href="https://github.com/ppannuto/RIOT">github.com/ppannuto/RIOT</a><br />
+project = <a href="https://github.com/prashanthhn/RIOT">github.com/prashanthhn/RIOT</a><br />
+project = <a href="https://github.com/praveenmunagapati/RIOT-2">github.com/praveenmunagapati/RIOT-2</a><br />
+project = <a href="https://github.com/praveenpenumaka/RIOT">github.com/praveenpenumaka/RIOT</a><br />
+project = <a href="https://github.com/psiemek/RIOT">github.com/psiemek/RIOT</a><br />
+project = <a href="https://github.com/pst12/RIOT">github.com/pst12/RIOT</a><br />
+project = <a href="https://github.com/psymonj/RIOT">github.com/psymonj/RIOT</a><br />
+project = <a href="https://github.com/ptz1986/RIOT">github.com/ptz1986/RIOT</a><br />
+project = <a href="https://github.com/punchcard60/KubOS">github.com/punchcard60/KubOS</a><br />
+project = <a href="https://github.com/pvikberg/RIOT">github.com/pvikberg/RIOT</a><br />
+project = <a href="https://github.com/pvikberg/RIOT_oma1">github.com/pvikberg/RIOT_oma1</a><br />
+project = <a href="https://github.com/pvsarath/RIOT">github.com/pvsarath/RIOT</a><br />
+project = <a href="https://github.com/pvyleta/RIOT">github.com/pvyleta/RIOT</a><br />
+project = <a href="https://github.com/pwillem/RIOT">github.com/pwillem/RIOT</a><br />
+project = <a href="https://github.com/pyjhhh/RIOT">github.com/pyjhhh/RIOT</a><br />
+project = <a href="https://github.com/qgyhd1234/RIOT">github.com/qgyhd1234/RIOT</a><br />
+project = <a href="https://github.com/qiaoqidui/RIOT">github.com/qiaoqidui/RIOT</a><br />
+project = <a href="https://github.com/rabinsahoo/RIOT">github.com/rabinsahoo/RIOT</a><br />
+project = <a href="https://github.com/radhios/RIOT">github.com/radhios/RIOT</a><br />
+project = <a href="https://github.com/ragulhackz125/RIOT">github.com/ragulhackz125/RIOT</a><br />
+project = <a href="https://github.com/rajma996/RIOT">github.com/rajma996/RIOT</a><br />
+project = <a href="https://github.com/rakendrathapa/RIOT">github.com/rakendrathapa/RIOT</a><br />
+project = <a href="https://github.com/rammohan2b/RIOT">github.com/rammohan2b/RIOT</a><br />
+project = <a href="https://github.com/ranbe1/RIOT">github.com/ranbe1/RIOT</a><br />
+project = <a href="https://github.com/ranjit27/RIOT">github.com/ranjit27/RIOT</a><br />
+project = <a href="https://github.com/redrabbit5/RIOT">github.com/redrabbit5/RIOT</a><br />
+project = <a href="https://github.com/redwinner/RIOT">github.com/redwinner/RIOT</a><br />
+project = <a href="https://github.com/refaqtor/RIOT">github.com/refaqtor/RIOT</a><br />
+project = <a href="https://github.com/renzoe/RIOT">github.com/renzoe/RIOT</a><br />
+project = <a href="https://github.com/rfuentess/RIOT">github.com/rfuentess/RIOT</a><br />
+project = <a href="https://github.com/rhabu01/RIOT">github.com/rhabu01/RIOT</a><br />
+project = <a href="https://github.com/rhr407/RIOT">github.com/rhr407/RIOT</a><br />
+project = <a href="https://github.com/richartk/RIOT">github.com/richartk/RIOT</a><br />
+project = <a href="https://github.com/rienafairefr/RIOT">github.com/rienafairefr/RIOT</a><br />
+project = <a href="https://github.com/riot-appstore/RIOT">github.com/riot-appstore/RIOT</a><br />
+project = <a href="https://github.com/riot-appstore/RIOT-IoThon">github.com/riot-appstore/RIOT-IoThon</a><br />
+project = <a href="https://github.com/riot-ci/RIOT">github.com/riot-ci/RIOT</a><br />
+project = <a href="https://github.com/riot-study/RIOT">github.com/riot-study/RIOT</a><br />
+project = <a href="https://github.com/rivasiv/RIOT">github.com/rivasiv/RIOT</a><br />
+project = <a href="https://github.com/rjmcguire/RIOT">github.com/rjmcguire/RIOT</a><br />
+project = <a href="https://github.com/rl1987/RIOT">github.com/rl1987/RIOT</a><br />
+project = <a href="https://github.com/robbie-cao/RIOT">github.com/robbie-cao/RIOT</a><br />
+project = <a href="https://github.com/robbie-cao/riot-stm32">github.com/robbie-cao/riot-stm32</a><br />
+project = <a href="https://github.com/robby14/RIOT">github.com/robby14/RIOT</a><br />
+project = <a href="https://github.com/roberthartung/RIOT">github.com/roberthartung/RIOT</a><br />
+project = <a href="https://github.com/robertsipka/RIOT">github.com/robertsipka/RIOT</a><br />
+project = <a href="https://github.com/robixnai/RIOT">github.com/robixnai/RIOT</a><br />
+project = <a href="https://github.com/rolandi71/RIOT">github.com/rolandi71/RIOT</a><br />
+project = <a href="https://github.com/roubra/RIOT">github.com/roubra/RIOT</a><br />
+project = <a href="https://github.com/rousselk/RIOT">github.com/rousselk/RIOT</a><br />
+project = <a href="https://github.com/rowhit/RIOT">github.com/rowhit/RIOT</a><br />
+project = <a href="https://github.com/rrzatkie/RIOT">github.com/rrzatkie/RIOT</a><br />
+project = <a href="https://github.com/rrzatkie/RIOT_COPY">github.com/rrzatkie/RIOT_COPY</a><br />
+project = <a href="https://github.com/rst256/RIOT">github.com/rst256/RIOT</a><br />
+project = <a href="https://github.com/ruhex/RIOT">github.com/ruhex/RIOT</a><br />
+project = <a href="https://github.com/rxwb/RIOT">github.com/rxwb/RIOT</a><br />
+project = <a href="https://github.com/ryankurte/riot-os">github.com/ryankurte/riot-os</a><br />
+project = <a href="https://github.com/ryanlelek/KubOS">github.com/ryanlelek/KubOS</a><br />
+project = <a href="https://github.com/salmovs/RIOT">github.com/salmovs/RIOT</a><br />
+project = <a href="https://github.com/sam-kumar/RIOT-OS">github.com/sam-kumar/RIOT-OS</a><br />
+project = <a href="https://github.com/samiralavi/RIOT">github.com/samiralavi/RIOT</a><br />
+project = <a href="https://github.com/samkumar99/RIOT-OS">github.com/samkumar99/RIOT-OS</a><br />
+project = <a href="https://github.com/samkumar/RIOT-OS">github.com/samkumar/RIOT-OS</a><br />
+project = <a href="https://github.com/samr90/RIOT">github.com/samr90/RIOT</a><br />
+project = <a href="https://github.com/sanmingshen/RIOT">github.com/sanmingshen/RIOT</a><br />
+project = <a href="https://github.com/sarathsanthoss/RIOT">github.com/sarathsanthoss/RIOT</a><br />
+project = <a href="https://github.com/sasalaza/RIOT-EE250">github.com/sasalaza/RIOT-EE250</a><br />
+project = <a href="https://github.com/sashaindrish/RIOT">github.com/sashaindrish/RIOT</a><br />
+project = <a href="https://github.com/schoradt/RIOT">github.com/schoradt/RIOT</a><br />
+project = <a href="https://github.com/sdsxpln/RIOT">github.com/sdsxpln/RIOT</a><br />
+project = <a href="https://github.com/sdttmyw/RIOT">github.com/sdttmyw/RIOT</a><br />
+project = <a href="https://github.com/seank-img/RIOT">github.com/seank-img/RIOT</a><br />
+project = <a href="https://github.com/sebastiankliem/RIOT">github.com/sebastiankliem/RIOT</a><br />
+project = <a href="https://github.com/serabiasin/RIOT">github.com/serabiasin/RIOT</a><br />
+project = <a href="https://github.com/seryi2035/RIOT">github.com/seryi2035/RIOT</a><br />
+project = <a href="https://github.com/setevod/RIOT">github.com/setevod/RIOT</a><br />
+project = <a href="https://github.com/seysn/RIOT">github.com/seysn/RIOT</a><br />
+project = <a href="https://github.com/sgso/RIOT">github.com/sgso/RIOT</a><br />
+project = <a href="https://github.com/shein318/RIOT">github.com/shein318/RIOT</a><br />
+project = <a href="https://github.com/shenfahsu/RIOT">github.com/shenfahsu/RIOT</a><br />
+project = <a href="https://github.com/shpuravasiliy/RIOT">github.com/shpuravasiliy/RIOT</a><br />
+project = <a href="https://github.com/siddh-test-4/RIOT">github.com/siddh-test-4/RIOT</a><br />
+project = <a href="https://github.com/siddharthgpta/RIOT">github.com/siddharthgpta/RIOT</a><br />
+project = <a href="https://github.com/simonsta/RIOT">github.com/simonsta/RIOT</a><br />
+project = <a href="https://github.com/sklli/RIOT">github.com/sklli/RIOT</a><br />
+project = <a href="https://github.com/sknsean/RIOT">github.com/sknsean/RIOT</a><br />
+project = <a href="https://github.com/skullbox305/RIOT">github.com/skullbox305/RIOT</a><br />
+project = <a href="https://github.com/skyformat99/RIOT">github.com/skyformat99/RIOT</a><br />
+project = <a href="https://github.com/skyformat99/RIOT-2">github.com/skyformat99/RIOT-2</a><br />
+project = <a href="https://github.com/slhsxcmy/RIOT">github.com/slhsxcmy/RIOT</a><br />
+project = <a href="https://github.com/smartuni/RIOT">github.com/smartuni/RIOT</a><br />
+project = <a href="https://github.com/smcd253/RIOT-EE250">github.com/smcd253/RIOT-EE250</a><br />
+project = <a href="https://github.com/smcd253/RIOT-EE250-1">github.com/smcd253/RIOT-EE250-1</a><br />
+project = <a href="https://github.com/smehner1/RIOT">github.com/smehner1/RIOT</a><br />
+project = <a href="https://github.com/smlng/RIOT">github.com/smlng/RIOT</a><br />
+project = <a href="https://github.com/smou/RIOT">github.com/smou/RIOT</a><br />
+project = <a href="https://github.com/snej/RIOT">github.com/snej/RIOT</a><br />
+project = <a href="https://github.com/sp-axio/RIOT">github.com/sp-axio/RIOT</a><br />
+project = <a href="https://github.com/spiridon1/RIOT">github.com/spiridon1/RIOT</a><br />
+project = <a href="https://github.com/spirit745/RIOT">github.com/spirit745/RIOT</a><br />
+project = <a href="https://github.com/starblue/RIOT">github.com/starblue/RIOT</a><br />
+project = <a href="https://github.com/stepos01/RIOT">github.com/stepos01/RIOT</a><br />
+project = <a href="https://github.com/stevenj/RIOT">github.com/stevenj/RIOT</a><br />
+project = <a href="https://github.com/sugangli/RIOT">github.com/sugangli/RIOT</a><br />
+project = <a href="https://github.com/sumanpanchal/RIOT">github.com/sumanpanchal/RIOT</a><br />
+project = <a href="https://github.com/sunghopark1/RIOT">github.com/sunghopark1/RIOT</a><br />
+project = <a href="https://github.com/superjudge/RIOT">github.com/superjudge/RIOT</a><br />
+project = <a href="https://github.com/suruz/RIOT">github.com/suruz/RIOT</a><br />
+project = <a href="https://github.com/syin2/riot-iotivity">github.com/syin2/riot-iotivity</a><br />
+project = <a href="https://github.com/tabc123/RIOT">github.com/tabc123/RIOT</a><br />
+project = <a href="https://github.com/tadryanom/RIOT">github.com/tadryanom/RIOT</a><br />
+project = <a href="https://github.com/taherrera/riot">github.com/taherrera/riot</a><br />
+project = <a href="https://github.com/tamasseller/RIOT">github.com/tamasseller/RIOT</a><br />
+project = <a href="https://github.com/tammyrobinson03/RIOT">github.com/tammyrobinson03/RIOT</a><br />
+project = <a href="https://github.com/tanupoo/RIOT">github.com/tanupoo/RIOT</a><br />
+project = <a href="https://github.com/tatyanavolkova/RIOT">github.com/tatyanavolkova/RIOT</a><br />
+project = <a href="https://github.com/tgo-s/RIOT">github.com/tgo-s/RIOT</a><br />
+project = <a href="https://github.com/theafricanengineer/RIOT">github.com/theafricanengineer/RIOT</a><br />
+project = <a href="https://github.com/theja0473/RIOT">github.com/theja0473/RIOT</a><br />
+project = <a href="https://github.com/therapier/RIOT">github.com/therapier/RIOT</a><br />
+project = <a href="https://github.com/therealmonE/RIOT">github.com/therealmonE/RIOT</a><br />
+project = <a href="https://github.com/thiagohd/RIOT">github.com/thiagohd/RIOT</a><br />
+project = <a href="https://github.com/thomaseichinger/RIOT">github.com/thomaseichinger/RIOT</a><br />
+project = <a href="https://github.com/to1st9chok/RIOT">github.com/to1st9chok/RIOT</a><br />
+project = <a href="https://github.com/tobbad/RIOT">github.com/tobbad/RIOT</a><br />
+project = <a href="https://github.com/tobhe/RIOT">github.com/tobhe/RIOT</a><br />
+project = <a href="https://github.com/tomyqg/RIOT">github.com/tomyqg/RIOT</a><br />
+project = <a href="https://github.com/tongpi/RIOT">github.com/tongpi/RIOT</a><br />
+project = <a href="https://github.com/toonst/RIOT">github.com/toonst/RIOT</a><br />
+project = <a href="https://github.com/tovanhieu/RIOT">github.com/tovanhieu/RIOT</a><br />
+project = <a href="https://github.com/tovax/RIOT">github.com/tovax/RIOT</a><br />
+project = <a href="https://github.com/tprrt/RIOT">github.com/tprrt/RIOT</a><br />
+project = <a href="https://github.com/tralivali1234/RIOT">github.com/tralivali1234/RIOT</a><br />
+project = <a href="https://github.com/travisgriggs/RIOT">github.com/travisgriggs/RIOT</a><br />
+project = <a href="https://github.com/tromex/RIOT">github.com/tromex/RIOT</a><br />
+project = <a href="https://github.com/trungkstn/RIOT">github.com/trungkstn/RIOT</a><br />
+project = <a href="https://github.com/tsutar/RIOT-EE250">github.com/tsutar/RIOT-EE250</a><br />
+project = <a href="https://github.com/turahul/RIOT">github.com/turahul/RIOT</a><br />
+project = <a href="https://github.com/txemis/RIOT">github.com/txemis/RIOT</a><br />
+project = <a href="https://github.com/typc95/RIOT">github.com/typc95/RIOT</a><br />
+project = <a href="https://github.com/tzuchiangshen/RIOT">github.com/tzuchiangshen/RIOT</a><br />
+project = <a href="https://github.com/unforgiven512/RIOT">github.com/unforgiven512/RIOT</a><br />
+project = <a href="https://github.com/unwireddevices/RIOT">github.com/unwireddevices/RIOT</a><br />
+project = <a href="https://github.com/urbangregorc/RIOT">github.com/urbangregorc/RIOT</a><br />
+project = <a href="https://github.com/usc-ee250-fall2018/RIOT-EE250">github.com/usc-ee250-fall2018/RIOT-EE250</a><br />
+project = <a href="https://github.com/vac/RIOT">github.com/vac/RIOT</a><br />
+project = <a href="https://github.com/varunpandeyengg/RIOT">github.com/varunpandeyengg/RIOT</a><br />
+project = <a href="https://github.com/vehar/RIOT">github.com/vehar/RIOT</a><br />
+project = <a href="https://github.com/vhkrishna/RIOT">github.com/vhkrishna/RIOT</a><br />
+project = <a href="https://github.com/vijaiks/RIOT">github.com/vijaiks/RIOT</a><br />
+project = <a href="https://github.com/vikingxie/RIOT">github.com/vikingxie/RIOT</a><br />
+project = <a href="https://github.com/vincent-d/RIOT">github.com/vincent-d/RIOT</a><br />
+project = <a href="https://github.com/vincentjzimmer/RIOT">github.com/vincentjzimmer/RIOT</a><br />
+project = <a href="https://github.com/vincentlao/RIOT">github.com/vincentlao/RIOT</a><br />
+project = <a href="https://github.com/vpdao/RIOT">github.com/vpdao/RIOT</a><br />
+project = <a href="https://github.com/vrosnet/RIOT">github.com/vrosnet/RIOT</a><br />
+project = <a href="https://github.com/w03/RIOT">github.com/w03/RIOT</a><br />
+project = <a href="https://github.com/waehlisch/RIOT">github.com/waehlisch/RIOT</a><br />
+project = <a href="https://github.com/wallhisg/RIOT">github.com/wallhisg/RIOT</a><br />
+project = <a href="https://github.com/wang1314well/RIOT">github.com/wang1314well/RIOT</a><br />
+project = <a href="https://github.com/watr-li/RIOT">github.com/watr-li/RIOT</a><br />
+project = <a href="https://github.com/wentaoshang/RIOT">github.com/wentaoshang/RIOT</a><br />
+project = <a href="https://github.com/wenyigao6/RIOT-EE250">github.com/wenyigao6/RIOT-EE250</a><br />
+project = <a href="https://github.com/whitefield-framework/RIOT">github.com/whitefield-framework/RIOT</a><br />
+project = <a href="https://github.com/wilhelmmatilainen/RIOT">github.com/wilhelmmatilainen/RIOT</a><br />
+project = <a href="https://github.com/witnessivan/RIOT">github.com/witnessivan/RIOT</a><br />
+project = <a href="https://github.com/wtsllc/RIOT">github.com/wtsllc/RIOT</a><br />
+project = <a href="https://github.com/wupoli/RIOT">github.com/wupoli/RIOT</a><br />
+project = <a href="https://github.com/wuzeen/RIOT">github.com/wuzeen/RIOT</a><br />
+project = <a href="https://github.com/wwhuang/RIOT-OS">github.com/wwhuang/RIOT-OS</a><br />
+project = <a href="https://github.com/wxh0000mm/RIOT">github.com/wxh0000mm/RIOT</a><br />
+project = <a href="https://github.com/xjump/RIOT">github.com/xjump/RIOT</a><br />
+project = <a href="https://github.com/xsider/RIOT">github.com/xsider/RIOT</a><br />
+project = <a href="https://github.com/xzm7358/RIOT">github.com/xzm7358/RIOT</a><br />
+project = <a href="https://github.com/ycs0405/RIOT">github.com/ycs0405/RIOT</a><br />
+project = <a href="https://github.com/yeekzhang/RIOT">github.com/yeekzhang/RIOT</a><br />
+project = <a href="https://github.com/yeffrimic/RIOT">github.com/yeffrimic/RIOT</a><br />
+project = <a href="https://github.com/yegorich/RIOT">github.com/yegorich/RIOT</a><br />
+project = <a href="https://github.com/yibit/RIOT">github.com/yibit/RIOT</a><br />
+project = <a href="https://github.com/ynezz/RIOT">github.com/ynezz/RIOT</a><br />
+project = <a href="https://github.com/yogo1212/RIOT">github.com/yogo1212/RIOT</a><br />
+project = <a href="https://github.com/yunbei/RIOT">github.com/yunbei/RIOT</a><br />
+project = <a href="https://github.com/yupin75/RIOT">github.com/yupin75/RIOT</a><br />
+project = <a href="https://github.com/yusi222/RIOT">github.com/yusi222/RIOT</a><br />
+project = <a href="https://github.com/zafriyusoff/RIOT">github.com/zafriyusoff/RIOT</a><br />
+project = <a href="https://github.com/zaza89/RIOT">github.com/zaza89/RIOT</a><br />
+project = <a href="https://github.com/zenglongGH/RIOT">github.com/zenglongGH/RIOT</a><br />
+project = <a href="https://github.com/zhenhaochu/RIOT">github.com/zhenhaochu/RIOT</a><br />
+project = <a href="https://github.com/zhuoshuguo/RIOT">github.com/zhuoshuguo/RIOT</a><br />
+project = <a href="https://github.com/zhuwentao0612/RIOT">github.com/zhuwentao0612/RIOT</a><br />
+project = <a href="https://github.com/zjl037600/RIOT">github.com/zjl037600/RIOT</a><br />
+project = <a href="https://github.com/zmguahy/RIOT">github.com/zmguahy/RIOT</a><br />
 <br />
 commit = 81dc9c97423f33b60f4e05c2254d135636d250e6<br />
-head_commit = 88218f94d5177ee1fb3afcd3ef8b29ed86c3e22a <br />
+head_commit = 88218f94d5177ee1fb3afcd3ef8b29ed86c3e22a (2015-10-02:19:33:05)<br />
 path = sys/net/network_layer/ipv6/addr/ipv6_addr_from_str.c<br />
-project = adityaseven_RIOT<br />
+project = <a href="https://github.com/adityaseven/RIOT">github.com/adityaseven/RIOT</a><br />
 <br />
 commit = c6d8ca8d2c965f67248454ca2fa8cfdab2b0dd9d<br />
-head_commit = fd58232d41e1e3ab13ade5feb2ab802af3ba0852 <br />
+head_commit = fd58232d41e1e3ab13ade5feb2ab802af3ba0852 (2017-04-21:22:05:00)<br />
 path = sys/net/network_layer/ipv6/addr/ipv6_addr_from_str.c<br />
-project = laparmakerli_riot-upstream<br />
+project = <a href="https://github.com/laparmakerli/riot-upstream">github.com/laparmakerli/riot-upstream</a><br />
 <br />
 commit = e9aaa5e4e10c7c09bd0cff6464a4de4ba2e5181b<br />
-head_commit = 562b8bba4d245448ba2678eaeb04fc3c12f8086d <br />
+head_commit = 562b8bba4d245448ba2678eaeb04fc3c12f8086d (2015-10-08:06:48:58)<br />
 path = sys/net/network_layer/ipv6/addr/ipv6_addr_from_str.c<br />
-project = OlegHahm_RIOT<br />
-project = RIOT-OS_RIOT<br />
-project = attdona_RIOT<br />
-project = tanupoo_RIOT<br />
+project = <a href="https://github.com/OlegHahm/RIOT">github.com/OlegHahm/RIOT</a><br />
+project = <a href="https://github.com/RIOT-OS/RIOT">github.com/RIOT-OS/RIOT</a><br />
+project = <a href="https://github.com/attdona/RIOT">github.com/attdona/RIOT</a><br />
+project = <a href="https://github.com/tanupoo/RIOT">github.com/tanupoo/RIOT</a><br />
 <br />
 <h1>blob = 8d62e72ca48d1f85331398c62dcd7f035527e5d8</h1>
 commit = 842cc91aca0a4c46fd0a47ec1d298c883b028fed<br />
-head_commit = fd58232d41e1e3ab13ade5feb2ab802af3ba0852 <br />
+head_commit = fd58232d41e1e3ab13ade5feb2ab802af3ba0852 (2017-04-21:22:05:00)<br />
 path = sys/net/network_layer/ipv6/addr/ipv6_addr_from_str.c<br />
-project = laparmakerli_riot-upstream<br />
+project = <a href="https://github.com/laparmakerli/riot-upstream">github.com/laparmakerli/riot-upstream</a><br />
 <br />
 commit = bfcbfa975227bf71a3bd9291351fcff2ed52db21<br />
-head_commit = fd58232d41e1e3ab13ade5feb2ab802af3ba0852 <br />
+head_commit = fd58232d41e1e3ab13ade5feb2ab802af3ba0852 (2017-04-21:22:05:00)<br />
 path = sys/net/network_layer/ipv6/addr/ipv6_addr_from_str.c<br />
-project = laparmakerli_riot-upstream<br />
+project = <a href="https://github.com/laparmakerli/riot-upstream">github.com/laparmakerli/riot-upstream</a><br />
 <br />
 <h1>blob = 34192214d601d692013a1ae3811ae4e5bdfeff5c</h1>
 commit = 70def65acd86352c4aaa7a8c3b0468b2490e9ae2<br />
-head_commit = fd58232d41e1e3ab13ade5feb2ab802af3ba0852 <br />
+head_commit = fd58232d41e1e3ab13ade5feb2ab802af3ba0852 (2017-04-21:22:05:00)<br />
 path = tests/unittests/tests-ipv6_addr/tests-ipv6_addr.c<br />
-project = laparmakerli_riot-upstream<br />
+project = <a href="https://github.com/laparmakerli/riot-upstream">github.com/laparmakerli/riot-upstream</a><br />
 <br />
 commit = ec0f24499a996a03a6e2e860da4688cce2587151<br />
-head_commit = fd58232d41e1e3ab13ade5feb2ab802af3ba0852 <br />
+head_commit = fd58232d41e1e3ab13ade5feb2ab802af3ba0852 (2017-04-21:22:05:00)<br />
 path = tests/unittests/tests-ipv6_addr/tests-ipv6_addr.c<br />
-project = laparmakerli_riot-upstream<br />
+project = <a href="https://github.com/laparmakerli/riot-upstream">github.com/laparmakerli/riot-upstream</a><br />
 <br />
 <h1>blob = 3ac7f37230db50b228f4a83e9392a747df0b81f7</h1>
 commit = 071e502dd4b3b86db368b7a0a537fc9b6f3b9187<br />
-head_commit = fd58232d41e1e3ab13ade5feb2ab802af3ba0852 <br />
+head_commit = fd58232d41e1e3ab13ade5feb2ab802af3ba0852 (2017-04-21:22:05:00)<br />
 path = tests/unittests/tests-ipv6_addr/tests-ipv6_addr.c<br />
-project = laparmakerli_riot-upstream<br />
+project = <a href="https://github.com/laparmakerli/riot-upstream">github.com/laparmakerli/riot-upstream</a><br />
 <br />
 commit = 3aa358e2f096e3142e233029e097f943062ce1e4<br />
-head_commit = fd58232d41e1e3ab13ade5feb2ab802af3ba0852 <br />
+head_commit = fd58232d41e1e3ab13ade5feb2ab802af3ba0852 (2017-04-21:22:05:00)<br />
 path = tests/unittests/tests-ipv6_addr/tests-ipv6_addr.c<br />
-project = laparmakerli_riot-upstream<br />
+project = <a href="https://github.com/laparmakerli/riot-upstream">github.com/laparmakerli/riot-upstream</a><br />
 <br />
 commit = 7cb6fe57f8325a0aa0de51aa7c30a70cf46b3f9d<br />
-head_commit = 88218f94d5177ee1fb3afcd3ef8b29ed86c3e22a <br />
+head_commit = 88218f94d5177ee1fb3afcd3ef8b29ed86c3e22a (2015-10-02:19:33:05)<br />
 path = tests/unittests/tests-ipv6_addr/tests-ipv6_addr.c<br />
-project = adityaseven_RIOT<br />
+project = <a href="https://github.com/adityaseven/RIOT">github.com/adityaseven/RIOT</a><br />
 <br />
 commit = 90e62c9d74ff65bc05af15addaf28b57703b0763<br />
-head_commit = 88218f94d5177ee1fb3afcd3ef8b29ed86c3e22a <br />
+head_commit = 88218f94d5177ee1fb3afcd3ef8b29ed86c3e22a (2015-10-02:19:33:05)<br />
 path = tests/unittests/tests-ipv6_addr/tests-ipv6_addr.c<br />
-project = adityaseven_RIOT<br />
+project = <a href="https://github.com/adityaseven/RIOT">github.com/adityaseven/RIOT</a><br />
 <br />
 commit = ab085debc762e8ec7d2f37f5d5af1436317ac029<br />
-head_commit = 88218f94d5177ee1fb3afcd3ef8b29ed86c3e22a <br />
+head_commit = 88218f94d5177ee1fb3afcd3ef8b29ed86c3e22a (2015-10-02:19:33:05)<br />
 path = tests/unittests/tests-ipv6_addr/tests-ipv6_addr.c<br />
-project = adityaseven_RIOT<br />
+project = <a href="https://github.com/adityaseven/RIOT">github.com/adityaseven/RIOT</a><br />
 <br />
 <h1>blob = 113ea5a97f46d091bec3c4b1d76a4a76cc3630d5</h1>
 commit = 5a5666ee2684fee4ee3a7563a836e27804a22653<br />
-head_commit = fd58232d41e1e3ab13ade5feb2ab802af3ba0852 <br />
+head_commit = fd58232d41e1e3ab13ade5feb2ab802af3ba0852 (2017-04-21:22:05:00)<br />
 path = tests/unittests/tests-ipv6_addr/tests-ipv6_addr.c<br />
-project = laparmakerli_riot-upstream<br />
+project = <a href="https://github.com/laparmakerli/riot-upstream">github.com/laparmakerli/riot-upstream</a><br />
 <br />
 commit = fff545226489b07d08d322acf374c7b4cdf8176f<br />
-head_commit = fd58232d41e1e3ab13ade5feb2ab802af3ba0852 <br />
+head_commit = fd58232d41e1e3ab13ade5feb2ab802af3ba0852 (2017-04-21:22:05:00)<br />
 path = tests/unittests/tests-ipv6_addr/tests-ipv6_addr.c<br />
-project = laparmakerli_riot-upstream<br />
+project = <a href="https://github.com/laparmakerli/riot-upstream">github.com/laparmakerli/riot-upstream</a><br />
 <br />
 <h1>blob = 1aabb4afc453ad9c136f8b435c6344e8c89e7f07</h1>
 commit = 3b29c4c326715e1cc76cb258a08b249cc8385505<br />
-head_commit = fd58232d41e1e3ab13ade5feb2ab802af3ba0852 <br />
+head_commit = fd58232d41e1e3ab13ade5feb2ab802af3ba0852 (2017-04-21:22:05:00)<br />
 path = tests/unittests/tests-ipv6_addr/tests-ipv6_addr.c<br />
-project = laparmakerli_riot-upstream<br />
+project = <a href="https://github.com/laparmakerli/riot-upstream">github.com/laparmakerli/riot-upstream</a><br />
 <br />
 commit = af438ab4d5b36a480c83e4903d070b743f07cce4<br />
-head_commit = 1b9029a79691873cf9fc88149f148b06dc406d2e <br />
+head_commit = 1b9029a79691873cf9fc88149f148b06dc406d2e (2015-05-01:10:47:31)<br />
 path = tests/unittests/tests-ipv6_addr/tests-ipv6_addr.c<br />
-project = RIOT-OS_RIOT<br />
-project = zramaro_RIOT<br />
+project = <a href="https://github.com/RIOT-OS/RIOT">github.com/RIOT-OS/RIOT</a><br />
+project = <a href="https://github.com/zramaro/RIOT">github.com/zramaro/RIOT</a><br />
 <br />
 commit = e83efee39a9ff4bb1b252eeb2194c24b9052a340<br />
-head_commit = fd58232d41e1e3ab13ade5feb2ab802af3ba0852 <br />
+head_commit = fd58232d41e1e3ab13ade5feb2ab802af3ba0852 (2017-04-21:22:05:00)<br />
 path = tests/unittests/tests-ipv6_addr/tests-ipv6_addr.c<br />
-project = laparmakerli_riot-upstream<br />
+project = <a href="https://github.com/laparmakerli/riot-upstream">github.com/laparmakerli/riot-upstream</a><br />
 <br />
 <h1>blob = 396a5cc5f74bb864495cb3472375fe3aedc948a7</h1>
 commit = 007208323578e1169c0cf9a82a4c30a30f0444f8<br />
-head_commit = fd58232d41e1e3ab13ade5feb2ab802af3ba0852 <br />
+head_commit = fd58232d41e1e3ab13ade5feb2ab802af3ba0852 (2017-04-21:22:05:00)<br />
 path = tests/unittests/tests-ipv6_addr/tests-ipv6_addr.c<br />
-project = laparmakerli_riot-upstream<br />
+project = <a href="https://github.com/laparmakerli/riot-upstream">github.com/laparmakerli/riot-upstream</a><br />
 <br />
 commit = 0ae860d06603abb6af34032a7139e82ec7bd0dbb<br />
-head_commit = cf9893001c75284b09c152af9c70d7dddeff7461 <br />
+head_commit = cf9893001c75284b09c152af9c70d7dddeff7461 (2016-02-26:11:35:10)<br />
 path = tests/unittests/tests-ipv6_addr/tests-ipv6_addr.c<br />
-project = 1974vyacheslav_RIOT<br />
-project = 296791897_RIOT<br />
-project = 314942468GitHub_RIOT<br />
-project = 5G-I3_RIOT-1<br />
-project = 5G-I3_RIOT-public<br />
-project = 6lowpaniold_RIOT<br />
-project = A-Paul_RIOT<br />
-project = ANRGUSC_RIOT<br />
-project = ANRGUSC_RIOT-EE250<br />
-project = ANRGUSC_iris-riot<br />
-project = AVykhovanets_RIOT<br />
-project = AaltoNEPPI_RIOT<br />
-project = Aang-3_RIOT<br />
-project = Aang23_RIOT<br />
-project = Aber-Lijingshu_RIOT<br />
-project = AcmeSystemsProjects_RIOT<br />
-project = AdamRLukaitis_RIOT<br />
-project = AdrianGuo_RIOT<br />
-project = Agile-IoT_RIOT<br />
-project = AlexShiLucky_RIOT<br />
-project = AlexandrSalin_RIOT<br />
-project = Alexmingzhi_RIOT<br />
-project = Allanceng_RIOT<br />
-project = AltairResearch_RIOT<br />
-project = Ameya22_RIOT<br />
-project = Amr221B_RIOT<br />
-project = An-Andrew-Pham_RIOT-EE250<br />
-project = AnaK89_RIOT<br />
-project = Angela-W_RIOT<br />
-project = Ankita-Jaiswal_RIOT<br />
-project = AnonMall_RIOT<br />
-project = AppleInside_RIOT<br />
-project = ArulPrasathK_RIOT<br />
-project = AshishkrMishra_RIOT<br />
-project = AskhatBaymukhamedov_RIOT<br />
-project = Avinash95_RIOT<br />
-project = Axellant_RIOT<br />
-project = BOBRAPHTONE_RIOT<br />
-project = BTSGuyaderBenjamin_RIOT<br />
-project = Bagginsa_RIOT<br />
-project = BamStap_RIOT<br />
-project = Barrymuch_RIOT<br />
-project = BenG2121_RIOT<br />
-project = BigGarik_RIOT<br />
-project = Bila24_RIOT<br />
-project = Bizordec_RIOT<br />
-project = Bob-the-Kuhn_RIOT<br />
-project = Bogatik_RIOT<br />
-project = Burdaa_RIOT<br />
-project = BurtonQin_RIOT<br />
-project = BytesGalore_RIOT<br />
-project = CLPopescu-1999-02_RIOT<br />
-project = Cakhavan_RIOT-EE250<br />
-project = CaptSkull_RIOT<br />
-project = Carton32_RIOT<br />
-project = Circuit-killer_RIOT<br />
-project = Citrullin_RIOT<br />
-project = ClarePhang_RIOT<br />
-project = CommoDor64_RIOT<br />
-project = Conservify_RIOT<br />
-project = Cr0s_RIOT<br />
-project = CreatorKit_RIOT-Mips<br />
-project = Cross4000_RIOT<br />
-project = CrutzPan_RIOT<br />
-project = DZeyfert_RIOT<br />
-project = DamboDD_RIOT<br />
-project = DapengLan_RIOT<br />
-project = Darredevil_RIOT<br />
-project = Deniz66_RIOT<br />
-project = Derwaan_RIOT<br />
-project = DipSwitch_RIOT<br />
-project = DmitryDostovalov_RIOT<br />
-project = Dreyfriz_RIOT<br />
-project = DuyTrandeLion_RIOT<br />
-project = Ell-i_RIOT<br />
-project = Elter71_RIOT<br />
-project = Eltonno_RIOT<br />
-project = EmuxEvans_RIOT<br />
-project = FeverChen_RIOT<br />
-project = Flyingstone99_RIOT<br />
-project = Former_RIOT<br />
-project = FrancescoErmini_RIOT<br />
-project = FuzeSoft_RIOT<br />
-project = GHackAnonymous_RIOT<br />
-project = GabrielDai_RIOT<br />
-project = GeekRobert_RIOT<br />
-project = Geloi_RIOT<br />
-project = GenRockeR_RIOT<br />
-project = Gmedhin_RIOT<br />
-project = Goga3000_RIOT<br />
-project = GoodDada_RIOT<br />
-project = Gr3yh0und_RIOT<br />
-project = HANJINKIM_RIOT<br />
-project = HSeemann_RIOT<br />
-project = HTWDD-RN_RIOT<br />
-project = HaitaoLeo_RIOT<br />
-project = HamidiMassinissa_RIOT<br />
-project = Happy-Ferret_RIOT-1<br />
-project = HarborDong_RIOT<br />
-project = Hendrias_RIOT-EE250<br />
-project = HendrikVE_RIOT<br />
-project = HubertXie_RIOT<br />
-project = HuguLee_RIOT<br />
-project = Huyfly_RIOT<br />
-project = Hyungsin_RIOT-OS<br />
-project = Icaltary_RIOT<br />
-project = IgorBayk_RIOT<br />
-project = IgorShilov_RIOT<br />
-project = IldarValiev_RIOT<br />
-project = In0ut_RIOT<br />
-project = Inria-Chile_RIOT<br />
-project = IoT6_RIOT<br />
-project = IoTSotA_RIOT<br />
-project = JMR-b_RIOT<br />
-project = JamesLinus_RIOT<br />
-project = Janfred_RIOT<br />
-project = JelmerT_RIOT<br />
-project = JensErdmann_RIOT<br />
-project = JensenSung_RIOT<br />
-project = JerryMain_RIOT<br />
-project = Jinyo-Chiu_RIOT<br />
-project = JiongFu_RIOT<br />
-project = JohannesRol_RIOT<br />
-project = John-Ng_RIOT<br />
-project = JonaRaemdonck_RIOT<br />
-project = JonasRadtke_RIOT<br />
-project = Josar_RIOT<br />
-project = Josar_RIOT_XMEGA<br />
-project = JulianHolzwarth_RIOT<br />
-project = JulianoCristian_RIOT<br />
-project = KamalDSOberoi_RIOT<br />
-project = KarlNap_RIOT<br />
-project = Karmvir5_RIOT-EE250<br />
-project = Katritz_RIOT<br />
-project = Kavanraj_RIOT<br />
-project = KengaRU_RIOT<br />
-project = KetchupVentil_RIOT<br />
-project = KevinYu84_RIOT<br />
-project = KhodorELKOUJOK_RIOT<br />
-project = Kijewski_RIOT<br />
-project = KillerLink_RIOT<br />
-project = Koenma413_RIOT<br />
-project = KomochekShersti_RIOT<br />
-project = KuguHome_RIOT<br />
-project = Kulipator_RIOT<br />
-project = KumarAmitMehta_RIOT<br />
-project = KyshinLiu_RIOT<br />
-project = LGTMCU_RIOT<br />
-project = LaszloLango_RIOT<br />
-project = LenarIO_RIOT<br />
-project = Lexandro92_RIOT-CoAP<br />
-project = Lotterleben_RIOT<br />
-project = Lstallone_RIOT<br />
-project = LucaZulberti_RIOT<br />
-project = LudwigKnuepfer_RIOT<br />
-project = LudwigOrtmann_RIOT<br />
-project = Lydrin_RIOT<br />
-project = MKot13_RIOT<br />
-project = MOSAIC-LoPoW_RIOT<br />
-project = MaLa-HAW_RIOT<br />
-project = MailiLoh_RIOT<br />
-project = Manchenkoos_RIOT<br />
-project = Manoharsai_RIOT<br />
-project = Manu2312_RIOT<br />
-project = Marc-Aurele_RIOT<br />
-project = MarkXYang_RIOT<br />
-project = Marrakchino_RIOT<br />
-project = MartinaFHCW_RIOT<br />
-project = MatKub_RIOT<br />
-project = Mecabot_RIOT<br />
-project = MichelRottleuthner_RIOT<br />
-project = Misaka0x2730_RIOT<br />
-project = Mizyukanova_RIOT<br />
-project = MohamedSeliem_RIOT<br />
-project = MohmadAyman_RIOT<br />
-project = MonsterCode8000_RIOT<br />
-project = Mr-Jason-Sam_RIOT<br />
-project = MrFresh1_RIOT<br />
-project = MrKevinWeiss_RIOT<br />
-project = Mucka_RIOT<br />
-project = MuhammadTanweer_RIOT<br />
-project = MxMalk_RIOT<br />
-project = MyCodeMyMoney_RIOT<br />
-project = N5FPP_RIOT<br />
-project = NERD-Repo_RIOT<br />
-project = NEXTLEO_RIOT<br />
-project = NLardenois_RIOT<br />
-project = Na55im_RIOT<br />
-project = Nenaco_RIOT<br />
-project = NickMinnellaCS96_RIOT<br />
-project = NilayPachauri_RIOT-EE250<br />
-project = Nilshut_RIOT<br />
-project = Nishchay-sopho_RIOT-Bundle-Protocol<br />
-project = Nmeum_RIOT<br />
-project = OTAkeys_RIOT<br />
-project = OYTIS_RIOT<br />
-project = OYTIS_RIOT-kea<br />
-project = OlegHahm_RIOT<br />
-project = OnsetComputerCorp_RIOT<br />
-project = Osarua_RIOT<br />
-project = Osblouf_RIOT<br />
-project = Otmane123_RIOT<br />
-project = Ouss4_RIOT<br />
-project = OverDriveGain_RIOT<br />
-project = PONFmodular_RIOT<br />
-project = ParksProjets_RIOT<br />
-project = PavelVorobyev97_RIOT<br />
-project = PeterKietzmann_RIOT<br />
-project = PeterKietzmann_RIOT-EWSN16-Demo<br />
-project = PiWare_RIOT<br />
-project = PisalPrasad123_RIOT<br />
-project = PowerProfiler_RIOT<br />
-project = Probelp_RIOT<br />
-project = RBartz_RIOT<br />
-project = RF-Networks_RIOT<br />
-project = RIOT-OS_RIOT<br />
-project = RWTH-OS_RIOT<br />
-project = RaphaelBidaud_RIOT<br />
-project = RasmusAntons_RIOT<br />
-project = ReneHerthel_RIOT<br />
-project = RichardH92_RIOT<br />
-project = Ritishk12_RIOT<br />
-project = Rotzbua_RIOT<br />
-project = RoySCU_RIOT<br />
-project = RubikonAlpha_RIOT<br />
-project = Rufwame_RIOT<br />
-project = RumBlalGalaxy_RIOT<br />
-project = SCiMOS_RIOT<br />
-project = SSV-embedded_RIOT<br />
-project = SWIE-IO_RIOT<br />
-project = SaiNavyaNelavelli_RIOT<br />
-project = Salomonic_RIOT<br />
-project = Sarajova_RIOT<br />
-project = SebastianSzymczak_RIOT<br />
-project = SebastianWilkes_RIOT<br />
-project = SemjonKerner_RIOT<br />
-project = Slider043_RIOT<br />
-project = SmallSharky_riot-edu<br />
-project = Subor-gfraf_RIOT<br />
-project = TaquyeddineZegaoui_RIOT<br />
-project = ThanhVic_RIOT<br />
-project = TheSkape_RIOT<br />
-project = TheSwagMan_riot_test<br />
-project = TizenTeam_RIOT<br />
-project = TobiasFredersdorf_RIOT<br />
-project = VALaptev_RIOT<br />
-project = ViktorVaczi90_RIOT<br />
-project = VilleHiltunen_RIOT<br />
-project = Waldgeist84_RIOT<br />
-project = aabadie_RIOT<br />
-project = abkam07_RIOT<br />
-project = abp719_RIOT<br />
-project = adityaseven_RIOT<br />
-project = alex1818_RIOT<br />
-project = alexiss03_riot-os-cs250<br />
-project = altairpearl_RIOT<br />
-project = andrlee_RIOT<br />
-project = anurudh27_RIOT<br />
-project = arvindpdmn_RIOT<br />
-project = asdjah_RIOT<br />
-project = aspyver_RIOT<br />
-project = asquini_RIOT<br />
-project = attdona_RIOT<br />
-project = authmillenon_RIOT<br />
-project = automote_RIOT<br />
-project = avmelnikoff_RIOT<br />
-project = ayush7gupta_IPv4_Riot<br />
-project = basilfx_RIOT<br />
-project = beduino-project_RIOT<br />
-project = beduino-project_RIOT-POLICE<br />
-project = benemorius_RIOT<br />
-project = benpicco_RIOT<br />
-project = berbecche_RIOT<br />
-project = bergzand_RIOT<br />
-project = beurdouche_RIOT<br />
-project = bhargav2408_RIOT<br />
-project = biboc_RIOT<br />
-project = billyzhaoj_RIOT-OS<br />
-project = binarylemon_RIOT<br />
-project = bitbucket.org_jcarrano_riot-os<br />
-project = bitbucket.org_nbmaiti_riot<br />
-project = blaisehorvath_RIOT<br />
-project = bmd00bmd_KubOS<br />
-project = bradzieminski_RIOT-EE250<br />
-project = brettswann_RIOT<br />
-project = brummer-simon_RIOT<br />
-project = bumpy-b_RIOT<br />
-project = bygit_RIOT<br />
-project = cha63506_RIOT<br />
-project = checorone_motoguard-enddevice<br />
-project = clem-bluefruit_RIOT<br />
-project = codeForSaif_RIOT<br />
-project = crest42_RIOT<br />
-project = czarsir_RIOT<br />
-project = czoksu_RIOT<br />
-project = d00616_RIOT<br />
-project = d12y12_RIOT<br />
-project = daemory_RIOT<br />
-project = dailab_RIOT<br />
-project = danebennett_RIOT<br />
-project = daniel-k_RIOT<br />
-project = daniel-kelley_RIOT<br />
-project = danielamkaer_RIOT<br />
-project = danielinux_RIOT<br />
-project = danpetry_RIOT<br />
-project = datachi7d_RIOT<br />
-project = davidmr001_RIOT<br />
-project = davidvalarezo_RIOT<br />
-project = davidvalarezo_RIOT-1<br />
-project = dbohn_RIOT<br />
-project = dboschm_RIOT-Xtensa-ESP<br />
-project = ddiddlepants_RIOT-EE250<br />
-project = ddreyer_RIOT-OS<br />
-project = ddreyer_RIOT-OS-1<br />
-project = ddreyer_RIOT-OS-class<br />
-project = ddreyer_openthread<br />
-project = decolnz_RIOT<br />
-project = deepfryed_RIOT<br />
-project = deniskropp_RIOT<br />
-project = denizs_RIOT<br />
-project = denizs_riot<br />
-project = denykk_RIOT<br />
-project = derf_RIOT<br />
-project = devantormey_RIOT-EE250<br />
-project = deviance_RIOT<br />
-project = dhruvvyas90_RIOT<br />
-project = diddyhsv_RIOT<br />
-project = dkazantzas_RIOT<br />
-project = dkm_RIOT<br />
-project = dmdsouza_RIOT<br />
-project = dmoldova_RIOT-EE250<br />
-project = docdor_RIOT<br />
-project = dongdongbh_RIOT<br />
-project = dongkc_RIOT<br />
-project = doniexun_RIOT<br />
-project = dorukarda_RIOT<br />
-project = doudoudq_RIOT<br />
-project = drasko_RIOT<br />
-project = drcef_RIOT<br />
-project = drmrboy_RIOT<br />
-project = duanlv_RIOT<br />
-project = dut3062796s_RIOT-1<br />
-project = duv16_RIOT<br />
-project = dylad_RIOT<br />
-project = eacioffi_RIOT-EE250<br />
-project = ecioffi_RIOT-EE250<br />
-project = edgarmar2_RIOT-EE250<br />
-project = eeinz_RIOT<br />
-project = eerokhakala_RIOT<br />
-project = eggfly_RIOT<br />
-project = ehsanamin1990_RIOT<br />
-project = einars_RIOT<br />
-project = eistec_RIOT<br />
-project = elecfist_RIOT<br />
-project = elix22_RIOT<br />
-project = elvaigh_RIOT<br />
-project = emmanuelsearch_RIOT<br />
-project = emuhedo_RIOT<br />
-project = enzingerm_RIOT<br />
-project = ericyao2013_RIOT<br />
-project = erlerobot_RIOT<br />
-project = euboss_RIOT<br />
-project = eugenscobich_RIOT<br />
-project = fajb_RIOT<br />
-project = fanghuaqi_RIOT<br />
-project = fanxiaohui_RIOT<br />
-project = fbsder_RIOT<br />
-project = fcgdam_RIOT<br />
-project = fedepell_RIOT<br />
-project = fesselk_RIOT<br />
-project = fetmos_RIOT<br />
-project = fhessel_RIOT<br />
-project = fjmolinas_RIOT<br />
-project = flavius-aetios_RIOT<br />
-project = flipreverse_RIOT<br />
-project = florian-jean_RIOT<br />
-project = flyhigh46_RIOT<br />
-project = fokin91_RIOT<br />
-project = fozc_RIOT<br />
-project = fragomr_RIOT<br />
-project = francois-berder-imgtec_RIOT<br />
-project = francois-berder_RIOT<br />
-project = frankamente_RIOT<br />
-project = freemanZYQ_RIOT<br />
-project = fsolanod_RIOT<br />
-project = fu-ilab-swp18_RIOT<br />
-project = fu-ilab-swp18_RIOT_pflanzen1<br />
-project = fu-inet-swp17_RIOT<br />
-project = future-proof-iot_RIOT<br />
-project = fvacek_RIOT<br />
-project = fzi-forschungszentrum-informatik_RIOT64<br />
-project = fzy-Line_RIOT<br />
-project = gandy555_RIOT<br />
-project = gautric_RIOT<br />
-project = gbarnett_RIOT<br />
-project = gdoffe_RIOT<br />
-project = george-hopkins_RIOT<br />
-project = geromueller_RIOT<br />
-project = gh18_RIOT<br />
-project = ghavag_RIOT<br />
-project = ghice_RIOT<br />
-project = ginetrix_RIOT<br />
-project = girisugu2_RIOT<br />
-project = girtsf_RIOT<br />
-project = gitcreater_RIOT<br />
-project = gitlab.com_Gvanroon_RIOT<br />
-project = gitlab.com_Spence_RIOT<br />
-project = gitlab.com_anilkumarsoma_RIOT<br />
-project = gitlab.com_cellu_cc_riot<br />
-project = gitlab.com_frankamente_RIOT<br />
-project = gitlab.com_gspu_RIOT<br />
-project = gitlab.com_nicholas_jackson_RIOT<br />
-project = gitlab.com_openrov_trident/trident-fw-samd<br />
-project = gitlab.com_openrov_trident_trident-fw-samd<br />
-project = gitlab.com_rhr407_RIOT<br />
-project = gitlab.com_scanf_RIOT<br />
-project = gitlab.com_theja0473_RIOT<br />
-project = gitlab.com_wsymons_riot<br />
-project = glloydNAT_RIOT<br />
-project = gmsotavio_RIOT<br />
-project = gon1332_RIOT<br />
-project = gongfna_RIOT<br />
-project = gorbondiga_RIOT<br />
-project = gosticks_RIOT<br />
-project = graznik_RIOT<br />
-project = groessler_RIOT<br />
-project = gschorcht_RIOT<br />
-project = gschorcht_RIOT-Xtensa-ESP<br />
-project = gschorcht_RIOT-Xtensa-ESP8266<br />
-project = gtrpucp_RIOT<br />
-project = gustavovelascoh_RIOT<br />
-project = gutorevoredo_RIOT<br />
-project = guzenkovalexey_RIOT<br />
-project = gvz_RIOT<br />
-project = h4nt_RIOT<br />
-project = habibzadeh_RIOT<br />
-project = hackerspacesv_RIOT<br />
-project = hahchenchen_RIOT<br />
-project = haithemsekri_RIOT<br />
-project = hallo-alex_RIOT<br />
-project = hamilton-mote_RIOT-OS<br />
-project = hamilton-mote_RiSyn<br />
-project = haoyangyu_RIOT<br />
-project = harrisonforch_RIOT-EE250<br />
-project = harunoni_RIOT<br />
-project = haukepetersen_RIOT<br />
-project = heavybro_RIOT<br />
-project = herrfz_RIOT<br />
-project = hhhhhhlc_RIOT<br />
-project = hhy5277_RIOT-1<br />
-project = hongkiaong_RIOT<br />
-project = houmway_RIOT<br />
-project = hpu07_RIOT<br />
-project = huanquan_RIOT<br />
-project = huide9_RIOT<br />
-project = huleg_RIOT<br />
-project = huypq6_RIOT<br />
-project = i-spark_RIOT<br />
-project = i53-infrastructure_RIOT<br />
-project = iam-thanwa-io_RIOT<br />
-project = iambijusnair_RIOT<br />
-project = ibr-cm_RIOT<br />
-project = ibriano_RIOT<br />
-project = icube-inetlab_RIOT-OS<br />
-project = igrik82_RIOT<br />
-project = iia_RIOT<br />
-project = ijip_RIOT<br />
-project = ikshin416_RIOT<br />
-project = ikvm_RIOT-1<br />
-project = iliessens_RIOT<br />
-project = ilya-dubinsky_RIOT<br />
-project = ilya-epifanov_RIOT<br />
-project = immesys_RIOT<br />
-project = immesys_RiSyn<br />
-project = inetrg_RIOT<br />
-project = injxgj_RIOT<br />
-project = internet-of-plants_RIOT<br />
-project = iocainst_RIOT<br />
-project = iot-alex_RIOT<br />
-project = iot-lab_riot-upstream<br />
-project = iota-community_BLE-environment-sensor<br />
-project = iota-community_thingy52-env-sensor<br />
-project = iothon_RIOT<br />
-project = iotlibrary_RIOT<br />
-project = iotvietmember_RIOT<br />
-project = iplon_RIOT<br />
-project = ironeagle-ir_RIOT<br />
-project = is00hcw_RIOT-1<br />
-project = iseitani_RIOT<br />
-project = iseitani_RIOT_BR<br />
-project = it-gladkiy_RIOT<br />
-project = ivanka6342_RIOT<br />
-project = ivantesker_RIOT<br />
-project = jaeseokan94_RIOT<br />
-project = jafffy_RIOT<br />
-project = jan-mo_RIOT<br />
-project = janmoehl_RIOT<br />
-project = jarrcan-cl_RIOT<br />
-project = jasonatran_RIOT<br />
-project = jasonatran_iris-riot<br />
-project = javierfileiv_RIOT<br />
-project = jbeyerstedt_RIOT<br />
-project = jbeyerstedt_RIOT-OTA-update<br />
-project = jcarrano_RIOT<br />
-project = jdhuanghub_RIOT<br />
-project = jelledevleeschouwer_RIOT<br />
-project = jessezwd_RIOT<br />
-project = jfbortolotti_RIOT<br />
-project = jhollister_RIOT<br />
-project = jia200x_RIOT<br />
-project = jiababybaby_RIOT<br />
-project = jiangjie87481_RIOT<br />
-project = jigla_RIOT-OS<br />
-project = jinfenw_RIOT<br />
-project = jingjing54007_RIOT<br />
-project = jinhongdu_RIOT<br />
-project = jjelonek_RIOT<br />
-project = jliang1010_RIOT<br />
-project = jmcdon0128_RIOT<br />
-project = jmd99_RIOT<br />
-project = jongbot_RIOT<br />
-project = jongsun5_RIOT<br />
-project = jonkster_RIOT<br />
-project = jonkster_RIOT2<br />
-project = joshuabierton_RIOT<br />
-project = jowlo_RIOT<br />
-project = joyshmitz_RIOT<br />
-project = jpbonn_RIOT<br />
-project = jpbonn_old-riot<br />
-project = jpbonn_riot<br />
-project = jpnorair_OT-RIOT<br />
-project = jpnorair_RIOT<br />
-project = jremmert-phytec-iot_RIOT<br />
-project = jthacker_RIOT<br />
-project = jue89_RIOT<br />
-project = julien-ioic_RIOT<br />
-project = justin1571_RIOT-EE250<br />
-project = justinjoy_RIOT<br />
-project = jvsg_RIOT<br />
-project = jxnuzhangwen_RIOT<br />
-project = k6dsp_RIOT<br />
-project = kYc0o_RIOT<br />
-project = kaibeckmann_RIOT<br />
-project = kaidokert_RIOT<br />
-project = kaifeichen_RIOT-OS<br />
-project = kaleb-himes_RIOT<br />
-project = kamar4k_RIOT<br />
-project = kamejoko80_RIOT<br />
-project = kangdazhi_RIOT<br />
-project = kartben_RIOT<br />
-project = kaspar030_RIOT<br />
-project = katezilla_RIOT<br />
-project = kb2ma_RIOT<br />
-project = kbonset_RIOT<br />
-project = kbumsik_RIOT<br />
-project = keestux_RIOT<br />
-project = kenkuang_RIOT<br />
-project = kennethjiang_RIOT<br />
-project = kenrabold_RIOT<br />
-project = kerneltask_RIOT<br />
-project = kery-chen_RIOT<br />
-project = kerychen_RIOT<br />
-project = kex2017_RIOT<br />
-project = khhhh_RIOT<br />
-project = khurananish_RIOT<br />
-project = kineev_RIOT<br />
-project = kingfs_RIOT<br />
-project = kjh1007_RIOT<br />
-project = konstantinngvk1_RIOT<br />
-project = kontais_RIOT<br />
-project = kotteeswarane_CanGateway<br />
-project = krishnak9_RIOT<br />
-project = kroesche_RIOT<br />
-project = ks156_RIOT<br />
-project = kubostech_RIOT<br />
-project = kugel2_RIOT<br />
-project = kumar-jiri6_RIOT<br />
-project = kushalsingh007_RIOT<br />
-project = kutama_RIOT<br />
-project = kvbryukhanov_RIOT<br />
-project = kwahome_RIOT<br />
-project = kyrofa_RIOT<br />
-project = l3nko_RIOT<br />
-project = lafka_RIOT<br />
-project = lalrae_RIOT<br />
-project = laparmakerli_riot-upstream<br />
-project = latsku_RIOT<br />
-project = lazytech-org_RIOT<br />
-project = ldesiqueira_RIOT<br />
-project = le7amdon_RIOT<br />
-project = leandrolanzieri_RIOT<br />
-project = lebrush_RIOT<br />
-project = leeminghao_RIOT<br />
-project = legendary-bro_RIOT<br />
-project = lidong1266_RIOT<br />
-project = liguojiang_RIOT<br />
-project = lincvv_RIOT<br />
-project = lineCode_RIOT-1<br />
-project = linearregression_RIOT<br />
-project = linpingchuan_RIOT<br />
-project = linux-wpan_RIOT<br />
-project = liujiandu_RIOT<br />
-project = liwangqian_RIOT<br />
-project = ljs9643_RIOT<br />
-project = llueder_RIOT<br />
-project = lluminita_RIOT<br />
-project = lmhtz_RIOT<br />
-project = locosoft1986_RIOT<br />
-project = logself1988_RIOT<br />
-project = lorenz9314_RIOT<br />
-project = louisyoo_RIOT<br />
-project = lovelesh_RIOT<br />
-project = lpaulic_RIOT<br />
-project = lsaos_RIOT<br />
-project = luciotorre_RIOT<br />
-project = luisseo01_RIOT<br />
-project = lupamedeiros_RIOT<br />
-project = lvjh_RIOT<br />
-project = lxsang_RIOT<br />
-project = lyashley_RIOT-EE250<br />
-project = lzbgt_RIOT<br />
-project = lzj85_RIOT<br />
-project = m21400_RIOT<br />
-project = m2mbr_RIOT<br />
-project = madokapeng_RIOT<br />
-project = maghis_RIOT<br />
-project = mahermastouri_RIOT<br />
-project = maitysubhasis_RIOT_OS<br />
-project = makyo-dev_RIOT-1<br />
-project = mali_RIOT<br />
-project = malosek_RIOT<br />
-project = manamhr_RIOT-EE250<br />
-project = maribu_RIOT<br />
-project = marshall_RIOT<br />
-project = martinheusmann_RIOT<br />
-project = massad77_RIOT<br />
-project = mathirkub_RIOT<br />
-project = mattiantonini_RIOT<br />
-project = maxvankessel_RIOT<br />
-project = mbrukman_RIOT<br />
-project = mbutkereit_RIOT<br />
-project = mdodkins_RIOT<br />
-project = mehrdaad_RIOT<br />
-project = mehulrijawani_RIOT<br />
-project = mejm_RIOT<br />
-project = melfork_RIOT<br />
-project = melshuber_RIOT<br />
-project = mfkiwl_RIOT<br />
-project = mfrey_RIOT<br />
-project = michaelgianpowski_RIOT<br />
-project = michz_RIOT<br />
-project = mike168m_RIOT<br />
-project = ming-hai_RIOT<br />
-project = minkione_RIOT<br />
-project = miri64_RIOT<br />
-project = mishlasfeng_RIOT<br />
-project = mkcourse_RIOT<br />
-project = mmkonrad_RIOT<br />
-project = moenoel_RIOT<br />
-project = mojiuyu_RIOT-1<br />
-project = moneytech_RIOT<br />
-project = monoclecat_RIOT<br />
-project = moyansen_RIOT<br />
-project = mrazek-deakin_RIOT<br />
-project = mredekopp_RIOT-EE250<br />
-project = mrnguyen211190_RIOT<br />
-project = msakil_RIOT<br />
-project = msliusarev_RIOT<br />
-project = msolters_RIOT<br />
-project = mstn-09_RIOT<br />
-project = mtausig_RIOT<br />
-project = mufeedpatel_RIOT<br />
-project = muharam1991_RIOT<br />
-project = mullerhx_RIOT<br />
-project = mullife_RIOT<br />
-project = murdock-ci_RIOT<br />
-project = mxbrt_RIOT<br />
-project = mziegert_RIOT<br />
-project = n16h7br33z3_RIOT<br />
-project = naaonethree_RIOT-EE250<br />
-project = nailanawshaba_RIOT<br />
-project = named-data-iot_RIOT<br />
-project = namezis_RIOT<br />
-project = nanodrone_RIOT<br />
-project = nashokkumar_RIOT<br />
-project = navneetnivu07_RIOT<br />
-project = nawL1dg3_RIOT<br />
-project = nealjack_RIOT-OS<br />
-project = neiljay_RIOT<br />
-project = neo-existenz_RIOT<br />
-project = netdebug_RIOT<br />
-project = netroby_RIOT<br />
-project = netscream_RIOT<br />
-project = ngatilio_RIOT<br />
-project = nghiaducnt_LearningRIOT<br />
-project = nguyenduclam_RIOT<br />
-project = ngwong_RIOT-EE250<br />
-project = nicholas-c-jackson_RIOT<br />
-project = niziak_RIOT<br />
-project = njprogramming_RIOT<br />
-project = nkristek_RIOT<br />
-project = nlebang_RIOT<br />
-project = nlinktech_RIOT<br />
-project = nmehlman_RIOT-EE250<br />
-project = nmeum_RIOT<br />
-project = nolitimere_KubOS<br />
-project = nqd_RIOT<br />
-project = nsaspook_RIOT<br />
-project = ntrtrung_RIOT<br />
-project = nvv13_RIOT<br />
-project = nyrahul_RIOT<br />
-project = o0osorentoo0o_RIOT<br />
-project = obgm_RIOT<br />
-project = ochristi_RIOT<br />
-project = ofauchon_RIOT<br />
-project = offchooffcho_RIOT<br />
-project = oh3eqn_RIOT<br />
-project = olegart_RIOT<br />
-project = onesmash_RIOT<br />
-project = openkosmosorg_RIOT<br />
-project = openwarelab_RIOT<br />
-project = orchisan_RIOT<br />
-project = orf53975_RIOT<br />
-project = ott-kiwi_RIOT<br />
-project = pacheco017_RIOT<br />
-project = palaniyappanBala_RIOT<br />
-project = panail_RIOT<br />
-project = panshengpeng_RIOT<br />
-project = patgrosse_RIOT<br />
-project = paula75_RIOT<br />
-project = pavelgr_RIOT<br />
-project = pavlyhabashy_RIOT-EE250<br />
-project = pdNor_RIOT<br />
-project = pekkanikander_RIOT<br />
-project = pengshulin_RIOT<br />
-project = peterson79_RIOT<br />
-project = pevasquez_RIOT<br />
-project = phectori_RIOT<br />
-project = phiros_RIOT<br />
-project = photonthunder_RIOT<br />
-project = phphy_RIOT<br />
-project = phuonglab_RIOT<br />
-project = phuongtg_RIOT<br />
-project = pi-kxw_RIOT<br />
-project = pigeorge_RIOT<br />
-project = pipex_RIOT<br />
-project = piyushpandey013_RIOT<br />
-project = pjhernandez18_RIOT-EE250<br />
-project = pmlk_RIOT<br />
-project = pnunes30_RIOT<br />
-project = pokgak_RIOT<br />
-project = pombredanne_RIOT<br />
-project = poppe34_RIOT<br />
-project = popwolf_RIOT<br />
-project = ppannuto_RIOT<br />
-project = prashanthhn_RIOT<br />
-project = praveenmunagapati_RIOT-2<br />
-project = praveenpenumaka_RIOT<br />
-project = psiemek_RIOT<br />
-project = pst12_RIOT<br />
-project = psymonj_RIOT<br />
-project = ptz1986_RIOT<br />
-project = punchcard60_KubOS<br />
-project = pvikberg_RIOT<br />
-project = pvikberg_RIOT_oma1<br />
-project = pvsarath_RIOT<br />
-project = pvyleta_RIOT<br />
-project = pwillem_RIOT<br />
-project = pyjhhh_RIOT<br />
-project = qgyhd1234_RIOT<br />
-project = qiaoqidui_RIOT<br />
-project = rabinsahoo_RIOT<br />
-project = radhios_RIOT<br />
-project = ragulhackz125_RIOT<br />
-project = rajma996_RIOT<br />
-project = rakendrathapa_RIOT<br />
-project = rammohan2b_RIOT<br />
-project = ranbe1_RIOT<br />
-project = ranjit27_RIOT<br />
-project = redrabbit5_RIOT<br />
-project = redwinner_RIOT<br />
-project = refaqtor_RIOT<br />
-project = renzoe_RIOT<br />
-project = rfuentess_RIOT<br />
-project = rhabu01_RIOT<br />
-project = rhr407_RIOT<br />
-project = richartk_RIOT<br />
-project = rienafairefr_RIOT<br />
-project = riot-appstore_RIOT<br />
-project = riot-appstore_RIOT-IoThon<br />
-project = riot-ci_RIOT<br />
-project = riot-study_RIOT<br />
-project = rivasiv_RIOT<br />
-project = rjmcguire_RIOT<br />
-project = rl1987_RIOT<br />
-project = robbie-cao_RIOT<br />
-project = robbie-cao_riot-stm32<br />
-project = robby14_RIOT<br />
-project = roberthartung_RIOT<br />
-project = robertsipka_RIOT<br />
-project = robixnai_RIOT<br />
-project = rolandi71_RIOT<br />
-project = roubra_RIOT<br />
-project = rousselk_RIOT<br />
-project = rowhit_RIOT<br />
-project = rrzatkie_RIOT<br />
-project = rrzatkie_RIOT_COPY<br />
-project = rst256_RIOT<br />
-project = ruhex_RIOT<br />
-project = rxwb_RIOT<br />
-project = ryankurte_riot-os<br />
-project = ryanlelek_KubOS<br />
-project = salmovs_RIOT<br />
-project = sam-kumar_RIOT-OS<br />
-project = samiralavi_RIOT<br />
-project = samkumar99_RIOT-OS<br />
-project = samkumar_RIOT-OS<br />
-project = samr90_RIOT<br />
-project = sanmingshen_RIOT<br />
-project = sarathsanthoss_RIOT<br />
-project = sasalaza_RIOT-EE250<br />
-project = sashaindrish_RIOT<br />
-project = schoradt_RIOT<br />
-project = sdsxpln_RIOT<br />
-project = sdttmyw_RIOT<br />
-project = seank-img_RIOT<br />
-project = sebastiankliem_RIOT<br />
-project = serabiasin_RIOT<br />
-project = seryi2035_RIOT<br />
-project = setevod_RIOT<br />
-project = seysn_RIOT<br />
-project = sgso_RIOT<br />
-project = shein318_RIOT<br />
-project = shenfahsu_RIOT<br />
-project = shpuravasiliy_RIOT<br />
-project = siddh-test-4_RIOT<br />
-project = siddharthgpta_RIOT<br />
-project = simonsta_RIOT<br />
-project = sklli_RIOT<br />
-project = sknsean_RIOT<br />
-project = skullbox305_RIOT<br />
-project = skyformat99_RIOT<br />
-project = skyformat99_RIOT-2<br />
-project = slhsxcmy_RIOT<br />
-project = smartuni_RIOT<br />
-project = smcd253_RIOT-EE250<br />
-project = smcd253_RIOT-EE250-1<br />
-project = smehner1_RIOT<br />
-project = smlng_RIOT<br />
-project = smou_RIOT<br />
-project = snej_RIOT<br />
-project = sp-axio_RIOT<br />
-project = spiridon1_RIOT<br />
-project = spirit745_RIOT<br />
-project = starblue_RIOT<br />
-project = stepos01_RIOT<br />
-project = stevenj_RIOT<br />
-project = sugangli_RIOT<br />
-project = sumanpanchal_RIOT<br />
-project = sunghopark1_RIOT<br />
-project = superjudge_RIOT<br />
-project = suruz_RIOT<br />
-project = syin2_riot-iotivity<br />
-project = tabc123_RIOT<br />
-project = tadryanom_RIOT<br />
-project = taherrera_riot<br />
-project = tamasseller_RIOT<br />
-project = tammyrobinson03_RIOT<br />
-project = tanupoo_RIOT<br />
-project = tatyanavolkova_RIOT<br />
-project = tgo-s_RIOT<br />
-project = theafricanengineer_RIOT<br />
-project = theja0473_RIOT<br />
-project = therapier_RIOT<br />
-project = therealmonE_RIOT<br />
-project = thiagohd_RIOT<br />
-project = thomaseichinger_RIOT<br />
-project = to1st9chok_RIOT<br />
-project = tobbad_RIOT<br />
-project = tobhe_RIOT<br />
-project = tomyqg_RIOT<br />
-project = tongpi_RIOT<br />
-project = toonst_RIOT<br />
-project = tovanhieu_RIOT<br />
-project = tovax_RIOT<br />
-project = tprrt_RIOT<br />
-project = tralivali1234_RIOT<br />
-project = travisgriggs_RIOT<br />
-project = tromex_RIOT<br />
-project = trungkstn_RIOT<br />
-project = tsutar_RIOT-EE250<br />
-project = turahul_RIOT<br />
-project = txemis_RIOT<br />
-project = typc95_RIOT<br />
-project = tzuchiangshen_RIOT<br />
-project = unforgiven512_RIOT<br />
-project = unwireddevices_RIOT<br />
-project = urbangregorc_RIOT<br />
-project = usc-ee250-fall2018_RIOT-EE250<br />
-project = vac_RIOT<br />
-project = varunpandeyengg_RIOT<br />
-project = vehar_RIOT<br />
-project = vhkrishna_RIOT<br />
-project = vijaiks_RIOT<br />
-project = vikingxie_RIOT<br />
-project = vincent-d_RIOT<br />
-project = vincentjzimmer_RIOT<br />
-project = vincentlao_RIOT<br />
-project = vpdao_RIOT<br />
-project = vrosnet_RIOT<br />
-project = w03_RIOT<br />
-project = waehlisch_RIOT<br />
-project = wallhisg_RIOT<br />
-project = wang1314well_RIOT<br />
-project = watr-li_RIOT<br />
-project = wentaoshang_RIOT<br />
-project = wenyigao6_RIOT-EE250<br />
-project = whitefield-framework_RIOT<br />
-project = wilhelmmatilainen_RIOT<br />
-project = witnessivan_RIOT<br />
-project = wtsllc_RIOT<br />
-project = wupoli_RIOT<br />
-project = wuzeen_RIOT<br />
-project = wwhuang_RIOT-OS<br />
-project = wxh0000mm_RIOT<br />
-project = xjump_RIOT<br />
-project = xsider_RIOT<br />
-project = xzm7358_RIOT<br />
-project = ycs0405_RIOT<br />
-project = yeekzhang_RIOT<br />
-project = yeffrimic_RIOT<br />
-project = yegorich_RIOT<br />
-project = yibit_RIOT<br />
-project = ynezz_RIOT<br />
-project = yogo1212_RIOT<br />
-project = yunbei_RIOT<br />
-project = yupin75_RIOT<br />
-project = yusi222_RIOT<br />
-project = zafriyusoff_RIOT<br />
-project = zaza89_RIOT<br />
-project = zenglongGH_RIOT<br />
-project = zhenhaochu_RIOT<br />
-project = zhuoshuguo_RIOT<br />
-project = zhuwentao0612_RIOT<br />
-project = zjl037600_RIOT<br />
-project = zmguahy_RIOT<br />
+project = <a href="https://github.com/1974vyacheslav/RIOT">github.com/1974vyacheslav/RIOT</a><br />
+project = <a href="https://github.com/296791897/RIOT">github.com/296791897/RIOT</a><br />
+project = <a href="https://github.com/314942468GitHub/RIOT">github.com/314942468GitHub/RIOT</a><br />
+project = <a href="https://github.com/5G-I3/RIOT-1">github.com/5G-I3/RIOT-1</a><br />
+project = <a href="https://github.com/5G-I3/RIOT-public">github.com/5G-I3/RIOT-public</a><br />
+project = <a href="https://github.com/6lowpaniold/RIOT">github.com/6lowpaniold/RIOT</a><br />
+project = <a href="https://github.com/A-Paul/RIOT">github.com/A-Paul/RIOT</a><br />
+project = <a href="https://github.com/ANRGUSC/RIOT">github.com/ANRGUSC/RIOT</a><br />
+project = <a href="https://github.com/ANRGUSC/RIOT-EE250">github.com/ANRGUSC/RIOT-EE250</a><br />
+project = <a href="https://github.com/ANRGUSC/iris-riot">github.com/ANRGUSC/iris-riot</a><br />
+project = <a href="https://github.com/AVykhovanets/RIOT">github.com/AVykhovanets/RIOT</a><br />
+project = <a href="https://github.com/AaltoNEPPI/RIOT">github.com/AaltoNEPPI/RIOT</a><br />
+project = <a href="https://github.com/Aang-3/RIOT">github.com/Aang-3/RIOT</a><br />
+project = <a href="https://github.com/Aang23/RIOT">github.com/Aang23/RIOT</a><br />
+project = <a href="https://github.com/Aber-Lijingshu/RIOT">github.com/Aber-Lijingshu/RIOT</a><br />
+project = <a href="https://github.com/AcmeSystemsProjects/RIOT">github.com/AcmeSystemsProjects/RIOT</a><br />
+project = <a href="https://github.com/AdamRLukaitis/RIOT">github.com/AdamRLukaitis/RIOT</a><br />
+project = <a href="https://github.com/AdrianGuo/RIOT">github.com/AdrianGuo/RIOT</a><br />
+project = <a href="https://github.com/Agile-IoT/RIOT">github.com/Agile-IoT/RIOT</a><br />
+project = <a href="https://github.com/AlexShiLucky/RIOT">github.com/AlexShiLucky/RIOT</a><br />
+project = <a href="https://github.com/AlexandrSalin/RIOT">github.com/AlexandrSalin/RIOT</a><br />
+project = <a href="https://github.com/Alexmingzhi/RIOT">github.com/Alexmingzhi/RIOT</a><br />
+project = <a href="https://github.com/Allanceng/RIOT">github.com/Allanceng/RIOT</a><br />
+project = <a href="https://github.com/AltairResearch/RIOT">github.com/AltairResearch/RIOT</a><br />
+project = <a href="https://github.com/Ameya22/RIOT">github.com/Ameya22/RIOT</a><br />
+project = <a href="https://github.com/Amr221B/RIOT">github.com/Amr221B/RIOT</a><br />
+project = <a href="https://github.com/An-Andrew-Pham/RIOT-EE250">github.com/An-Andrew-Pham/RIOT-EE250</a><br />
+project = <a href="https://github.com/AnaK89/RIOT">github.com/AnaK89/RIOT</a><br />
+project = <a href="https://github.com/Angela-W/RIOT">github.com/Angela-W/RIOT</a><br />
+project = <a href="https://github.com/Ankita-Jaiswal/RIOT">github.com/Ankita-Jaiswal/RIOT</a><br />
+project = <a href="https://github.com/AnonMall/RIOT">github.com/AnonMall/RIOT</a><br />
+project = <a href="https://github.com/AppleInside/RIOT">github.com/AppleInside/RIOT</a><br />
+project = <a href="https://github.com/ArulPrasathK/RIOT">github.com/ArulPrasathK/RIOT</a><br />
+project = <a href="https://github.com/AshishkrMishra/RIOT">github.com/AshishkrMishra/RIOT</a><br />
+project = <a href="https://github.com/AskhatBaymukhamedov/RIOT">github.com/AskhatBaymukhamedov/RIOT</a><br />
+project = <a href="https://github.com/Avinash95/RIOT">github.com/Avinash95/RIOT</a><br />
+project = <a href="https://github.com/Axellant/RIOT">github.com/Axellant/RIOT</a><br />
+project = <a href="https://github.com/BOBRAPHTONE/RIOT">github.com/BOBRAPHTONE/RIOT</a><br />
+project = <a href="https://github.com/BTSGuyaderBenjamin/RIOT">github.com/BTSGuyaderBenjamin/RIOT</a><br />
+project = <a href="https://github.com/Bagginsa/RIOT">github.com/Bagginsa/RIOT</a><br />
+project = <a href="https://github.com/BamStap/RIOT">github.com/BamStap/RIOT</a><br />
+project = <a href="https://github.com/Barrymuch/RIOT">github.com/Barrymuch/RIOT</a><br />
+project = <a href="https://github.com/BenG2121/RIOT">github.com/BenG2121/RIOT</a><br />
+project = <a href="https://github.com/BigGarik/RIOT">github.com/BigGarik/RIOT</a><br />
+project = <a href="https://github.com/Bila24/RIOT">github.com/Bila24/RIOT</a><br />
+project = <a href="https://github.com/Bizordec/RIOT">github.com/Bizordec/RIOT</a><br />
+project = <a href="https://github.com/Bob-the-Kuhn/RIOT">github.com/Bob-the-Kuhn/RIOT</a><br />
+project = <a href="https://github.com/Bogatik/RIOT">github.com/Bogatik/RIOT</a><br />
+project = <a href="https://github.com/Burdaa/RIOT">github.com/Burdaa/RIOT</a><br />
+project = <a href="https://github.com/BurtonQin/RIOT">github.com/BurtonQin/RIOT</a><br />
+project = <a href="https://github.com/BytesGalore/RIOT">github.com/BytesGalore/RIOT</a><br />
+project = <a href="https://github.com/CLPopescu-1999-02/RIOT">github.com/CLPopescu-1999-02/RIOT</a><br />
+project = <a href="https://github.com/Cakhavan/RIOT-EE250">github.com/Cakhavan/RIOT-EE250</a><br />
+project = <a href="https://github.com/CaptSkull/RIOT">github.com/CaptSkull/RIOT</a><br />
+project = <a href="https://github.com/Carton32/RIOT">github.com/Carton32/RIOT</a><br />
+project = <a href="https://github.com/Circuit-killer/RIOT">github.com/Circuit-killer/RIOT</a><br />
+project = <a href="https://github.com/Citrullin/RIOT">github.com/Citrullin/RIOT</a><br />
+project = <a href="https://github.com/ClarePhang/RIOT">github.com/ClarePhang/RIOT</a><br />
+project = <a href="https://github.com/CommoDor64/RIOT">github.com/CommoDor64/RIOT</a><br />
+project = <a href="https://github.com/Conservify/RIOT">github.com/Conservify/RIOT</a><br />
+project = <a href="https://github.com/Cr0s/RIOT">github.com/Cr0s/RIOT</a><br />
+project = <a href="https://github.com/CreatorKit/RIOT-Mips">github.com/CreatorKit/RIOT-Mips</a><br />
+project = <a href="https://github.com/Cross4000/RIOT">github.com/Cross4000/RIOT</a><br />
+project = <a href="https://github.com/CrutzPan/RIOT">github.com/CrutzPan/RIOT</a><br />
+project = <a href="https://github.com/DZeyfert/RIOT">github.com/DZeyfert/RIOT</a><br />
+project = <a href="https://github.com/DamboDD/RIOT">github.com/DamboDD/RIOT</a><br />
+project = <a href="https://github.com/DapengLan/RIOT">github.com/DapengLan/RIOT</a><br />
+project = <a href="https://github.com/Darredevil/RIOT">github.com/Darredevil/RIOT</a><br />
+project = <a href="https://github.com/Deniz66/RIOT">github.com/Deniz66/RIOT</a><br />
+project = <a href="https://github.com/Derwaan/RIOT">github.com/Derwaan/RIOT</a><br />
+project = <a href="https://github.com/DipSwitch/RIOT">github.com/DipSwitch/RIOT</a><br />
+project = <a href="https://github.com/DmitryDostovalov/RIOT">github.com/DmitryDostovalov/RIOT</a><br />
+project = <a href="https://github.com/Dreyfriz/RIOT">github.com/Dreyfriz/RIOT</a><br />
+project = <a href="https://github.com/DuyTrandeLion/RIOT">github.com/DuyTrandeLion/RIOT</a><br />
+project = <a href="https://github.com/Ell-i/RIOT">github.com/Ell-i/RIOT</a><br />
+project = <a href="https://github.com/Elter71/RIOT">github.com/Elter71/RIOT</a><br />
+project = <a href="https://github.com/Eltonno/RIOT">github.com/Eltonno/RIOT</a><br />
+project = <a href="https://github.com/EmuxEvans/RIOT">github.com/EmuxEvans/RIOT</a><br />
+project = <a href="https://github.com/FeverChen/RIOT">github.com/FeverChen/RIOT</a><br />
+project = <a href="https://github.com/Flyingstone99/RIOT">github.com/Flyingstone99/RIOT</a><br />
+project = <a href="https://github.com/Former/RIOT">github.com/Former/RIOT</a><br />
+project = <a href="https://github.com/FrancescoErmini/RIOT">github.com/FrancescoErmini/RIOT</a><br />
+project = <a href="https://github.com/FuzeSoft/RIOT">github.com/FuzeSoft/RIOT</a><br />
+project = <a href="https://github.com/GHackAnonymous/RIOT">github.com/GHackAnonymous/RIOT</a><br />
+project = <a href="https://github.com/GabrielDai/RIOT">github.com/GabrielDai/RIOT</a><br />
+project = <a href="https://github.com/GeekRobert/RIOT">github.com/GeekRobert/RIOT</a><br />
+project = <a href="https://github.com/Geloi/RIOT">github.com/Geloi/RIOT</a><br />
+project = <a href="https://github.com/GenRockeR/RIOT">github.com/GenRockeR/RIOT</a><br />
+project = <a href="https://github.com/Gmedhin/RIOT">github.com/Gmedhin/RIOT</a><br />
+project = <a href="https://github.com/Goga3000/RIOT">github.com/Goga3000/RIOT</a><br />
+project = <a href="https://github.com/GoodDada/RIOT">github.com/GoodDada/RIOT</a><br />
+project = <a href="https://github.com/Gr3yh0und/RIOT">github.com/Gr3yh0und/RIOT</a><br />
+project = <a href="https://github.com/HANJINKIM/RIOT">github.com/HANJINKIM/RIOT</a><br />
+project = <a href="https://github.com/HSeemann/RIOT">github.com/HSeemann/RIOT</a><br />
+project = <a href="https://github.com/HTWDD-RN/RIOT">github.com/HTWDD-RN/RIOT</a><br />
+project = <a href="https://github.com/HaitaoLeo/RIOT">github.com/HaitaoLeo/RIOT</a><br />
+project = <a href="https://github.com/HamidiMassinissa/RIOT">github.com/HamidiMassinissa/RIOT</a><br />
+project = <a href="https://github.com/Happy-Ferret/RIOT-1">github.com/Happy-Ferret/RIOT-1</a><br />
+project = <a href="https://github.com/HarborDong/RIOT">github.com/HarborDong/RIOT</a><br />
+project = <a href="https://github.com/Hendrias/RIOT-EE250">github.com/Hendrias/RIOT-EE250</a><br />
+project = <a href="https://github.com/HendrikVE/RIOT">github.com/HendrikVE/RIOT</a><br />
+project = <a href="https://github.com/HubertXie/RIOT">github.com/HubertXie/RIOT</a><br />
+project = <a href="https://github.com/HuguLee/RIOT">github.com/HuguLee/RIOT</a><br />
+project = <a href="https://github.com/Huyfly/RIOT">github.com/Huyfly/RIOT</a><br />
+project = <a href="https://github.com/Hyungsin/RIOT-OS">github.com/Hyungsin/RIOT-OS</a><br />
+project = <a href="https://github.com/Icaltary/RIOT">github.com/Icaltary/RIOT</a><br />
+project = <a href="https://github.com/IgorBayk/RIOT">github.com/IgorBayk/RIOT</a><br />
+project = <a href="https://github.com/IgorShilov/RIOT">github.com/IgorShilov/RIOT</a><br />
+project = <a href="https://github.com/IldarValiev/RIOT">github.com/IldarValiev/RIOT</a><br />
+project = <a href="https://github.com/In0ut/RIOT">github.com/In0ut/RIOT</a><br />
+project = <a href="https://github.com/Inria-Chile/RIOT">github.com/Inria-Chile/RIOT</a><br />
+project = <a href="https://github.com/IoT6/RIOT">github.com/IoT6/RIOT</a><br />
+project = <a href="https://github.com/IoTSotA/RIOT">github.com/IoTSotA/RIOT</a><br />
+project = <a href="https://github.com/JMR-b/RIOT">github.com/JMR-b/RIOT</a><br />
+project = <a href="https://github.com/JamesLinus/RIOT">github.com/JamesLinus/RIOT</a><br />
+project = <a href="https://github.com/Janfred/RIOT">github.com/Janfred/RIOT</a><br />
+project = <a href="https://github.com/JelmerT/RIOT">github.com/JelmerT/RIOT</a><br />
+project = <a href="https://github.com/JensErdmann/RIOT">github.com/JensErdmann/RIOT</a><br />
+project = <a href="https://github.com/JensenSung/RIOT">github.com/JensenSung/RIOT</a><br />
+project = <a href="https://github.com/JerryMain/RIOT">github.com/JerryMain/RIOT</a><br />
+project = <a href="https://github.com/Jinyo-Chiu/RIOT">github.com/Jinyo-Chiu/RIOT</a><br />
+project = <a href="https://github.com/JiongFu/RIOT">github.com/JiongFu/RIOT</a><br />
+project = <a href="https://github.com/JohannesRol/RIOT">github.com/JohannesRol/RIOT</a><br />
+project = <a href="https://github.com/John-Ng/RIOT">github.com/John-Ng/RIOT</a><br />
+project = <a href="https://github.com/JonaRaemdonck/RIOT">github.com/JonaRaemdonck/RIOT</a><br />
+project = <a href="https://github.com/JonasRadtke/RIOT">github.com/JonasRadtke/RIOT</a><br />
+project = <a href="https://github.com/Josar/RIOT">github.com/Josar/RIOT</a><br />
+project = <a href="https://github.com/Josar/RIOT_XMEGA">github.com/Josar/RIOT_XMEGA</a><br />
+project = <a href="https://github.com/JulianHolzwarth/RIOT">github.com/JulianHolzwarth/RIOT</a><br />
+project = <a href="https://github.com/JulianoCristian/RIOT">github.com/JulianoCristian/RIOT</a><br />
+project = <a href="https://github.com/KamalDSOberoi/RIOT">github.com/KamalDSOberoi/RIOT</a><br />
+project = <a href="https://github.com/KarlNap/RIOT">github.com/KarlNap/RIOT</a><br />
+project = <a href="https://github.com/Karmvir5/RIOT-EE250">github.com/Karmvir5/RIOT-EE250</a><br />
+project = <a href="https://github.com/Katritz/RIOT">github.com/Katritz/RIOT</a><br />
+project = <a href="https://github.com/Kavanraj/RIOT">github.com/Kavanraj/RIOT</a><br />
+project = <a href="https://github.com/KengaRU/RIOT">github.com/KengaRU/RIOT</a><br />
+project = <a href="https://github.com/KetchupVentil/RIOT">github.com/KetchupVentil/RIOT</a><br />
+project = <a href="https://github.com/KevinYu84/RIOT">github.com/KevinYu84/RIOT</a><br />
+project = <a href="https://github.com/KhodorELKOUJOK/RIOT">github.com/KhodorELKOUJOK/RIOT</a><br />
+project = <a href="https://github.com/Kijewski/RIOT">github.com/Kijewski/RIOT</a><br />
+project = <a href="https://github.com/KillerLink/RIOT">github.com/KillerLink/RIOT</a><br />
+project = <a href="https://github.com/Koenma413/RIOT">github.com/Koenma413/RIOT</a><br />
+project = <a href="https://github.com/KomochekShersti/RIOT">github.com/KomochekShersti/RIOT</a><br />
+project = <a href="https://github.com/KuguHome/RIOT">github.com/KuguHome/RIOT</a><br />
+project = <a href="https://github.com/Kulipator/RIOT">github.com/Kulipator/RIOT</a><br />
+project = <a href="https://github.com/KumarAmitMehta/RIOT">github.com/KumarAmitMehta/RIOT</a><br />
+project = <a href="https://github.com/KyshinLiu/RIOT">github.com/KyshinLiu/RIOT</a><br />
+project = <a href="https://github.com/LGTMCU/RIOT">github.com/LGTMCU/RIOT</a><br />
+project = <a href="https://github.com/LaszloLango/RIOT">github.com/LaszloLango/RIOT</a><br />
+project = <a href="https://github.com/LenarIO/RIOT">github.com/LenarIO/RIOT</a><br />
+project = <a href="https://github.com/Lexandro92/RIOT-CoAP">github.com/Lexandro92/RIOT-CoAP</a><br />
+project = <a href="https://github.com/Lotterleben/RIOT">github.com/Lotterleben/RIOT</a><br />
+project = <a href="https://github.com/Lstallone/RIOT">github.com/Lstallone/RIOT</a><br />
+project = <a href="https://github.com/LucaZulberti/RIOT">github.com/LucaZulberti/RIOT</a><br />
+project = <a href="https://github.com/LudwigKnuepfer/RIOT">github.com/LudwigKnuepfer/RIOT</a><br />
+project = <a href="https://github.com/LudwigOrtmann/RIOT">github.com/LudwigOrtmann/RIOT</a><br />
+project = <a href="https://github.com/Lydrin/RIOT">github.com/Lydrin/RIOT</a><br />
+project = <a href="https://github.com/MKot13/RIOT">github.com/MKot13/RIOT</a><br />
+project = <a href="https://github.com/MOSAIC-LoPoW/RIOT">github.com/MOSAIC-LoPoW/RIOT</a><br />
+project = <a href="https://github.com/MaLa-HAW/RIOT">github.com/MaLa-HAW/RIOT</a><br />
+project = <a href="https://github.com/MailiLoh/RIOT">github.com/MailiLoh/RIOT</a><br />
+project = <a href="https://github.com/Manchenkoos/RIOT">github.com/Manchenkoos/RIOT</a><br />
+project = <a href="https://github.com/Manoharsai/RIOT">github.com/Manoharsai/RIOT</a><br />
+project = <a href="https://github.com/Manu2312/RIOT">github.com/Manu2312/RIOT</a><br />
+project = <a href="https://github.com/Marc-Aurele/RIOT">github.com/Marc-Aurele/RIOT</a><br />
+project = <a href="https://github.com/MarkXYang/RIOT">github.com/MarkXYang/RIOT</a><br />
+project = <a href="https://github.com/Marrakchino/RIOT">github.com/Marrakchino/RIOT</a><br />
+project = <a href="https://github.com/MartinaFHCW/RIOT">github.com/MartinaFHCW/RIOT</a><br />
+project = <a href="https://github.com/MatKub/RIOT">github.com/MatKub/RIOT</a><br />
+project = <a href="https://github.com/Mecabot/RIOT">github.com/Mecabot/RIOT</a><br />
+project = <a href="https://github.com/MichelRottleuthner/RIOT">github.com/MichelRottleuthner/RIOT</a><br />
+project = <a href="https://github.com/Misaka0x2730/RIOT">github.com/Misaka0x2730/RIOT</a><br />
+project = <a href="https://github.com/Mizyukanova/RIOT">github.com/Mizyukanova/RIOT</a><br />
+project = <a href="https://github.com/MohamedSeliem/RIOT">github.com/MohamedSeliem/RIOT</a><br />
+project = <a href="https://github.com/MohmadAyman/RIOT">github.com/MohmadAyman/RIOT</a><br />
+project = <a href="https://github.com/MonsterCode8000/RIOT">github.com/MonsterCode8000/RIOT</a><br />
+project = <a href="https://github.com/Mr-Jason-Sam/RIOT">github.com/Mr-Jason-Sam/RIOT</a><br />
+project = <a href="https://github.com/MrFresh1/RIOT">github.com/MrFresh1/RIOT</a><br />
+project = <a href="https://github.com/MrKevinWeiss/RIOT">github.com/MrKevinWeiss/RIOT</a><br />
+project = <a href="https://github.com/Mucka/RIOT">github.com/Mucka/RIOT</a><br />
+project = <a href="https://github.com/MuhammadTanweer/RIOT">github.com/MuhammadTanweer/RIOT</a><br />
+project = <a href="https://github.com/MxMalk/RIOT">github.com/MxMalk/RIOT</a><br />
+project = <a href="https://github.com/MyCodeMyMoney/RIOT">github.com/MyCodeMyMoney/RIOT</a><br />
+project = <a href="https://github.com/N5FPP/RIOT">github.com/N5FPP/RIOT</a><br />
+project = <a href="https://github.com/NERD-Repo/RIOT">github.com/NERD-Repo/RIOT</a><br />
+project = <a href="https://github.com/NEXTLEO/RIOT">github.com/NEXTLEO/RIOT</a><br />
+project = <a href="https://github.com/NLardenois/RIOT">github.com/NLardenois/RIOT</a><br />
+project = <a href="https://github.com/Na55im/RIOT">github.com/Na55im/RIOT</a><br />
+project = <a href="https://github.com/Nenaco/RIOT">github.com/Nenaco/RIOT</a><br />
+project = <a href="https://github.com/NickMinnellaCS96/RIOT">github.com/NickMinnellaCS96/RIOT</a><br />
+project = <a href="https://github.com/NilayPachauri/RIOT-EE250">github.com/NilayPachauri/RIOT-EE250</a><br />
+project = <a href="https://github.com/Nilshut/RIOT">github.com/Nilshut/RIOT</a><br />
+project = <a href="https://github.com/Nishchay-sopho/RIOT-Bundle-Protocol">github.com/Nishchay-sopho/RIOT-Bundle-Protocol</a><br />
+project = <a href="https://github.com/Nmeum/RIOT">github.com/Nmeum/RIOT</a><br />
+project = <a href="https://github.com/OTAkeys/RIOT">github.com/OTAkeys/RIOT</a><br />
+project = <a href="https://github.com/OYTIS/RIOT">github.com/OYTIS/RIOT</a><br />
+project = <a href="https://github.com/OYTIS/RIOT-kea">github.com/OYTIS/RIOT-kea</a><br />
+project = <a href="https://github.com/OlegHahm/RIOT">github.com/OlegHahm/RIOT</a><br />
+project = <a href="https://github.com/OnsetComputerCorp/RIOT">github.com/OnsetComputerCorp/RIOT</a><br />
+project = <a href="https://github.com/Osarua/RIOT">github.com/Osarua/RIOT</a><br />
+project = <a href="https://github.com/Osblouf/RIOT">github.com/Osblouf/RIOT</a><br />
+project = <a href="https://github.com/Otmane123/RIOT">github.com/Otmane123/RIOT</a><br />
+project = <a href="https://github.com/Ouss4/RIOT">github.com/Ouss4/RIOT</a><br />
+project = <a href="https://github.com/OverDriveGain/RIOT">github.com/OverDriveGain/RIOT</a><br />
+project = <a href="https://github.com/PONFmodular/RIOT">github.com/PONFmodular/RIOT</a><br />
+project = <a href="https://github.com/ParksProjets/RIOT">github.com/ParksProjets/RIOT</a><br />
+project = <a href="https://github.com/PavelVorobyev97/RIOT">github.com/PavelVorobyev97/RIOT</a><br />
+project = <a href="https://github.com/PeterKietzmann/RIOT">github.com/PeterKietzmann/RIOT</a><br />
+project = <a href="https://github.com/PeterKietzmann/RIOT-EWSN16-Demo">github.com/PeterKietzmann/RIOT-EWSN16-Demo</a><br />
+project = <a href="https://github.com/PiWare/RIOT">github.com/PiWare/RIOT</a><br />
+project = <a href="https://github.com/PisalPrasad123/RIOT">github.com/PisalPrasad123/RIOT</a><br />
+project = <a href="https://github.com/PowerProfiler/RIOT">github.com/PowerProfiler/RIOT</a><br />
+project = <a href="https://github.com/Probelp/RIOT">github.com/Probelp/RIOT</a><br />
+project = <a href="https://github.com/RBartz/RIOT">github.com/RBartz/RIOT</a><br />
+project = <a href="https://github.com/RF-Networks/RIOT">github.com/RF-Networks/RIOT</a><br />
+project = <a href="https://github.com/RIOT-OS/RIOT">github.com/RIOT-OS/RIOT</a><br />
+project = <a href="https://github.com/RWTH-OS/RIOT">github.com/RWTH-OS/RIOT</a><br />
+project = <a href="https://github.com/RaphaelBidaud/RIOT">github.com/RaphaelBidaud/RIOT</a><br />
+project = <a href="https://github.com/RasmusAntons/RIOT">github.com/RasmusAntons/RIOT</a><br />
+project = <a href="https://github.com/ReneHerthel/RIOT">github.com/ReneHerthel/RIOT</a><br />
+project = <a href="https://github.com/RichardH92/RIOT">github.com/RichardH92/RIOT</a><br />
+project = <a href="https://github.com/Ritishk12/RIOT">github.com/Ritishk12/RIOT</a><br />
+project = <a href="https://github.com/Rotzbua/RIOT">github.com/Rotzbua/RIOT</a><br />
+project = <a href="https://github.com/RoySCU/RIOT">github.com/RoySCU/RIOT</a><br />
+project = <a href="https://github.com/RubikonAlpha/RIOT">github.com/RubikonAlpha/RIOT</a><br />
+project = <a href="https://github.com/Rufwame/RIOT">github.com/Rufwame/RIOT</a><br />
+project = <a href="https://github.com/RumBlalGalaxy/RIOT">github.com/RumBlalGalaxy/RIOT</a><br />
+project = <a href="https://github.com/SCiMOS/RIOT">github.com/SCiMOS/RIOT</a><br />
+project = <a href="https://github.com/SSV-embedded/RIOT">github.com/SSV-embedded/RIOT</a><br />
+project = <a href="https://github.com/SWIE-IO/RIOT">github.com/SWIE-IO/RIOT</a><br />
+project = <a href="https://github.com/SaiNavyaNelavelli/RIOT">github.com/SaiNavyaNelavelli/RIOT</a><br />
+project = <a href="https://github.com/Salomonic/RIOT">github.com/Salomonic/RIOT</a><br />
+project = <a href="https://github.com/Sarajova/RIOT">github.com/Sarajova/RIOT</a><br />
+project = <a href="https://github.com/SebastianSzymczak/RIOT">github.com/SebastianSzymczak/RIOT</a><br />
+project = <a href="https://github.com/SebastianWilkes/RIOT">github.com/SebastianWilkes/RIOT</a><br />
+project = <a href="https://github.com/SemjonKerner/RIOT">github.com/SemjonKerner/RIOT</a><br />
+project = <a href="https://github.com/Slider043/RIOT">github.com/Slider043/RIOT</a><br />
+project = <a href="https://github.com/SmallSharky/riot-edu">github.com/SmallSharky/riot-edu</a><br />
+project = <a href="https://github.com/Subor-gfraf/RIOT">github.com/Subor-gfraf/RIOT</a><br />
+project = <a href="https://github.com/TaquyeddineZegaoui/RIOT">github.com/TaquyeddineZegaoui/RIOT</a><br />
+project = <a href="https://github.com/ThanhVic/RIOT">github.com/ThanhVic/RIOT</a><br />
+project = <a href="https://github.com/TheSkape/RIOT">github.com/TheSkape/RIOT</a><br />
+project = <a href="https://github.com/TheSwagMan/riot_test">github.com/TheSwagMan/riot_test</a><br />
+project = <a href="https://github.com/TizenTeam/RIOT">github.com/TizenTeam/RIOT</a><br />
+project = <a href="https://github.com/TobiasFredersdorf/RIOT">github.com/TobiasFredersdorf/RIOT</a><br />
+project = <a href="https://github.com/VALaptev/RIOT">github.com/VALaptev/RIOT</a><br />
+project = <a href="https://github.com/ViktorVaczi90/RIOT">github.com/ViktorVaczi90/RIOT</a><br />
+project = <a href="https://github.com/VilleHiltunen/RIOT">github.com/VilleHiltunen/RIOT</a><br />
+project = <a href="https://github.com/Waldgeist84/RIOT">github.com/Waldgeist84/RIOT</a><br />
+project = <a href="https://github.com/aabadie/RIOT">github.com/aabadie/RIOT</a><br />
+project = <a href="https://github.com/abkam07/RIOT">github.com/abkam07/RIOT</a><br />
+project = <a href="https://github.com/abp719/RIOT">github.com/abp719/RIOT</a><br />
+project = <a href="https://github.com/adityaseven/RIOT">github.com/adityaseven/RIOT</a><br />
+project = <a href="https://github.com/alex1818/RIOT">github.com/alex1818/RIOT</a><br />
+project = <a href="https://github.com/alexiss03/riot-os-cs250">github.com/alexiss03/riot-os-cs250</a><br />
+project = <a href="https://github.com/altairpearl/RIOT">github.com/altairpearl/RIOT</a><br />
+project = <a href="https://github.com/andrlee/RIOT">github.com/andrlee/RIOT</a><br />
+project = <a href="https://github.com/anurudh27/RIOT">github.com/anurudh27/RIOT</a><br />
+project = <a href="https://github.com/arvindpdmn/RIOT">github.com/arvindpdmn/RIOT</a><br />
+project = <a href="https://github.com/asdjah/RIOT">github.com/asdjah/RIOT</a><br />
+project = <a href="https://github.com/aspyver/RIOT">github.com/aspyver/RIOT</a><br />
+project = <a href="https://github.com/asquini/RIOT">github.com/asquini/RIOT</a><br />
+project = <a href="https://github.com/attdona/RIOT">github.com/attdona/RIOT</a><br />
+project = <a href="https://github.com/authmillenon/RIOT">github.com/authmillenon/RIOT</a><br />
+project = <a href="https://github.com/automote/RIOT">github.com/automote/RIOT</a><br />
+project = <a href="https://github.com/avmelnikoff/RIOT">github.com/avmelnikoff/RIOT</a><br />
+project = <a href="https://github.com/ayush7gupta/IPv4_Riot">github.com/ayush7gupta/IPv4_Riot</a><br />
+project = <a href="https://github.com/basilfx/RIOT">github.com/basilfx/RIOT</a><br />
+project = <a href="https://github.com/beduino-project/RIOT">github.com/beduino-project/RIOT</a><br />
+project = <a href="https://github.com/beduino-project/RIOT-POLICE">github.com/beduino-project/RIOT-POLICE</a><br />
+project = <a href="https://github.com/benemorius/RIOT">github.com/benemorius/RIOT</a><br />
+project = <a href="https://github.com/benpicco/RIOT">github.com/benpicco/RIOT</a><br />
+project = <a href="https://github.com/berbecche/RIOT">github.com/berbecche/RIOT</a><br />
+project = <a href="https://github.com/bergzand/RIOT">github.com/bergzand/RIOT</a><br />
+project = <a href="https://github.com/beurdouche/RIOT">github.com/beurdouche/RIOT</a><br />
+project = <a href="https://github.com/bhargav2408/RIOT">github.com/bhargav2408/RIOT</a><br />
+project = <a href="https://github.com/biboc/RIOT">github.com/biboc/RIOT</a><br />
+project = <a href="https://github.com/billyzhaoj/RIOT-OS">github.com/billyzhaoj/RIOT-OS</a><br />
+project = <a href="https://github.com/binarylemon/RIOT">github.com/binarylemon/RIOT</a><br />
+project = <a href="https://github.com/bitbucket.org/jcarrano_riot-os">github.com/bitbucket.org/jcarrano_riot-os</a><br />
+project = <a href="https://github.com/bitbucket.org/nbmaiti_riot">github.com/bitbucket.org/nbmaiti_riot</a><br />
+project = <a href="https://github.com/blaisehorvath/RIOT">github.com/blaisehorvath/RIOT</a><br />
+project = <a href="https://github.com/bmd00bmd/KubOS">github.com/bmd00bmd/KubOS</a><br />
+project = <a href="https://github.com/bradzieminski/RIOT-EE250">github.com/bradzieminski/RIOT-EE250</a><br />
+project = <a href="https://github.com/brettswann/RIOT">github.com/brettswann/RIOT</a><br />
+project = <a href="https://github.com/brummer-simon/RIOT">github.com/brummer-simon/RIOT</a><br />
+project = <a href="https://github.com/bumpy-b/RIOT">github.com/bumpy-b/RIOT</a><br />
+project = <a href="https://github.com/bygit/RIOT">github.com/bygit/RIOT</a><br />
+project = <a href="https://github.com/cha63506/RIOT">github.com/cha63506/RIOT</a><br />
+project = <a href="https://github.com/checorone/motoguard-enddevice">github.com/checorone/motoguard-enddevice</a><br />
+project = <a href="https://github.com/clem-bluefruit/RIOT">github.com/clem-bluefruit/RIOT</a><br />
+project = <a href="https://github.com/codeForSaif/RIOT">github.com/codeForSaif/RIOT</a><br />
+project = <a href="https://github.com/crest42/RIOT">github.com/crest42/RIOT</a><br />
+project = <a href="https://github.com/czarsir/RIOT">github.com/czarsir/RIOT</a><br />
+project = <a href="https://github.com/czoksu/RIOT">github.com/czoksu/RIOT</a><br />
+project = <a href="https://github.com/d00616/RIOT">github.com/d00616/RIOT</a><br />
+project = <a href="https://github.com/d12y12/RIOT">github.com/d12y12/RIOT</a><br />
+project = <a href="https://github.com/daemory/RIOT">github.com/daemory/RIOT</a><br />
+project = <a href="https://github.com/dailab/RIOT">github.com/dailab/RIOT</a><br />
+project = <a href="https://github.com/danebennett/RIOT">github.com/danebennett/RIOT</a><br />
+project = <a href="https://github.com/daniel-k/RIOT">github.com/daniel-k/RIOT</a><br />
+project = <a href="https://github.com/daniel-kelley/RIOT">github.com/daniel-kelley/RIOT</a><br />
+project = <a href="https://github.com/danielamkaer/RIOT">github.com/danielamkaer/RIOT</a><br />
+project = <a href="https://github.com/danielinux/RIOT">github.com/danielinux/RIOT</a><br />
+project = <a href="https://github.com/danpetry/RIOT">github.com/danpetry/RIOT</a><br />
+project = <a href="https://github.com/datachi7d/RIOT">github.com/datachi7d/RIOT</a><br />
+project = <a href="https://github.com/davidmr001/RIOT">github.com/davidmr001/RIOT</a><br />
+project = <a href="https://github.com/davidvalarezo/RIOT">github.com/davidvalarezo/RIOT</a><br />
+project = <a href="https://github.com/davidvalarezo/RIOT-1">github.com/davidvalarezo/RIOT-1</a><br />
+project = <a href="https://github.com/dbohn/RIOT">github.com/dbohn/RIOT</a><br />
+project = <a href="https://github.com/dboschm/RIOT-Xtensa-ESP">github.com/dboschm/RIOT-Xtensa-ESP</a><br />
+project = <a href="https://github.com/ddiddlepants/RIOT-EE250">github.com/ddiddlepants/RIOT-EE250</a><br />
+project = <a href="https://github.com/ddreyer/RIOT-OS">github.com/ddreyer/RIOT-OS</a><br />
+project = <a href="https://github.com/ddreyer/RIOT-OS-1">github.com/ddreyer/RIOT-OS-1</a><br />
+project = <a href="https://github.com/ddreyer/RIOT-OS-class">github.com/ddreyer/RIOT-OS-class</a><br />
+project = <a href="https://github.com/ddreyer/openthread">github.com/ddreyer/openthread</a><br />
+project = <a href="https://github.com/decolnz/RIOT">github.com/decolnz/RIOT</a><br />
+project = <a href="https://github.com/deepfryed/RIOT">github.com/deepfryed/RIOT</a><br />
+project = <a href="https://github.com/deniskropp/RIOT">github.com/deniskropp/RIOT</a><br />
+project = <a href="https://github.com/denizs/RIOT">github.com/denizs/RIOT</a><br />
+project = <a href="https://github.com/denizs/riot">github.com/denizs/riot</a><br />
+project = <a href="https://github.com/denykk/RIOT">github.com/denykk/RIOT</a><br />
+project = <a href="https://github.com/derf/RIOT">github.com/derf/RIOT</a><br />
+project = <a href="https://github.com/devantormey/RIOT-EE250">github.com/devantormey/RIOT-EE250</a><br />
+project = <a href="https://github.com/deviance/RIOT">github.com/deviance/RIOT</a><br />
+project = <a href="https://github.com/dhruvvyas90/RIOT">github.com/dhruvvyas90/RIOT</a><br />
+project = <a href="https://github.com/diddyhsv/RIOT">github.com/diddyhsv/RIOT</a><br />
+project = <a href="https://github.com/dkazantzas/RIOT">github.com/dkazantzas/RIOT</a><br />
+project = <a href="https://github.com/dkm/RIOT">github.com/dkm/RIOT</a><br />
+project = <a href="https://github.com/dmdsouza/RIOT">github.com/dmdsouza/RIOT</a><br />
+project = <a href="https://github.com/dmoldova/RIOT-EE250">github.com/dmoldova/RIOT-EE250</a><br />
+project = <a href="https://github.com/docdor/RIOT">github.com/docdor/RIOT</a><br />
+project = <a href="https://github.com/dongdongbh/RIOT">github.com/dongdongbh/RIOT</a><br />
+project = <a href="https://github.com/dongkc/RIOT">github.com/dongkc/RIOT</a><br />
+project = <a href="https://github.com/doniexun/RIOT">github.com/doniexun/RIOT</a><br />
+project = <a href="https://github.com/dorukarda/RIOT">github.com/dorukarda/RIOT</a><br />
+project = <a href="https://github.com/doudoudq/RIOT">github.com/doudoudq/RIOT</a><br />
+project = <a href="https://github.com/drasko/RIOT">github.com/drasko/RIOT</a><br />
+project = <a href="https://github.com/drcef/RIOT">github.com/drcef/RIOT</a><br />
+project = <a href="https://github.com/drmrboy/RIOT">github.com/drmrboy/RIOT</a><br />
+project = <a href="https://github.com/duanlv/RIOT">github.com/duanlv/RIOT</a><br />
+project = <a href="https://github.com/dut3062796s/RIOT-1">github.com/dut3062796s/RIOT-1</a><br />
+project = <a href="https://github.com/duv16/RIOT">github.com/duv16/RIOT</a><br />
+project = <a href="https://github.com/dylad/RIOT">github.com/dylad/RIOT</a><br />
+project = <a href="https://github.com/eacioffi/RIOT-EE250">github.com/eacioffi/RIOT-EE250</a><br />
+project = <a href="https://github.com/ecioffi/RIOT-EE250">github.com/ecioffi/RIOT-EE250</a><br />
+project = <a href="https://github.com/edgarmar2/RIOT-EE250">github.com/edgarmar2/RIOT-EE250</a><br />
+project = <a href="https://github.com/eeinz/RIOT">github.com/eeinz/RIOT</a><br />
+project = <a href="https://github.com/eerokhakala/RIOT">github.com/eerokhakala/RIOT</a><br />
+project = <a href="https://github.com/eggfly/RIOT">github.com/eggfly/RIOT</a><br />
+project = <a href="https://github.com/ehsanamin1990/RIOT">github.com/ehsanamin1990/RIOT</a><br />
+project = <a href="https://github.com/einars/RIOT">github.com/einars/RIOT</a><br />
+project = <a href="https://github.com/eistec/RIOT">github.com/eistec/RIOT</a><br />
+project = <a href="https://github.com/elecfist/RIOT">github.com/elecfist/RIOT</a><br />
+project = <a href="https://github.com/elix22/RIOT">github.com/elix22/RIOT</a><br />
+project = <a href="https://github.com/elvaigh/RIOT">github.com/elvaigh/RIOT</a><br />
+project = <a href="https://github.com/emmanuelsearch/RIOT">github.com/emmanuelsearch/RIOT</a><br />
+project = <a href="https://github.com/emuhedo/RIOT">github.com/emuhedo/RIOT</a><br />
+project = <a href="https://github.com/enzingerm/RIOT">github.com/enzingerm/RIOT</a><br />
+project = <a href="https://github.com/ericyao2013/RIOT">github.com/ericyao2013/RIOT</a><br />
+project = <a href="https://github.com/erlerobot/RIOT">github.com/erlerobot/RIOT</a><br />
+project = <a href="https://github.com/euboss/RIOT">github.com/euboss/RIOT</a><br />
+project = <a href="https://github.com/eugenscobich/RIOT">github.com/eugenscobich/RIOT</a><br />
+project = <a href="https://github.com/fajb/RIOT">github.com/fajb/RIOT</a><br />
+project = <a href="https://github.com/fanghuaqi/RIOT">github.com/fanghuaqi/RIOT</a><br />
+project = <a href="https://github.com/fanxiaohui/RIOT">github.com/fanxiaohui/RIOT</a><br />
+project = <a href="https://github.com/fbsder/RIOT">github.com/fbsder/RIOT</a><br />
+project = <a href="https://github.com/fcgdam/RIOT">github.com/fcgdam/RIOT</a><br />
+project = <a href="https://github.com/fedepell/RIOT">github.com/fedepell/RIOT</a><br />
+project = <a href="https://github.com/fesselk/RIOT">github.com/fesselk/RIOT</a><br />
+project = <a href="https://github.com/fetmos/RIOT">github.com/fetmos/RIOT</a><br />
+project = <a href="https://github.com/fhessel/RIOT">github.com/fhessel/RIOT</a><br />
+project = <a href="https://github.com/fjmolinas/RIOT">github.com/fjmolinas/RIOT</a><br />
+project = <a href="https://github.com/flavius-aetios/RIOT">github.com/flavius-aetios/RIOT</a><br />
+project = <a href="https://github.com/flipreverse/RIOT">github.com/flipreverse/RIOT</a><br />
+project = <a href="https://github.com/florian-jean/RIOT">github.com/florian-jean/RIOT</a><br />
+project = <a href="https://github.com/flyhigh46/RIOT">github.com/flyhigh46/RIOT</a><br />
+project = <a href="https://github.com/fokin91/RIOT">github.com/fokin91/RIOT</a><br />
+project = <a href="https://github.com/fozc/RIOT">github.com/fozc/RIOT</a><br />
+project = <a href="https://github.com/fragomr/RIOT">github.com/fragomr/RIOT</a><br />
+project = <a href="https://github.com/francois-berder-imgtec/RIOT">github.com/francois-berder-imgtec/RIOT</a><br />
+project = <a href="https://github.com/francois-berder/RIOT">github.com/francois-berder/RIOT</a><br />
+project = <a href="https://github.com/frankamente/RIOT">github.com/frankamente/RIOT</a><br />
+project = <a href="https://github.com/freemanZYQ/RIOT">github.com/freemanZYQ/RIOT</a><br />
+project = <a href="https://github.com/fsolanod/RIOT">github.com/fsolanod/RIOT</a><br />
+project = <a href="https://github.com/fu-ilab-swp18/RIOT">github.com/fu-ilab-swp18/RIOT</a><br />
+project = <a href="https://github.com/fu-ilab-swp18/RIOT_pflanzen1">github.com/fu-ilab-swp18/RIOT_pflanzen1</a><br />
+project = <a href="https://github.com/fu-inet-swp17/RIOT">github.com/fu-inet-swp17/RIOT</a><br />
+project = <a href="https://github.com/future-proof-iot/RIOT">github.com/future-proof-iot/RIOT</a><br />
+project = <a href="https://github.com/fvacek/RIOT">github.com/fvacek/RIOT</a><br />
+project = <a href="https://github.com/fzi-forschungszentrum-informatik/RIOT64">github.com/fzi-forschungszentrum-informatik/RIOT64</a><br />
+project = <a href="https://github.com/fzy-Line/RIOT">github.com/fzy-Line/RIOT</a><br />
+project = <a href="https://github.com/gandy555/RIOT">github.com/gandy555/RIOT</a><br />
+project = <a href="https://github.com/gautric/RIOT">github.com/gautric/RIOT</a><br />
+project = <a href="https://github.com/gbarnett/RIOT">github.com/gbarnett/RIOT</a><br />
+project = <a href="https://github.com/gdoffe/RIOT">github.com/gdoffe/RIOT</a><br />
+project = <a href="https://github.com/george-hopkins/RIOT">github.com/george-hopkins/RIOT</a><br />
+project = <a href="https://github.com/geromueller/RIOT">github.com/geromueller/RIOT</a><br />
+project = <a href="https://github.com/gh18/RIOT">github.com/gh18/RIOT</a><br />
+project = <a href="https://github.com/ghavag/RIOT">github.com/ghavag/RIOT</a><br />
+project = <a href="https://github.com/ghice/RIOT">github.com/ghice/RIOT</a><br />
+project = <a href="https://github.com/ginetrix/RIOT">github.com/ginetrix/RIOT</a><br />
+project = <a href="https://github.com/girisugu2/RIOT">github.com/girisugu2/RIOT</a><br />
+project = <a href="https://github.com/girtsf/RIOT">github.com/girtsf/RIOT</a><br />
+project = <a href="https://github.com/gitcreater/RIOT">github.com/gitcreater/RIOT</a><br />
+project = <a href="https://github.com/gitlab.com/Gvanroon_RIOT">github.com/gitlab.com/Gvanroon_RIOT</a><br />
+project = <a href="https://github.com/gitlab.com/Spence_RIOT">github.com/gitlab.com/Spence_RIOT</a><br />
+project = <a href="https://github.com/gitlab.com/anilkumarsoma_RIOT">github.com/gitlab.com/anilkumarsoma_RIOT</a><br />
+project = <a href="https://github.com/gitlab.com/cellu_cc_riot">github.com/gitlab.com/cellu_cc_riot</a><br />
+project = <a href="https://github.com/gitlab.com/frankamente_RIOT">github.com/gitlab.com/frankamente_RIOT</a><br />
+project = <a href="https://github.com/gitlab.com/gspu_RIOT">github.com/gitlab.com/gspu_RIOT</a><br />
+project = <a href="https://github.com/gitlab.com/nicholas_jackson_RIOT">github.com/gitlab.com/nicholas_jackson_RIOT</a><br />
+project = <a href="https://github.com/gitlab.com/openrov_trident/trident-fw-samd">github.com/gitlab.com/openrov_trident/trident-fw-samd</a><br />
+project = <a href="https://github.com/gitlab.com/openrov_trident_trident-fw-samd">github.com/gitlab.com/openrov_trident_trident-fw-samd</a><br />
+project = <a href="https://github.com/gitlab.com/rhr407_RIOT">github.com/gitlab.com/rhr407_RIOT</a><br />
+project = <a href="https://github.com/gitlab.com/scanf_RIOT">github.com/gitlab.com/scanf_RIOT</a><br />
+project = <a href="https://github.com/gitlab.com/theja0473_RIOT">github.com/gitlab.com/theja0473_RIOT</a><br />
+project = <a href="https://github.com/gitlab.com/wsymons_riot">github.com/gitlab.com/wsymons_riot</a><br />
+project = <a href="https://github.com/glloydNAT/RIOT">github.com/glloydNAT/RIOT</a><br />
+project = <a href="https://github.com/gmsotavio/RIOT">github.com/gmsotavio/RIOT</a><br />
+project = <a href="https://github.com/gon1332/RIOT">github.com/gon1332/RIOT</a><br />
+project = <a href="https://github.com/gongfna/RIOT">github.com/gongfna/RIOT</a><br />
+project = <a href="https://github.com/gorbondiga/RIOT">github.com/gorbondiga/RIOT</a><br />
+project = <a href="https://github.com/gosticks/RIOT">github.com/gosticks/RIOT</a><br />
+project = <a href="https://github.com/graznik/RIOT">github.com/graznik/RIOT</a><br />
+project = <a href="https://github.com/groessler/RIOT">github.com/groessler/RIOT</a><br />
+project = <a href="https://github.com/gschorcht/RIOT">github.com/gschorcht/RIOT</a><br />
+project = <a href="https://github.com/gschorcht/RIOT-Xtensa-ESP">github.com/gschorcht/RIOT-Xtensa-ESP</a><br />
+project = <a href="https://github.com/gschorcht/RIOT-Xtensa-ESP8266">github.com/gschorcht/RIOT-Xtensa-ESP8266</a><br />
+project = <a href="https://github.com/gtrpucp/RIOT">github.com/gtrpucp/RIOT</a><br />
+project = <a href="https://github.com/gustavovelascoh/RIOT">github.com/gustavovelascoh/RIOT</a><br />
+project = <a href="https://github.com/gutorevoredo/RIOT">github.com/gutorevoredo/RIOT</a><br />
+project = <a href="https://github.com/guzenkovalexey/RIOT">github.com/guzenkovalexey/RIOT</a><br />
+project = <a href="https://github.com/gvz/RIOT">github.com/gvz/RIOT</a><br />
+project = <a href="https://github.com/h4nt/RIOT">github.com/h4nt/RIOT</a><br />
+project = <a href="https://github.com/habibzadeh/RIOT">github.com/habibzadeh/RIOT</a><br />
+project = <a href="https://github.com/hackerspacesv/RIOT">github.com/hackerspacesv/RIOT</a><br />
+project = <a href="https://github.com/hahchenchen/RIOT">github.com/hahchenchen/RIOT</a><br />
+project = <a href="https://github.com/haithemsekri/RIOT">github.com/haithemsekri/RIOT</a><br />
+project = <a href="https://github.com/hallo-alex/RIOT">github.com/hallo-alex/RIOT</a><br />
+project = <a href="https://github.com/hamilton-mote/RIOT-OS">github.com/hamilton-mote/RIOT-OS</a><br />
+project = <a href="https://github.com/hamilton-mote/RiSyn">github.com/hamilton-mote/RiSyn</a><br />
+project = <a href="https://github.com/haoyangyu/RIOT">github.com/haoyangyu/RIOT</a><br />
+project = <a href="https://github.com/harrisonforch/RIOT-EE250">github.com/harrisonforch/RIOT-EE250</a><br />
+project = <a href="https://github.com/harunoni/RIOT">github.com/harunoni/RIOT</a><br />
+project = <a href="https://github.com/haukepetersen/RIOT">github.com/haukepetersen/RIOT</a><br />
+project = <a href="https://github.com/heavybro/RIOT">github.com/heavybro/RIOT</a><br />
+project = <a href="https://github.com/herrfz/RIOT">github.com/herrfz/RIOT</a><br />
+project = <a href="https://github.com/hhhhhhlc/RIOT">github.com/hhhhhhlc/RIOT</a><br />
+project = <a href="https://github.com/hhy5277/RIOT-1">github.com/hhy5277/RIOT-1</a><br />
+project = <a href="https://github.com/hongkiaong/RIOT">github.com/hongkiaong/RIOT</a><br />
+project = <a href="https://github.com/houmway/RIOT">github.com/houmway/RIOT</a><br />
+project = <a href="https://github.com/hpu07/RIOT">github.com/hpu07/RIOT</a><br />
+project = <a href="https://github.com/huanquan/RIOT">github.com/huanquan/RIOT</a><br />
+project = <a href="https://github.com/huide9/RIOT">github.com/huide9/RIOT</a><br />
+project = <a href="https://github.com/huleg/RIOT">github.com/huleg/RIOT</a><br />
+project = <a href="https://github.com/huypq6/RIOT">github.com/huypq6/RIOT</a><br />
+project = <a href="https://github.com/i-spark/RIOT">github.com/i-spark/RIOT</a><br />
+project = <a href="https://github.com/i53-infrastructure/RIOT">github.com/i53-infrastructure/RIOT</a><br />
+project = <a href="https://github.com/iam-thanwa-io/RIOT">github.com/iam-thanwa-io/RIOT</a><br />
+project = <a href="https://github.com/iambijusnair/RIOT">github.com/iambijusnair/RIOT</a><br />
+project = <a href="https://github.com/ibr-cm/RIOT">github.com/ibr-cm/RIOT</a><br />
+project = <a href="https://github.com/ibriano/RIOT">github.com/ibriano/RIOT</a><br />
+project = <a href="https://github.com/icube-inetlab/RIOT-OS">github.com/icube-inetlab/RIOT-OS</a><br />
+project = <a href="https://github.com/igrik82/RIOT">github.com/igrik82/RIOT</a><br />
+project = <a href="https://github.com/iia/RIOT">github.com/iia/RIOT</a><br />
+project = <a href="https://github.com/ijip/RIOT">github.com/ijip/RIOT</a><br />
+project = <a href="https://github.com/ikshin416/RIOT">github.com/ikshin416/RIOT</a><br />
+project = <a href="https://github.com/ikvm/RIOT-1">github.com/ikvm/RIOT-1</a><br />
+project = <a href="https://github.com/iliessens/RIOT">github.com/iliessens/RIOT</a><br />
+project = <a href="https://github.com/ilya-dubinsky/RIOT">github.com/ilya-dubinsky/RIOT</a><br />
+project = <a href="https://github.com/ilya-epifanov/RIOT">github.com/ilya-epifanov/RIOT</a><br />
+project = <a href="https://github.com/immesys/RIOT">github.com/immesys/RIOT</a><br />
+project = <a href="https://github.com/immesys/RiSyn">github.com/immesys/RiSyn</a><br />
+project = <a href="https://github.com/inetrg/RIOT">github.com/inetrg/RIOT</a><br />
+project = <a href="https://github.com/injxgj/RIOT">github.com/injxgj/RIOT</a><br />
+project = <a href="https://github.com/internet-of-plants/RIOT">github.com/internet-of-plants/RIOT</a><br />
+project = <a href="https://github.com/iocainst/RIOT">github.com/iocainst/RIOT</a><br />
+project = <a href="https://github.com/iot-alex/RIOT">github.com/iot-alex/RIOT</a><br />
+project = <a href="https://github.com/iot-lab/riot-upstream">github.com/iot-lab/riot-upstream</a><br />
+project = <a href="https://github.com/iota-community/BLE-environment-sensor">github.com/iota-community/BLE-environment-sensor</a><br />
+project = <a href="https://github.com/iota-community/thingy52-env-sensor">github.com/iota-community/thingy52-env-sensor</a><br />
+project = <a href="https://github.com/iothon/RIOT">github.com/iothon/RIOT</a><br />
+project = <a href="https://github.com/iotlibrary/RIOT">github.com/iotlibrary/RIOT</a><br />
+project = <a href="https://github.com/iotvietmember/RIOT">github.com/iotvietmember/RIOT</a><br />
+project = <a href="https://github.com/iplon/RIOT">github.com/iplon/RIOT</a><br />
+project = <a href="https://github.com/ironeagle-ir/RIOT">github.com/ironeagle-ir/RIOT</a><br />
+project = <a href="https://github.com/is00hcw/RIOT-1">github.com/is00hcw/RIOT-1</a><br />
+project = <a href="https://github.com/iseitani/RIOT">github.com/iseitani/RIOT</a><br />
+project = <a href="https://github.com/iseitani/RIOT_BR">github.com/iseitani/RIOT_BR</a><br />
+project = <a href="https://github.com/it-gladkiy/RIOT">github.com/it-gladkiy/RIOT</a><br />
+project = <a href="https://github.com/ivanka6342/RIOT">github.com/ivanka6342/RIOT</a><br />
+project = <a href="https://github.com/ivantesker/RIOT">github.com/ivantesker/RIOT</a><br />
+project = <a href="https://github.com/jaeseokan94/RIOT">github.com/jaeseokan94/RIOT</a><br />
+project = <a href="https://github.com/jafffy/RIOT">github.com/jafffy/RIOT</a><br />
+project = <a href="https://github.com/jan-mo/RIOT">github.com/jan-mo/RIOT</a><br />
+project = <a href="https://github.com/janmoehl/RIOT">github.com/janmoehl/RIOT</a><br />
+project = <a href="https://github.com/jarrcan-cl/RIOT">github.com/jarrcan-cl/RIOT</a><br />
+project = <a href="https://github.com/jasonatran/RIOT">github.com/jasonatran/RIOT</a><br />
+project = <a href="https://github.com/jasonatran/iris-riot">github.com/jasonatran/iris-riot</a><br />
+project = <a href="https://github.com/javierfileiv/RIOT">github.com/javierfileiv/RIOT</a><br />
+project = <a href="https://github.com/jbeyerstedt/RIOT">github.com/jbeyerstedt/RIOT</a><br />
+project = <a href="https://github.com/jbeyerstedt/RIOT-OTA-update">github.com/jbeyerstedt/RIOT-OTA-update</a><br />
+project = <a href="https://github.com/jcarrano/RIOT">github.com/jcarrano/RIOT</a><br />
+project = <a href="https://github.com/jdhuanghub/RIOT">github.com/jdhuanghub/RIOT</a><br />
+project = <a href="https://github.com/jelledevleeschouwer/RIOT">github.com/jelledevleeschouwer/RIOT</a><br />
+project = <a href="https://github.com/jessezwd/RIOT">github.com/jessezwd/RIOT</a><br />
+project = <a href="https://github.com/jfbortolotti/RIOT">github.com/jfbortolotti/RIOT</a><br />
+project = <a href="https://github.com/jhollister/RIOT">github.com/jhollister/RIOT</a><br />
+project = <a href="https://github.com/jia200x/RIOT">github.com/jia200x/RIOT</a><br />
+project = <a href="https://github.com/jiababybaby/RIOT">github.com/jiababybaby/RIOT</a><br />
+project = <a href="https://github.com/jiangjie87481/RIOT">github.com/jiangjie87481/RIOT</a><br />
+project = <a href="https://github.com/jigla/RIOT-OS">github.com/jigla/RIOT-OS</a><br />
+project = <a href="https://github.com/jinfenw/RIOT">github.com/jinfenw/RIOT</a><br />
+project = <a href="https://github.com/jingjing54007/RIOT">github.com/jingjing54007/RIOT</a><br />
+project = <a href="https://github.com/jinhongdu/RIOT">github.com/jinhongdu/RIOT</a><br />
+project = <a href="https://github.com/jjelonek/RIOT">github.com/jjelonek/RIOT</a><br />
+project = <a href="https://github.com/jliang1010/RIOT">github.com/jliang1010/RIOT</a><br />
+project = <a href="https://github.com/jmcdon0128/RIOT">github.com/jmcdon0128/RIOT</a><br />
+project = <a href="https://github.com/jmd99/RIOT">github.com/jmd99/RIOT</a><br />
+project = <a href="https://github.com/jongbot/RIOT">github.com/jongbot/RIOT</a><br />
+project = <a href="https://github.com/jongsun5/RIOT">github.com/jongsun5/RIOT</a><br />
+project = <a href="https://github.com/jonkster/RIOT">github.com/jonkster/RIOT</a><br />
+project = <a href="https://github.com/jonkster/RIOT2">github.com/jonkster/RIOT2</a><br />
+project = <a href="https://github.com/joshuabierton/RIOT">github.com/joshuabierton/RIOT</a><br />
+project = <a href="https://github.com/jowlo/RIOT">github.com/jowlo/RIOT</a><br />
+project = <a href="https://github.com/joyshmitz/RIOT">github.com/joyshmitz/RIOT</a><br />
+project = <a href="https://github.com/jpbonn/RIOT">github.com/jpbonn/RIOT</a><br />
+project = <a href="https://github.com/jpbonn/old-riot">github.com/jpbonn/old-riot</a><br />
+project = <a href="https://github.com/jpbonn/riot">github.com/jpbonn/riot</a><br />
+project = <a href="https://github.com/jpnorair/OT-RIOT">github.com/jpnorair/OT-RIOT</a><br />
+project = <a href="https://github.com/jpnorair/RIOT">github.com/jpnorair/RIOT</a><br />
+project = <a href="https://github.com/jremmert-phytec-iot/RIOT">github.com/jremmert-phytec-iot/RIOT</a><br />
+project = <a href="https://github.com/jthacker/RIOT">github.com/jthacker/RIOT</a><br />
+project = <a href="https://github.com/jue89/RIOT">github.com/jue89/RIOT</a><br />
+project = <a href="https://github.com/julien-ioic/RIOT">github.com/julien-ioic/RIOT</a><br />
+project = <a href="https://github.com/justin1571/RIOT-EE250">github.com/justin1571/RIOT-EE250</a><br />
+project = <a href="https://github.com/justinjoy/RIOT">github.com/justinjoy/RIOT</a><br />
+project = <a href="https://github.com/jvsg/RIOT">github.com/jvsg/RIOT</a><br />
+project = <a href="https://github.com/jxnuzhangwen/RIOT">github.com/jxnuzhangwen/RIOT</a><br />
+project = <a href="https://github.com/k6dsp/RIOT">github.com/k6dsp/RIOT</a><br />
+project = <a href="https://github.com/kYc0o/RIOT">github.com/kYc0o/RIOT</a><br />
+project = <a href="https://github.com/kaibeckmann/RIOT">github.com/kaibeckmann/RIOT</a><br />
+project = <a href="https://github.com/kaidokert/RIOT">github.com/kaidokert/RIOT</a><br />
+project = <a href="https://github.com/kaifeichen/RIOT-OS">github.com/kaifeichen/RIOT-OS</a><br />
+project = <a href="https://github.com/kaleb-himes/RIOT">github.com/kaleb-himes/RIOT</a><br />
+project = <a href="https://github.com/kamar4k/RIOT">github.com/kamar4k/RIOT</a><br />
+project = <a href="https://github.com/kamejoko80/RIOT">github.com/kamejoko80/RIOT</a><br />
+project = <a href="https://github.com/kangdazhi/RIOT">github.com/kangdazhi/RIOT</a><br />
+project = <a href="https://github.com/kartben/RIOT">github.com/kartben/RIOT</a><br />
+project = <a href="https://github.com/kaspar030/RIOT">github.com/kaspar030/RIOT</a><br />
+project = <a href="https://github.com/katezilla/RIOT">github.com/katezilla/RIOT</a><br />
+project = <a href="https://github.com/kb2ma/RIOT">github.com/kb2ma/RIOT</a><br />
+project = <a href="https://github.com/kbonset/RIOT">github.com/kbonset/RIOT</a><br />
+project = <a href="https://github.com/kbumsik/RIOT">github.com/kbumsik/RIOT</a><br />
+project = <a href="https://github.com/keestux/RIOT">github.com/keestux/RIOT</a><br />
+project = <a href="https://github.com/kenkuang/RIOT">github.com/kenkuang/RIOT</a><br />
+project = <a href="https://github.com/kennethjiang/RIOT">github.com/kennethjiang/RIOT</a><br />
+project = <a href="https://github.com/kenrabold/RIOT">github.com/kenrabold/RIOT</a><br />
+project = <a href="https://github.com/kerneltask/RIOT">github.com/kerneltask/RIOT</a><br />
+project = <a href="https://github.com/kery-chen/RIOT">github.com/kery-chen/RIOT</a><br />
+project = <a href="https://github.com/kerychen/RIOT">github.com/kerychen/RIOT</a><br />
+project = <a href="https://github.com/kex2017/RIOT">github.com/kex2017/RIOT</a><br />
+project = <a href="https://github.com/khhhh/RIOT">github.com/khhhh/RIOT</a><br />
+project = <a href="https://github.com/khurananish/RIOT">github.com/khurananish/RIOT</a><br />
+project = <a href="https://github.com/kineev/RIOT">github.com/kineev/RIOT</a><br />
+project = <a href="https://github.com/kingfs/RIOT">github.com/kingfs/RIOT</a><br />
+project = <a href="https://github.com/kjh1007/RIOT">github.com/kjh1007/RIOT</a><br />
+project = <a href="https://github.com/konstantinngvk1/RIOT">github.com/konstantinngvk1/RIOT</a><br />
+project = <a href="https://github.com/kontais/RIOT">github.com/kontais/RIOT</a><br />
+project = <a href="https://github.com/kotteeswarane/CanGateway">github.com/kotteeswarane/CanGateway</a><br />
+project = <a href="https://github.com/krishnak9/RIOT">github.com/krishnak9/RIOT</a><br />
+project = <a href="https://github.com/kroesche/RIOT">github.com/kroesche/RIOT</a><br />
+project = <a href="https://github.com/ks156/RIOT">github.com/ks156/RIOT</a><br />
+project = <a href="https://github.com/kubostech/RIOT">github.com/kubostech/RIOT</a><br />
+project = <a href="https://github.com/kugel2/RIOT">github.com/kugel2/RIOT</a><br />
+project = <a href="https://github.com/kumar-jiri6/RIOT">github.com/kumar-jiri6/RIOT</a><br />
+project = <a href="https://github.com/kushalsingh007/RIOT">github.com/kushalsingh007/RIOT</a><br />
+project = <a href="https://github.com/kutama/RIOT">github.com/kutama/RIOT</a><br />
+project = <a href="https://github.com/kvbryukhanov/RIOT">github.com/kvbryukhanov/RIOT</a><br />
+project = <a href="https://github.com/kwahome/RIOT">github.com/kwahome/RIOT</a><br />
+project = <a href="https://github.com/kyrofa/RIOT">github.com/kyrofa/RIOT</a><br />
+project = <a href="https://github.com/l3nko/RIOT">github.com/l3nko/RIOT</a><br />
+project = <a href="https://github.com/lafka/RIOT">github.com/lafka/RIOT</a><br />
+project = <a href="https://github.com/lalrae/RIOT">github.com/lalrae/RIOT</a><br />
+project = <a href="https://github.com/laparmakerli/riot-upstream">github.com/laparmakerli/riot-upstream</a><br />
+project = <a href="https://github.com/latsku/RIOT">github.com/latsku/RIOT</a><br />
+project = <a href="https://github.com/lazytech-org/RIOT">github.com/lazytech-org/RIOT</a><br />
+project = <a href="https://github.com/ldesiqueira/RIOT">github.com/ldesiqueira/RIOT</a><br />
+project = <a href="https://github.com/le7amdon/RIOT">github.com/le7amdon/RIOT</a><br />
+project = <a href="https://github.com/leandrolanzieri/RIOT">github.com/leandrolanzieri/RIOT</a><br />
+project = <a href="https://github.com/lebrush/RIOT">github.com/lebrush/RIOT</a><br />
+project = <a href="https://github.com/leeminghao/RIOT">github.com/leeminghao/RIOT</a><br />
+project = <a href="https://github.com/legendary-bro/RIOT">github.com/legendary-bro/RIOT</a><br />
+project = <a href="https://github.com/lidong1266/RIOT">github.com/lidong1266/RIOT</a><br />
+project = <a href="https://github.com/liguojiang/RIOT">github.com/liguojiang/RIOT</a><br />
+project = <a href="https://github.com/lincvv/RIOT">github.com/lincvv/RIOT</a><br />
+project = <a href="https://github.com/lineCode/RIOT-1">github.com/lineCode/RIOT-1</a><br />
+project = <a href="https://github.com/linearregression/RIOT">github.com/linearregression/RIOT</a><br />
+project = <a href="https://github.com/linpingchuan/RIOT">github.com/linpingchuan/RIOT</a><br />
+project = <a href="https://github.com/linux-wpan/RIOT">github.com/linux-wpan/RIOT</a><br />
+project = <a href="https://github.com/liujiandu/RIOT">github.com/liujiandu/RIOT</a><br />
+project = <a href="https://github.com/liwangqian/RIOT">github.com/liwangqian/RIOT</a><br />
+project = <a href="https://github.com/ljs9643/RIOT">github.com/ljs9643/RIOT</a><br />
+project = <a href="https://github.com/llueder/RIOT">github.com/llueder/RIOT</a><br />
+project = <a href="https://github.com/lluminita/RIOT">github.com/lluminita/RIOT</a><br />
+project = <a href="https://github.com/lmhtz/RIOT">github.com/lmhtz/RIOT</a><br />
+project = <a href="https://github.com/locosoft1986/RIOT">github.com/locosoft1986/RIOT</a><br />
+project = <a href="https://github.com/logself1988/RIOT">github.com/logself1988/RIOT</a><br />
+project = <a href="https://github.com/lorenz9314/RIOT">github.com/lorenz9314/RIOT</a><br />
+project = <a href="https://github.com/louisyoo/RIOT">github.com/louisyoo/RIOT</a><br />
+project = <a href="https://github.com/lovelesh/RIOT">github.com/lovelesh/RIOT</a><br />
+project = <a href="https://github.com/lpaulic/RIOT">github.com/lpaulic/RIOT</a><br />
+project = <a href="https://github.com/lsaos/RIOT">github.com/lsaos/RIOT</a><br />
+project = <a href="https://github.com/luciotorre/RIOT">github.com/luciotorre/RIOT</a><br />
+project = <a href="https://github.com/luisseo01/RIOT">github.com/luisseo01/RIOT</a><br />
+project = <a href="https://github.com/lupamedeiros/RIOT">github.com/lupamedeiros/RIOT</a><br />
+project = <a href="https://github.com/lvjh/RIOT">github.com/lvjh/RIOT</a><br />
+project = <a href="https://github.com/lxsang/RIOT">github.com/lxsang/RIOT</a><br />
+project = <a href="https://github.com/lyashley/RIOT-EE250">github.com/lyashley/RIOT-EE250</a><br />
+project = <a href="https://github.com/lzbgt/RIOT">github.com/lzbgt/RIOT</a><br />
+project = <a href="https://github.com/lzj85/RIOT">github.com/lzj85/RIOT</a><br />
+project = <a href="https://github.com/m21400/RIOT">github.com/m21400/RIOT</a><br />
+project = <a href="https://github.com/m2mbr/RIOT">github.com/m2mbr/RIOT</a><br />
+project = <a href="https://github.com/madokapeng/RIOT">github.com/madokapeng/RIOT</a><br />
+project = <a href="https://github.com/maghis/RIOT">github.com/maghis/RIOT</a><br />
+project = <a href="https://github.com/mahermastouri/RIOT">github.com/mahermastouri/RIOT</a><br />
+project = <a href="https://github.com/maitysubhasis/RIOT_OS">github.com/maitysubhasis/RIOT_OS</a><br />
+project = <a href="https://github.com/makyo-dev/RIOT-1">github.com/makyo-dev/RIOT-1</a><br />
+project = <a href="https://github.com/mali/RIOT">github.com/mali/RIOT</a><br />
+project = <a href="https://github.com/malosek/RIOT">github.com/malosek/RIOT</a><br />
+project = <a href="https://github.com/manamhr/RIOT-EE250">github.com/manamhr/RIOT-EE250</a><br />
+project = <a href="https://github.com/maribu/RIOT">github.com/maribu/RIOT</a><br />
+project = <a href="https://github.com/marshall/RIOT">github.com/marshall/RIOT</a><br />
+project = <a href="https://github.com/martinheusmann/RIOT">github.com/martinheusmann/RIOT</a><br />
+project = <a href="https://github.com/massad77/RIOT">github.com/massad77/RIOT</a><br />
+project = <a href="https://github.com/mathirkub/RIOT">github.com/mathirkub/RIOT</a><br />
+project = <a href="https://github.com/mattiantonini/RIOT">github.com/mattiantonini/RIOT</a><br />
+project = <a href="https://github.com/maxvankessel/RIOT">github.com/maxvankessel/RIOT</a><br />
+project = <a href="https://github.com/mbrukman/RIOT">github.com/mbrukman/RIOT</a><br />
+project = <a href="https://github.com/mbutkereit/RIOT">github.com/mbutkereit/RIOT</a><br />
+project = <a href="https://github.com/mdodkins/RIOT">github.com/mdodkins/RIOT</a><br />
+project = <a href="https://github.com/mehrdaad/RIOT">github.com/mehrdaad/RIOT</a><br />
+project = <a href="https://github.com/mehulrijawani/RIOT">github.com/mehulrijawani/RIOT</a><br />
+project = <a href="https://github.com/mejm/RIOT">github.com/mejm/RIOT</a><br />
+project = <a href="https://github.com/melfork/RIOT">github.com/melfork/RIOT</a><br />
+project = <a href="https://github.com/melshuber/RIOT">github.com/melshuber/RIOT</a><br />
+project = <a href="https://github.com/mfkiwl/RIOT">github.com/mfkiwl/RIOT</a><br />
+project = <a href="https://github.com/mfrey/RIOT">github.com/mfrey/RIOT</a><br />
+project = <a href="https://github.com/michaelgianpowski/RIOT">github.com/michaelgianpowski/RIOT</a><br />
+project = <a href="https://github.com/michz/RIOT">github.com/michz/RIOT</a><br />
+project = <a href="https://github.com/mike168m/RIOT">github.com/mike168m/RIOT</a><br />
+project = <a href="https://github.com/ming-hai/RIOT">github.com/ming-hai/RIOT</a><br />
+project = <a href="https://github.com/minkione/RIOT">github.com/minkione/RIOT</a><br />
+project = <a href="https://github.com/miri64/RIOT">github.com/miri64/RIOT</a><br />
+project = <a href="https://github.com/mishlasfeng/RIOT">github.com/mishlasfeng/RIOT</a><br />
+project = <a href="https://github.com/mkcourse/RIOT">github.com/mkcourse/RIOT</a><br />
+project = <a href="https://github.com/mmkonrad/RIOT">github.com/mmkonrad/RIOT</a><br />
+project = <a href="https://github.com/moenoel/RIOT">github.com/moenoel/RIOT</a><br />
+project = <a href="https://github.com/mojiuyu/RIOT-1">github.com/mojiuyu/RIOT-1</a><br />
+project = <a href="https://github.com/moneytech/RIOT">github.com/moneytech/RIOT</a><br />
+project = <a href="https://github.com/monoclecat/RIOT">github.com/monoclecat/RIOT</a><br />
+project = <a href="https://github.com/moyansen/RIOT">github.com/moyansen/RIOT</a><br />
+project = <a href="https://github.com/mrazek-deakin/RIOT">github.com/mrazek-deakin/RIOT</a><br />
+project = <a href="https://github.com/mredekopp/RIOT-EE250">github.com/mredekopp/RIOT-EE250</a><br />
+project = <a href="https://github.com/mrnguyen211190/RIOT">github.com/mrnguyen211190/RIOT</a><br />
+project = <a href="https://github.com/msakil/RIOT">github.com/msakil/RIOT</a><br />
+project = <a href="https://github.com/msliusarev/RIOT">github.com/msliusarev/RIOT</a><br />
+project = <a href="https://github.com/msolters/RIOT">github.com/msolters/RIOT</a><br />
+project = <a href="https://github.com/mstn-09/RIOT">github.com/mstn-09/RIOT</a><br />
+project = <a href="https://github.com/mtausig/RIOT">github.com/mtausig/RIOT</a><br />
+project = <a href="https://github.com/mufeedpatel/RIOT">github.com/mufeedpatel/RIOT</a><br />
+project = <a href="https://github.com/muharam1991/RIOT">github.com/muharam1991/RIOT</a><br />
+project = <a href="https://github.com/mullerhx/RIOT">github.com/mullerhx/RIOT</a><br />
+project = <a href="https://github.com/mullife/RIOT">github.com/mullife/RIOT</a><br />
+project = <a href="https://github.com/murdock-ci/RIOT">github.com/murdock-ci/RIOT</a><br />
+project = <a href="https://github.com/mxbrt/RIOT">github.com/mxbrt/RIOT</a><br />
+project = <a href="https://github.com/mziegert/RIOT">github.com/mziegert/RIOT</a><br />
+project = <a href="https://github.com/n16h7br33z3/RIOT">github.com/n16h7br33z3/RIOT</a><br />
+project = <a href="https://github.com/naaonethree/RIOT-EE250">github.com/naaonethree/RIOT-EE250</a><br />
+project = <a href="https://github.com/nailanawshaba/RIOT">github.com/nailanawshaba/RIOT</a><br />
+project = <a href="https://github.com/named-data-iot/RIOT">github.com/named-data-iot/RIOT</a><br />
+project = <a href="https://github.com/namezis/RIOT">github.com/namezis/RIOT</a><br />
+project = <a href="https://github.com/nanodrone/RIOT">github.com/nanodrone/RIOT</a><br />
+project = <a href="https://github.com/nashokkumar/RIOT">github.com/nashokkumar/RIOT</a><br />
+project = <a href="https://github.com/navneetnivu07/RIOT">github.com/navneetnivu07/RIOT</a><br />
+project = <a href="https://github.com/nawL1dg3/RIOT">github.com/nawL1dg3/RIOT</a><br />
+project = <a href="https://github.com/nealjack/RIOT-OS">github.com/nealjack/RIOT-OS</a><br />
+project = <a href="https://github.com/neiljay/RIOT">github.com/neiljay/RIOT</a><br />
+project = <a href="https://github.com/neo-existenz/RIOT">github.com/neo-existenz/RIOT</a><br />
+project = <a href="https://github.com/netdebug/RIOT">github.com/netdebug/RIOT</a><br />
+project = <a href="https://github.com/netroby/RIOT">github.com/netroby/RIOT</a><br />
+project = <a href="https://github.com/netscream/RIOT">github.com/netscream/RIOT</a><br />
+project = <a href="https://github.com/ngatilio/RIOT">github.com/ngatilio/RIOT</a><br />
+project = <a href="https://github.com/nghiaducnt/LearningRIOT">github.com/nghiaducnt/LearningRIOT</a><br />
+project = <a href="https://github.com/nguyenduclam/RIOT">github.com/nguyenduclam/RIOT</a><br />
+project = <a href="https://github.com/ngwong/RIOT-EE250">github.com/ngwong/RIOT-EE250</a><br />
+project = <a href="https://github.com/nicholas-c-jackson/RIOT">github.com/nicholas-c-jackson/RIOT</a><br />
+project = <a href="https://github.com/niziak/RIOT">github.com/niziak/RIOT</a><br />
+project = <a href="https://github.com/njprogramming/RIOT">github.com/njprogramming/RIOT</a><br />
+project = <a href="https://github.com/nkristek/RIOT">github.com/nkristek/RIOT</a><br />
+project = <a href="https://github.com/nlebang/RIOT">github.com/nlebang/RIOT</a><br />
+project = <a href="https://github.com/nlinktech/RIOT">github.com/nlinktech/RIOT</a><br />
+project = <a href="https://github.com/nmehlman/RIOT-EE250">github.com/nmehlman/RIOT-EE250</a><br />
+project = <a href="https://github.com/nmeum/RIOT">github.com/nmeum/RIOT</a><br />
+project = <a href="https://github.com/nolitimere/KubOS">github.com/nolitimere/KubOS</a><br />
+project = <a href="https://github.com/nqd/RIOT">github.com/nqd/RIOT</a><br />
+project = <a href="https://github.com/nsaspook/RIOT">github.com/nsaspook/RIOT</a><br />
+project = <a href="https://github.com/ntrtrung/RIOT">github.com/ntrtrung/RIOT</a><br />
+project = <a href="https://github.com/nvv13/RIOT">github.com/nvv13/RIOT</a><br />
+project = <a href="https://github.com/nyrahul/RIOT">github.com/nyrahul/RIOT</a><br />
+project = <a href="https://github.com/o0osorentoo0o/RIOT">github.com/o0osorentoo0o/RIOT</a><br />
+project = <a href="https://github.com/obgm/RIOT">github.com/obgm/RIOT</a><br />
+project = <a href="https://github.com/ochristi/RIOT">github.com/ochristi/RIOT</a><br />
+project = <a href="https://github.com/ofauchon/RIOT">github.com/ofauchon/RIOT</a><br />
+project = <a href="https://github.com/offchooffcho/RIOT">github.com/offchooffcho/RIOT</a><br />
+project = <a href="https://github.com/oh3eqn/RIOT">github.com/oh3eqn/RIOT</a><br />
+project = <a href="https://github.com/olegart/RIOT">github.com/olegart/RIOT</a><br />
+project = <a href="https://github.com/onesmash/RIOT">github.com/onesmash/RIOT</a><br />
+project = <a href="https://github.com/openkosmosorg/RIOT">github.com/openkosmosorg/RIOT</a><br />
+project = <a href="https://github.com/openwarelab/RIOT">github.com/openwarelab/RIOT</a><br />
+project = <a href="https://github.com/orchisan/RIOT">github.com/orchisan/RIOT</a><br />
+project = <a href="https://github.com/orf53975/RIOT">github.com/orf53975/RIOT</a><br />
+project = <a href="https://github.com/ott-kiwi/RIOT">github.com/ott-kiwi/RIOT</a><br />
+project = <a href="https://github.com/pacheco017/RIOT">github.com/pacheco017/RIOT</a><br />
+project = <a href="https://github.com/palaniyappanBala/RIOT">github.com/palaniyappanBala/RIOT</a><br />
+project = <a href="https://github.com/panail/RIOT">github.com/panail/RIOT</a><br />
+project = <a href="https://github.com/panshengpeng/RIOT">github.com/panshengpeng/RIOT</a><br />
+project = <a href="https://github.com/patgrosse/RIOT">github.com/patgrosse/RIOT</a><br />
+project = <a href="https://github.com/paula75/RIOT">github.com/paula75/RIOT</a><br />
+project = <a href="https://github.com/pavelgr/RIOT">github.com/pavelgr/RIOT</a><br />
+project = <a href="https://github.com/pavlyhabashy/RIOT-EE250">github.com/pavlyhabashy/RIOT-EE250</a><br />
+project = <a href="https://github.com/pdNor/RIOT">github.com/pdNor/RIOT</a><br />
+project = <a href="https://github.com/pekkanikander/RIOT">github.com/pekkanikander/RIOT</a><br />
+project = <a href="https://github.com/pengshulin/RIOT">github.com/pengshulin/RIOT</a><br />
+project = <a href="https://github.com/peterson79/RIOT">github.com/peterson79/RIOT</a><br />
+project = <a href="https://github.com/pevasquez/RIOT">github.com/pevasquez/RIOT</a><br />
+project = <a href="https://github.com/phectori/RIOT">github.com/phectori/RIOT</a><br />
+project = <a href="https://github.com/phiros/RIOT">github.com/phiros/RIOT</a><br />
+project = <a href="https://github.com/photonthunder/RIOT">github.com/photonthunder/RIOT</a><br />
+project = <a href="https://github.com/phphy/RIOT">github.com/phphy/RIOT</a><br />
+project = <a href="https://github.com/phuonglab/RIOT">github.com/phuonglab/RIOT</a><br />
+project = <a href="https://github.com/phuongtg/RIOT">github.com/phuongtg/RIOT</a><br />
+project = <a href="https://github.com/pi-kxw/RIOT">github.com/pi-kxw/RIOT</a><br />
+project = <a href="https://github.com/pigeorge/RIOT">github.com/pigeorge/RIOT</a><br />
+project = <a href="https://github.com/pipex/RIOT">github.com/pipex/RIOT</a><br />
+project = <a href="https://github.com/piyushpandey013/RIOT">github.com/piyushpandey013/RIOT</a><br />
+project = <a href="https://github.com/pjhernandez18/RIOT-EE250">github.com/pjhernandez18/RIOT-EE250</a><br />
+project = <a href="https://github.com/pmlk/RIOT">github.com/pmlk/RIOT</a><br />
+project = <a href="https://github.com/pnunes30/RIOT">github.com/pnunes30/RIOT</a><br />
+project = <a href="https://github.com/pokgak/RIOT">github.com/pokgak/RIOT</a><br />
+project = <a href="https://github.com/pombredanne/RIOT">github.com/pombredanne/RIOT</a><br />
+project = <a href="https://github.com/poppe34/RIOT">github.com/poppe34/RIOT</a><br />
+project = <a href="https://github.com/popwolf/RIOT">github.com/popwolf/RIOT</a><br />
+project = <a href="https://github.com/ppannuto/RIOT">github.com/ppannuto/RIOT</a><br />
+project = <a href="https://github.com/prashanthhn/RIOT">github.com/prashanthhn/RIOT</a><br />
+project = <a href="https://github.com/praveenmunagapati/RIOT-2">github.com/praveenmunagapati/RIOT-2</a><br />
+project = <a href="https://github.com/praveenpenumaka/RIOT">github.com/praveenpenumaka/RIOT</a><br />
+project = <a href="https://github.com/psiemek/RIOT">github.com/psiemek/RIOT</a><br />
+project = <a href="https://github.com/pst12/RIOT">github.com/pst12/RIOT</a><br />
+project = <a href="https://github.com/psymonj/RIOT">github.com/psymonj/RIOT</a><br />
+project = <a href="https://github.com/ptz1986/RIOT">github.com/ptz1986/RIOT</a><br />
+project = <a href="https://github.com/punchcard60/KubOS">github.com/punchcard60/KubOS</a><br />
+project = <a href="https://github.com/pvikberg/RIOT">github.com/pvikberg/RIOT</a><br />
+project = <a href="https://github.com/pvikberg/RIOT_oma1">github.com/pvikberg/RIOT_oma1</a><br />
+project = <a href="https://github.com/pvsarath/RIOT">github.com/pvsarath/RIOT</a><br />
+project = <a href="https://github.com/pvyleta/RIOT">github.com/pvyleta/RIOT</a><br />
+project = <a href="https://github.com/pwillem/RIOT">github.com/pwillem/RIOT</a><br />
+project = <a href="https://github.com/pyjhhh/RIOT">github.com/pyjhhh/RIOT</a><br />
+project = <a href="https://github.com/qgyhd1234/RIOT">github.com/qgyhd1234/RIOT</a><br />
+project = <a href="https://github.com/qiaoqidui/RIOT">github.com/qiaoqidui/RIOT</a><br />
+project = <a href="https://github.com/rabinsahoo/RIOT">github.com/rabinsahoo/RIOT</a><br />
+project = <a href="https://github.com/radhios/RIOT">github.com/radhios/RIOT</a><br />
+project = <a href="https://github.com/ragulhackz125/RIOT">github.com/ragulhackz125/RIOT</a><br />
+project = <a href="https://github.com/rajma996/RIOT">github.com/rajma996/RIOT</a><br />
+project = <a href="https://github.com/rakendrathapa/RIOT">github.com/rakendrathapa/RIOT</a><br />
+project = <a href="https://github.com/rammohan2b/RIOT">github.com/rammohan2b/RIOT</a><br />
+project = <a href="https://github.com/ranbe1/RIOT">github.com/ranbe1/RIOT</a><br />
+project = <a href="https://github.com/ranjit27/RIOT">github.com/ranjit27/RIOT</a><br />
+project = <a href="https://github.com/redrabbit5/RIOT">github.com/redrabbit5/RIOT</a><br />
+project = <a href="https://github.com/redwinner/RIOT">github.com/redwinner/RIOT</a><br />
+project = <a href="https://github.com/refaqtor/RIOT">github.com/refaqtor/RIOT</a><br />
+project = <a href="https://github.com/renzoe/RIOT">github.com/renzoe/RIOT</a><br />
+project = <a href="https://github.com/rfuentess/RIOT">github.com/rfuentess/RIOT</a><br />
+project = <a href="https://github.com/rhabu01/RIOT">github.com/rhabu01/RIOT</a><br />
+project = <a href="https://github.com/rhr407/RIOT">github.com/rhr407/RIOT</a><br />
+project = <a href="https://github.com/richartk/RIOT">github.com/richartk/RIOT</a><br />
+project = <a href="https://github.com/rienafairefr/RIOT">github.com/rienafairefr/RIOT</a><br />
+project = <a href="https://github.com/riot-appstore/RIOT">github.com/riot-appstore/RIOT</a><br />
+project = <a href="https://github.com/riot-appstore/RIOT-IoThon">github.com/riot-appstore/RIOT-IoThon</a><br />
+project = <a href="https://github.com/riot-ci/RIOT">github.com/riot-ci/RIOT</a><br />
+project = <a href="https://github.com/riot-study/RIOT">github.com/riot-study/RIOT</a><br />
+project = <a href="https://github.com/rivasiv/RIOT">github.com/rivasiv/RIOT</a><br />
+project = <a href="https://github.com/rjmcguire/RIOT">github.com/rjmcguire/RIOT</a><br />
+project = <a href="https://github.com/rl1987/RIOT">github.com/rl1987/RIOT</a><br />
+project = <a href="https://github.com/robbie-cao/RIOT">github.com/robbie-cao/RIOT</a><br />
+project = <a href="https://github.com/robbie-cao/riot-stm32">github.com/robbie-cao/riot-stm32</a><br />
+project = <a href="https://github.com/robby14/RIOT">github.com/robby14/RIOT</a><br />
+project = <a href="https://github.com/roberthartung/RIOT">github.com/roberthartung/RIOT</a><br />
+project = <a href="https://github.com/robertsipka/RIOT">github.com/robertsipka/RIOT</a><br />
+project = <a href="https://github.com/robixnai/RIOT">github.com/robixnai/RIOT</a><br />
+project = <a href="https://github.com/rolandi71/RIOT">github.com/rolandi71/RIOT</a><br />
+project = <a href="https://github.com/roubra/RIOT">github.com/roubra/RIOT</a><br />
+project = <a href="https://github.com/rousselk/RIOT">github.com/rousselk/RIOT</a><br />
+project = <a href="https://github.com/rowhit/RIOT">github.com/rowhit/RIOT</a><br />
+project = <a href="https://github.com/rrzatkie/RIOT">github.com/rrzatkie/RIOT</a><br />
+project = <a href="https://github.com/rrzatkie/RIOT_COPY">github.com/rrzatkie/RIOT_COPY</a><br />
+project = <a href="https://github.com/rst256/RIOT">github.com/rst256/RIOT</a><br />
+project = <a href="https://github.com/ruhex/RIOT">github.com/ruhex/RIOT</a><br />
+project = <a href="https://github.com/rxwb/RIOT">github.com/rxwb/RIOT</a><br />
+project = <a href="https://github.com/ryankurte/riot-os">github.com/ryankurte/riot-os</a><br />
+project = <a href="https://github.com/ryanlelek/KubOS">github.com/ryanlelek/KubOS</a><br />
+project = <a href="https://github.com/salmovs/RIOT">github.com/salmovs/RIOT</a><br />
+project = <a href="https://github.com/sam-kumar/RIOT-OS">github.com/sam-kumar/RIOT-OS</a><br />
+project = <a href="https://github.com/samiralavi/RIOT">github.com/samiralavi/RIOT</a><br />
+project = <a href="https://github.com/samkumar99/RIOT-OS">github.com/samkumar99/RIOT-OS</a><br />
+project = <a href="https://github.com/samkumar/RIOT-OS">github.com/samkumar/RIOT-OS</a><br />
+project = <a href="https://github.com/samr90/RIOT">github.com/samr90/RIOT</a><br />
+project = <a href="https://github.com/sanmingshen/RIOT">github.com/sanmingshen/RIOT</a><br />
+project = <a href="https://github.com/sarathsanthoss/RIOT">github.com/sarathsanthoss/RIOT</a><br />
+project = <a href="https://github.com/sasalaza/RIOT-EE250">github.com/sasalaza/RIOT-EE250</a><br />
+project = <a href="https://github.com/sashaindrish/RIOT">github.com/sashaindrish/RIOT</a><br />
+project = <a href="https://github.com/schoradt/RIOT">github.com/schoradt/RIOT</a><br />
+project = <a href="https://github.com/sdsxpln/RIOT">github.com/sdsxpln/RIOT</a><br />
+project = <a href="https://github.com/sdttmyw/RIOT">github.com/sdttmyw/RIOT</a><br />
+project = <a href="https://github.com/seank-img/RIOT">github.com/seank-img/RIOT</a><br />
+project = <a href="https://github.com/sebastiankliem/RIOT">github.com/sebastiankliem/RIOT</a><br />
+project = <a href="https://github.com/serabiasin/RIOT">github.com/serabiasin/RIOT</a><br />
+project = <a href="https://github.com/seryi2035/RIOT">github.com/seryi2035/RIOT</a><br />
+project = <a href="https://github.com/setevod/RIOT">github.com/setevod/RIOT</a><br />
+project = <a href="https://github.com/seysn/RIOT">github.com/seysn/RIOT</a><br />
+project = <a href="https://github.com/sgso/RIOT">github.com/sgso/RIOT</a><br />
+project = <a href="https://github.com/shein318/RIOT">github.com/shein318/RIOT</a><br />
+project = <a href="https://github.com/shenfahsu/RIOT">github.com/shenfahsu/RIOT</a><br />
+project = <a href="https://github.com/shpuravasiliy/RIOT">github.com/shpuravasiliy/RIOT</a><br />
+project = <a href="https://github.com/siddh-test-4/RIOT">github.com/siddh-test-4/RIOT</a><br />
+project = <a href="https://github.com/siddharthgpta/RIOT">github.com/siddharthgpta/RIOT</a><br />
+project = <a href="https://github.com/simonsta/RIOT">github.com/simonsta/RIOT</a><br />
+project = <a href="https://github.com/sklli/RIOT">github.com/sklli/RIOT</a><br />
+project = <a href="https://github.com/sknsean/RIOT">github.com/sknsean/RIOT</a><br />
+project = <a href="https://github.com/skullbox305/RIOT">github.com/skullbox305/RIOT</a><br />
+project = <a href="https://github.com/skyformat99/RIOT">github.com/skyformat99/RIOT</a><br />
+project = <a href="https://github.com/skyformat99/RIOT-2">github.com/skyformat99/RIOT-2</a><br />
+project = <a href="https://github.com/slhsxcmy/RIOT">github.com/slhsxcmy/RIOT</a><br />
+project = <a href="https://github.com/smartuni/RIOT">github.com/smartuni/RIOT</a><br />
+project = <a href="https://github.com/smcd253/RIOT-EE250">github.com/smcd253/RIOT-EE250</a><br />
+project = <a href="https://github.com/smcd253/RIOT-EE250-1">github.com/smcd253/RIOT-EE250-1</a><br />
+project = <a href="https://github.com/smehner1/RIOT">github.com/smehner1/RIOT</a><br />
+project = <a href="https://github.com/smlng/RIOT">github.com/smlng/RIOT</a><br />
+project = <a href="https://github.com/smou/RIOT">github.com/smou/RIOT</a><br />
+project = <a href="https://github.com/snej/RIOT">github.com/snej/RIOT</a><br />
+project = <a href="https://github.com/sp-axio/RIOT">github.com/sp-axio/RIOT</a><br />
+project = <a href="https://github.com/spiridon1/RIOT">github.com/spiridon1/RIOT</a><br />
+project = <a href="https://github.com/spirit745/RIOT">github.com/spirit745/RIOT</a><br />
+project = <a href="https://github.com/starblue/RIOT">github.com/starblue/RIOT</a><br />
+project = <a href="https://github.com/stepos01/RIOT">github.com/stepos01/RIOT</a><br />
+project = <a href="https://github.com/stevenj/RIOT">github.com/stevenj/RIOT</a><br />
+project = <a href="https://github.com/sugangli/RIOT">github.com/sugangli/RIOT</a><br />
+project = <a href="https://github.com/sumanpanchal/RIOT">github.com/sumanpanchal/RIOT</a><br />
+project = <a href="https://github.com/sunghopark1/RIOT">github.com/sunghopark1/RIOT</a><br />
+project = <a href="https://github.com/superjudge/RIOT">github.com/superjudge/RIOT</a><br />
+project = <a href="https://github.com/suruz/RIOT">github.com/suruz/RIOT</a><br />
+project = <a href="https://github.com/syin2/riot-iotivity">github.com/syin2/riot-iotivity</a><br />
+project = <a href="https://github.com/tabc123/RIOT">github.com/tabc123/RIOT</a><br />
+project = <a href="https://github.com/tadryanom/RIOT">github.com/tadryanom/RIOT</a><br />
+project = <a href="https://github.com/taherrera/riot">github.com/taherrera/riot</a><br />
+project = <a href="https://github.com/tamasseller/RIOT">github.com/tamasseller/RIOT</a><br />
+project = <a href="https://github.com/tammyrobinson03/RIOT">github.com/tammyrobinson03/RIOT</a><br />
+project = <a href="https://github.com/tanupoo/RIOT">github.com/tanupoo/RIOT</a><br />
+project = <a href="https://github.com/tatyanavolkova/RIOT">github.com/tatyanavolkova/RIOT</a><br />
+project = <a href="https://github.com/tgo-s/RIOT">github.com/tgo-s/RIOT</a><br />
+project = <a href="https://github.com/theafricanengineer/RIOT">github.com/theafricanengineer/RIOT</a><br />
+project = <a href="https://github.com/theja0473/RIOT">github.com/theja0473/RIOT</a><br />
+project = <a href="https://github.com/therapier/RIOT">github.com/therapier/RIOT</a><br />
+project = <a href="https://github.com/therealmonE/RIOT">github.com/therealmonE/RIOT</a><br />
+project = <a href="https://github.com/thiagohd/RIOT">github.com/thiagohd/RIOT</a><br />
+project = <a href="https://github.com/thomaseichinger/RIOT">github.com/thomaseichinger/RIOT</a><br />
+project = <a href="https://github.com/to1st9chok/RIOT">github.com/to1st9chok/RIOT</a><br />
+project = <a href="https://github.com/tobbad/RIOT">github.com/tobbad/RIOT</a><br />
+project = <a href="https://github.com/tobhe/RIOT">github.com/tobhe/RIOT</a><br />
+project = <a href="https://github.com/tomyqg/RIOT">github.com/tomyqg/RIOT</a><br />
+project = <a href="https://github.com/tongpi/RIOT">github.com/tongpi/RIOT</a><br />
+project = <a href="https://github.com/toonst/RIOT">github.com/toonst/RIOT</a><br />
+project = <a href="https://github.com/tovanhieu/RIOT">github.com/tovanhieu/RIOT</a><br />
+project = <a href="https://github.com/tovax/RIOT">github.com/tovax/RIOT</a><br />
+project = <a href="https://github.com/tprrt/RIOT">github.com/tprrt/RIOT</a><br />
+project = <a href="https://github.com/tralivali1234/RIOT">github.com/tralivali1234/RIOT</a><br />
+project = <a href="https://github.com/travisgriggs/RIOT">github.com/travisgriggs/RIOT</a><br />
+project = <a href="https://github.com/tromex/RIOT">github.com/tromex/RIOT</a><br />
+project = <a href="https://github.com/trungkstn/RIOT">github.com/trungkstn/RIOT</a><br />
+project = <a href="https://github.com/tsutar/RIOT-EE250">github.com/tsutar/RIOT-EE250</a><br />
+project = <a href="https://github.com/turahul/RIOT">github.com/turahul/RIOT</a><br />
+project = <a href="https://github.com/txemis/RIOT">github.com/txemis/RIOT</a><br />
+project = <a href="https://github.com/typc95/RIOT">github.com/typc95/RIOT</a><br />
+project = <a href="https://github.com/tzuchiangshen/RIOT">github.com/tzuchiangshen/RIOT</a><br />
+project = <a href="https://github.com/unforgiven512/RIOT">github.com/unforgiven512/RIOT</a><br />
+project = <a href="https://github.com/unwireddevices/RIOT">github.com/unwireddevices/RIOT</a><br />
+project = <a href="https://github.com/urbangregorc/RIOT">github.com/urbangregorc/RIOT</a><br />
+project = <a href="https://github.com/usc-ee250-fall2018/RIOT-EE250">github.com/usc-ee250-fall2018/RIOT-EE250</a><br />
+project = <a href="https://github.com/vac/RIOT">github.com/vac/RIOT</a><br />
+project = <a href="https://github.com/varunpandeyengg/RIOT">github.com/varunpandeyengg/RIOT</a><br />
+project = <a href="https://github.com/vehar/RIOT">github.com/vehar/RIOT</a><br />
+project = <a href="https://github.com/vhkrishna/RIOT">github.com/vhkrishna/RIOT</a><br />
+project = <a href="https://github.com/vijaiks/RIOT">github.com/vijaiks/RIOT</a><br />
+project = <a href="https://github.com/vikingxie/RIOT">github.com/vikingxie/RIOT</a><br />
+project = <a href="https://github.com/vincent-d/RIOT">github.com/vincent-d/RIOT</a><br />
+project = <a href="https://github.com/vincentjzimmer/RIOT">github.com/vincentjzimmer/RIOT</a><br />
+project = <a href="https://github.com/vincentlao/RIOT">github.com/vincentlao/RIOT</a><br />
+project = <a href="https://github.com/vpdao/RIOT">github.com/vpdao/RIOT</a><br />
+project = <a href="https://github.com/vrosnet/RIOT">github.com/vrosnet/RIOT</a><br />
+project = <a href="https://github.com/w03/RIOT">github.com/w03/RIOT</a><br />
+project = <a href="https://github.com/waehlisch/RIOT">github.com/waehlisch/RIOT</a><br />
+project = <a href="https://github.com/wallhisg/RIOT">github.com/wallhisg/RIOT</a><br />
+project = <a href="https://github.com/wang1314well/RIOT">github.com/wang1314well/RIOT</a><br />
+project = <a href="https://github.com/watr-li/RIOT">github.com/watr-li/RIOT</a><br />
+project = <a href="https://github.com/wentaoshang/RIOT">github.com/wentaoshang/RIOT</a><br />
+project = <a href="https://github.com/wenyigao6/RIOT-EE250">github.com/wenyigao6/RIOT-EE250</a><br />
+project = <a href="https://github.com/whitefield-framework/RIOT">github.com/whitefield-framework/RIOT</a><br />
+project = <a href="https://github.com/wilhelmmatilainen/RIOT">github.com/wilhelmmatilainen/RIOT</a><br />
+project = <a href="https://github.com/witnessivan/RIOT">github.com/witnessivan/RIOT</a><br />
+project = <a href="https://github.com/wtsllc/RIOT">github.com/wtsllc/RIOT</a><br />
+project = <a href="https://github.com/wupoli/RIOT">github.com/wupoli/RIOT</a><br />
+project = <a href="https://github.com/wuzeen/RIOT">github.com/wuzeen/RIOT</a><br />
+project = <a href="https://github.com/wwhuang/RIOT-OS">github.com/wwhuang/RIOT-OS</a><br />
+project = <a href="https://github.com/wxh0000mm/RIOT">github.com/wxh0000mm/RIOT</a><br />
+project = <a href="https://github.com/xjump/RIOT">github.com/xjump/RIOT</a><br />
+project = <a href="https://github.com/xsider/RIOT">github.com/xsider/RIOT</a><br />
+project = <a href="https://github.com/xzm7358/RIOT">github.com/xzm7358/RIOT</a><br />
+project = <a href="https://github.com/ycs0405/RIOT">github.com/ycs0405/RIOT</a><br />
+project = <a href="https://github.com/yeekzhang/RIOT">github.com/yeekzhang/RIOT</a><br />
+project = <a href="https://github.com/yeffrimic/RIOT">github.com/yeffrimic/RIOT</a><br />
+project = <a href="https://github.com/yegorich/RIOT">github.com/yegorich/RIOT</a><br />
+project = <a href="https://github.com/yibit/RIOT">github.com/yibit/RIOT</a><br />
+project = <a href="https://github.com/ynezz/RIOT">github.com/ynezz/RIOT</a><br />
+project = <a href="https://github.com/yogo1212/RIOT">github.com/yogo1212/RIOT</a><br />
+project = <a href="https://github.com/yunbei/RIOT">github.com/yunbei/RIOT</a><br />
+project = <a href="https://github.com/yupin75/RIOT">github.com/yupin75/RIOT</a><br />
+project = <a href="https://github.com/yusi222/RIOT">github.com/yusi222/RIOT</a><br />
+project = <a href="https://github.com/zafriyusoff/RIOT">github.com/zafriyusoff/RIOT</a><br />
+project = <a href="https://github.com/zaza89/RIOT">github.com/zaza89/RIOT</a><br />
+project = <a href="https://github.com/zenglongGH/RIOT">github.com/zenglongGH/RIOT</a><br />
+project = <a href="https://github.com/zhenhaochu/RIOT">github.com/zhenhaochu/RIOT</a><br />
+project = <a href="https://github.com/zhuoshuguo/RIOT">github.com/zhuoshuguo/RIOT</a><br />
+project = <a href="https://github.com/zhuwentao0612/RIOT">github.com/zhuwentao0612/RIOT</a><br />
+project = <a href="https://github.com/zjl037600/RIOT">github.com/zjl037600/RIOT</a><br />
+project = <a href="https://github.com/zmguahy/RIOT">github.com/zmguahy/RIOT</a><br />
 <br />
 commit = 203561e741daf6db0dda44087a372b9feb33fbca<br />
-head_commit = cf9893001c75284b09c152af9c70d7dddeff7461 <br />
+head_commit = cf9893001c75284b09c152af9c70d7dddeff7461 (2016-02-26:11:35:10)<br />
 path = tests/unittests/tests-ipv6_addr/tests-ipv6_addr.c<br />
-project = 1974vyacheslav_RIOT<br />
-project = 296791897_RIOT<br />
-project = 314942468GitHub_RIOT<br />
-project = 5G-I3_RIOT-1<br />
-project = 5G-I3_RIOT-public<br />
-project = 6lowpaniold_RIOT<br />
-project = A-Paul_RIOT<br />
-project = ANRGUSC_RIOT<br />
-project = ANRGUSC_RIOT-EE250<br />
-project = ANRGUSC_iris-riot<br />
-project = AVykhovanets_RIOT<br />
-project = AaltoNEPPI_RIOT<br />
-project = Aang-3_RIOT<br />
-project = Aang23_RIOT<br />
-project = Aber-Lijingshu_RIOT<br />
-project = AcmeSystemsProjects_RIOT<br />
-project = AdamRLukaitis_RIOT<br />
-project = AdrianGuo_RIOT<br />
-project = Agile-IoT_RIOT<br />
-project = AlexShiLucky_RIOT<br />
-project = AlexandrSalin_RIOT<br />
-project = Alexmingzhi_RIOT<br />
-project = Allanceng_RIOT<br />
-project = AltairResearch_RIOT<br />
-project = Ameya22_RIOT<br />
-project = Amr221B_RIOT<br />
-project = An-Andrew-Pham_RIOT-EE250<br />
-project = AnaK89_RIOT<br />
-project = Angela-W_RIOT<br />
-project = Ankita-Jaiswal_RIOT<br />
-project = AnonMall_RIOT<br />
-project = AppleInside_RIOT<br />
-project = ArulPrasathK_RIOT<br />
-project = AshishkrMishra_RIOT<br />
-project = AskhatBaymukhamedov_RIOT<br />
-project = Avinash95_RIOT<br />
-project = Axellant_RIOT<br />
-project = BOBRAPHTONE_RIOT<br />
-project = BTSGuyaderBenjamin_RIOT<br />
-project = Bagginsa_RIOT<br />
-project = BamStap_RIOT<br />
-project = Barrymuch_RIOT<br />
-project = BenG2121_RIOT<br />
-project = BigGarik_RIOT<br />
-project = Bila24_RIOT<br />
-project = Bizordec_RIOT<br />
-project = Bob-the-Kuhn_RIOT<br />
-project = Bogatik_RIOT<br />
-project = Burdaa_RIOT<br />
-project = BurtonQin_RIOT<br />
-project = BytesGalore_RIOT<br />
-project = CLPopescu-1999-02_RIOT<br />
-project = Cakhavan_RIOT-EE250<br />
-project = CaptSkull_RIOT<br />
-project = Carton32_RIOT<br />
-project = Circuit-killer_RIOT<br />
-project = Citrullin_RIOT<br />
-project = ClarePhang_RIOT<br />
-project = CommoDor64_RIOT<br />
-project = Conservify_RIOT<br />
-project = Cr0s_RIOT<br />
-project = CreatorKit_RIOT-Mips<br />
-project = Cross4000_RIOT<br />
-project = CrutzPan_RIOT<br />
-project = DZeyfert_RIOT<br />
-project = DamboDD_RIOT<br />
-project = DapengLan_RIOT<br />
-project = Darredevil_RIOT<br />
-project = Deniz66_RIOT<br />
-project = Derwaan_RIOT<br />
-project = DipSwitch_RIOT<br />
-project = DmitryDostovalov_RIOT<br />
-project = Dreyfriz_RIOT<br />
-project = DuyTrandeLion_RIOT<br />
-project = Ell-i_RIOT<br />
-project = Elter71_RIOT<br />
-project = Eltonno_RIOT<br />
-project = EmuxEvans_RIOT<br />
-project = FeverChen_RIOT<br />
-project = Flyingstone99_RIOT<br />
-project = Former_RIOT<br />
-project = FrancescoErmini_RIOT<br />
-project = FuzeSoft_RIOT<br />
-project = GHackAnonymous_RIOT<br />
-project = GabrielDai_RIOT<br />
-project = GeekRobert_RIOT<br />
-project = Geloi_RIOT<br />
-project = GenRockeR_RIOT<br />
-project = Gmedhin_RIOT<br />
-project = Goga3000_RIOT<br />
-project = GoodDada_RIOT<br />
-project = Gr3yh0und_RIOT<br />
-project = HANJINKIM_RIOT<br />
-project = HSeemann_RIOT<br />
-project = HTWDD-RN_RIOT<br />
-project = HaitaoLeo_RIOT<br />
-project = HamidiMassinissa_RIOT<br />
-project = Happy-Ferret_RIOT-1<br />
-project = HarborDong_RIOT<br />
-project = Hendrias_RIOT-EE250<br />
-project = HendrikVE_RIOT<br />
-project = HubertXie_RIOT<br />
-project = HuguLee_RIOT<br />
-project = Huyfly_RIOT<br />
-project = Hyungsin_RIOT-OS<br />
-project = Icaltary_RIOT<br />
-project = IgorBayk_RIOT<br />
-project = IgorShilov_RIOT<br />
-project = IldarValiev_RIOT<br />
-project = In0ut_RIOT<br />
-project = Inria-Chile_RIOT<br />
-project = IoT6_RIOT<br />
-project = IoTSotA_RIOT<br />
-project = JMR-b_RIOT<br />
-project = JamesLinus_RIOT<br />
-project = Janfred_RIOT<br />
-project = JelmerT_RIOT<br />
-project = JensErdmann_RIOT<br />
-project = JensenSung_RIOT<br />
-project = JerryMain_RIOT<br />
-project = Jinyo-Chiu_RIOT<br />
-project = JiongFu_RIOT<br />
-project = JohannesRol_RIOT<br />
-project = John-Ng_RIOT<br />
-project = JonaRaemdonck_RIOT<br />
-project = JonasRadtke_RIOT<br />
-project = Josar_RIOT<br />
-project = Josar_RIOT_XMEGA<br />
-project = JulianHolzwarth_RIOT<br />
-project = JulianoCristian_RIOT<br />
-project = KamalDSOberoi_RIOT<br />
-project = KarlNap_RIOT<br />
-project = Karmvir5_RIOT-EE250<br />
-project = Katritz_RIOT<br />
-project = Kavanraj_RIOT<br />
-project = KengaRU_RIOT<br />
-project = KetchupVentil_RIOT<br />
-project = KevinYu84_RIOT<br />
-project = KhodorELKOUJOK_RIOT<br />
-project = Kijewski_RIOT<br />
-project = KillerLink_RIOT<br />
-project = Koenma413_RIOT<br />
-project = KomochekShersti_RIOT<br />
-project = KuguHome_RIOT<br />
-project = Kulipator_RIOT<br />
-project = KumarAmitMehta_RIOT<br />
-project = KyshinLiu_RIOT<br />
-project = LGTMCU_RIOT<br />
-project = LaszloLango_RIOT<br />
-project = LenarIO_RIOT<br />
-project = Lexandro92_RIOT-CoAP<br />
-project = Lotterleben_RIOT<br />
-project = Lstallone_RIOT<br />
-project = LucaZulberti_RIOT<br />
-project = LudwigKnuepfer_RIOT<br />
-project = LudwigOrtmann_RIOT<br />
-project = Lydrin_RIOT<br />
-project = MKot13_RIOT<br />
-project = MOSAIC-LoPoW_RIOT<br />
-project = MaLa-HAW_RIOT<br />
-project = MailiLoh_RIOT<br />
-project = Manchenkoos_RIOT<br />
-project = Manoharsai_RIOT<br />
-project = Manu2312_RIOT<br />
-project = Marc-Aurele_RIOT<br />
-project = MarkXYang_RIOT<br />
-project = Marrakchino_RIOT<br />
-project = MartinaFHCW_RIOT<br />
-project = MatKub_RIOT<br />
-project = Mecabot_RIOT<br />
-project = MichelRottleuthner_RIOT<br />
-project = Misaka0x2730_RIOT<br />
-project = Mizyukanova_RIOT<br />
-project = MohamedSeliem_RIOT<br />
-project = MohmadAyman_RIOT<br />
-project = MonsterCode8000_RIOT<br />
-project = Mr-Jason-Sam_RIOT<br />
-project = MrFresh1_RIOT<br />
-project = MrKevinWeiss_RIOT<br />
-project = Mucka_RIOT<br />
-project = MuhammadTanweer_RIOT<br />
-project = MxMalk_RIOT<br />
-project = MyCodeMyMoney_RIOT<br />
-project = N5FPP_RIOT<br />
-project = NERD-Repo_RIOT<br />
-project = NEXTLEO_RIOT<br />
-project = NLardenois_RIOT<br />
-project = Na55im_RIOT<br />
-project = Nenaco_RIOT<br />
-project = NickMinnellaCS96_RIOT<br />
-project = NilayPachauri_RIOT-EE250<br />
-project = Nilshut_RIOT<br />
-project = Nishchay-sopho_RIOT-Bundle-Protocol<br />
-project = Nmeum_RIOT<br />
-project = OTAkeys_RIOT<br />
-project = OYTIS_RIOT<br />
-project = OYTIS_RIOT-kea<br />
-project = OlegHahm_RIOT<br />
-project = OnsetComputerCorp_RIOT<br />
-project = Osarua_RIOT<br />
-project = Osblouf_RIOT<br />
-project = Otmane123_RIOT<br />
-project = Ouss4_RIOT<br />
-project = OverDriveGain_RIOT<br />
-project = PONFmodular_RIOT<br />
-project = ParksProjets_RIOT<br />
-project = PavelVorobyev97_RIOT<br />
-project = PeterKietzmann_RIOT<br />
-project = PeterKietzmann_RIOT-EWSN16-Demo<br />
-project = PiWare_RIOT<br />
-project = PisalPrasad123_RIOT<br />
-project = PowerProfiler_RIOT<br />
-project = Probelp_RIOT<br />
-project = RBartz_RIOT<br />
-project = RF-Networks_RIOT<br />
-project = RIOT-OS_RIOT<br />
-project = RWTH-OS_RIOT<br />
-project = RaphaelBidaud_RIOT<br />
-project = RasmusAntons_RIOT<br />
-project = ReneHerthel_RIOT<br />
-project = RichardH92_RIOT<br />
-project = Ritishk12_RIOT<br />
-project = Rotzbua_RIOT<br />
-project = RoySCU_RIOT<br />
-project = RubikonAlpha_RIOT<br />
-project = Rufwame_RIOT<br />
-project = RumBlalGalaxy_RIOT<br />
-project = SCiMOS_RIOT<br />
-project = SSV-embedded_RIOT<br />
-project = SWIE-IO_RIOT<br />
-project = SaiNavyaNelavelli_RIOT<br />
-project = Salomonic_RIOT<br />
-project = Sarajova_RIOT<br />
-project = SebastianSzymczak_RIOT<br />
-project = SebastianWilkes_RIOT<br />
-project = SemjonKerner_RIOT<br />
-project = Slider043_RIOT<br />
-project = SmallSharky_riot-edu<br />
-project = Subor-gfraf_RIOT<br />
-project = TaquyeddineZegaoui_RIOT<br />
-project = ThanhVic_RIOT<br />
-project = TheSkape_RIOT<br />
-project = TheSwagMan_riot_test<br />
-project = TizenTeam_RIOT<br />
-project = TobiasFredersdorf_RIOT<br />
-project = VALaptev_RIOT<br />
-project = ViktorVaczi90_RIOT<br />
-project = VilleHiltunen_RIOT<br />
-project = Waldgeist84_RIOT<br />
-project = aabadie_RIOT<br />
-project = abkam07_RIOT<br />
-project = abp719_RIOT<br />
-project = adityaseven_RIOT<br />
-project = alex1818_RIOT<br />
-project = alexiss03_riot-os-cs250<br />
-project = altairpearl_RIOT<br />
-project = andrlee_RIOT<br />
-project = anurudh27_RIOT<br />
-project = arvindpdmn_RIOT<br />
-project = asdjah_RIOT<br />
-project = aspyver_RIOT<br />
-project = asquini_RIOT<br />
-project = attdona_RIOT<br />
-project = authmillenon_RIOT<br />
-project = automote_RIOT<br />
-project = avmelnikoff_RIOT<br />
-project = ayush7gupta_IPv4_Riot<br />
-project = basilfx_RIOT<br />
-project = beduino-project_RIOT<br />
-project = beduino-project_RIOT-POLICE<br />
-project = benemorius_RIOT<br />
-project = benpicco_RIOT<br />
-project = berbecche_RIOT<br />
-project = bergzand_RIOT<br />
-project = beurdouche_RIOT<br />
-project = bhargav2408_RIOT<br />
-project = biboc_RIOT<br />
-project = billyzhaoj_RIOT-OS<br />
-project = binarylemon_RIOT<br />
-project = bitbucket.org_jcarrano_riot-os<br />
-project = bitbucket.org_nbmaiti_riot<br />
-project = blaisehorvath_RIOT<br />
-project = bmd00bmd_KubOS<br />
-project = bradzieminski_RIOT-EE250<br />
-project = brettswann_RIOT<br />
-project = brummer-simon_RIOT<br />
-project = bumpy-b_RIOT<br />
-project = bygit_RIOT<br />
-project = cha63506_RIOT<br />
-project = checorone_motoguard-enddevice<br />
-project = clem-bluefruit_RIOT<br />
-project = codeForSaif_RIOT<br />
-project = crest42_RIOT<br />
-project = czarsir_RIOT<br />
-project = czoksu_RIOT<br />
-project = d00616_RIOT<br />
-project = d12y12_RIOT<br />
-project = daemory_RIOT<br />
-project = dailab_RIOT<br />
-project = danebennett_RIOT<br />
-project = daniel-k_RIOT<br />
-project = daniel-kelley_RIOT<br />
-project = danielamkaer_RIOT<br />
-project = danielinux_RIOT<br />
-project = danpetry_RIOT<br />
-project = datachi7d_RIOT<br />
-project = davidmr001_RIOT<br />
-project = davidvalarezo_RIOT<br />
-project = davidvalarezo_RIOT-1<br />
-project = dbohn_RIOT<br />
-project = dboschm_RIOT-Xtensa-ESP<br />
-project = ddiddlepants_RIOT-EE250<br />
-project = ddreyer_RIOT-OS<br />
-project = ddreyer_RIOT-OS-1<br />
-project = ddreyer_RIOT-OS-class<br />
-project = ddreyer_openthread<br />
-project = decolnz_RIOT<br />
-project = deepfryed_RIOT<br />
-project = deniskropp_RIOT<br />
-project = denizs_RIOT<br />
-project = denizs_riot<br />
-project = denykk_RIOT<br />
-project = derf_RIOT<br />
-project = devantormey_RIOT-EE250<br />
-project = deviance_RIOT<br />
-project = dhruvvyas90_RIOT<br />
-project = diddyhsv_RIOT<br />
-project = dkazantzas_RIOT<br />
-project = dkm_RIOT<br />
-project = dmdsouza_RIOT<br />
-project = dmoldova_RIOT-EE250<br />
-project = docdor_RIOT<br />
-project = dongdongbh_RIOT<br />
-project = dongkc_RIOT<br />
-project = doniexun_RIOT<br />
-project = dorukarda_RIOT<br />
-project = doudoudq_RIOT<br />
-project = drasko_RIOT<br />
-project = drcef_RIOT<br />
-project = drmrboy_RIOT<br />
-project = duanlv_RIOT<br />
-project = dut3062796s_RIOT-1<br />
-project = duv16_RIOT<br />
-project = dylad_RIOT<br />
-project = eacioffi_RIOT-EE250<br />
-project = ecioffi_RIOT-EE250<br />
-project = edgarmar2_RIOT-EE250<br />
-project = eeinz_RIOT<br />
-project = eerokhakala_RIOT<br />
-project = eggfly_RIOT<br />
-project = ehsanamin1990_RIOT<br />
-project = einars_RIOT<br />
-project = eistec_RIOT<br />
-project = elecfist_RIOT<br />
-project = elix22_RIOT<br />
-project = elvaigh_RIOT<br />
-project = emmanuelsearch_RIOT<br />
-project = emuhedo_RIOT<br />
-project = enzingerm_RIOT<br />
-project = ericyao2013_RIOT<br />
-project = erlerobot_RIOT<br />
-project = euboss_RIOT<br />
-project = eugenscobich_RIOT<br />
-project = fajb_RIOT<br />
-project = fanghuaqi_RIOT<br />
-project = fanxiaohui_RIOT<br />
-project = fbsder_RIOT<br />
-project = fcgdam_RIOT<br />
-project = fedepell_RIOT<br />
-project = fesselk_RIOT<br />
-project = fetmos_RIOT<br />
-project = fhessel_RIOT<br />
-project = fjmolinas_RIOT<br />
-project = flavius-aetios_RIOT<br />
-project = flipreverse_RIOT<br />
-project = florian-jean_RIOT<br />
-project = flyhigh46_RIOT<br />
-project = fokin91_RIOT<br />
-project = fozc_RIOT<br />
-project = fragomr_RIOT<br />
-project = francois-berder-imgtec_RIOT<br />
-project = francois-berder_RIOT<br />
-project = frankamente_RIOT<br />
-project = freemanZYQ_RIOT<br />
-project = fsolanod_RIOT<br />
-project = fu-ilab-swp18_RIOT<br />
-project = fu-ilab-swp18_RIOT_pflanzen1<br />
-project = fu-inet-swp17_RIOT<br />
-project = future-proof-iot_RIOT<br />
-project = fvacek_RIOT<br />
-project = fzi-forschungszentrum-informatik_RIOT64<br />
-project = fzy-Line_RIOT<br />
-project = gandy555_RIOT<br />
-project = gautric_RIOT<br />
-project = gbarnett_RIOT<br />
-project = gdoffe_RIOT<br />
-project = george-hopkins_RIOT<br />
-project = geromueller_RIOT<br />
-project = gh18_RIOT<br />
-project = ghavag_RIOT<br />
-project = ghice_RIOT<br />
-project = ginetrix_RIOT<br />
-project = girisugu2_RIOT<br />
-project = girtsf_RIOT<br />
-project = gitcreater_RIOT<br />
-project = gitlab.com_Gvanroon_RIOT<br />
-project = gitlab.com_Spence_RIOT<br />
-project = gitlab.com_anilkumarsoma_RIOT<br />
-project = gitlab.com_cellu_cc_riot<br />
-project = gitlab.com_frankamente_RIOT<br />
-project = gitlab.com_gspu_RIOT<br />
-project = gitlab.com_nicholas_jackson_RIOT<br />
-project = gitlab.com_openrov_trident/trident-fw-samd<br />
-project = gitlab.com_openrov_trident_trident-fw-samd<br />
-project = gitlab.com_rhr407_RIOT<br />
-project = gitlab.com_scanf_RIOT<br />
-project = gitlab.com_theja0473_RIOT<br />
-project = gitlab.com_wsymons_riot<br />
-project = glloydNAT_RIOT<br />
-project = gmsotavio_RIOT<br />
-project = gon1332_RIOT<br />
-project = gongfna_RIOT<br />
-project = gorbondiga_RIOT<br />
-project = gosticks_RIOT<br />
-project = graznik_RIOT<br />
-project = groessler_RIOT<br />
-project = gschorcht_RIOT<br />
-project = gschorcht_RIOT-Xtensa-ESP<br />
-project = gschorcht_RIOT-Xtensa-ESP8266<br />
-project = gtrpucp_RIOT<br />
-project = gustavovelascoh_RIOT<br />
-project = gutorevoredo_RIOT<br />
-project = guzenkovalexey_RIOT<br />
-project = gvz_RIOT<br />
-project = h4nt_RIOT<br />
-project = habibzadeh_RIOT<br />
-project = hackerspacesv_RIOT<br />
-project = hahchenchen_RIOT<br />
-project = haithemsekri_RIOT<br />
-project = hallo-alex_RIOT<br />
-project = hamilton-mote_RIOT-OS<br />
-project = hamilton-mote_RiSyn<br />
-project = haoyangyu_RIOT<br />
-project = harrisonforch_RIOT-EE250<br />
-project = harunoni_RIOT<br />
-project = haukepetersen_RIOT<br />
-project = heavybro_RIOT<br />
-project = herrfz_RIOT<br />
-project = hhhhhhlc_RIOT<br />
-project = hhy5277_RIOT-1<br />
-project = hongkiaong_RIOT<br />
-project = houmway_RIOT<br />
-project = hpu07_RIOT<br />
-project = huanquan_RIOT<br />
-project = huide9_RIOT<br />
-project = huleg_RIOT<br />
-project = huypq6_RIOT<br />
-project = i-spark_RIOT<br />
-project = i53-infrastructure_RIOT<br />
-project = iam-thanwa-io_RIOT<br />
-project = iambijusnair_RIOT<br />
-project = ibr-cm_RIOT<br />
-project = ibriano_RIOT<br />
-project = icube-inetlab_RIOT-OS<br />
-project = igrik82_RIOT<br />
-project = iia_RIOT<br />
-project = ijip_RIOT<br />
-project = ikshin416_RIOT<br />
-project = ikvm_RIOT-1<br />
-project = iliessens_RIOT<br />
-project = ilya-dubinsky_RIOT<br />
-project = ilya-epifanov_RIOT<br />
-project = immesys_RIOT<br />
-project = immesys_RiSyn<br />
-project = inetrg_RIOT<br />
-project = injxgj_RIOT<br />
-project = internet-of-plants_RIOT<br />
-project = iocainst_RIOT<br />
-project = iot-alex_RIOT<br />
-project = iot-lab_riot-upstream<br />
-project = iota-community_BLE-environment-sensor<br />
-project = iota-community_thingy52-env-sensor<br />
-project = iothon_RIOT<br />
-project = iotlibrary_RIOT<br />
-project = iotvietmember_RIOT<br />
-project = iplon_RIOT<br />
-project = ironeagle-ir_RIOT<br />
-project = is00hcw_RIOT-1<br />
-project = iseitani_RIOT<br />
-project = iseitani_RIOT_BR<br />
-project = it-gladkiy_RIOT<br />
-project = ivanka6342_RIOT<br />
-project = ivantesker_RIOT<br />
-project = jaeseokan94_RIOT<br />
-project = jafffy_RIOT<br />
-project = jan-mo_RIOT<br />
-project = janmoehl_RIOT<br />
-project = jarrcan-cl_RIOT<br />
-project = jasonatran_RIOT<br />
-project = jasonatran_iris-riot<br />
-project = javierfileiv_RIOT<br />
-project = jbeyerstedt_RIOT<br />
-project = jbeyerstedt_RIOT-OTA-update<br />
-project = jcarrano_RIOT<br />
-project = jdhuanghub_RIOT<br />
-project = jelledevleeschouwer_RIOT<br />
-project = jessezwd_RIOT<br />
-project = jfbortolotti_RIOT<br />
-project = jhollister_RIOT<br />
-project = jia200x_RIOT<br />
-project = jiababybaby_RIOT<br />
-project = jiangjie87481_RIOT<br />
-project = jigla_RIOT-OS<br />
-project = jinfenw_RIOT<br />
-project = jingjing54007_RIOT<br />
-project = jinhongdu_RIOT<br />
-project = jjelonek_RIOT<br />
-project = jliang1010_RIOT<br />
-project = jmcdon0128_RIOT<br />
-project = jmd99_RIOT<br />
-project = jongbot_RIOT<br />
-project = jongsun5_RIOT<br />
-project = jonkster_RIOT<br />
-project = jonkster_RIOT2<br />
-project = joshuabierton_RIOT<br />
-project = jowlo_RIOT<br />
-project = joyshmitz_RIOT<br />
-project = jpbonn_RIOT<br />
-project = jpbonn_old-riot<br />
-project = jpbonn_riot<br />
-project = jpnorair_OT-RIOT<br />
-project = jpnorair_RIOT<br />
-project = jremmert-phytec-iot_RIOT<br />
-project = jthacker_RIOT<br />
-project = jue89_RIOT<br />
-project = julien-ioic_RIOT<br />
-project = justin1571_RIOT-EE250<br />
-project = justinjoy_RIOT<br />
-project = jvsg_RIOT<br />
-project = jxnuzhangwen_RIOT<br />
-project = k6dsp_RIOT<br />
-project = kYc0o_RIOT<br />
-project = kaibeckmann_RIOT<br />
-project = kaidokert_RIOT<br />
-project = kaifeichen_RIOT-OS<br />
-project = kaleb-himes_RIOT<br />
-project = kamar4k_RIOT<br />
-project = kamejoko80_RIOT<br />
-project = kangdazhi_RIOT<br />
-project = kartben_RIOT<br />
-project = kaspar030_RIOT<br />
-project = katezilla_RIOT<br />
-project = kb2ma_RIOT<br />
-project = kbonset_RIOT<br />
-project = kbumsik_RIOT<br />
-project = keestux_RIOT<br />
-project = kenkuang_RIOT<br />
-project = kennethjiang_RIOT<br />
-project = kenrabold_RIOT<br />
-project = kerneltask_RIOT<br />
-project = kery-chen_RIOT<br />
-project = kerychen_RIOT<br />
-project = kex2017_RIOT<br />
-project = khhhh_RIOT<br />
-project = khurananish_RIOT<br />
-project = kineev_RIOT<br />
-project = kingfs_RIOT<br />
-project = kjh1007_RIOT<br />
-project = konstantinngvk1_RIOT<br />
-project = kontais_RIOT<br />
-project = kotteeswarane_CanGateway<br />
-project = krishnak9_RIOT<br />
-project = kroesche_RIOT<br />
-project = ks156_RIOT<br />
-project = kubostech_RIOT<br />
-project = kugel2_RIOT<br />
-project = kumar-jiri6_RIOT<br />
-project = kushalsingh007_RIOT<br />
-project = kutama_RIOT<br />
-project = kvbryukhanov_RIOT<br />
-project = kwahome_RIOT<br />
-project = kyrofa_RIOT<br />
-project = l3nko_RIOT<br />
-project = lafka_RIOT<br />
-project = lalrae_RIOT<br />
-project = laparmakerli_riot-upstream<br />
-project = latsku_RIOT<br />
-project = lazytech-org_RIOT<br />
-project = ldesiqueira_RIOT<br />
-project = le7amdon_RIOT<br />
-project = leandrolanzieri_RIOT<br />
-project = lebrush_RIOT<br />
-project = leeminghao_RIOT<br />
-project = legendary-bro_RIOT<br />
-project = lidong1266_RIOT<br />
-project = liguojiang_RIOT<br />
-project = lincvv_RIOT<br />
-project = lineCode_RIOT-1<br />
-project = linearregression_RIOT<br />
-project = linpingchuan_RIOT<br />
-project = linux-wpan_RIOT<br />
-project = liujiandu_RIOT<br />
-project = liwangqian_RIOT<br />
-project = ljs9643_RIOT<br />
-project = llueder_RIOT<br />
-project = lluminita_RIOT<br />
-project = lmhtz_RIOT<br />
-project = locosoft1986_RIOT<br />
-project = logself1988_RIOT<br />
-project = lorenz9314_RIOT<br />
-project = louisyoo_RIOT<br />
-project = lovelesh_RIOT<br />
-project = lpaulic_RIOT<br />
-project = lsaos_RIOT<br />
-project = luciotorre_RIOT<br />
-project = luisseo01_RIOT<br />
-project = lupamedeiros_RIOT<br />
-project = lvjh_RIOT<br />
-project = lxsang_RIOT<br />
-project = lyashley_RIOT-EE250<br />
-project = lzbgt_RIOT<br />
-project = lzj85_RIOT<br />
-project = m21400_RIOT<br />
-project = m2mbr_RIOT<br />
-project = madokapeng_RIOT<br />
-project = maghis_RIOT<br />
-project = mahermastouri_RIOT<br />
-project = maitysubhasis_RIOT_OS<br />
-project = makyo-dev_RIOT-1<br />
-project = mali_RIOT<br />
-project = malosek_RIOT<br />
-project = manamhr_RIOT-EE250<br />
-project = maribu_RIOT<br />
-project = marshall_RIOT<br />
-project = martinheusmann_RIOT<br />
-project = massad77_RIOT<br />
-project = mathirkub_RIOT<br />
-project = mattiantonini_RIOT<br />
-project = maxvankessel_RIOT<br />
-project = mbrukman_RIOT<br />
-project = mbutkereit_RIOT<br />
-project = mdodkins_RIOT<br />
-project = mehrdaad_RIOT<br />
-project = mehulrijawani_RIOT<br />
-project = mejm_RIOT<br />
-project = melfork_RIOT<br />
-project = melshuber_RIOT<br />
-project = mfkiwl_RIOT<br />
-project = mfrey_RIOT<br />
-project = michaelgianpowski_RIOT<br />
-project = michz_RIOT<br />
-project = mike168m_RIOT<br />
-project = ming-hai_RIOT<br />
-project = minkione_RIOT<br />
-project = miri64_RIOT<br />
-project = mishlasfeng_RIOT<br />
-project = mkcourse_RIOT<br />
-project = mmkonrad_RIOT<br />
-project = moenoel_RIOT<br />
-project = mojiuyu_RIOT-1<br />
-project = moneytech_RIOT<br />
-project = monoclecat_RIOT<br />
-project = moyansen_RIOT<br />
-project = mrazek-deakin_RIOT<br />
-project = mredekopp_RIOT-EE250<br />
-project = mrnguyen211190_RIOT<br />
-project = msakil_RIOT<br />
-project = msliusarev_RIOT<br />
-project = msolters_RIOT<br />
-project = mstn-09_RIOT<br />
-project = mtausig_RIOT<br />
-project = mufeedpatel_RIOT<br />
-project = muharam1991_RIOT<br />
-project = mullerhx_RIOT<br />
-project = mullife_RIOT<br />
-project = murdock-ci_RIOT<br />
-project = mxbrt_RIOT<br />
-project = mziegert_RIOT<br />
-project = n16h7br33z3_RIOT<br />
-project = naaonethree_RIOT-EE250<br />
-project = nailanawshaba_RIOT<br />
-project = named-data-iot_RIOT<br />
-project = namezis_RIOT<br />
-project = nanodrone_RIOT<br />
-project = nashokkumar_RIOT<br />
-project = navneetnivu07_RIOT<br />
-project = nawL1dg3_RIOT<br />
-project = nealjack_RIOT-OS<br />
-project = neiljay_RIOT<br />
-project = neo-existenz_RIOT<br />
-project = netdebug_RIOT<br />
-project = netroby_RIOT<br />
-project = netscream_RIOT<br />
-project = ngatilio_RIOT<br />
-project = nghiaducnt_LearningRIOT<br />
-project = nguyenduclam_RIOT<br />
-project = ngwong_RIOT-EE250<br />
-project = nicholas-c-jackson_RIOT<br />
-project = niziak_RIOT<br />
-project = njprogramming_RIOT<br />
-project = nkristek_RIOT<br />
-project = nlebang_RIOT<br />
-project = nlinktech_RIOT<br />
-project = nmehlman_RIOT-EE250<br />
-project = nmeum_RIOT<br />
-project = nolitimere_KubOS<br />
-project = nqd_RIOT<br />
-project = nsaspook_RIOT<br />
-project = ntrtrung_RIOT<br />
-project = nvv13_RIOT<br />
-project = nyrahul_RIOT<br />
-project = o0osorentoo0o_RIOT<br />
-project = obgm_RIOT<br />
-project = ochristi_RIOT<br />
-project = ofauchon_RIOT<br />
-project = offchooffcho_RIOT<br />
-project = oh3eqn_RIOT<br />
-project = olegart_RIOT<br />
-project = onesmash_RIOT<br />
-project = openkosmosorg_RIOT<br />
-project = openwarelab_RIOT<br />
-project = orchisan_RIOT<br />
-project = orf53975_RIOT<br />
-project = ott-kiwi_RIOT<br />
-project = pacheco017_RIOT<br />
-project = palaniyappanBala_RIOT<br />
-project = panail_RIOT<br />
-project = panshengpeng_RIOT<br />
-project = patgrosse_RIOT<br />
-project = paula75_RIOT<br />
-project = pavelgr_RIOT<br />
-project = pavlyhabashy_RIOT-EE250<br />
-project = pdNor_RIOT<br />
-project = pekkanikander_RIOT<br />
-project = pengshulin_RIOT<br />
-project = peterson79_RIOT<br />
-project = pevasquez_RIOT<br />
-project = phectori_RIOT<br />
-project = phiros_RIOT<br />
-project = photonthunder_RIOT<br />
-project = phphy_RIOT<br />
-project = phuonglab_RIOT<br />
-project = phuongtg_RIOT<br />
-project = pi-kxw_RIOT<br />
-project = pigeorge_RIOT<br />
-project = pipex_RIOT<br />
-project = piyushpandey013_RIOT<br />
-project = pjhernandez18_RIOT-EE250<br />
-project = pmlk_RIOT<br />
-project = pnunes30_RIOT<br />
-project = pokgak_RIOT<br />
-project = pombredanne_RIOT<br />
-project = poppe34_RIOT<br />
-project = popwolf_RIOT<br />
-project = ppannuto_RIOT<br />
-project = prashanthhn_RIOT<br />
-project = praveenmunagapati_RIOT-2<br />
-project = praveenpenumaka_RIOT<br />
-project = psiemek_RIOT<br />
-project = pst12_RIOT<br />
-project = psymonj_RIOT<br />
-project = ptz1986_RIOT<br />
-project = punchcard60_KubOS<br />
-project = pvikberg_RIOT<br />
-project = pvikberg_RIOT_oma1<br />
-project = pvsarath_RIOT<br />
-project = pvyleta_RIOT<br />
-project = pwillem_RIOT<br />
-project = pyjhhh_RIOT<br />
-project = qgyhd1234_RIOT<br />
-project = qiaoqidui_RIOT<br />
-project = rabinsahoo_RIOT<br />
-project = radhios_RIOT<br />
-project = ragulhackz125_RIOT<br />
-project = rajma996_RIOT<br />
-project = rakendrathapa_RIOT<br />
-project = rammohan2b_RIOT<br />
-project = ranbe1_RIOT<br />
-project = ranjit27_RIOT<br />
-project = redrabbit5_RIOT<br />
-project = redwinner_RIOT<br />
-project = refaqtor_RIOT<br />
-project = renzoe_RIOT<br />
-project = rfuentess_RIOT<br />
-project = rhabu01_RIOT<br />
-project = rhr407_RIOT<br />
-project = richartk_RIOT<br />
-project = rienafairefr_RIOT<br />
-project = riot-appstore_RIOT<br />
-project = riot-appstore_RIOT-IoThon<br />
-project = riot-ci_RIOT<br />
-project = riot-study_RIOT<br />
-project = rivasiv_RIOT<br />
-project = rjmcguire_RIOT<br />
-project = rl1987_RIOT<br />
-project = robbie-cao_RIOT<br />
-project = robbie-cao_riot-stm32<br />
-project = robby14_RIOT<br />
-project = roberthartung_RIOT<br />
-project = robertsipka_RIOT<br />
-project = robixnai_RIOT<br />
-project = rolandi71_RIOT<br />
-project = roubra_RIOT<br />
-project = rousselk_RIOT<br />
-project = rowhit_RIOT<br />
-project = rrzatkie_RIOT<br />
-project = rrzatkie_RIOT_COPY<br />
-project = rst256_RIOT<br />
-project = ruhex_RIOT<br />
-project = rxwb_RIOT<br />
-project = ryankurte_riot-os<br />
-project = ryanlelek_KubOS<br />
-project = salmovs_RIOT<br />
-project = sam-kumar_RIOT-OS<br />
-project = samiralavi_RIOT<br />
-project = samkumar99_RIOT-OS<br />
-project = samkumar_RIOT-OS<br />
-project = samr90_RIOT<br />
-project = sanmingshen_RIOT<br />
-project = sarathsanthoss_RIOT<br />
-project = sasalaza_RIOT-EE250<br />
-project = sashaindrish_RIOT<br />
-project = schoradt_RIOT<br />
-project = sdsxpln_RIOT<br />
-project = sdttmyw_RIOT<br />
-project = seank-img_RIOT<br />
-project = sebastiankliem_RIOT<br />
-project = serabiasin_RIOT<br />
-project = seryi2035_RIOT<br />
-project = setevod_RIOT<br />
-project = seysn_RIOT<br />
-project = sgso_RIOT<br />
-project = shein318_RIOT<br />
-project = shenfahsu_RIOT<br />
-project = shpuravasiliy_RIOT<br />
-project = siddh-test-4_RIOT<br />
-project = siddharthgpta_RIOT<br />
-project = simonsta_RIOT<br />
-project = sklli_RIOT<br />
-project = sknsean_RIOT<br />
-project = skullbox305_RIOT<br />
-project = skyformat99_RIOT<br />
-project = skyformat99_RIOT-2<br />
-project = slhsxcmy_RIOT<br />
-project = smartuni_RIOT<br />
-project = smcd253_RIOT-EE250<br />
-project = smcd253_RIOT-EE250-1<br />
-project = smehner1_RIOT<br />
-project = smlng_RIOT<br />
-project = smou_RIOT<br />
-project = snej_RIOT<br />
-project = sp-axio_RIOT<br />
-project = spiridon1_RIOT<br />
-project = spirit745_RIOT<br />
-project = starblue_RIOT<br />
-project = stepos01_RIOT<br />
-project = stevenj_RIOT<br />
-project = sugangli_RIOT<br />
-project = sumanpanchal_RIOT<br />
-project = sunghopark1_RIOT<br />
-project = superjudge_RIOT<br />
-project = suruz_RIOT<br />
-project = syin2_riot-iotivity<br />
-project = tabc123_RIOT<br />
-project = tadryanom_RIOT<br />
-project = taherrera_riot<br />
-project = tamasseller_RIOT<br />
-project = tammyrobinson03_RIOT<br />
-project = tanupoo_RIOT<br />
-project = tatyanavolkova_RIOT<br />
-project = tgo-s_RIOT<br />
-project = theafricanengineer_RIOT<br />
-project = theja0473_RIOT<br />
-project = therapier_RIOT<br />
-project = therealmonE_RIOT<br />
-project = thiagohd_RIOT<br />
-project = thomaseichinger_RIOT<br />
-project = to1st9chok_RIOT<br />
-project = tobbad_RIOT<br />
-project = tobhe_RIOT<br />
-project = tomyqg_RIOT<br />
-project = tongpi_RIOT<br />
-project = toonst_RIOT<br />
-project = tovanhieu_RIOT<br />
-project = tovax_RIOT<br />
-project = tprrt_RIOT<br />
-project = tralivali1234_RIOT<br />
-project = travisgriggs_RIOT<br />
-project = tromex_RIOT<br />
-project = trungkstn_RIOT<br />
-project = tsutar_RIOT-EE250<br />
-project = turahul_RIOT<br />
-project = txemis_RIOT<br />
-project = typc95_RIOT<br />
-project = tzuchiangshen_RIOT<br />
-project = unforgiven512_RIOT<br />
-project = unwireddevices_RIOT<br />
-project = urbangregorc_RIOT<br />
-project = usc-ee250-fall2018_RIOT-EE250<br />
-project = vac_RIOT<br />
-project = varunpandeyengg_RIOT<br />
-project = vehar_RIOT<br />
-project = vhkrishna_RIOT<br />
-project = vijaiks_RIOT<br />
-project = vikingxie_RIOT<br />
-project = vincent-d_RIOT<br />
-project = vincentjzimmer_RIOT<br />
-project = vincentlao_RIOT<br />
-project = vpdao_RIOT<br />
-project = vrosnet_RIOT<br />
-project = w03_RIOT<br />
-project = waehlisch_RIOT<br />
-project = wallhisg_RIOT<br />
-project = wang1314well_RIOT<br />
-project = watr-li_RIOT<br />
-project = wentaoshang_RIOT<br />
-project = wenyigao6_RIOT-EE250<br />
-project = whitefield-framework_RIOT<br />
-project = wilhelmmatilainen_RIOT<br />
-project = witnessivan_RIOT<br />
-project = wtsllc_RIOT<br />
-project = wupoli_RIOT<br />
-project = wuzeen_RIOT<br />
-project = wwhuang_RIOT-OS<br />
-project = wxh0000mm_RIOT<br />
-project = xjump_RIOT<br />
-project = xsider_RIOT<br />
-project = xzm7358_RIOT<br />
-project = ycs0405_RIOT<br />
-project = yeekzhang_RIOT<br />
-project = yeffrimic_RIOT<br />
-project = yegorich_RIOT<br />
-project = yibit_RIOT<br />
-project = ynezz_RIOT<br />
-project = yogo1212_RIOT<br />
-project = yunbei_RIOT<br />
-project = yupin75_RIOT<br />
-project = yusi222_RIOT<br />
-project = zafriyusoff_RIOT<br />
-project = zaza89_RIOT<br />
-project = zenglongGH_RIOT<br />
-project = zhenhaochu_RIOT<br />
-project = zhuoshuguo_RIOT<br />
-project = zhuwentao0612_RIOT<br />
-project = zjl037600_RIOT<br />
-project = zmguahy_RIOT<br />
+project = <a href="https://github.com/1974vyacheslav/RIOT">github.com/1974vyacheslav/RIOT</a><br />
+project = <a href="https://github.com/296791897/RIOT">github.com/296791897/RIOT</a><br />
+project = <a href="https://github.com/314942468GitHub/RIOT">github.com/314942468GitHub/RIOT</a><br />
+project = <a href="https://github.com/5G-I3/RIOT-1">github.com/5G-I3/RIOT-1</a><br />
+project = <a href="https://github.com/5G-I3/RIOT-public">github.com/5G-I3/RIOT-public</a><br />
+project = <a href="https://github.com/6lowpaniold/RIOT">github.com/6lowpaniold/RIOT</a><br />
+project = <a href="https://github.com/A-Paul/RIOT">github.com/A-Paul/RIOT</a><br />
+project = <a href="https://github.com/ANRGUSC/RIOT">github.com/ANRGUSC/RIOT</a><br />
+project = <a href="https://github.com/ANRGUSC/RIOT-EE250">github.com/ANRGUSC/RIOT-EE250</a><br />
+project = <a href="https://github.com/ANRGUSC/iris-riot">github.com/ANRGUSC/iris-riot</a><br />
+project = <a href="https://github.com/AVykhovanets/RIOT">github.com/AVykhovanets/RIOT</a><br />
+project = <a href="https://github.com/AaltoNEPPI/RIOT">github.com/AaltoNEPPI/RIOT</a><br />
+project = <a href="https://github.com/Aang-3/RIOT">github.com/Aang-3/RIOT</a><br />
+project = <a href="https://github.com/Aang23/RIOT">github.com/Aang23/RIOT</a><br />
+project = <a href="https://github.com/Aber-Lijingshu/RIOT">github.com/Aber-Lijingshu/RIOT</a><br />
+project = <a href="https://github.com/AcmeSystemsProjects/RIOT">github.com/AcmeSystemsProjects/RIOT</a><br />
+project = <a href="https://github.com/AdamRLukaitis/RIOT">github.com/AdamRLukaitis/RIOT</a><br />
+project = <a href="https://github.com/AdrianGuo/RIOT">github.com/AdrianGuo/RIOT</a><br />
+project = <a href="https://github.com/Agile-IoT/RIOT">github.com/Agile-IoT/RIOT</a><br />
+project = <a href="https://github.com/AlexShiLucky/RIOT">github.com/AlexShiLucky/RIOT</a><br />
+project = <a href="https://github.com/AlexandrSalin/RIOT">github.com/AlexandrSalin/RIOT</a><br />
+project = <a href="https://github.com/Alexmingzhi/RIOT">github.com/Alexmingzhi/RIOT</a><br />
+project = <a href="https://github.com/Allanceng/RIOT">github.com/Allanceng/RIOT</a><br />
+project = <a href="https://github.com/AltairResearch/RIOT">github.com/AltairResearch/RIOT</a><br />
+project = <a href="https://github.com/Ameya22/RIOT">github.com/Ameya22/RIOT</a><br />
+project = <a href="https://github.com/Amr221B/RIOT">github.com/Amr221B/RIOT</a><br />
+project = <a href="https://github.com/An-Andrew-Pham/RIOT-EE250">github.com/An-Andrew-Pham/RIOT-EE250</a><br />
+project = <a href="https://github.com/AnaK89/RIOT">github.com/AnaK89/RIOT</a><br />
+project = <a href="https://github.com/Angela-W/RIOT">github.com/Angela-W/RIOT</a><br />
+project = <a href="https://github.com/Ankita-Jaiswal/RIOT">github.com/Ankita-Jaiswal/RIOT</a><br />
+project = <a href="https://github.com/AnonMall/RIOT">github.com/AnonMall/RIOT</a><br />
+project = <a href="https://github.com/AppleInside/RIOT">github.com/AppleInside/RIOT</a><br />
+project = <a href="https://github.com/ArulPrasathK/RIOT">github.com/ArulPrasathK/RIOT</a><br />
+project = <a href="https://github.com/AshishkrMishra/RIOT">github.com/AshishkrMishra/RIOT</a><br />
+project = <a href="https://github.com/AskhatBaymukhamedov/RIOT">github.com/AskhatBaymukhamedov/RIOT</a><br />
+project = <a href="https://github.com/Avinash95/RIOT">github.com/Avinash95/RIOT</a><br />
+project = <a href="https://github.com/Axellant/RIOT">github.com/Axellant/RIOT</a><br />
+project = <a href="https://github.com/BOBRAPHTONE/RIOT">github.com/BOBRAPHTONE/RIOT</a><br />
+project = <a href="https://github.com/BTSGuyaderBenjamin/RIOT">github.com/BTSGuyaderBenjamin/RIOT</a><br />
+project = <a href="https://github.com/Bagginsa/RIOT">github.com/Bagginsa/RIOT</a><br />
+project = <a href="https://github.com/BamStap/RIOT">github.com/BamStap/RIOT</a><br />
+project = <a href="https://github.com/Barrymuch/RIOT">github.com/Barrymuch/RIOT</a><br />
+project = <a href="https://github.com/BenG2121/RIOT">github.com/BenG2121/RIOT</a><br />
+project = <a href="https://github.com/BigGarik/RIOT">github.com/BigGarik/RIOT</a><br />
+project = <a href="https://github.com/Bila24/RIOT">github.com/Bila24/RIOT</a><br />
+project = <a href="https://github.com/Bizordec/RIOT">github.com/Bizordec/RIOT</a><br />
+project = <a href="https://github.com/Bob-the-Kuhn/RIOT">github.com/Bob-the-Kuhn/RIOT</a><br />
+project = <a href="https://github.com/Bogatik/RIOT">github.com/Bogatik/RIOT</a><br />
+project = <a href="https://github.com/Burdaa/RIOT">github.com/Burdaa/RIOT</a><br />
+project = <a href="https://github.com/BurtonQin/RIOT">github.com/BurtonQin/RIOT</a><br />
+project = <a href="https://github.com/BytesGalore/RIOT">github.com/BytesGalore/RIOT</a><br />
+project = <a href="https://github.com/CLPopescu-1999-02/RIOT">github.com/CLPopescu-1999-02/RIOT</a><br />
+project = <a href="https://github.com/Cakhavan/RIOT-EE250">github.com/Cakhavan/RIOT-EE250</a><br />
+project = <a href="https://github.com/CaptSkull/RIOT">github.com/CaptSkull/RIOT</a><br />
+project = <a href="https://github.com/Carton32/RIOT">github.com/Carton32/RIOT</a><br />
+project = <a href="https://github.com/Circuit-killer/RIOT">github.com/Circuit-killer/RIOT</a><br />
+project = <a href="https://github.com/Citrullin/RIOT">github.com/Citrullin/RIOT</a><br />
+project = <a href="https://github.com/ClarePhang/RIOT">github.com/ClarePhang/RIOT</a><br />
+project = <a href="https://github.com/CommoDor64/RIOT">github.com/CommoDor64/RIOT</a><br />
+project = <a href="https://github.com/Conservify/RIOT">github.com/Conservify/RIOT</a><br />
+project = <a href="https://github.com/Cr0s/RIOT">github.com/Cr0s/RIOT</a><br />
+project = <a href="https://github.com/CreatorKit/RIOT-Mips">github.com/CreatorKit/RIOT-Mips</a><br />
+project = <a href="https://github.com/Cross4000/RIOT">github.com/Cross4000/RIOT</a><br />
+project = <a href="https://github.com/CrutzPan/RIOT">github.com/CrutzPan/RIOT</a><br />
+project = <a href="https://github.com/DZeyfert/RIOT">github.com/DZeyfert/RIOT</a><br />
+project = <a href="https://github.com/DamboDD/RIOT">github.com/DamboDD/RIOT</a><br />
+project = <a href="https://github.com/DapengLan/RIOT">github.com/DapengLan/RIOT</a><br />
+project = <a href="https://github.com/Darredevil/RIOT">github.com/Darredevil/RIOT</a><br />
+project = <a href="https://github.com/Deniz66/RIOT">github.com/Deniz66/RIOT</a><br />
+project = <a href="https://github.com/Derwaan/RIOT">github.com/Derwaan/RIOT</a><br />
+project = <a href="https://github.com/DipSwitch/RIOT">github.com/DipSwitch/RIOT</a><br />
+project = <a href="https://github.com/DmitryDostovalov/RIOT">github.com/DmitryDostovalov/RIOT</a><br />
+project = <a href="https://github.com/Dreyfriz/RIOT">github.com/Dreyfriz/RIOT</a><br />
+project = <a href="https://github.com/DuyTrandeLion/RIOT">github.com/DuyTrandeLion/RIOT</a><br />
+project = <a href="https://github.com/Ell-i/RIOT">github.com/Ell-i/RIOT</a><br />
+project = <a href="https://github.com/Elter71/RIOT">github.com/Elter71/RIOT</a><br />
+project = <a href="https://github.com/Eltonno/RIOT">github.com/Eltonno/RIOT</a><br />
+project = <a href="https://github.com/EmuxEvans/RIOT">github.com/EmuxEvans/RIOT</a><br />
+project = <a href="https://github.com/FeverChen/RIOT">github.com/FeverChen/RIOT</a><br />
+project = <a href="https://github.com/Flyingstone99/RIOT">github.com/Flyingstone99/RIOT</a><br />
+project = <a href="https://github.com/Former/RIOT">github.com/Former/RIOT</a><br />
+project = <a href="https://github.com/FrancescoErmini/RIOT">github.com/FrancescoErmini/RIOT</a><br />
+project = <a href="https://github.com/FuzeSoft/RIOT">github.com/FuzeSoft/RIOT</a><br />
+project = <a href="https://github.com/GHackAnonymous/RIOT">github.com/GHackAnonymous/RIOT</a><br />
+project = <a href="https://github.com/GabrielDai/RIOT">github.com/GabrielDai/RIOT</a><br />
+project = <a href="https://github.com/GeekRobert/RIOT">github.com/GeekRobert/RIOT</a><br />
+project = <a href="https://github.com/Geloi/RIOT">github.com/Geloi/RIOT</a><br />
+project = <a href="https://github.com/GenRockeR/RIOT">github.com/GenRockeR/RIOT</a><br />
+project = <a href="https://github.com/Gmedhin/RIOT">github.com/Gmedhin/RIOT</a><br />
+project = <a href="https://github.com/Goga3000/RIOT">github.com/Goga3000/RIOT</a><br />
+project = <a href="https://github.com/GoodDada/RIOT">github.com/GoodDada/RIOT</a><br />
+project = <a href="https://github.com/Gr3yh0und/RIOT">github.com/Gr3yh0und/RIOT</a><br />
+project = <a href="https://github.com/HANJINKIM/RIOT">github.com/HANJINKIM/RIOT</a><br />
+project = <a href="https://github.com/HSeemann/RIOT">github.com/HSeemann/RIOT</a><br />
+project = <a href="https://github.com/HTWDD-RN/RIOT">github.com/HTWDD-RN/RIOT</a><br />
+project = <a href="https://github.com/HaitaoLeo/RIOT">github.com/HaitaoLeo/RIOT</a><br />
+project = <a href="https://github.com/HamidiMassinissa/RIOT">github.com/HamidiMassinissa/RIOT</a><br />
+project = <a href="https://github.com/Happy-Ferret/RIOT-1">github.com/Happy-Ferret/RIOT-1</a><br />
+project = <a href="https://github.com/HarborDong/RIOT">github.com/HarborDong/RIOT</a><br />
+project = <a href="https://github.com/Hendrias/RIOT-EE250">github.com/Hendrias/RIOT-EE250</a><br />
+project = <a href="https://github.com/HendrikVE/RIOT">github.com/HendrikVE/RIOT</a><br />
+project = <a href="https://github.com/HubertXie/RIOT">github.com/HubertXie/RIOT</a><br />
+project = <a href="https://github.com/HuguLee/RIOT">github.com/HuguLee/RIOT</a><br />
+project = <a href="https://github.com/Huyfly/RIOT">github.com/Huyfly/RIOT</a><br />
+project = <a href="https://github.com/Hyungsin/RIOT-OS">github.com/Hyungsin/RIOT-OS</a><br />
+project = <a href="https://github.com/Icaltary/RIOT">github.com/Icaltary/RIOT</a><br />
+project = <a href="https://github.com/IgorBayk/RIOT">github.com/IgorBayk/RIOT</a><br />
+project = <a href="https://github.com/IgorShilov/RIOT">github.com/IgorShilov/RIOT</a><br />
+project = <a href="https://github.com/IldarValiev/RIOT">github.com/IldarValiev/RIOT</a><br />
+project = <a href="https://github.com/In0ut/RIOT">github.com/In0ut/RIOT</a><br />
+project = <a href="https://github.com/Inria-Chile/RIOT">github.com/Inria-Chile/RIOT</a><br />
+project = <a href="https://github.com/IoT6/RIOT">github.com/IoT6/RIOT</a><br />
+project = <a href="https://github.com/IoTSotA/RIOT">github.com/IoTSotA/RIOT</a><br />
+project = <a href="https://github.com/JMR-b/RIOT">github.com/JMR-b/RIOT</a><br />
+project = <a href="https://github.com/JamesLinus/RIOT">github.com/JamesLinus/RIOT</a><br />
+project = <a href="https://github.com/Janfred/RIOT">github.com/Janfred/RIOT</a><br />
+project = <a href="https://github.com/JelmerT/RIOT">github.com/JelmerT/RIOT</a><br />
+project = <a href="https://github.com/JensErdmann/RIOT">github.com/JensErdmann/RIOT</a><br />
+project = <a href="https://github.com/JensenSung/RIOT">github.com/JensenSung/RIOT</a><br />
+project = <a href="https://github.com/JerryMain/RIOT">github.com/JerryMain/RIOT</a><br />
+project = <a href="https://github.com/Jinyo-Chiu/RIOT">github.com/Jinyo-Chiu/RIOT</a><br />
+project = <a href="https://github.com/JiongFu/RIOT">github.com/JiongFu/RIOT</a><br />
+project = <a href="https://github.com/JohannesRol/RIOT">github.com/JohannesRol/RIOT</a><br />
+project = <a href="https://github.com/John-Ng/RIOT">github.com/John-Ng/RIOT</a><br />
+project = <a href="https://github.com/JonaRaemdonck/RIOT">github.com/JonaRaemdonck/RIOT</a><br />
+project = <a href="https://github.com/JonasRadtke/RIOT">github.com/JonasRadtke/RIOT</a><br />
+project = <a href="https://github.com/Josar/RIOT">github.com/Josar/RIOT</a><br />
+project = <a href="https://github.com/Josar/RIOT_XMEGA">github.com/Josar/RIOT_XMEGA</a><br />
+project = <a href="https://github.com/JulianHolzwarth/RIOT">github.com/JulianHolzwarth/RIOT</a><br />
+project = <a href="https://github.com/JulianoCristian/RIOT">github.com/JulianoCristian/RIOT</a><br />
+project = <a href="https://github.com/KamalDSOberoi/RIOT">github.com/KamalDSOberoi/RIOT</a><br />
+project = <a href="https://github.com/KarlNap/RIOT">github.com/KarlNap/RIOT</a><br />
+project = <a href="https://github.com/Karmvir5/RIOT-EE250">github.com/Karmvir5/RIOT-EE250</a><br />
+project = <a href="https://github.com/Katritz/RIOT">github.com/Katritz/RIOT</a><br />
+project = <a href="https://github.com/Kavanraj/RIOT">github.com/Kavanraj/RIOT</a><br />
+project = <a href="https://github.com/KengaRU/RIOT">github.com/KengaRU/RIOT</a><br />
+project = <a href="https://github.com/KetchupVentil/RIOT">github.com/KetchupVentil/RIOT</a><br />
+project = <a href="https://github.com/KevinYu84/RIOT">github.com/KevinYu84/RIOT</a><br />
+project = <a href="https://github.com/KhodorELKOUJOK/RIOT">github.com/KhodorELKOUJOK/RIOT</a><br />
+project = <a href="https://github.com/Kijewski/RIOT">github.com/Kijewski/RIOT</a><br />
+project = <a href="https://github.com/KillerLink/RIOT">github.com/KillerLink/RIOT</a><br />
+project = <a href="https://github.com/Koenma413/RIOT">github.com/Koenma413/RIOT</a><br />
+project = <a href="https://github.com/KomochekShersti/RIOT">github.com/KomochekShersti/RIOT</a><br />
+project = <a href="https://github.com/KuguHome/RIOT">github.com/KuguHome/RIOT</a><br />
+project = <a href="https://github.com/Kulipator/RIOT">github.com/Kulipator/RIOT</a><br />
+project = <a href="https://github.com/KumarAmitMehta/RIOT">github.com/KumarAmitMehta/RIOT</a><br />
+project = <a href="https://github.com/KyshinLiu/RIOT">github.com/KyshinLiu/RIOT</a><br />
+project = <a href="https://github.com/LGTMCU/RIOT">github.com/LGTMCU/RIOT</a><br />
+project = <a href="https://github.com/LaszloLango/RIOT">github.com/LaszloLango/RIOT</a><br />
+project = <a href="https://github.com/LenarIO/RIOT">github.com/LenarIO/RIOT</a><br />
+project = <a href="https://github.com/Lexandro92/RIOT-CoAP">github.com/Lexandro92/RIOT-CoAP</a><br />
+project = <a href="https://github.com/Lotterleben/RIOT">github.com/Lotterleben/RIOT</a><br />
+project = <a href="https://github.com/Lstallone/RIOT">github.com/Lstallone/RIOT</a><br />
+project = <a href="https://github.com/LucaZulberti/RIOT">github.com/LucaZulberti/RIOT</a><br />
+project = <a href="https://github.com/LudwigKnuepfer/RIOT">github.com/LudwigKnuepfer/RIOT</a><br />
+project = <a href="https://github.com/LudwigOrtmann/RIOT">github.com/LudwigOrtmann/RIOT</a><br />
+project = <a href="https://github.com/Lydrin/RIOT">github.com/Lydrin/RIOT</a><br />
+project = <a href="https://github.com/MKot13/RIOT">github.com/MKot13/RIOT</a><br />
+project = <a href="https://github.com/MOSAIC-LoPoW/RIOT">github.com/MOSAIC-LoPoW/RIOT</a><br />
+project = <a href="https://github.com/MaLa-HAW/RIOT">github.com/MaLa-HAW/RIOT</a><br />
+project = <a href="https://github.com/MailiLoh/RIOT">github.com/MailiLoh/RIOT</a><br />
+project = <a href="https://github.com/Manchenkoos/RIOT">github.com/Manchenkoos/RIOT</a><br />
+project = <a href="https://github.com/Manoharsai/RIOT">github.com/Manoharsai/RIOT</a><br />
+project = <a href="https://github.com/Manu2312/RIOT">github.com/Manu2312/RIOT</a><br />
+project = <a href="https://github.com/Marc-Aurele/RIOT">github.com/Marc-Aurele/RIOT</a><br />
+project = <a href="https://github.com/MarkXYang/RIOT">github.com/MarkXYang/RIOT</a><br />
+project = <a href="https://github.com/Marrakchino/RIOT">github.com/Marrakchino/RIOT</a><br />
+project = <a href="https://github.com/MartinaFHCW/RIOT">github.com/MartinaFHCW/RIOT</a><br />
+project = <a href="https://github.com/MatKub/RIOT">github.com/MatKub/RIOT</a><br />
+project = <a href="https://github.com/Mecabot/RIOT">github.com/Mecabot/RIOT</a><br />
+project = <a href="https://github.com/MichelRottleuthner/RIOT">github.com/MichelRottleuthner/RIOT</a><br />
+project = <a href="https://github.com/Misaka0x2730/RIOT">github.com/Misaka0x2730/RIOT</a><br />
+project = <a href="https://github.com/Mizyukanova/RIOT">github.com/Mizyukanova/RIOT</a><br />
+project = <a href="https://github.com/MohamedSeliem/RIOT">github.com/MohamedSeliem/RIOT</a><br />
+project = <a href="https://github.com/MohmadAyman/RIOT">github.com/MohmadAyman/RIOT</a><br />
+project = <a href="https://github.com/MonsterCode8000/RIOT">github.com/MonsterCode8000/RIOT</a><br />
+project = <a href="https://github.com/Mr-Jason-Sam/RIOT">github.com/Mr-Jason-Sam/RIOT</a><br />
+project = <a href="https://github.com/MrFresh1/RIOT">github.com/MrFresh1/RIOT</a><br />
+project = <a href="https://github.com/MrKevinWeiss/RIOT">github.com/MrKevinWeiss/RIOT</a><br />
+project = <a href="https://github.com/Mucka/RIOT">github.com/Mucka/RIOT</a><br />
+project = <a href="https://github.com/MuhammadTanweer/RIOT">github.com/MuhammadTanweer/RIOT</a><br />
+project = <a href="https://github.com/MxMalk/RIOT">github.com/MxMalk/RIOT</a><br />
+project = <a href="https://github.com/MyCodeMyMoney/RIOT">github.com/MyCodeMyMoney/RIOT</a><br />
+project = <a href="https://github.com/N5FPP/RIOT">github.com/N5FPP/RIOT</a><br />
+project = <a href="https://github.com/NERD-Repo/RIOT">github.com/NERD-Repo/RIOT</a><br />
+project = <a href="https://github.com/NEXTLEO/RIOT">github.com/NEXTLEO/RIOT</a><br />
+project = <a href="https://github.com/NLardenois/RIOT">github.com/NLardenois/RIOT</a><br />
+project = <a href="https://github.com/Na55im/RIOT">github.com/Na55im/RIOT</a><br />
+project = <a href="https://github.com/Nenaco/RIOT">github.com/Nenaco/RIOT</a><br />
+project = <a href="https://github.com/NickMinnellaCS96/RIOT">github.com/NickMinnellaCS96/RIOT</a><br />
+project = <a href="https://github.com/NilayPachauri/RIOT-EE250">github.com/NilayPachauri/RIOT-EE250</a><br />
+project = <a href="https://github.com/Nilshut/RIOT">github.com/Nilshut/RIOT</a><br />
+project = <a href="https://github.com/Nishchay-sopho/RIOT-Bundle-Protocol">github.com/Nishchay-sopho/RIOT-Bundle-Protocol</a><br />
+project = <a href="https://github.com/Nmeum/RIOT">github.com/Nmeum/RIOT</a><br />
+project = <a href="https://github.com/OTAkeys/RIOT">github.com/OTAkeys/RIOT</a><br />
+project = <a href="https://github.com/OYTIS/RIOT">github.com/OYTIS/RIOT</a><br />
+project = <a href="https://github.com/OYTIS/RIOT-kea">github.com/OYTIS/RIOT-kea</a><br />
+project = <a href="https://github.com/OlegHahm/RIOT">github.com/OlegHahm/RIOT</a><br />
+project = <a href="https://github.com/OnsetComputerCorp/RIOT">github.com/OnsetComputerCorp/RIOT</a><br />
+project = <a href="https://github.com/Osarua/RIOT">github.com/Osarua/RIOT</a><br />
+project = <a href="https://github.com/Osblouf/RIOT">github.com/Osblouf/RIOT</a><br />
+project = <a href="https://github.com/Otmane123/RIOT">github.com/Otmane123/RIOT</a><br />
+project = <a href="https://github.com/Ouss4/RIOT">github.com/Ouss4/RIOT</a><br />
+project = <a href="https://github.com/OverDriveGain/RIOT">github.com/OverDriveGain/RIOT</a><br />
+project = <a href="https://github.com/PONFmodular/RIOT">github.com/PONFmodular/RIOT</a><br />
+project = <a href="https://github.com/ParksProjets/RIOT">github.com/ParksProjets/RIOT</a><br />
+project = <a href="https://github.com/PavelVorobyev97/RIOT">github.com/PavelVorobyev97/RIOT</a><br />
+project = <a href="https://github.com/PeterKietzmann/RIOT">github.com/PeterKietzmann/RIOT</a><br />
+project = <a href="https://github.com/PeterKietzmann/RIOT-EWSN16-Demo">github.com/PeterKietzmann/RIOT-EWSN16-Demo</a><br />
+project = <a href="https://github.com/PiWare/RIOT">github.com/PiWare/RIOT</a><br />
+project = <a href="https://github.com/PisalPrasad123/RIOT">github.com/PisalPrasad123/RIOT</a><br />
+project = <a href="https://github.com/PowerProfiler/RIOT">github.com/PowerProfiler/RIOT</a><br />
+project = <a href="https://github.com/Probelp/RIOT">github.com/Probelp/RIOT</a><br />
+project = <a href="https://github.com/RBartz/RIOT">github.com/RBartz/RIOT</a><br />
+project = <a href="https://github.com/RF-Networks/RIOT">github.com/RF-Networks/RIOT</a><br />
+project = <a href="https://github.com/RIOT-OS/RIOT">github.com/RIOT-OS/RIOT</a><br />
+project = <a href="https://github.com/RWTH-OS/RIOT">github.com/RWTH-OS/RIOT</a><br />
+project = <a href="https://github.com/RaphaelBidaud/RIOT">github.com/RaphaelBidaud/RIOT</a><br />
+project = <a href="https://github.com/RasmusAntons/RIOT">github.com/RasmusAntons/RIOT</a><br />
+project = <a href="https://github.com/ReneHerthel/RIOT">github.com/ReneHerthel/RIOT</a><br />
+project = <a href="https://github.com/RichardH92/RIOT">github.com/RichardH92/RIOT</a><br />
+project = <a href="https://github.com/Ritishk12/RIOT">github.com/Ritishk12/RIOT</a><br />
+project = <a href="https://github.com/Rotzbua/RIOT">github.com/Rotzbua/RIOT</a><br />
+project = <a href="https://github.com/RoySCU/RIOT">github.com/RoySCU/RIOT</a><br />
+project = <a href="https://github.com/RubikonAlpha/RIOT">github.com/RubikonAlpha/RIOT</a><br />
+project = <a href="https://github.com/Rufwame/RIOT">github.com/Rufwame/RIOT</a><br />
+project = <a href="https://github.com/RumBlalGalaxy/RIOT">github.com/RumBlalGalaxy/RIOT</a><br />
+project = <a href="https://github.com/SCiMOS/RIOT">github.com/SCiMOS/RIOT</a><br />
+project = <a href="https://github.com/SSV-embedded/RIOT">github.com/SSV-embedded/RIOT</a><br />
+project = <a href="https://github.com/SWIE-IO/RIOT">github.com/SWIE-IO/RIOT</a><br />
+project = <a href="https://github.com/SaiNavyaNelavelli/RIOT">github.com/SaiNavyaNelavelli/RIOT</a><br />
+project = <a href="https://github.com/Salomonic/RIOT">github.com/Salomonic/RIOT</a><br />
+project = <a href="https://github.com/Sarajova/RIOT">github.com/Sarajova/RIOT</a><br />
+project = <a href="https://github.com/SebastianSzymczak/RIOT">github.com/SebastianSzymczak/RIOT</a><br />
+project = <a href="https://github.com/SebastianWilkes/RIOT">github.com/SebastianWilkes/RIOT</a><br />
+project = <a href="https://github.com/SemjonKerner/RIOT">github.com/SemjonKerner/RIOT</a><br />
+project = <a href="https://github.com/Slider043/RIOT">github.com/Slider043/RIOT</a><br />
+project = <a href="https://github.com/SmallSharky/riot-edu">github.com/SmallSharky/riot-edu</a><br />
+project = <a href="https://github.com/Subor-gfraf/RIOT">github.com/Subor-gfraf/RIOT</a><br />
+project = <a href="https://github.com/TaquyeddineZegaoui/RIOT">github.com/TaquyeddineZegaoui/RIOT</a><br />
+project = <a href="https://github.com/ThanhVic/RIOT">github.com/ThanhVic/RIOT</a><br />
+project = <a href="https://github.com/TheSkape/RIOT">github.com/TheSkape/RIOT</a><br />
+project = <a href="https://github.com/TheSwagMan/riot_test">github.com/TheSwagMan/riot_test</a><br />
+project = <a href="https://github.com/TizenTeam/RIOT">github.com/TizenTeam/RIOT</a><br />
+project = <a href="https://github.com/TobiasFredersdorf/RIOT">github.com/TobiasFredersdorf/RIOT</a><br />
+project = <a href="https://github.com/VALaptev/RIOT">github.com/VALaptev/RIOT</a><br />
+project = <a href="https://github.com/ViktorVaczi90/RIOT">github.com/ViktorVaczi90/RIOT</a><br />
+project = <a href="https://github.com/VilleHiltunen/RIOT">github.com/VilleHiltunen/RIOT</a><br />
+project = <a href="https://github.com/Waldgeist84/RIOT">github.com/Waldgeist84/RIOT</a><br />
+project = <a href="https://github.com/aabadie/RIOT">github.com/aabadie/RIOT</a><br />
+project = <a href="https://github.com/abkam07/RIOT">github.com/abkam07/RIOT</a><br />
+project = <a href="https://github.com/abp719/RIOT">github.com/abp719/RIOT</a><br />
+project = <a href="https://github.com/adityaseven/RIOT">github.com/adityaseven/RIOT</a><br />
+project = <a href="https://github.com/alex1818/RIOT">github.com/alex1818/RIOT</a><br />
+project = <a href="https://github.com/alexiss03/riot-os-cs250">github.com/alexiss03/riot-os-cs250</a><br />
+project = <a href="https://github.com/altairpearl/RIOT">github.com/altairpearl/RIOT</a><br />
+project = <a href="https://github.com/andrlee/RIOT">github.com/andrlee/RIOT</a><br />
+project = <a href="https://github.com/anurudh27/RIOT">github.com/anurudh27/RIOT</a><br />
+project = <a href="https://github.com/arvindpdmn/RIOT">github.com/arvindpdmn/RIOT</a><br />
+project = <a href="https://github.com/asdjah/RIOT">github.com/asdjah/RIOT</a><br />
+project = <a href="https://github.com/aspyver/RIOT">github.com/aspyver/RIOT</a><br />
+project = <a href="https://github.com/asquini/RIOT">github.com/asquini/RIOT</a><br />
+project = <a href="https://github.com/attdona/RIOT">github.com/attdona/RIOT</a><br />
+project = <a href="https://github.com/authmillenon/RIOT">github.com/authmillenon/RIOT</a><br />
+project = <a href="https://github.com/automote/RIOT">github.com/automote/RIOT</a><br />
+project = <a href="https://github.com/avmelnikoff/RIOT">github.com/avmelnikoff/RIOT</a><br />
+project = <a href="https://github.com/ayush7gupta/IPv4_Riot">github.com/ayush7gupta/IPv4_Riot</a><br />
+project = <a href="https://github.com/basilfx/RIOT">github.com/basilfx/RIOT</a><br />
+project = <a href="https://github.com/beduino-project/RIOT">github.com/beduino-project/RIOT</a><br />
+project = <a href="https://github.com/beduino-project/RIOT-POLICE">github.com/beduino-project/RIOT-POLICE</a><br />
+project = <a href="https://github.com/benemorius/RIOT">github.com/benemorius/RIOT</a><br />
+project = <a href="https://github.com/benpicco/RIOT">github.com/benpicco/RIOT</a><br />
+project = <a href="https://github.com/berbecche/RIOT">github.com/berbecche/RIOT</a><br />
+project = <a href="https://github.com/bergzand/RIOT">github.com/bergzand/RIOT</a><br />
+project = <a href="https://github.com/beurdouche/RIOT">github.com/beurdouche/RIOT</a><br />
+project = <a href="https://github.com/bhargav2408/RIOT">github.com/bhargav2408/RIOT</a><br />
+project = <a href="https://github.com/biboc/RIOT">github.com/biboc/RIOT</a><br />
+project = <a href="https://github.com/billyzhaoj/RIOT-OS">github.com/billyzhaoj/RIOT-OS</a><br />
+project = <a href="https://github.com/binarylemon/RIOT">github.com/binarylemon/RIOT</a><br />
+project = <a href="https://github.com/bitbucket.org/jcarrano_riot-os">github.com/bitbucket.org/jcarrano_riot-os</a><br />
+project = <a href="https://github.com/bitbucket.org/nbmaiti_riot">github.com/bitbucket.org/nbmaiti_riot</a><br />
+project = <a href="https://github.com/blaisehorvath/RIOT">github.com/blaisehorvath/RIOT</a><br />
+project = <a href="https://github.com/bmd00bmd/KubOS">github.com/bmd00bmd/KubOS</a><br />
+project = <a href="https://github.com/bradzieminski/RIOT-EE250">github.com/bradzieminski/RIOT-EE250</a><br />
+project = <a href="https://github.com/brettswann/RIOT">github.com/brettswann/RIOT</a><br />
+project = <a href="https://github.com/brummer-simon/RIOT">github.com/brummer-simon/RIOT</a><br />
+project = <a href="https://github.com/bumpy-b/RIOT">github.com/bumpy-b/RIOT</a><br />
+project = <a href="https://github.com/bygit/RIOT">github.com/bygit/RIOT</a><br />
+project = <a href="https://github.com/cha63506/RIOT">github.com/cha63506/RIOT</a><br />
+project = <a href="https://github.com/checorone/motoguard-enddevice">github.com/checorone/motoguard-enddevice</a><br />
+project = <a href="https://github.com/clem-bluefruit/RIOT">github.com/clem-bluefruit/RIOT</a><br />
+project = <a href="https://github.com/codeForSaif/RIOT">github.com/codeForSaif/RIOT</a><br />
+project = <a href="https://github.com/crest42/RIOT">github.com/crest42/RIOT</a><br />
+project = <a href="https://github.com/czarsir/RIOT">github.com/czarsir/RIOT</a><br />
+project = <a href="https://github.com/czoksu/RIOT">github.com/czoksu/RIOT</a><br />
+project = <a href="https://github.com/d00616/RIOT">github.com/d00616/RIOT</a><br />
+project = <a href="https://github.com/d12y12/RIOT">github.com/d12y12/RIOT</a><br />
+project = <a href="https://github.com/daemory/RIOT">github.com/daemory/RIOT</a><br />
+project = <a href="https://github.com/dailab/RIOT">github.com/dailab/RIOT</a><br />
+project = <a href="https://github.com/danebennett/RIOT">github.com/danebennett/RIOT</a><br />
+project = <a href="https://github.com/daniel-k/RIOT">github.com/daniel-k/RIOT</a><br />
+project = <a href="https://github.com/daniel-kelley/RIOT">github.com/daniel-kelley/RIOT</a><br />
+project = <a href="https://github.com/danielamkaer/RIOT">github.com/danielamkaer/RIOT</a><br />
+project = <a href="https://github.com/danielinux/RIOT">github.com/danielinux/RIOT</a><br />
+project = <a href="https://github.com/danpetry/RIOT">github.com/danpetry/RIOT</a><br />
+project = <a href="https://github.com/datachi7d/RIOT">github.com/datachi7d/RIOT</a><br />
+project = <a href="https://github.com/davidmr001/RIOT">github.com/davidmr001/RIOT</a><br />
+project = <a href="https://github.com/davidvalarezo/RIOT">github.com/davidvalarezo/RIOT</a><br />
+project = <a href="https://github.com/davidvalarezo/RIOT-1">github.com/davidvalarezo/RIOT-1</a><br />
+project = <a href="https://github.com/dbohn/RIOT">github.com/dbohn/RIOT</a><br />
+project = <a href="https://github.com/dboschm/RIOT-Xtensa-ESP">github.com/dboschm/RIOT-Xtensa-ESP</a><br />
+project = <a href="https://github.com/ddiddlepants/RIOT-EE250">github.com/ddiddlepants/RIOT-EE250</a><br />
+project = <a href="https://github.com/ddreyer/RIOT-OS">github.com/ddreyer/RIOT-OS</a><br />
+project = <a href="https://github.com/ddreyer/RIOT-OS-1">github.com/ddreyer/RIOT-OS-1</a><br />
+project = <a href="https://github.com/ddreyer/RIOT-OS-class">github.com/ddreyer/RIOT-OS-class</a><br />
+project = <a href="https://github.com/ddreyer/openthread">github.com/ddreyer/openthread</a><br />
+project = <a href="https://github.com/decolnz/RIOT">github.com/decolnz/RIOT</a><br />
+project = <a href="https://github.com/deepfryed/RIOT">github.com/deepfryed/RIOT</a><br />
+project = <a href="https://github.com/deniskropp/RIOT">github.com/deniskropp/RIOT</a><br />
+project = <a href="https://github.com/denizs/RIOT">github.com/denizs/RIOT</a><br />
+project = <a href="https://github.com/denizs/riot">github.com/denizs/riot</a><br />
+project = <a href="https://github.com/denykk/RIOT">github.com/denykk/RIOT</a><br />
+project = <a href="https://github.com/derf/RIOT">github.com/derf/RIOT</a><br />
+project = <a href="https://github.com/devantormey/RIOT-EE250">github.com/devantormey/RIOT-EE250</a><br />
+project = <a href="https://github.com/deviance/RIOT">github.com/deviance/RIOT</a><br />
+project = <a href="https://github.com/dhruvvyas90/RIOT">github.com/dhruvvyas90/RIOT</a><br />
+project = <a href="https://github.com/diddyhsv/RIOT">github.com/diddyhsv/RIOT</a><br />
+project = <a href="https://github.com/dkazantzas/RIOT">github.com/dkazantzas/RIOT</a><br />
+project = <a href="https://github.com/dkm/RIOT">github.com/dkm/RIOT</a><br />
+project = <a href="https://github.com/dmdsouza/RIOT">github.com/dmdsouza/RIOT</a><br />
+project = <a href="https://github.com/dmoldova/RIOT-EE250">github.com/dmoldova/RIOT-EE250</a><br />
+project = <a href="https://github.com/docdor/RIOT">github.com/docdor/RIOT</a><br />
+project = <a href="https://github.com/dongdongbh/RIOT">github.com/dongdongbh/RIOT</a><br />
+project = <a href="https://github.com/dongkc/RIOT">github.com/dongkc/RIOT</a><br />
+project = <a href="https://github.com/doniexun/RIOT">github.com/doniexun/RIOT</a><br />
+project = <a href="https://github.com/dorukarda/RIOT">github.com/dorukarda/RIOT</a><br />
+project = <a href="https://github.com/doudoudq/RIOT">github.com/doudoudq/RIOT</a><br />
+project = <a href="https://github.com/drasko/RIOT">github.com/drasko/RIOT</a><br />
+project = <a href="https://github.com/drcef/RIOT">github.com/drcef/RIOT</a><br />
+project = <a href="https://github.com/drmrboy/RIOT">github.com/drmrboy/RIOT</a><br />
+project = <a href="https://github.com/duanlv/RIOT">github.com/duanlv/RIOT</a><br />
+project = <a href="https://github.com/dut3062796s/RIOT-1">github.com/dut3062796s/RIOT-1</a><br />
+project = <a href="https://github.com/duv16/RIOT">github.com/duv16/RIOT</a><br />
+project = <a href="https://github.com/dylad/RIOT">github.com/dylad/RIOT</a><br />
+project = <a href="https://github.com/eacioffi/RIOT-EE250">github.com/eacioffi/RIOT-EE250</a><br />
+project = <a href="https://github.com/ecioffi/RIOT-EE250">github.com/ecioffi/RIOT-EE250</a><br />
+project = <a href="https://github.com/edgarmar2/RIOT-EE250">github.com/edgarmar2/RIOT-EE250</a><br />
+project = <a href="https://github.com/eeinz/RIOT">github.com/eeinz/RIOT</a><br />
+project = <a href="https://github.com/eerokhakala/RIOT">github.com/eerokhakala/RIOT</a><br />
+project = <a href="https://github.com/eggfly/RIOT">github.com/eggfly/RIOT</a><br />
+project = <a href="https://github.com/ehsanamin1990/RIOT">github.com/ehsanamin1990/RIOT</a><br />
+project = <a href="https://github.com/einars/RIOT">github.com/einars/RIOT</a><br />
+project = <a href="https://github.com/eistec/RIOT">github.com/eistec/RIOT</a><br />
+project = <a href="https://github.com/elecfist/RIOT">github.com/elecfist/RIOT</a><br />
+project = <a href="https://github.com/elix22/RIOT">github.com/elix22/RIOT</a><br />
+project = <a href="https://github.com/elvaigh/RIOT">github.com/elvaigh/RIOT</a><br />
+project = <a href="https://github.com/emmanuelsearch/RIOT">github.com/emmanuelsearch/RIOT</a><br />
+project = <a href="https://github.com/emuhedo/RIOT">github.com/emuhedo/RIOT</a><br />
+project = <a href="https://github.com/enzingerm/RIOT">github.com/enzingerm/RIOT</a><br />
+project = <a href="https://github.com/ericyao2013/RIOT">github.com/ericyao2013/RIOT</a><br />
+project = <a href="https://github.com/erlerobot/RIOT">github.com/erlerobot/RIOT</a><br />
+project = <a href="https://github.com/euboss/RIOT">github.com/euboss/RIOT</a><br />
+project = <a href="https://github.com/eugenscobich/RIOT">github.com/eugenscobich/RIOT</a><br />
+project = <a href="https://github.com/fajb/RIOT">github.com/fajb/RIOT</a><br />
+project = <a href="https://github.com/fanghuaqi/RIOT">github.com/fanghuaqi/RIOT</a><br />
+project = <a href="https://github.com/fanxiaohui/RIOT">github.com/fanxiaohui/RIOT</a><br />
+project = <a href="https://github.com/fbsder/RIOT">github.com/fbsder/RIOT</a><br />
+project = <a href="https://github.com/fcgdam/RIOT">github.com/fcgdam/RIOT</a><br />
+project = <a href="https://github.com/fedepell/RIOT">github.com/fedepell/RIOT</a><br />
+project = <a href="https://github.com/fesselk/RIOT">github.com/fesselk/RIOT</a><br />
+project = <a href="https://github.com/fetmos/RIOT">github.com/fetmos/RIOT</a><br />
+project = <a href="https://github.com/fhessel/RIOT">github.com/fhessel/RIOT</a><br />
+project = <a href="https://github.com/fjmolinas/RIOT">github.com/fjmolinas/RIOT</a><br />
+project = <a href="https://github.com/flavius-aetios/RIOT">github.com/flavius-aetios/RIOT</a><br />
+project = <a href="https://github.com/flipreverse/RIOT">github.com/flipreverse/RIOT</a><br />
+project = <a href="https://github.com/florian-jean/RIOT">github.com/florian-jean/RIOT</a><br />
+project = <a href="https://github.com/flyhigh46/RIOT">github.com/flyhigh46/RIOT</a><br />
+project = <a href="https://github.com/fokin91/RIOT">github.com/fokin91/RIOT</a><br />
+project = <a href="https://github.com/fozc/RIOT">github.com/fozc/RIOT</a><br />
+project = <a href="https://github.com/fragomr/RIOT">github.com/fragomr/RIOT</a><br />
+project = <a href="https://github.com/francois-berder-imgtec/RIOT">github.com/francois-berder-imgtec/RIOT</a><br />
+project = <a href="https://github.com/francois-berder/RIOT">github.com/francois-berder/RIOT</a><br />
+project = <a href="https://github.com/frankamente/RIOT">github.com/frankamente/RIOT</a><br />
+project = <a href="https://github.com/freemanZYQ/RIOT">github.com/freemanZYQ/RIOT</a><br />
+project = <a href="https://github.com/fsolanod/RIOT">github.com/fsolanod/RIOT</a><br />
+project = <a href="https://github.com/fu-ilab-swp18/RIOT">github.com/fu-ilab-swp18/RIOT</a><br />
+project = <a href="https://github.com/fu-ilab-swp18/RIOT_pflanzen1">github.com/fu-ilab-swp18/RIOT_pflanzen1</a><br />
+project = <a href="https://github.com/fu-inet-swp17/RIOT">github.com/fu-inet-swp17/RIOT</a><br />
+project = <a href="https://github.com/future-proof-iot/RIOT">github.com/future-proof-iot/RIOT</a><br />
+project = <a href="https://github.com/fvacek/RIOT">github.com/fvacek/RIOT</a><br />
+project = <a href="https://github.com/fzi-forschungszentrum-informatik/RIOT64">github.com/fzi-forschungszentrum-informatik/RIOT64</a><br />
+project = <a href="https://github.com/fzy-Line/RIOT">github.com/fzy-Line/RIOT</a><br />
+project = <a href="https://github.com/gandy555/RIOT">github.com/gandy555/RIOT</a><br />
+project = <a href="https://github.com/gautric/RIOT">github.com/gautric/RIOT</a><br />
+project = <a href="https://github.com/gbarnett/RIOT">github.com/gbarnett/RIOT</a><br />
+project = <a href="https://github.com/gdoffe/RIOT">github.com/gdoffe/RIOT</a><br />
+project = <a href="https://github.com/george-hopkins/RIOT">github.com/george-hopkins/RIOT</a><br />
+project = <a href="https://github.com/geromueller/RIOT">github.com/geromueller/RIOT</a><br />
+project = <a href="https://github.com/gh18/RIOT">github.com/gh18/RIOT</a><br />
+project = <a href="https://github.com/ghavag/RIOT">github.com/ghavag/RIOT</a><br />
+project = <a href="https://github.com/ghice/RIOT">github.com/ghice/RIOT</a><br />
+project = <a href="https://github.com/ginetrix/RIOT">github.com/ginetrix/RIOT</a><br />
+project = <a href="https://github.com/girisugu2/RIOT">github.com/girisugu2/RIOT</a><br />
+project = <a href="https://github.com/girtsf/RIOT">github.com/girtsf/RIOT</a><br />
+project = <a href="https://github.com/gitcreater/RIOT">github.com/gitcreater/RIOT</a><br />
+project = <a href="https://github.com/gitlab.com/Gvanroon_RIOT">github.com/gitlab.com/Gvanroon_RIOT</a><br />
+project = <a href="https://github.com/gitlab.com/Spence_RIOT">github.com/gitlab.com/Spence_RIOT</a><br />
+project = <a href="https://github.com/gitlab.com/anilkumarsoma_RIOT">github.com/gitlab.com/anilkumarsoma_RIOT</a><br />
+project = <a href="https://github.com/gitlab.com/cellu_cc_riot">github.com/gitlab.com/cellu_cc_riot</a><br />
+project = <a href="https://github.com/gitlab.com/frankamente_RIOT">github.com/gitlab.com/frankamente_RIOT</a><br />
+project = <a href="https://github.com/gitlab.com/gspu_RIOT">github.com/gitlab.com/gspu_RIOT</a><br />
+project = <a href="https://github.com/gitlab.com/nicholas_jackson_RIOT">github.com/gitlab.com/nicholas_jackson_RIOT</a><br />
+project = <a href="https://github.com/gitlab.com/openrov_trident/trident-fw-samd">github.com/gitlab.com/openrov_trident/trident-fw-samd</a><br />
+project = <a href="https://github.com/gitlab.com/openrov_trident_trident-fw-samd">github.com/gitlab.com/openrov_trident_trident-fw-samd</a><br />
+project = <a href="https://github.com/gitlab.com/rhr407_RIOT">github.com/gitlab.com/rhr407_RIOT</a><br />
+project = <a href="https://github.com/gitlab.com/scanf_RIOT">github.com/gitlab.com/scanf_RIOT</a><br />
+project = <a href="https://github.com/gitlab.com/theja0473_RIOT">github.com/gitlab.com/theja0473_RIOT</a><br />
+project = <a href="https://github.com/gitlab.com/wsymons_riot">github.com/gitlab.com/wsymons_riot</a><br />
+project = <a href="https://github.com/glloydNAT/RIOT">github.com/glloydNAT/RIOT</a><br />
+project = <a href="https://github.com/gmsotavio/RIOT">github.com/gmsotavio/RIOT</a><br />
+project = <a href="https://github.com/gon1332/RIOT">github.com/gon1332/RIOT</a><br />
+project = <a href="https://github.com/gongfna/RIOT">github.com/gongfna/RIOT</a><br />
+project = <a href="https://github.com/gorbondiga/RIOT">github.com/gorbondiga/RIOT</a><br />
+project = <a href="https://github.com/gosticks/RIOT">github.com/gosticks/RIOT</a><br />
+project = <a href="https://github.com/graznik/RIOT">github.com/graznik/RIOT</a><br />
+project = <a href="https://github.com/groessler/RIOT">github.com/groessler/RIOT</a><br />
+project = <a href="https://github.com/gschorcht/RIOT">github.com/gschorcht/RIOT</a><br />
+project = <a href="https://github.com/gschorcht/RIOT-Xtensa-ESP">github.com/gschorcht/RIOT-Xtensa-ESP</a><br />
+project = <a href="https://github.com/gschorcht/RIOT-Xtensa-ESP8266">github.com/gschorcht/RIOT-Xtensa-ESP8266</a><br />
+project = <a href="https://github.com/gtrpucp/RIOT">github.com/gtrpucp/RIOT</a><br />
+project = <a href="https://github.com/gustavovelascoh/RIOT">github.com/gustavovelascoh/RIOT</a><br />
+project = <a href="https://github.com/gutorevoredo/RIOT">github.com/gutorevoredo/RIOT</a><br />
+project = <a href="https://github.com/guzenkovalexey/RIOT">github.com/guzenkovalexey/RIOT</a><br />
+project = <a href="https://github.com/gvz/RIOT">github.com/gvz/RIOT</a><br />
+project = <a href="https://github.com/h4nt/RIOT">github.com/h4nt/RIOT</a><br />
+project = <a href="https://github.com/habibzadeh/RIOT">github.com/habibzadeh/RIOT</a><br />
+project = <a href="https://github.com/hackerspacesv/RIOT">github.com/hackerspacesv/RIOT</a><br />
+project = <a href="https://github.com/hahchenchen/RIOT">github.com/hahchenchen/RIOT</a><br />
+project = <a href="https://github.com/haithemsekri/RIOT">github.com/haithemsekri/RIOT</a><br />
+project = <a href="https://github.com/hallo-alex/RIOT">github.com/hallo-alex/RIOT</a><br />
+project = <a href="https://github.com/hamilton-mote/RIOT-OS">github.com/hamilton-mote/RIOT-OS</a><br />
+project = <a href="https://github.com/hamilton-mote/RiSyn">github.com/hamilton-mote/RiSyn</a><br />
+project = <a href="https://github.com/haoyangyu/RIOT">github.com/haoyangyu/RIOT</a><br />
+project = <a href="https://github.com/harrisonforch/RIOT-EE250">github.com/harrisonforch/RIOT-EE250</a><br />
+project = <a href="https://github.com/harunoni/RIOT">github.com/harunoni/RIOT</a><br />
+project = <a href="https://github.com/haukepetersen/RIOT">github.com/haukepetersen/RIOT</a><br />
+project = <a href="https://github.com/heavybro/RIOT">github.com/heavybro/RIOT</a><br />
+project = <a href="https://github.com/herrfz/RIOT">github.com/herrfz/RIOT</a><br />
+project = <a href="https://github.com/hhhhhhlc/RIOT">github.com/hhhhhhlc/RIOT</a><br />
+project = <a href="https://github.com/hhy5277/RIOT-1">github.com/hhy5277/RIOT-1</a><br />
+project = <a href="https://github.com/hongkiaong/RIOT">github.com/hongkiaong/RIOT</a><br />
+project = <a href="https://github.com/houmway/RIOT">github.com/houmway/RIOT</a><br />
+project = <a href="https://github.com/hpu07/RIOT">github.com/hpu07/RIOT</a><br />
+project = <a href="https://github.com/huanquan/RIOT">github.com/huanquan/RIOT</a><br />
+project = <a href="https://github.com/huide9/RIOT">github.com/huide9/RIOT</a><br />
+project = <a href="https://github.com/huleg/RIOT">github.com/huleg/RIOT</a><br />
+project = <a href="https://github.com/huypq6/RIOT">github.com/huypq6/RIOT</a><br />
+project = <a href="https://github.com/i-spark/RIOT">github.com/i-spark/RIOT</a><br />
+project = <a href="https://github.com/i53-infrastructure/RIOT">github.com/i53-infrastructure/RIOT</a><br />
+project = <a href="https://github.com/iam-thanwa-io/RIOT">github.com/iam-thanwa-io/RIOT</a><br />
+project = <a href="https://github.com/iambijusnair/RIOT">github.com/iambijusnair/RIOT</a><br />
+project = <a href="https://github.com/ibr-cm/RIOT">github.com/ibr-cm/RIOT</a><br />
+project = <a href="https://github.com/ibriano/RIOT">github.com/ibriano/RIOT</a><br />
+project = <a href="https://github.com/icube-inetlab/RIOT-OS">github.com/icube-inetlab/RIOT-OS</a><br />
+project = <a href="https://github.com/igrik82/RIOT">github.com/igrik82/RIOT</a><br />
+project = <a href="https://github.com/iia/RIOT">github.com/iia/RIOT</a><br />
+project = <a href="https://github.com/ijip/RIOT">github.com/ijip/RIOT</a><br />
+project = <a href="https://github.com/ikshin416/RIOT">github.com/ikshin416/RIOT</a><br />
+project = <a href="https://github.com/ikvm/RIOT-1">github.com/ikvm/RIOT-1</a><br />
+project = <a href="https://github.com/iliessens/RIOT">github.com/iliessens/RIOT</a><br />
+project = <a href="https://github.com/ilya-dubinsky/RIOT">github.com/ilya-dubinsky/RIOT</a><br />
+project = <a href="https://github.com/ilya-epifanov/RIOT">github.com/ilya-epifanov/RIOT</a><br />
+project = <a href="https://github.com/immesys/RIOT">github.com/immesys/RIOT</a><br />
+project = <a href="https://github.com/immesys/RiSyn">github.com/immesys/RiSyn</a><br />
+project = <a href="https://github.com/inetrg/RIOT">github.com/inetrg/RIOT</a><br />
+project = <a href="https://github.com/injxgj/RIOT">github.com/injxgj/RIOT</a><br />
+project = <a href="https://github.com/internet-of-plants/RIOT">github.com/internet-of-plants/RIOT</a><br />
+project = <a href="https://github.com/iocainst/RIOT">github.com/iocainst/RIOT</a><br />
+project = <a href="https://github.com/iot-alex/RIOT">github.com/iot-alex/RIOT</a><br />
+project = <a href="https://github.com/iot-lab/riot-upstream">github.com/iot-lab/riot-upstream</a><br />
+project = <a href="https://github.com/iota-community/BLE-environment-sensor">github.com/iota-community/BLE-environment-sensor</a><br />
+project = <a href="https://github.com/iota-community/thingy52-env-sensor">github.com/iota-community/thingy52-env-sensor</a><br />
+project = <a href="https://github.com/iothon/RIOT">github.com/iothon/RIOT</a><br />
+project = <a href="https://github.com/iotlibrary/RIOT">github.com/iotlibrary/RIOT</a><br />
+project = <a href="https://github.com/iotvietmember/RIOT">github.com/iotvietmember/RIOT</a><br />
+project = <a href="https://github.com/iplon/RIOT">github.com/iplon/RIOT</a><br />
+project = <a href="https://github.com/ironeagle-ir/RIOT">github.com/ironeagle-ir/RIOT</a><br />
+project = <a href="https://github.com/is00hcw/RIOT-1">github.com/is00hcw/RIOT-1</a><br />
+project = <a href="https://github.com/iseitani/RIOT">github.com/iseitani/RIOT</a><br />
+project = <a href="https://github.com/iseitani/RIOT_BR">github.com/iseitani/RIOT_BR</a><br />
+project = <a href="https://github.com/it-gladkiy/RIOT">github.com/it-gladkiy/RIOT</a><br />
+project = <a href="https://github.com/ivanka6342/RIOT">github.com/ivanka6342/RIOT</a><br />
+project = <a href="https://github.com/ivantesker/RIOT">github.com/ivantesker/RIOT</a><br />
+project = <a href="https://github.com/jaeseokan94/RIOT">github.com/jaeseokan94/RIOT</a><br />
+project = <a href="https://github.com/jafffy/RIOT">github.com/jafffy/RIOT</a><br />
+project = <a href="https://github.com/jan-mo/RIOT">github.com/jan-mo/RIOT</a><br />
+project = <a href="https://github.com/janmoehl/RIOT">github.com/janmoehl/RIOT</a><br />
+project = <a href="https://github.com/jarrcan-cl/RIOT">github.com/jarrcan-cl/RIOT</a><br />
+project = <a href="https://github.com/jasonatran/RIOT">github.com/jasonatran/RIOT</a><br />
+project = <a href="https://github.com/jasonatran/iris-riot">github.com/jasonatran/iris-riot</a><br />
+project = <a href="https://github.com/javierfileiv/RIOT">github.com/javierfileiv/RIOT</a><br />
+project = <a href="https://github.com/jbeyerstedt/RIOT">github.com/jbeyerstedt/RIOT</a><br />
+project = <a href="https://github.com/jbeyerstedt/RIOT-OTA-update">github.com/jbeyerstedt/RIOT-OTA-update</a><br />
+project = <a href="https://github.com/jcarrano/RIOT">github.com/jcarrano/RIOT</a><br />
+project = <a href="https://github.com/jdhuanghub/RIOT">github.com/jdhuanghub/RIOT</a><br />
+project = <a href="https://github.com/jelledevleeschouwer/RIOT">github.com/jelledevleeschouwer/RIOT</a><br />
+project = <a href="https://github.com/jessezwd/RIOT">github.com/jessezwd/RIOT</a><br />
+project = <a href="https://github.com/jfbortolotti/RIOT">github.com/jfbortolotti/RIOT</a><br />
+project = <a href="https://github.com/jhollister/RIOT">github.com/jhollister/RIOT</a><br />
+project = <a href="https://github.com/jia200x/RIOT">github.com/jia200x/RIOT</a><br />
+project = <a href="https://github.com/jiababybaby/RIOT">github.com/jiababybaby/RIOT</a><br />
+project = <a href="https://github.com/jiangjie87481/RIOT">github.com/jiangjie87481/RIOT</a><br />
+project = <a href="https://github.com/jigla/RIOT-OS">github.com/jigla/RIOT-OS</a><br />
+project = <a href="https://github.com/jinfenw/RIOT">github.com/jinfenw/RIOT</a><br />
+project = <a href="https://github.com/jingjing54007/RIOT">github.com/jingjing54007/RIOT</a><br />
+project = <a href="https://github.com/jinhongdu/RIOT">github.com/jinhongdu/RIOT</a><br />
+project = <a href="https://github.com/jjelonek/RIOT">github.com/jjelonek/RIOT</a><br />
+project = <a href="https://github.com/jliang1010/RIOT">github.com/jliang1010/RIOT</a><br />
+project = <a href="https://github.com/jmcdon0128/RIOT">github.com/jmcdon0128/RIOT</a><br />
+project = <a href="https://github.com/jmd99/RIOT">github.com/jmd99/RIOT</a><br />
+project = <a href="https://github.com/jongbot/RIOT">github.com/jongbot/RIOT</a><br />
+project = <a href="https://github.com/jongsun5/RIOT">github.com/jongsun5/RIOT</a><br />
+project = <a href="https://github.com/jonkster/RIOT">github.com/jonkster/RIOT</a><br />
+project = <a href="https://github.com/jonkster/RIOT2">github.com/jonkster/RIOT2</a><br />
+project = <a href="https://github.com/joshuabierton/RIOT">github.com/joshuabierton/RIOT</a><br />
+project = <a href="https://github.com/jowlo/RIOT">github.com/jowlo/RIOT</a><br />
+project = <a href="https://github.com/joyshmitz/RIOT">github.com/joyshmitz/RIOT</a><br />
+project = <a href="https://github.com/jpbonn/RIOT">github.com/jpbonn/RIOT</a><br />
+project = <a href="https://github.com/jpbonn/old-riot">github.com/jpbonn/old-riot</a><br />
+project = <a href="https://github.com/jpbonn/riot">github.com/jpbonn/riot</a><br />
+project = <a href="https://github.com/jpnorair/OT-RIOT">github.com/jpnorair/OT-RIOT</a><br />
+project = <a href="https://github.com/jpnorair/RIOT">github.com/jpnorair/RIOT</a><br />
+project = <a href="https://github.com/jremmert-phytec-iot/RIOT">github.com/jremmert-phytec-iot/RIOT</a><br />
+project = <a href="https://github.com/jthacker/RIOT">github.com/jthacker/RIOT</a><br />
+project = <a href="https://github.com/jue89/RIOT">github.com/jue89/RIOT</a><br />
+project = <a href="https://github.com/julien-ioic/RIOT">github.com/julien-ioic/RIOT</a><br />
+project = <a href="https://github.com/justin1571/RIOT-EE250">github.com/justin1571/RIOT-EE250</a><br />
+project = <a href="https://github.com/justinjoy/RIOT">github.com/justinjoy/RIOT</a><br />
+project = <a href="https://github.com/jvsg/RIOT">github.com/jvsg/RIOT</a><br />
+project = <a href="https://github.com/jxnuzhangwen/RIOT">github.com/jxnuzhangwen/RIOT</a><br />
+project = <a href="https://github.com/k6dsp/RIOT">github.com/k6dsp/RIOT</a><br />
+project = <a href="https://github.com/kYc0o/RIOT">github.com/kYc0o/RIOT</a><br />
+project = <a href="https://github.com/kaibeckmann/RIOT">github.com/kaibeckmann/RIOT</a><br />
+project = <a href="https://github.com/kaidokert/RIOT">github.com/kaidokert/RIOT</a><br />
+project = <a href="https://github.com/kaifeichen/RIOT-OS">github.com/kaifeichen/RIOT-OS</a><br />
+project = <a href="https://github.com/kaleb-himes/RIOT">github.com/kaleb-himes/RIOT</a><br />
+project = <a href="https://github.com/kamar4k/RIOT">github.com/kamar4k/RIOT</a><br />
+project = <a href="https://github.com/kamejoko80/RIOT">github.com/kamejoko80/RIOT</a><br />
+project = <a href="https://github.com/kangdazhi/RIOT">github.com/kangdazhi/RIOT</a><br />
+project = <a href="https://github.com/kartben/RIOT">github.com/kartben/RIOT</a><br />
+project = <a href="https://github.com/kaspar030/RIOT">github.com/kaspar030/RIOT</a><br />
+project = <a href="https://github.com/katezilla/RIOT">github.com/katezilla/RIOT</a><br />
+project = <a href="https://github.com/kb2ma/RIOT">github.com/kb2ma/RIOT</a><br />
+project = <a href="https://github.com/kbonset/RIOT">github.com/kbonset/RIOT</a><br />
+project = <a href="https://github.com/kbumsik/RIOT">github.com/kbumsik/RIOT</a><br />
+project = <a href="https://github.com/keestux/RIOT">github.com/keestux/RIOT</a><br />
+project = <a href="https://github.com/kenkuang/RIOT">github.com/kenkuang/RIOT</a><br />
+project = <a href="https://github.com/kennethjiang/RIOT">github.com/kennethjiang/RIOT</a><br />
+project = <a href="https://github.com/kenrabold/RIOT">github.com/kenrabold/RIOT</a><br />
+project = <a href="https://github.com/kerneltask/RIOT">github.com/kerneltask/RIOT</a><br />
+project = <a href="https://github.com/kery-chen/RIOT">github.com/kery-chen/RIOT</a><br />
+project = <a href="https://github.com/kerychen/RIOT">github.com/kerychen/RIOT</a><br />
+project = <a href="https://github.com/kex2017/RIOT">github.com/kex2017/RIOT</a><br />
+project = <a href="https://github.com/khhhh/RIOT">github.com/khhhh/RIOT</a><br />
+project = <a href="https://github.com/khurananish/RIOT">github.com/khurananish/RIOT</a><br />
+project = <a href="https://github.com/kineev/RIOT">github.com/kineev/RIOT</a><br />
+project = <a href="https://github.com/kingfs/RIOT">github.com/kingfs/RIOT</a><br />
+project = <a href="https://github.com/kjh1007/RIOT">github.com/kjh1007/RIOT</a><br />
+project = <a href="https://github.com/konstantinngvk1/RIOT">github.com/konstantinngvk1/RIOT</a><br />
+project = <a href="https://github.com/kontais/RIOT">github.com/kontais/RIOT</a><br />
+project = <a href="https://github.com/kotteeswarane/CanGateway">github.com/kotteeswarane/CanGateway</a><br />
+project = <a href="https://github.com/krishnak9/RIOT">github.com/krishnak9/RIOT</a><br />
+project = <a href="https://github.com/kroesche/RIOT">github.com/kroesche/RIOT</a><br />
+project = <a href="https://github.com/ks156/RIOT">github.com/ks156/RIOT</a><br />
+project = <a href="https://github.com/kubostech/RIOT">github.com/kubostech/RIOT</a><br />
+project = <a href="https://github.com/kugel2/RIOT">github.com/kugel2/RIOT</a><br />
+project = <a href="https://github.com/kumar-jiri6/RIOT">github.com/kumar-jiri6/RIOT</a><br />
+project = <a href="https://github.com/kushalsingh007/RIOT">github.com/kushalsingh007/RIOT</a><br />
+project = <a href="https://github.com/kutama/RIOT">github.com/kutama/RIOT</a><br />
+project = <a href="https://github.com/kvbryukhanov/RIOT">github.com/kvbryukhanov/RIOT</a><br />
+project = <a href="https://github.com/kwahome/RIOT">github.com/kwahome/RIOT</a><br />
+project = <a href="https://github.com/kyrofa/RIOT">github.com/kyrofa/RIOT</a><br />
+project = <a href="https://github.com/l3nko/RIOT">github.com/l3nko/RIOT</a><br />
+project = <a href="https://github.com/lafka/RIOT">github.com/lafka/RIOT</a><br />
+project = <a href="https://github.com/lalrae/RIOT">github.com/lalrae/RIOT</a><br />
+project = <a href="https://github.com/laparmakerli/riot-upstream">github.com/laparmakerli/riot-upstream</a><br />
+project = <a href="https://github.com/latsku/RIOT">github.com/latsku/RIOT</a><br />
+project = <a href="https://github.com/lazytech-org/RIOT">github.com/lazytech-org/RIOT</a><br />
+project = <a href="https://github.com/ldesiqueira/RIOT">github.com/ldesiqueira/RIOT</a><br />
+project = <a href="https://github.com/le7amdon/RIOT">github.com/le7amdon/RIOT</a><br />
+project = <a href="https://github.com/leandrolanzieri/RIOT">github.com/leandrolanzieri/RIOT</a><br />
+project = <a href="https://github.com/lebrush/RIOT">github.com/lebrush/RIOT</a><br />
+project = <a href="https://github.com/leeminghao/RIOT">github.com/leeminghao/RIOT</a><br />
+project = <a href="https://github.com/legendary-bro/RIOT">github.com/legendary-bro/RIOT</a><br />
+project = <a href="https://github.com/lidong1266/RIOT">github.com/lidong1266/RIOT</a><br />
+project = <a href="https://github.com/liguojiang/RIOT">github.com/liguojiang/RIOT</a><br />
+project = <a href="https://github.com/lincvv/RIOT">github.com/lincvv/RIOT</a><br />
+project = <a href="https://github.com/lineCode/RIOT-1">github.com/lineCode/RIOT-1</a><br />
+project = <a href="https://github.com/linearregression/RIOT">github.com/linearregression/RIOT</a><br />
+project = <a href="https://github.com/linpingchuan/RIOT">github.com/linpingchuan/RIOT</a><br />
+project = <a href="https://github.com/linux-wpan/RIOT">github.com/linux-wpan/RIOT</a><br />
+project = <a href="https://github.com/liujiandu/RIOT">github.com/liujiandu/RIOT</a><br />
+project = <a href="https://github.com/liwangqian/RIOT">github.com/liwangqian/RIOT</a><br />
+project = <a href="https://github.com/ljs9643/RIOT">github.com/ljs9643/RIOT</a><br />
+project = <a href="https://github.com/llueder/RIOT">github.com/llueder/RIOT</a><br />
+project = <a href="https://github.com/lluminita/RIOT">github.com/lluminita/RIOT</a><br />
+project = <a href="https://github.com/lmhtz/RIOT">github.com/lmhtz/RIOT</a><br />
+project = <a href="https://github.com/locosoft1986/RIOT">github.com/locosoft1986/RIOT</a><br />
+project = <a href="https://github.com/logself1988/RIOT">github.com/logself1988/RIOT</a><br />
+project = <a href="https://github.com/lorenz9314/RIOT">github.com/lorenz9314/RIOT</a><br />
+project = <a href="https://github.com/louisyoo/RIOT">github.com/louisyoo/RIOT</a><br />
+project = <a href="https://github.com/lovelesh/RIOT">github.com/lovelesh/RIOT</a><br />
+project = <a href="https://github.com/lpaulic/RIOT">github.com/lpaulic/RIOT</a><br />
+project = <a href="https://github.com/lsaos/RIOT">github.com/lsaos/RIOT</a><br />
+project = <a href="https://github.com/luciotorre/RIOT">github.com/luciotorre/RIOT</a><br />
+project = <a href="https://github.com/luisseo01/RIOT">github.com/luisseo01/RIOT</a><br />
+project = <a href="https://github.com/lupamedeiros/RIOT">github.com/lupamedeiros/RIOT</a><br />
+project = <a href="https://github.com/lvjh/RIOT">github.com/lvjh/RIOT</a><br />
+project = <a href="https://github.com/lxsang/RIOT">github.com/lxsang/RIOT</a><br />
+project = <a href="https://github.com/lyashley/RIOT-EE250">github.com/lyashley/RIOT-EE250</a><br />
+project = <a href="https://github.com/lzbgt/RIOT">github.com/lzbgt/RIOT</a><br />
+project = <a href="https://github.com/lzj85/RIOT">github.com/lzj85/RIOT</a><br />
+project = <a href="https://github.com/m21400/RIOT">github.com/m21400/RIOT</a><br />
+project = <a href="https://github.com/m2mbr/RIOT">github.com/m2mbr/RIOT</a><br />
+project = <a href="https://github.com/madokapeng/RIOT">github.com/madokapeng/RIOT</a><br />
+project = <a href="https://github.com/maghis/RIOT">github.com/maghis/RIOT</a><br />
+project = <a href="https://github.com/mahermastouri/RIOT">github.com/mahermastouri/RIOT</a><br />
+project = <a href="https://github.com/maitysubhasis/RIOT_OS">github.com/maitysubhasis/RIOT_OS</a><br />
+project = <a href="https://github.com/makyo-dev/RIOT-1">github.com/makyo-dev/RIOT-1</a><br />
+project = <a href="https://github.com/mali/RIOT">github.com/mali/RIOT</a><br />
+project = <a href="https://github.com/malosek/RIOT">github.com/malosek/RIOT</a><br />
+project = <a href="https://github.com/manamhr/RIOT-EE250">github.com/manamhr/RIOT-EE250</a><br />
+project = <a href="https://github.com/maribu/RIOT">github.com/maribu/RIOT</a><br />
+project = <a href="https://github.com/marshall/RIOT">github.com/marshall/RIOT</a><br />
+project = <a href="https://github.com/martinheusmann/RIOT">github.com/martinheusmann/RIOT</a><br />
+project = <a href="https://github.com/massad77/RIOT">github.com/massad77/RIOT</a><br />
+project = <a href="https://github.com/mathirkub/RIOT">github.com/mathirkub/RIOT</a><br />
+project = <a href="https://github.com/mattiantonini/RIOT">github.com/mattiantonini/RIOT</a><br />
+project = <a href="https://github.com/maxvankessel/RIOT">github.com/maxvankessel/RIOT</a><br />
+project = <a href="https://github.com/mbrukman/RIOT">github.com/mbrukman/RIOT</a><br />
+project = <a href="https://github.com/mbutkereit/RIOT">github.com/mbutkereit/RIOT</a><br />
+project = <a href="https://github.com/mdodkins/RIOT">github.com/mdodkins/RIOT</a><br />
+project = <a href="https://github.com/mehrdaad/RIOT">github.com/mehrdaad/RIOT</a><br />
+project = <a href="https://github.com/mehulrijawani/RIOT">github.com/mehulrijawani/RIOT</a><br />
+project = <a href="https://github.com/mejm/RIOT">github.com/mejm/RIOT</a><br />
+project = <a href="https://github.com/melfork/RIOT">github.com/melfork/RIOT</a><br />
+project = <a href="https://github.com/melshuber/RIOT">github.com/melshuber/RIOT</a><br />
+project = <a href="https://github.com/mfkiwl/RIOT">github.com/mfkiwl/RIOT</a><br />
+project = <a href="https://github.com/mfrey/RIOT">github.com/mfrey/RIOT</a><br />
+project = <a href="https://github.com/michaelgianpowski/RIOT">github.com/michaelgianpowski/RIOT</a><br />
+project = <a href="https://github.com/michz/RIOT">github.com/michz/RIOT</a><br />
+project = <a href="https://github.com/mike168m/RIOT">github.com/mike168m/RIOT</a><br />
+project = <a href="https://github.com/ming-hai/RIOT">github.com/ming-hai/RIOT</a><br />
+project = <a href="https://github.com/minkione/RIOT">github.com/minkione/RIOT</a><br />
+project = <a href="https://github.com/miri64/RIOT">github.com/miri64/RIOT</a><br />
+project = <a href="https://github.com/mishlasfeng/RIOT">github.com/mishlasfeng/RIOT</a><br />
+project = <a href="https://github.com/mkcourse/RIOT">github.com/mkcourse/RIOT</a><br />
+project = <a href="https://github.com/mmkonrad/RIOT">github.com/mmkonrad/RIOT</a><br />
+project = <a href="https://github.com/moenoel/RIOT">github.com/moenoel/RIOT</a><br />
+project = <a href="https://github.com/mojiuyu/RIOT-1">github.com/mojiuyu/RIOT-1</a><br />
+project = <a href="https://github.com/moneytech/RIOT">github.com/moneytech/RIOT</a><br />
+project = <a href="https://github.com/monoclecat/RIOT">github.com/monoclecat/RIOT</a><br />
+project = <a href="https://github.com/moyansen/RIOT">github.com/moyansen/RIOT</a><br />
+project = <a href="https://github.com/mrazek-deakin/RIOT">github.com/mrazek-deakin/RIOT</a><br />
+project = <a href="https://github.com/mredekopp/RIOT-EE250">github.com/mredekopp/RIOT-EE250</a><br />
+project = <a href="https://github.com/mrnguyen211190/RIOT">github.com/mrnguyen211190/RIOT</a><br />
+project = <a href="https://github.com/msakil/RIOT">github.com/msakil/RIOT</a><br />
+project = <a href="https://github.com/msliusarev/RIOT">github.com/msliusarev/RIOT</a><br />
+project = <a href="https://github.com/msolters/RIOT">github.com/msolters/RIOT</a><br />
+project = <a href="https://github.com/mstn-09/RIOT">github.com/mstn-09/RIOT</a><br />
+project = <a href="https://github.com/mtausig/RIOT">github.com/mtausig/RIOT</a><br />
+project = <a href="https://github.com/mufeedpatel/RIOT">github.com/mufeedpatel/RIOT</a><br />
+project = <a href="https://github.com/muharam1991/RIOT">github.com/muharam1991/RIOT</a><br />
+project = <a href="https://github.com/mullerhx/RIOT">github.com/mullerhx/RIOT</a><br />
+project = <a href="https://github.com/mullife/RIOT">github.com/mullife/RIOT</a><br />
+project = <a href="https://github.com/murdock-ci/RIOT">github.com/murdock-ci/RIOT</a><br />
+project = <a href="https://github.com/mxbrt/RIOT">github.com/mxbrt/RIOT</a><br />
+project = <a href="https://github.com/mziegert/RIOT">github.com/mziegert/RIOT</a><br />
+project = <a href="https://github.com/n16h7br33z3/RIOT">github.com/n16h7br33z3/RIOT</a><br />
+project = <a href="https://github.com/naaonethree/RIOT-EE250">github.com/naaonethree/RIOT-EE250</a><br />
+project = <a href="https://github.com/nailanawshaba/RIOT">github.com/nailanawshaba/RIOT</a><br />
+project = <a href="https://github.com/named-data-iot/RIOT">github.com/named-data-iot/RIOT</a><br />
+project = <a href="https://github.com/namezis/RIOT">github.com/namezis/RIOT</a><br />
+project = <a href="https://github.com/nanodrone/RIOT">github.com/nanodrone/RIOT</a><br />
+project = <a href="https://github.com/nashokkumar/RIOT">github.com/nashokkumar/RIOT</a><br />
+project = <a href="https://github.com/navneetnivu07/RIOT">github.com/navneetnivu07/RIOT</a><br />
+project = <a href="https://github.com/nawL1dg3/RIOT">github.com/nawL1dg3/RIOT</a><br />
+project = <a href="https://github.com/nealjack/RIOT-OS">github.com/nealjack/RIOT-OS</a><br />
+project = <a href="https://github.com/neiljay/RIOT">github.com/neiljay/RIOT</a><br />
+project = <a href="https://github.com/neo-existenz/RIOT">github.com/neo-existenz/RIOT</a><br />
+project = <a href="https://github.com/netdebug/RIOT">github.com/netdebug/RIOT</a><br />
+project = <a href="https://github.com/netroby/RIOT">github.com/netroby/RIOT</a><br />
+project = <a href="https://github.com/netscream/RIOT">github.com/netscream/RIOT</a><br />
+project = <a href="https://github.com/ngatilio/RIOT">github.com/ngatilio/RIOT</a><br />
+project = <a href="https://github.com/nghiaducnt/LearningRIOT">github.com/nghiaducnt/LearningRIOT</a><br />
+project = <a href="https://github.com/nguyenduclam/RIOT">github.com/nguyenduclam/RIOT</a><br />
+project = <a href="https://github.com/ngwong/RIOT-EE250">github.com/ngwong/RIOT-EE250</a><br />
+project = <a href="https://github.com/nicholas-c-jackson/RIOT">github.com/nicholas-c-jackson/RIOT</a><br />
+project = <a href="https://github.com/niziak/RIOT">github.com/niziak/RIOT</a><br />
+project = <a href="https://github.com/njprogramming/RIOT">github.com/njprogramming/RIOT</a><br />
+project = <a href="https://github.com/nkristek/RIOT">github.com/nkristek/RIOT</a><br />
+project = <a href="https://github.com/nlebang/RIOT">github.com/nlebang/RIOT</a><br />
+project = <a href="https://github.com/nlinktech/RIOT">github.com/nlinktech/RIOT</a><br />
+project = <a href="https://github.com/nmehlman/RIOT-EE250">github.com/nmehlman/RIOT-EE250</a><br />
+project = <a href="https://github.com/nmeum/RIOT">github.com/nmeum/RIOT</a><br />
+project = <a href="https://github.com/nolitimere/KubOS">github.com/nolitimere/KubOS</a><br />
+project = <a href="https://github.com/nqd/RIOT">github.com/nqd/RIOT</a><br />
+project = <a href="https://github.com/nsaspook/RIOT">github.com/nsaspook/RIOT</a><br />
+project = <a href="https://github.com/ntrtrung/RIOT">github.com/ntrtrung/RIOT</a><br />
+project = <a href="https://github.com/nvv13/RIOT">github.com/nvv13/RIOT</a><br />
+project = <a href="https://github.com/nyrahul/RIOT">github.com/nyrahul/RIOT</a><br />
+project = <a href="https://github.com/o0osorentoo0o/RIOT">github.com/o0osorentoo0o/RIOT</a><br />
+project = <a href="https://github.com/obgm/RIOT">github.com/obgm/RIOT</a><br />
+project = <a href="https://github.com/ochristi/RIOT">github.com/ochristi/RIOT</a><br />
+project = <a href="https://github.com/ofauchon/RIOT">github.com/ofauchon/RIOT</a><br />
+project = <a href="https://github.com/offchooffcho/RIOT">github.com/offchooffcho/RIOT</a><br />
+project = <a href="https://github.com/oh3eqn/RIOT">github.com/oh3eqn/RIOT</a><br />
+project = <a href="https://github.com/olegart/RIOT">github.com/olegart/RIOT</a><br />
+project = <a href="https://github.com/onesmash/RIOT">github.com/onesmash/RIOT</a><br />
+project = <a href="https://github.com/openkosmosorg/RIOT">github.com/openkosmosorg/RIOT</a><br />
+project = <a href="https://github.com/openwarelab/RIOT">github.com/openwarelab/RIOT</a><br />
+project = <a href="https://github.com/orchisan/RIOT">github.com/orchisan/RIOT</a><br />
+project = <a href="https://github.com/orf53975/RIOT">github.com/orf53975/RIOT</a><br />
+project = <a href="https://github.com/ott-kiwi/RIOT">github.com/ott-kiwi/RIOT</a><br />
+project = <a href="https://github.com/pacheco017/RIOT">github.com/pacheco017/RIOT</a><br />
+project = <a href="https://github.com/palaniyappanBala/RIOT">github.com/palaniyappanBala/RIOT</a><br />
+project = <a href="https://github.com/panail/RIOT">github.com/panail/RIOT</a><br />
+project = <a href="https://github.com/panshengpeng/RIOT">github.com/panshengpeng/RIOT</a><br />
+project = <a href="https://github.com/patgrosse/RIOT">github.com/patgrosse/RIOT</a><br />
+project = <a href="https://github.com/paula75/RIOT">github.com/paula75/RIOT</a><br />
+project = <a href="https://github.com/pavelgr/RIOT">github.com/pavelgr/RIOT</a><br />
+project = <a href="https://github.com/pavlyhabashy/RIOT-EE250">github.com/pavlyhabashy/RIOT-EE250</a><br />
+project = <a href="https://github.com/pdNor/RIOT">github.com/pdNor/RIOT</a><br />
+project = <a href="https://github.com/pekkanikander/RIOT">github.com/pekkanikander/RIOT</a><br />
+project = <a href="https://github.com/pengshulin/RIOT">github.com/pengshulin/RIOT</a><br />
+project = <a href="https://github.com/peterson79/RIOT">github.com/peterson79/RIOT</a><br />
+project = <a href="https://github.com/pevasquez/RIOT">github.com/pevasquez/RIOT</a><br />
+project = <a href="https://github.com/phectori/RIOT">github.com/phectori/RIOT</a><br />
+project = <a href="https://github.com/phiros/RIOT">github.com/phiros/RIOT</a><br />
+project = <a href="https://github.com/photonthunder/RIOT">github.com/photonthunder/RIOT</a><br />
+project = <a href="https://github.com/phphy/RIOT">github.com/phphy/RIOT</a><br />
+project = <a href="https://github.com/phuonglab/RIOT">github.com/phuonglab/RIOT</a><br />
+project = <a href="https://github.com/phuongtg/RIOT">github.com/phuongtg/RIOT</a><br />
+project = <a href="https://github.com/pi-kxw/RIOT">github.com/pi-kxw/RIOT</a><br />
+project = <a href="https://github.com/pigeorge/RIOT">github.com/pigeorge/RIOT</a><br />
+project = <a href="https://github.com/pipex/RIOT">github.com/pipex/RIOT</a><br />
+project = <a href="https://github.com/piyushpandey013/RIOT">github.com/piyushpandey013/RIOT</a><br />
+project = <a href="https://github.com/pjhernandez18/RIOT-EE250">github.com/pjhernandez18/RIOT-EE250</a><br />
+project = <a href="https://github.com/pmlk/RIOT">github.com/pmlk/RIOT</a><br />
+project = <a href="https://github.com/pnunes30/RIOT">github.com/pnunes30/RIOT</a><br />
+project = <a href="https://github.com/pokgak/RIOT">github.com/pokgak/RIOT</a><br />
+project = <a href="https://github.com/pombredanne/RIOT">github.com/pombredanne/RIOT</a><br />
+project = <a href="https://github.com/poppe34/RIOT">github.com/poppe34/RIOT</a><br />
+project = <a href="https://github.com/popwolf/RIOT">github.com/popwolf/RIOT</a><br />
+project = <a href="https://github.com/ppannuto/RIOT">github.com/ppannuto/RIOT</a><br />
+project = <a href="https://github.com/prashanthhn/RIOT">github.com/prashanthhn/RIOT</a><br />
+project = <a href="https://github.com/praveenmunagapati/RIOT-2">github.com/praveenmunagapati/RIOT-2</a><br />
+project = <a href="https://github.com/praveenpenumaka/RIOT">github.com/praveenpenumaka/RIOT</a><br />
+project = <a href="https://github.com/psiemek/RIOT">github.com/psiemek/RIOT</a><br />
+project = <a href="https://github.com/pst12/RIOT">github.com/pst12/RIOT</a><br />
+project = <a href="https://github.com/psymonj/RIOT">github.com/psymonj/RIOT</a><br />
+project = <a href="https://github.com/ptz1986/RIOT">github.com/ptz1986/RIOT</a><br />
+project = <a href="https://github.com/punchcard60/KubOS">github.com/punchcard60/KubOS</a><br />
+project = <a href="https://github.com/pvikberg/RIOT">github.com/pvikberg/RIOT</a><br />
+project = <a href="https://github.com/pvikberg/RIOT_oma1">github.com/pvikberg/RIOT_oma1</a><br />
+project = <a href="https://github.com/pvsarath/RIOT">github.com/pvsarath/RIOT</a><br />
+project = <a href="https://github.com/pvyleta/RIOT">github.com/pvyleta/RIOT</a><br />
+project = <a href="https://github.com/pwillem/RIOT">github.com/pwillem/RIOT</a><br />
+project = <a href="https://github.com/pyjhhh/RIOT">github.com/pyjhhh/RIOT</a><br />
+project = <a href="https://github.com/qgyhd1234/RIOT">github.com/qgyhd1234/RIOT</a><br />
+project = <a href="https://github.com/qiaoqidui/RIOT">github.com/qiaoqidui/RIOT</a><br />
+project = <a href="https://github.com/rabinsahoo/RIOT">github.com/rabinsahoo/RIOT</a><br />
+project = <a href="https://github.com/radhios/RIOT">github.com/radhios/RIOT</a><br />
+project = <a href="https://github.com/ragulhackz125/RIOT">github.com/ragulhackz125/RIOT</a><br />
+project = <a href="https://github.com/rajma996/RIOT">github.com/rajma996/RIOT</a><br />
+project = <a href="https://github.com/rakendrathapa/RIOT">github.com/rakendrathapa/RIOT</a><br />
+project = <a href="https://github.com/rammohan2b/RIOT">github.com/rammohan2b/RIOT</a><br />
+project = <a href="https://github.com/ranbe1/RIOT">github.com/ranbe1/RIOT</a><br />
+project = <a href="https://github.com/ranjit27/RIOT">github.com/ranjit27/RIOT</a><br />
+project = <a href="https://github.com/redrabbit5/RIOT">github.com/redrabbit5/RIOT</a><br />
+project = <a href="https://github.com/redwinner/RIOT">github.com/redwinner/RIOT</a><br />
+project = <a href="https://github.com/refaqtor/RIOT">github.com/refaqtor/RIOT</a><br />
+project = <a href="https://github.com/renzoe/RIOT">github.com/renzoe/RIOT</a><br />
+project = <a href="https://github.com/rfuentess/RIOT">github.com/rfuentess/RIOT</a><br />
+project = <a href="https://github.com/rhabu01/RIOT">github.com/rhabu01/RIOT</a><br />
+project = <a href="https://github.com/rhr407/RIOT">github.com/rhr407/RIOT</a><br />
+project = <a href="https://github.com/richartk/RIOT">github.com/richartk/RIOT</a><br />
+project = <a href="https://github.com/rienafairefr/RIOT">github.com/rienafairefr/RIOT</a><br />
+project = <a href="https://github.com/riot-appstore/RIOT">github.com/riot-appstore/RIOT</a><br />
+project = <a href="https://github.com/riot-appstore/RIOT-IoThon">github.com/riot-appstore/RIOT-IoThon</a><br />
+project = <a href="https://github.com/riot-ci/RIOT">github.com/riot-ci/RIOT</a><br />
+project = <a href="https://github.com/riot-study/RIOT">github.com/riot-study/RIOT</a><br />
+project = <a href="https://github.com/rivasiv/RIOT">github.com/rivasiv/RIOT</a><br />
+project = <a href="https://github.com/rjmcguire/RIOT">github.com/rjmcguire/RIOT</a><br />
+project = <a href="https://github.com/rl1987/RIOT">github.com/rl1987/RIOT</a><br />
+project = <a href="https://github.com/robbie-cao/RIOT">github.com/robbie-cao/RIOT</a><br />
+project = <a href="https://github.com/robbie-cao/riot-stm32">github.com/robbie-cao/riot-stm32</a><br />
+project = <a href="https://github.com/robby14/RIOT">github.com/robby14/RIOT</a><br />
+project = <a href="https://github.com/roberthartung/RIOT">github.com/roberthartung/RIOT</a><br />
+project = <a href="https://github.com/robertsipka/RIOT">github.com/robertsipka/RIOT</a><br />
+project = <a href="https://github.com/robixnai/RIOT">github.com/robixnai/RIOT</a><br />
+project = <a href="https://github.com/rolandi71/RIOT">github.com/rolandi71/RIOT</a><br />
+project = <a href="https://github.com/roubra/RIOT">github.com/roubra/RIOT</a><br />
+project = <a href="https://github.com/rousselk/RIOT">github.com/rousselk/RIOT</a><br />
+project = <a href="https://github.com/rowhit/RIOT">github.com/rowhit/RIOT</a><br />
+project = <a href="https://github.com/rrzatkie/RIOT">github.com/rrzatkie/RIOT</a><br />
+project = <a href="https://github.com/rrzatkie/RIOT_COPY">github.com/rrzatkie/RIOT_COPY</a><br />
+project = <a href="https://github.com/rst256/RIOT">github.com/rst256/RIOT</a><br />
+project = <a href="https://github.com/ruhex/RIOT">github.com/ruhex/RIOT</a><br />
+project = <a href="https://github.com/rxwb/RIOT">github.com/rxwb/RIOT</a><br />
+project = <a href="https://github.com/ryankurte/riot-os">github.com/ryankurte/riot-os</a><br />
+project = <a href="https://github.com/ryanlelek/KubOS">github.com/ryanlelek/KubOS</a><br />
+project = <a href="https://github.com/salmovs/RIOT">github.com/salmovs/RIOT</a><br />
+project = <a href="https://github.com/sam-kumar/RIOT-OS">github.com/sam-kumar/RIOT-OS</a><br />
+project = <a href="https://github.com/samiralavi/RIOT">github.com/samiralavi/RIOT</a><br />
+project = <a href="https://github.com/samkumar99/RIOT-OS">github.com/samkumar99/RIOT-OS</a><br />
+project = <a href="https://github.com/samkumar/RIOT-OS">github.com/samkumar/RIOT-OS</a><br />
+project = <a href="https://github.com/samr90/RIOT">github.com/samr90/RIOT</a><br />
+project = <a href="https://github.com/sanmingshen/RIOT">github.com/sanmingshen/RIOT</a><br />
+project = <a href="https://github.com/sarathsanthoss/RIOT">github.com/sarathsanthoss/RIOT</a><br />
+project = <a href="https://github.com/sasalaza/RIOT-EE250">github.com/sasalaza/RIOT-EE250</a><br />
+project = <a href="https://github.com/sashaindrish/RIOT">github.com/sashaindrish/RIOT</a><br />
+project = <a href="https://github.com/schoradt/RIOT">github.com/schoradt/RIOT</a><br />
+project = <a href="https://github.com/sdsxpln/RIOT">github.com/sdsxpln/RIOT</a><br />
+project = <a href="https://github.com/sdttmyw/RIOT">github.com/sdttmyw/RIOT</a><br />
+project = <a href="https://github.com/seank-img/RIOT">github.com/seank-img/RIOT</a><br />
+project = <a href="https://github.com/sebastiankliem/RIOT">github.com/sebastiankliem/RIOT</a><br />
+project = <a href="https://github.com/serabiasin/RIOT">github.com/serabiasin/RIOT</a><br />
+project = <a href="https://github.com/seryi2035/RIOT">github.com/seryi2035/RIOT</a><br />
+project = <a href="https://github.com/setevod/RIOT">github.com/setevod/RIOT</a><br />
+project = <a href="https://github.com/seysn/RIOT">github.com/seysn/RIOT</a><br />
+project = <a href="https://github.com/sgso/RIOT">github.com/sgso/RIOT</a><br />
+project = <a href="https://github.com/shein318/RIOT">github.com/shein318/RIOT</a><br />
+project = <a href="https://github.com/shenfahsu/RIOT">github.com/shenfahsu/RIOT</a><br />
+project = <a href="https://github.com/shpuravasiliy/RIOT">github.com/shpuravasiliy/RIOT</a><br />
+project = <a href="https://github.com/siddh-test-4/RIOT">github.com/siddh-test-4/RIOT</a><br />
+project = <a href="https://github.com/siddharthgpta/RIOT">github.com/siddharthgpta/RIOT</a><br />
+project = <a href="https://github.com/simonsta/RIOT">github.com/simonsta/RIOT</a><br />
+project = <a href="https://github.com/sklli/RIOT">github.com/sklli/RIOT</a><br />
+project = <a href="https://github.com/sknsean/RIOT">github.com/sknsean/RIOT</a><br />
+project = <a href="https://github.com/skullbox305/RIOT">github.com/skullbox305/RIOT</a><br />
+project = <a href="https://github.com/skyformat99/RIOT">github.com/skyformat99/RIOT</a><br />
+project = <a href="https://github.com/skyformat99/RIOT-2">github.com/skyformat99/RIOT-2</a><br />
+project = <a href="https://github.com/slhsxcmy/RIOT">github.com/slhsxcmy/RIOT</a><br />
+project = <a href="https://github.com/smartuni/RIOT">github.com/smartuni/RIOT</a><br />
+project = <a href="https://github.com/smcd253/RIOT-EE250">github.com/smcd253/RIOT-EE250</a><br />
+project = <a href="https://github.com/smcd253/RIOT-EE250-1">github.com/smcd253/RIOT-EE250-1</a><br />
+project = <a href="https://github.com/smehner1/RIOT">github.com/smehner1/RIOT</a><br />
+project = <a href="https://github.com/smlng/RIOT">github.com/smlng/RIOT</a><br />
+project = <a href="https://github.com/smou/RIOT">github.com/smou/RIOT</a><br />
+project = <a href="https://github.com/snej/RIOT">github.com/snej/RIOT</a><br />
+project = <a href="https://github.com/sp-axio/RIOT">github.com/sp-axio/RIOT</a><br />
+project = <a href="https://github.com/spiridon1/RIOT">github.com/spiridon1/RIOT</a><br />
+project = <a href="https://github.com/spirit745/RIOT">github.com/spirit745/RIOT</a><br />
+project = <a href="https://github.com/starblue/RIOT">github.com/starblue/RIOT</a><br />
+project = <a href="https://github.com/stepos01/RIOT">github.com/stepos01/RIOT</a><br />
+project = <a href="https://github.com/stevenj/RIOT">github.com/stevenj/RIOT</a><br />
+project = <a href="https://github.com/sugangli/RIOT">github.com/sugangli/RIOT</a><br />
+project = <a href="https://github.com/sumanpanchal/RIOT">github.com/sumanpanchal/RIOT</a><br />
+project = <a href="https://github.com/sunghopark1/RIOT">github.com/sunghopark1/RIOT</a><br />
+project = <a href="https://github.com/superjudge/RIOT">github.com/superjudge/RIOT</a><br />
+project = <a href="https://github.com/suruz/RIOT">github.com/suruz/RIOT</a><br />
+project = <a href="https://github.com/syin2/riot-iotivity">github.com/syin2/riot-iotivity</a><br />
+project = <a href="https://github.com/tabc123/RIOT">github.com/tabc123/RIOT</a><br />
+project = <a href="https://github.com/tadryanom/RIOT">github.com/tadryanom/RIOT</a><br />
+project = <a href="https://github.com/taherrera/riot">github.com/taherrera/riot</a><br />
+project = <a href="https://github.com/tamasseller/RIOT">github.com/tamasseller/RIOT</a><br />
+project = <a href="https://github.com/tammyrobinson03/RIOT">github.com/tammyrobinson03/RIOT</a><br />
+project = <a href="https://github.com/tanupoo/RIOT">github.com/tanupoo/RIOT</a><br />
+project = <a href="https://github.com/tatyanavolkova/RIOT">github.com/tatyanavolkova/RIOT</a><br />
+project = <a href="https://github.com/tgo-s/RIOT">github.com/tgo-s/RIOT</a><br />
+project = <a href="https://github.com/theafricanengineer/RIOT">github.com/theafricanengineer/RIOT</a><br />
+project = <a href="https://github.com/theja0473/RIOT">github.com/theja0473/RIOT</a><br />
+project = <a href="https://github.com/therapier/RIOT">github.com/therapier/RIOT</a><br />
+project = <a href="https://github.com/therealmonE/RIOT">github.com/therealmonE/RIOT</a><br />
+project = <a href="https://github.com/thiagohd/RIOT">github.com/thiagohd/RIOT</a><br />
+project = <a href="https://github.com/thomaseichinger/RIOT">github.com/thomaseichinger/RIOT</a><br />
+project = <a href="https://github.com/to1st9chok/RIOT">github.com/to1st9chok/RIOT</a><br />
+project = <a href="https://github.com/tobbad/RIOT">github.com/tobbad/RIOT</a><br />
+project = <a href="https://github.com/tobhe/RIOT">github.com/tobhe/RIOT</a><br />
+project = <a href="https://github.com/tomyqg/RIOT">github.com/tomyqg/RIOT</a><br />
+project = <a href="https://github.com/tongpi/RIOT">github.com/tongpi/RIOT</a><br />
+project = <a href="https://github.com/toonst/RIOT">github.com/toonst/RIOT</a><br />
+project = <a href="https://github.com/tovanhieu/RIOT">github.com/tovanhieu/RIOT</a><br />
+project = <a href="https://github.com/tovax/RIOT">github.com/tovax/RIOT</a><br />
+project = <a href="https://github.com/tprrt/RIOT">github.com/tprrt/RIOT</a><br />
+project = <a href="https://github.com/tralivali1234/RIOT">github.com/tralivali1234/RIOT</a><br />
+project = <a href="https://github.com/travisgriggs/RIOT">github.com/travisgriggs/RIOT</a><br />
+project = <a href="https://github.com/tromex/RIOT">github.com/tromex/RIOT</a><br />
+project = <a href="https://github.com/trungkstn/RIOT">github.com/trungkstn/RIOT</a><br />
+project = <a href="https://github.com/tsutar/RIOT-EE250">github.com/tsutar/RIOT-EE250</a><br />
+project = <a href="https://github.com/turahul/RIOT">github.com/turahul/RIOT</a><br />
+project = <a href="https://github.com/txemis/RIOT">github.com/txemis/RIOT</a><br />
+project = <a href="https://github.com/typc95/RIOT">github.com/typc95/RIOT</a><br />
+project = <a href="https://github.com/tzuchiangshen/RIOT">github.com/tzuchiangshen/RIOT</a><br />
+project = <a href="https://github.com/unforgiven512/RIOT">github.com/unforgiven512/RIOT</a><br />
+project = <a href="https://github.com/unwireddevices/RIOT">github.com/unwireddevices/RIOT</a><br />
+project = <a href="https://github.com/urbangregorc/RIOT">github.com/urbangregorc/RIOT</a><br />
+project = <a href="https://github.com/usc-ee250-fall2018/RIOT-EE250">github.com/usc-ee250-fall2018/RIOT-EE250</a><br />
+project = <a href="https://github.com/vac/RIOT">github.com/vac/RIOT</a><br />
+project = <a href="https://github.com/varunpandeyengg/RIOT">github.com/varunpandeyengg/RIOT</a><br />
+project = <a href="https://github.com/vehar/RIOT">github.com/vehar/RIOT</a><br />
+project = <a href="https://github.com/vhkrishna/RIOT">github.com/vhkrishna/RIOT</a><br />
+project = <a href="https://github.com/vijaiks/RIOT">github.com/vijaiks/RIOT</a><br />
+project = <a href="https://github.com/vikingxie/RIOT">github.com/vikingxie/RIOT</a><br />
+project = <a href="https://github.com/vincent-d/RIOT">github.com/vincent-d/RIOT</a><br />
+project = <a href="https://github.com/vincentjzimmer/RIOT">github.com/vincentjzimmer/RIOT</a><br />
+project = <a href="https://github.com/vincentlao/RIOT">github.com/vincentlao/RIOT</a><br />
+project = <a href="https://github.com/vpdao/RIOT">github.com/vpdao/RIOT</a><br />
+project = <a href="https://github.com/vrosnet/RIOT">github.com/vrosnet/RIOT</a><br />
+project = <a href="https://github.com/w03/RIOT">github.com/w03/RIOT</a><br />
+project = <a href="https://github.com/waehlisch/RIOT">github.com/waehlisch/RIOT</a><br />
+project = <a href="https://github.com/wallhisg/RIOT">github.com/wallhisg/RIOT</a><br />
+project = <a href="https://github.com/wang1314well/RIOT">github.com/wang1314well/RIOT</a><br />
+project = <a href="https://github.com/watr-li/RIOT">github.com/watr-li/RIOT</a><br />
+project = <a href="https://github.com/wentaoshang/RIOT">github.com/wentaoshang/RIOT</a><br />
+project = <a href="https://github.com/wenyigao6/RIOT-EE250">github.com/wenyigao6/RIOT-EE250</a><br />
+project = <a href="https://github.com/whitefield-framework/RIOT">github.com/whitefield-framework/RIOT</a><br />
+project = <a href="https://github.com/wilhelmmatilainen/RIOT">github.com/wilhelmmatilainen/RIOT</a><br />
+project = <a href="https://github.com/witnessivan/RIOT">github.com/witnessivan/RIOT</a><br />
+project = <a href="https://github.com/wtsllc/RIOT">github.com/wtsllc/RIOT</a><br />
+project = <a href="https://github.com/wupoli/RIOT">github.com/wupoli/RIOT</a><br />
+project = <a href="https://github.com/wuzeen/RIOT">github.com/wuzeen/RIOT</a><br />
+project = <a href="https://github.com/wwhuang/RIOT-OS">github.com/wwhuang/RIOT-OS</a><br />
+project = <a href="https://github.com/wxh0000mm/RIOT">github.com/wxh0000mm/RIOT</a><br />
+project = <a href="https://github.com/xjump/RIOT">github.com/xjump/RIOT</a><br />
+project = <a href="https://github.com/xsider/RIOT">github.com/xsider/RIOT</a><br />
+project = <a href="https://github.com/xzm7358/RIOT">github.com/xzm7358/RIOT</a><br />
+project = <a href="https://github.com/ycs0405/RIOT">github.com/ycs0405/RIOT</a><br />
+project = <a href="https://github.com/yeekzhang/RIOT">github.com/yeekzhang/RIOT</a><br />
+project = <a href="https://github.com/yeffrimic/RIOT">github.com/yeffrimic/RIOT</a><br />
+project = <a href="https://github.com/yegorich/RIOT">github.com/yegorich/RIOT</a><br />
+project = <a href="https://github.com/yibit/RIOT">github.com/yibit/RIOT</a><br />
+project = <a href="https://github.com/ynezz/RIOT">github.com/ynezz/RIOT</a><br />
+project = <a href="https://github.com/yogo1212/RIOT">github.com/yogo1212/RIOT</a><br />
+project = <a href="https://github.com/yunbei/RIOT">github.com/yunbei/RIOT</a><br />
+project = <a href="https://github.com/yupin75/RIOT">github.com/yupin75/RIOT</a><br />
+project = <a href="https://github.com/yusi222/RIOT">github.com/yusi222/RIOT</a><br />
+project = <a href="https://github.com/zafriyusoff/RIOT">github.com/zafriyusoff/RIOT</a><br />
+project = <a href="https://github.com/zaza89/RIOT">github.com/zaza89/RIOT</a><br />
+project = <a href="https://github.com/zenglongGH/RIOT">github.com/zenglongGH/RIOT</a><br />
+project = <a href="https://github.com/zhenhaochu/RIOT">github.com/zhenhaochu/RIOT</a><br />
+project = <a href="https://github.com/zhuoshuguo/RIOT">github.com/zhuoshuguo/RIOT</a><br />
+project = <a href="https://github.com/zhuwentao0612/RIOT">github.com/zhuwentao0612/RIOT</a><br />
+project = <a href="https://github.com/zjl037600/RIOT">github.com/zjl037600/RIOT</a><br />
+project = <a href="https://github.com/zmguahy/RIOT">github.com/zmguahy/RIOT</a><br />
 <br />
 commit = 81dc9c97423f33b60f4e05c2254d135636d250e6<br />
-head_commit = 88218f94d5177ee1fb3afcd3ef8b29ed86c3e22a <br />
+head_commit = 88218f94d5177ee1fb3afcd3ef8b29ed86c3e22a (2015-10-02:19:33:05)<br />
 path = tests/unittests/tests-ipv6_addr/tests-ipv6_addr.c<br />
-project = adityaseven_RIOT<br />
+project = <a href="https://github.com/adityaseven/RIOT">github.com/adityaseven/RIOT</a><br />
 <br />
 commit = c6d8ca8d2c965f67248454ca2fa8cfdab2b0dd9d<br />
-head_commit = fd58232d41e1e3ab13ade5feb2ab802af3ba0852 <br />
+head_commit = fd58232d41e1e3ab13ade5feb2ab802af3ba0852 (2017-04-21:22:05:00)<br />
 path = tests/unittests/tests-ipv6_addr/tests-ipv6_addr.c<br />
-project = laparmakerli_riot-upstream<br />
+project = <a href="https://github.com/laparmakerli/riot-upstream">github.com/laparmakerli/riot-upstream</a><br />
 <br />
 commit = e9aaa5e4e10c7c09bd0cff6464a4de4ba2e5181b<br />
-head_commit = 562b8bba4d245448ba2678eaeb04fc3c12f8086d <br />
+head_commit = 562b8bba4d245448ba2678eaeb04fc3c12f8086d (2015-10-08:06:48:58)<br />
 path = tests/unittests/tests-ipv6_addr/tests-ipv6_addr.c<br />
-project = OlegHahm_RIOT<br />
-project = RIOT-OS_RIOT<br />
-project = attdona_RIOT<br />
-project = tanupoo_RIOT<br />
+project = <a href="https://github.com/OlegHahm/RIOT">github.com/OlegHahm/RIOT</a><br />
+project = <a href="https://github.com/RIOT-OS/RIOT">github.com/RIOT-OS/RIOT</a><br />
+project = <a href="https://github.com/attdona/RIOT">github.com/attdona/RIOT</a><br />
+project = <a href="https://github.com/tanupoo/RIOT">github.com/tanupoo/RIOT</a><br />
 <br />
 <h1>blob = 7345369268b1c477cf197ec01ef1c05120b569c3</h1>
 commit = 304e8fa05ca8770a196e75f61735ba5e946c1483<br />
-head_commit = fd58232d41e1e3ab13ade5feb2ab802af3ba0852 <br />
+head_commit = fd58232d41e1e3ab13ade5feb2ab802af3ba0852 (2017-04-21:22:05:00)<br />
 path = tests/unittests/tests-ipv6_addr/tests-ipv6_addr.c<br />
-project = laparmakerli_riot-upstream<br />
+project = <a href="https://github.com/laparmakerli/riot-upstream">github.com/laparmakerli/riot-upstream</a><br />
 <br />
 commit = 3d58621d32c392c794f46c4f3c30164ba432da27<br />
-head_commit = 40f028175fc0d963b7bb2a2a3a2a5dbaefd136fa <br />
+head_commit = 40f028175fc0d963b7bb2a2a3a2a5dbaefd136fa (2015-06-18:11:58:11)<br />
 path = tests/unittests/tests-ipv6_addr/tests-ipv6_addr.c<br />
-project = herrfz_RIOT-old<br />
+project = <a href="https://github.com/herrfz/RIOT-old">github.com/herrfz/RIOT-old</a><br />
 <br />
 commit = c9d3a89285a17d65324acca3be6ed2a7de3352a4<br />
-head_commit = fd58232d41e1e3ab13ade5feb2ab802af3ba0852 <br />
+head_commit = fd58232d41e1e3ab13ade5feb2ab802af3ba0852 (2017-04-21:22:05:00)<br />
 path = tests/unittests/tests-ipv6_addr/tests-ipv6_addr.c<br />
-project = laparmakerli_riot-upstream<br />
+project = <a href="https://github.com/laparmakerli/riot-upstream">github.com/laparmakerli/riot-upstream</a><br />
 <br />
 commit = ca5e569dace15ae659b10da0090d06f7428c4fe0<br />
-head_commit = 6c82d80d45c5873f0086a06d1d792448e33f13f5 <br />
+head_commit = 6c82d80d45c5873f0086a06d1d792448e33f13f5 (2015-07-31:10:29:17)<br />
 path = tests/unittests/tests-ipv6_addr/tests-ipv6_addr.c<br />
-project = AnonMall_RIOT<br />
+project = <a href="https://github.com/AnonMall/RIOT">github.com/AnonMall/RIOT</a><br />
 <br />
 commit = ceddd4f0d1f3e95f296964ebcc50f5819eadbd92<br />
-head_commit = aec4a98fba65ef1b6ca2c138f1c503db48c34401 <br />
+head_commit = aec4a98fba65ef1b6ca2c138f1c503db48c34401 (2015-04-13:10:45:33)<br />
 path = tests/unittests/tests-ipv6_addr/tests-ipv6_addr.c<br />
-project = RIOT-OS_RIOT<br />
+project = <a href="https://github.com/RIOT-OS/RIOT">github.com/RIOT-OS/RIOT</a><br />
 <br />
 commit = e82c2b14eb99c97be210a65dd4f0bc51c1d54288<br />
-head_commit = 475bce7e52c65aeabfe945f286c3c2853f35f972 <br />
+head_commit = 475bce7e52c65aeabfe945f286c3c2853f35f972 (2015-04-13:13:49:54)<br />
 path = tests/unittests/tests-ipv6_addr/tests-ipv6_addr.c<br />
-project = RIOT-OS_RIOT<br />
-project = wiredsource_RIOT<br />
+project = <a href="https://github.com/RIOT-OS/RIOT">github.com/RIOT-OS/RIOT</a><br />
+project = <a href="https://github.com/wiredsource/RIOT">github.com/wiredsource/RIOT</a><br />
 <br />
 <h1>blob = f00e6f24b9ebe7475b1c5deab71662209627b048</h1>
 commit = 5f2e19f27f6c042e35b66b5c6b589dbf9cf5cd36<br />
-head_commit = 563fed0739055e908ff3489fdca74941115b7cc2 <br />
+head_commit = 563fed0739055e908ff3489fdca74941115b7cc2 (2015-05-24:18:28:01)<br />
 path = tests/unittests/tests-ipv6_addr/tests-ipv6_addr.c<br />
-project = zramaro_RIOT<br />
+project = <a href="https://github.com/zramaro/RIOT">github.com/zramaro/RIOT</a><br />
 <br />
 commit = a33bd9369e7b9ea1a77163b07dabc4390529477a<br />
-head_commit = fd58232d41e1e3ab13ade5feb2ab802af3ba0852 <br />
+head_commit = fd58232d41e1e3ab13ade5feb2ab802af3ba0852 (2017-04-21:22:05:00)<br />
 path = tests/unittests/tests-ipv6_addr/tests-ipv6_addr.c<br />
-project = laparmakerli_riot-upstream<br />
+project = <a href="https://github.com/laparmakerli/riot-upstream">github.com/laparmakerli/riot-upstream</a><br />
 <br />
 commit = c2d20218bb1876c8c7e181a5bb6452ffd100fa55<br />
-head_commit = fd58232d41e1e3ab13ade5feb2ab802af3ba0852 <br />
+head_commit = fd58232d41e1e3ab13ade5feb2ab802af3ba0852 (2017-04-21:22:05:00)<br />
 path = tests/unittests/tests-ipv6_addr/tests-ipv6_addr.c<br />
-project = laparmakerli_riot-upstream<br />
+project = <a href="https://github.com/laparmakerli/riot-upstream">github.com/laparmakerli/riot-upstream</a><br />
 <br />
 <h1>blob = 03eb6efc80fd97d5d9a1aed2d6124dec4252e991</h1>
 commit = 99f1df9059f11013cc6a3a98eb2acdb0848acd57<br />
-head_commit = 6c82d80d45c5873f0086a06d1d792448e33f13f5 <br />
+head_commit = 6c82d80d45c5873f0086a06d1d792448e33f13f5 (2015-07-31:10:29:17)<br />
 path = tests/unittests/tests-ipv6_addr/tests-ipv6_addr.c<br />
-project = AnonMall_RIOT<br />
+project = <a href="https://github.com/AnonMall/RIOT">github.com/AnonMall/RIOT</a><br />
 <br />
 commit = b1f02aef324d85409a652abd59b81e12548b52ab<br />
-head_commit = 366e4a104ba42c6c8cd349842322b8986d8a7955 <br />
+head_commit = 366e4a104ba42c6c8cd349842322b8986d8a7955 (2015-04-28:06:04:24)<br />
 path = tests/unittests/tests-ipv6_addr/tests-ipv6_addr.c<br />
-project = internet-of-plants_RIOT<br />
-project = watr-li_RIOT<br />
-project = x3ro_RIOT<br />
+project = <a href="https://github.com/internet-of-plants/RIOT">github.com/internet-of-plants/RIOT</a><br />
+project = <a href="https://github.com/watr-li/RIOT">github.com/watr-li/RIOT</a><br />
+project = <a href="https://github.com/x3ro/RIOT">github.com/x3ro/RIOT</a><br />
 <br />
 commit = fa278ba085d42ec1bb5d49610874b86d04cadd3a<br />
-head_commit = fd58232d41e1e3ab13ade5feb2ab802af3ba0852 <br />
+head_commit = fd58232d41e1e3ab13ade5feb2ab802af3ba0852 (2017-04-21:22:05:00)<br />
 path = tests/unittests/tests-ipv6_addr/tests-ipv6_addr.c<br />
-project = laparmakerli_riot-upstream<br />
+project = <a href="https://github.com/laparmakerli/riot-upstream">github.com/laparmakerli/riot-upstream</a><br />
 <br />
 commit = ffc2b6f6f532309370f565f0aa36fc2ec448f22d<br />
-head_commit = fd58232d41e1e3ab13ade5feb2ab802af3ba0852 <br />
+head_commit = fd58232d41e1e3ab13ade5feb2ab802af3ba0852 (2017-04-21:22:05:00)<br />
 path = tests/unittests/tests-ipv6_addr/tests-ipv6_addr.c<br />
-project = laparmakerli_riot-upstream<br />
+project = <a href="https://github.com/laparmakerli/riot-upstream">github.com/laparmakerli/riot-upstream</a><br />
 <br />
 <h1>blob = 3901e1530821f19841c624cc68081aaadfa874df</h1>
 commit = 225659a70c817614c14a90478a51ba024d45baa3<br />
-head_commit = fd58232d41e1e3ab13ade5feb2ab802af3ba0852 <br />
+head_commit = fd58232d41e1e3ab13ade5feb2ab802af3ba0852 (2017-04-21:22:05:00)<br />
 path = tests/unittests/tests-ipv6_addr/tests-ipv6_addr.c<br />
-project = laparmakerli_riot-upstream<br />
+project = <a href="https://github.com/laparmakerli/riot-upstream">github.com/laparmakerli/riot-upstream</a><br />
 <br />
 commit = 774651ffefc19daf3e84d9e07c57a1a1eadaf1cf<br />
-head_commit = fd58232d41e1e3ab13ade5feb2ab802af3ba0852 <br />
+head_commit = fd58232d41e1e3ab13ade5feb2ab802af3ba0852 (2017-04-21:22:05:00)<br />
 path = tests/unittests/tests-ipv6_addr/tests-ipv6_addr.c<br />
-project = laparmakerli_riot-upstream<br />
+project = <a href="https://github.com/laparmakerli/riot-upstream">github.com/laparmakerli/riot-upstream</a><br />
 <br />
 commit = e71bf226eb1ff50cd0ab9b2f3aa457352ff2b999<br />
-head_commit = 5e46c43591a32a73b6eff9d0dfa0c24a779c18d5 <br />
+head_commit = 5e46c43591a32a73b6eff9d0dfa0c24a779c18d5 (2015-08-19:07:20:14)<br />
 path = tests/unittests/tests-ipv6_addr/tests-ipv6_addr.c<br />
-project = OlegHahm_RIOT<br />
-project = tanupoo_RIOT<br />
+project = <a href="https://github.com/OlegHahm/RIOT">github.com/OlegHahm/RIOT</a><br />
+project = <a href="https://github.com/tanupoo/RIOT">github.com/tanupoo/RIOT</a><br />
 <br />
 <h1>blob = 6e104bbd80b0ea6a8dc283f7cc4a85f391e0962d</h1>
 commit = 3ecfc543718336cd456e5dbea347eca252ce6c42<br />
-head_commit = fd58232d41e1e3ab13ade5feb2ab802af3ba0852 <br />
+head_commit = fd58232d41e1e3ab13ade5feb2ab802af3ba0852 (2017-04-21:22:05:00)<br />
 path = tests/unittests/tests-ipv6_addr/tests-ipv6_addr.c<br />
-project = laparmakerli_riot-upstream<br />
+project = <a href="https://github.com/laparmakerli/riot-upstream">github.com/laparmakerli/riot-upstream</a><br />
 <br />
 commit = cecaf8bc8ec49a84ccf7992a85098865701d9a98<br />
-head_commit = 5e46c43591a32a73b6eff9d0dfa0c24a779c18d5 <br />
+head_commit = 5e46c43591a32a73b6eff9d0dfa0c24a779c18d5 (2015-08-19:07:20:14)<br />
 path = tests/unittests/tests-ipv6_addr/tests-ipv6_addr.c<br />
-project = OlegHahm_RIOT<br />
-project = tanupoo_RIOT<br />
+project = <a href="https://github.com/OlegHahm/RIOT">github.com/OlegHahm/RIOT</a><br />
+project = <a href="https://github.com/tanupoo/RIOT">github.com/tanupoo/RIOT</a><br />
 <br />
 commit = f9617ea117030bf98e8ead7a121e5bf3a7947639<br />
-head_commit = fd58232d41e1e3ab13ade5feb2ab802af3ba0852 <br />
+head_commit = fd58232d41e1e3ab13ade5feb2ab802af3ba0852 (2017-04-21:22:05:00)<br />
 path = tests/unittests/tests-ipv6_addr/tests-ipv6_addr.c<br />
-project = laparmakerli_riot-upstream<br />
+project = <a href="https://github.com/laparmakerli/riot-upstream">github.com/laparmakerli/riot-upstream</a><br />
 <br />
 <h1>blob = e7b86f4336c6093538d2c7861c10709a832bcadb</h1>
 commit = 72f5428c64441a900eb0858a86a70b49f25e7b32<br />
-head_commit = fd58232d41e1e3ab13ade5feb2ab802af3ba0852 <br />
+head_commit = fd58232d41e1e3ab13ade5feb2ab802af3ba0852 (2017-04-21:22:05:00)<br />
 path = tests/unittests/tests-ipv6_addr/tests-ipv6_addr.c<br />
-project = laparmakerli_riot-upstream<br />
+project = <a href="https://github.com/laparmakerli/riot-upstream">github.com/laparmakerli/riot-upstream</a><br />
 <br />
 commit = 802040e4e6f85fb891418cdbd2332ed2f1f88807<br />
-head_commit = fd58232d41e1e3ab13ade5feb2ab802af3ba0852 <br />
+head_commit = fd58232d41e1e3ab13ade5feb2ab802af3ba0852 (2017-04-21:22:05:00)<br />
 path = tests/unittests/tests-ipv6_addr/tests-ipv6_addr.c<br />
-project = laparmakerli_riot-upstream<br />
+project = <a href="https://github.com/laparmakerli/riot-upstream">github.com/laparmakerli/riot-upstream</a><br />
 <br />
 commit = b60ad24b4a592967442a4b007a187281077177e0<br />
-head_commit = 40f028175fc0d963b7bb2a2a3a2a5dbaefd136fa <br />
+head_commit = 40f028175fc0d963b7bb2a2a3a2a5dbaefd136fa (2015-06-18:11:58:11)<br />
 path = tests/unittests/tests-ipv6_addr/tests-ipv6_addr.c<br />
-project = herrfz_RIOT-old<br />
+project = <a href="https://github.com/herrfz/RIOT-old">github.com/herrfz/RIOT-old</a><br />
 <br />
